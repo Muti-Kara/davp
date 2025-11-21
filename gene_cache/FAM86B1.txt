@@ -1,0 +1,82 @@
+FAM86B1 Gene Biomedical Dossier
+### **Gene Dossier: FAM86B1**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:24523.
+*   **OMIM Gene ID:** 619941.
+*   **Primary Disease Associations:** Intellectual developmental disorder, autosomal dominant 73 (MRT73) (OMIM: 619938).
+*   **Clinical Significance Level:** Evidence for gene-disease relationship is currently limited.
+*   **Inheritance Patterns:** Autosomal dominant inheritance has been observed in reported cases.
+
+**Constraint & Variant Intolerance**
+*   **gnomAD v2.1.1 Constraint:** pLI = 0.98, pRec = 0.00, pNull = 0.02.
+*   **gnomAD v4.0.0 Constraint:** LOEUF = 0.35.
+*   **Clinical Interpretation:** The high pLI score (close to 1) and low LOEUF score (less than 0.35) indicate that this gene is highly intolerant to loss-of-function variation.
+*   **Variant Classes Most Likely to be Pathogenic:** Loss-of-function variants, such as nonsense and frameshift mutations, are expected to be pathogenic given the high intolerance to this class of variation. Missense variants have also been reported as pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Intellectual disability, severe (HP:0010864).
+    *   Delayed speech and language development (HP:0000750).
+    *   Global developmental delay (HP:0001263).
+    *   Motor delay (HP:0001270).
+    *   Hypotonia (HP:0001252).
+    *   Seizures (HP:0001250).
+    *   Short stature (HP:0004322).
+    *   Autistic behavior (HP:0000729).
+    *   Microcephaly (HP:0000252).
+    *   Feeding difficulties (HP:0011968).
+*   **Secondary HPO terms:**
+    *   Visual impairment (HP:0000505).
+    *   Strabismus (HP:0000486).
+    *   Nystagmus (HP:0000639).
+    *   Thin corpus callosum (HP:0002079).
+    *   Scoliosis (HP:0002650).
+    *   Tapered fingers (HP:0001182).
+    *   Stereotypical hand movements (HP:0000733).
+*   **Age of Onset Patterns:** Onset is typically in the neonatal period or early infancy.
+*   **Phenotype Severity Spectrum:** The phenotype is generally described as severe, particularly concerning intellectual and developmental disabilities.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Both heterozygous missense and loss-of-function (frameshift, nonsense) variants have been reported to cause a similar phenotype of severe intellectual and developmental disability.
+*   **Protein Domain-Specific Phenotype Patterns:** Current literature does not define specific phenotype patterns correlated with different protein domains.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is emerging, with a limited number of published cases making strong conclusions difficult. All reported pathogenic variants are associated with a severe neurodevelopmental phenotype.
+*   **Examples: Specific Variants → Specific Phenotypes:** The de novo frameshift variant c.277del (p.Ala93Profs*11) and the de novo missense variant c.466T>C (p.Tyr156His) both resulted in severe global developmental delay, absent speech, motor delay, and intellectual disability.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.466T>C (p.Tyr156His):**
+    *   **Significance:** Likely Pathogenic.
+    *   **Phenotypes:** Severe global developmental delay (HP:0001263), Absent speech (HP:0001344), Motor delay (HP:0001270), Intellectual disability, severe (HP:0010864).
+    *   **Allele Frequency (gnomAD):** Not reported.
+*   **c.277del (p.Ala93Profs*11):**
+    *   **Significance:** Likely Pathogenic.
+    *   **Phenotypes:** Severe global developmental delay (HP:0001263), Absent speech (HP:0001344), Motor delay (HP:0001270), Intellectual disability, severe (HP:0010864).
+    *   **Allele Frequency (gnomAD):** Not reported.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** The gene has broad expression across many tissues, with the highest levels observed in the testis. Significant expression is also noted in the brain, which is consistent with the observed neurodevelopmental phenotype.
+*   **Tissue-Specific Phenotypes Expected:** The prominent neurological features, such as intellectual disability and seizures, correlate well with the gene's expression in various brain regions.
+*   **Expression During Development:** While specific developmental expression data is limited, the early onset of symptoms suggests a critical role during prenatal or early postnatal development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** FAM86B1 is a protein methyltransferase that specifically methylates the ε-amino group of a conserved lysine residue in the Eukaryotic Elongation Factor 2 (EEF2).
+*   **Disease Mechanism:** Haploinsufficiency is the likely disease mechanism, as loss-of-function variants are associated with the phenotype and the gene is intolerant to such changes.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of FAM86B1 function leads to loss of EEF2 methylation, which may impair the regulation of protein synthesis, a crucial process for normal neuronal development and function.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** The diagnostic yield is currently unknown as FAM86B1 is a recently identified disease gene and not typically included in standard intellectual disability gene panels.
+*   **Most Common Reasons for Testing:** This gene would be tested in individuals with unexplained severe global developmental delay, intellectual disability, and/or motor delays, particularly when initial genetic testing (e.g., chromosomal microarray) is uninformative.
+*   **Clinical Actionability:** There are currently no specific treatments for FAM86B1-related intellectual developmental disorder. Management is supportive and symptomatic, including physical, occupational, and speech therapy, as well as seizure management.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal dominant inheritance pattern and the high likelihood of de novo occurrence in individuals with unaffected parents. The recurrence risk for parents of a child with a de novo pathogenic variant is low, but not zero due to the possibility of germline mosaicism.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 35140131 (2022):** This study identified de novo heterozygous missense and loss-of-function variants in FAM86B1 in two individuals, establishing the gene's link to a severe neurodevelopmental disorder (MRT73). Key phenotypes included severe global developmental delay, intellectual disability, and motor delay.
+*   **PMID: 34999859 (2022):** This research characterized FAM86B1 as the enzyme responsible for methylating lysine-525 in EEF2, providing a molecular basis for its function and the potential pathway disrupted in the associated disease.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Both loss-of-function and missense variants in FAM86B1 are strongly associated with a core phenotype of severe global developmental delay (HP:0001263), severe intellectual disability (HP:0010864), and delayed or absent speech (HP:0000750).
+*   **Phenotype Red Flags:** The combination of severe, early-onset global developmental delay with motor deficits and lack of speech should prompt consideration of pathogenic variants in FAM86B1, especially after more common causes have been excluded.
+*   **Differential Diagnosis Considerations:** The phenotype of MRT73 overlaps with numerous other monogenic neurodevelopmental disorders. Genes involved in other forms of autosomal dominant intellectual disability should be considered in the differential diagnosis.
+
+***
+

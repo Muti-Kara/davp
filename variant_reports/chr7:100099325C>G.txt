@@ -1,0 +1,107 @@
+=== chr7:100099325C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs200119844
+• Chromosome: 7
+• Position: 100099325
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: MCM7
+• Databases: rs200119844
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 5.469999999999999e-06
+• gnomADg Allele Frequency: 1.974e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16160384) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16302866) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16303070) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16303101) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16303098) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16303115) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16303107) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Transcript (ID: 16303110) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 88388758) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 84904173) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 84746383) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 77759786) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 65848544) -> Associated GWAS: GWAS_EFO_0004703
+Entity: Histone Modification Site (ID: 62140665) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 58535571) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 53844646) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 49570797) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 50786355) -> Associated GWAS: GWAS_EFO_0004713
+Entity: Histone Modification Site (ID: 51659955) -> Associated GWAS: GWAS_EFO_0004713
+Entity: ChromHMM State (ID: 21506544) -> Associated GWAS: GWAS_EFO_0004713
+Entity: ChromHMM State (ID: 22133727) -> Associated GWAS: GWAS_EFO_0004713
+Entity: chr_chain (ID: 334141) -> Associated GWAS: GWAS_EFO_0004713
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 12406
+• Pathogenic/Likely Pathogenic: 1079
+• Benign/Likely Benign: 2159
+• Uncertain Significance: 9168
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Hereditary spastic paraplegia 50 (n=721)
+• Inborn genetic diseases (n=367)
+• Meier-Gorlin syndrome (n=221)
+• MCM7-related disorder (n=161)
+• Hereditary spastic paraplegia 50|Inborn genetic diseases (n=159)
+• 9 conditions (n=135)
+• Spastic paraplegia (n=78)
+• Autism spectrum disorder (n=71)
+• Meier-Gorlin syndrome|9 conditions (n=67)
+• Hereditary spastic paraplegia 50|not provided (n=55)
+• Hereditary spastic paraplegia (n=51)
+• Intellectual disability|Hereditary spastic paraplegia 50|not provided (n=29)
+• Hereditary spastic paraplegia 50|Intellectual disability|not provided (n=29)
+• Abnormality of the nervous system (n=29)
+• AP4M1-related disorder (n=29)
+• not specified|Hereditary spastic paraplegia 50 (n=27)
+• Hereditary spastic paraplegia 50|not provided|not specified (n=26)
+• not provided|Spastic paraplegia|Hereditary spastic paraplegia 50 (n=25)
+• not provided|Hereditary spastic paraplegia 50|AP4M1-related disorder (n=25)
+• not provided|Spastic paraplegia (n=23)
+• not specified|Hereditary spastic paraplegia 50|not provided|AP4M1-related disorder (n=23)
+• not provided|not specified (n=21)
+• Prostate cancer (n=8)
+• Hereditary spastic paraplegia 50|not provided|Hereditary spastic paraplegia|Inborn genetic diseases (n=2)
+• not provided|Hereditary spastic paraplegia 50 (n=1)
+• Hereditary spastic paraplegia 50|Inborn genetic diseases|not provided (n=1)
+
+

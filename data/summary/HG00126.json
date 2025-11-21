@@ -1,0 +1,10 @@
+{
+    "sample": "HG00126",
+    "status": "PASSED",
+    "answer_gene": "CAPN3",
+    "answer_variant": "chr15:42360096C>A",
+    "gene_rank_after_prelimin8": 2,
+    "variant_rank_after_tournament": 1,
+    "variant_rank_after_elimin8": 1,
+    "variant_rank_after_round_robin": 1
+}

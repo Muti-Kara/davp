@@ -1,0 +1,54 @@
+RASA4 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 23181
+- **OMIM Gene ID**: 607943
+- **Primary Disease Associations**: Currently, no definitive disease associations are listed in OMIM for *RASA4*. However, research has identified hypermethylation of *RASA4* in juvenile myelomonocytic leukemia (JMML), correlating with a poorer prognosis.
+- **Clinical Significance Level**: The clinical significance of *RASA4* variants is still being established; there is currently no consensus on a definitive disease association.
+- **Inheritance Patterns**: Given the lack of a defined Mendelian disease, inheritance patterns are not yet established.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 constraint metrics for *RASA4* (transcript ENST00000262940.9) are:
+    - **pLI**: 0.00, indicating it is not extremely intolerant to protein-truncating variants.
+    - **LOEUF**: 1.13, which does not suggest strong constraint against loss-of-function variants.
+    - **pRec**: 0.69
+    - **pNull**: 0.31
+- **Clinical Interpretation of Constraint Scores**: The low pLI and high LOEUF scores suggest that loss-of-function variants in *RASA4* are generally tolerated in the general population and the gene is not under strong purifying selection.
+- **Variant Classes Most Likely to be Pathogenic**: While no definitive pathogenic variants are established for a Mendelian disease, hypermethylation (an epigenetic modification) has been associated with a more aggressive phenotype in JMML.
+
+### **Phenotype Spectrum & HPO Terms**
+Due to the absence of a defined *RASA4*-related disorder, a comprehensive phenotype spectrum with HPO terms is not available. However, based on its function and associations, potential phenotypes could relate to abnormal signal transduction and cell growth.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Typical Phenotypes**: Specific genotype-phenotype correlations for *RASA4* variants are not yet established in the context of a Mendelian disorder.
+- **Protein Domain-Specific Phenotype Patterns**: The *RASA4* protein contains C2 and PH domains. Variants affecting the C2 domains, which are crucial for plasma membrane association in response to calcium, could potentially disrupt its function in downregulating the Ras-MAPK pathway.
+- **Genotype-Phenotype Correlation Strength**: Currently, there is no established strong genotype-phenotype correlation for *RASA4*.
+
+### **Clinical Variants & Phenotype Associations**
+- No well-characterized pathogenic variants for a Mendelian disease are listed in ClinVar for *RASA4*. There are numerous variants of uncertain significance and a few benign/likely benign variants reported.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM)**: *RASA4* shows notable expression in skeletal muscle. It is also expressed in various other tissues, including nerve, adipose tissue, and uterus.
+- **Tissue-Specific Phenotypes Expected**: Based on its expression profile, variants in *RASA4* could potentially lead to phenotypes affecting muscle function or other tissues with high expression, although this is speculative.
+- **Expression During Development and Age-Related Phenotypes**: Hypermethylation of a *RASA4* isoform promoter has been linked to older age at diagnosis and poor prognosis in juvenile myelomonocytic leukemia.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: *RASA4* encodes a calcium-dependent Ras GTPase-activating protein (GAP) that negatively regulates the Ras-MAPK signaling pathway.
+- **Disease Mechanism**: The primary disease-associated mechanism identified so far is epigenetic. Hypermethylation of the *RASA4* promoter leads to its silencing, which is associated with a more aggressive disease course in JMML. In cervical cancer, reduced *RASA4* expression is linked to increased cell proliferation.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: Disruption of *RASA4* function leads to dysregulation of the Ras-MAPK pathway, which is a critical pathway for cell proliferation, differentiation, and survival. This dysregulation can contribute to cancer progression.
+- **Protein-Protein Interactions Relevant to Phenotype**: *RASA4* interacts with Ras proteins, converting them from their active GTP-bound state to the inactive GDP-bound state.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: Testing for *RASA4* variants is not standard practice for any specific Mendelian disorder at this time.
+- **Most Common Reasons for Testing This Gene**: The primary context for clinical investigation of *RASA4* is currently in cancer research, specifically looking at methylation status in JMML as a prognostic marker.
+- **Clinical Actionability and Management Implications**: Identifying *RASA4* hypermethylation in JMML may indicate a poorer prognosis and a higher risk of relapse after transplantation, potentially influencing treatment decisions.
+- **Genetic Counseling Considerations**: Genetic counseling for *RASA4* is not well-defined due to the lack of a clear associated Mendelian disease.
+
+### **Key Clinical Literature & Studies**
+- **Poetsch, A. R., et al. (2014). Epigenetics, 9(9), 1252-1260.** This study identified that hypermethylation of *RASA4* isoform 2 is a recurrent event in JMML and correlates with poor prognostic factors.
+- **Chen, J., et al. (2021). Bioengineered, 12(2), 10174-10186.** This research demonstrated that *RASA4* can inhibit the proliferation of cervical cancer cells by suppressing the HIFα signaling pathway.
+
+### **HPO-Variant Matching Summary**
+- **High-Confidence HPO-Variant Associations**: There are currently no high-confidence HPO-variant associations for *RASA4*.
+- **Phenotype Red Flags**: Given the link to JMML, hematological abnormalities in a pediatric patient might be a consideration, although this is related to methylation rather than a germline variant.
+- **Differential Diagnosis Considerations**: Due to its role in the Ras-MAPK pathway, other RASopathies should be considered in the differential diagnosis if a patient presents with features overlapping with those syndromes, although *RASA4* is not currently classified as a RASopathy gene. An important paralog to consider is *RASA4B*.
+

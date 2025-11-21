@@ -1,0 +1,104 @@
+=== chr19:42295142A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1568531417
+• Chromosome: 19
+• Position: 42295142
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: PAFAH1B3, CIC
+• Databases: rs1568531417
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.006686999999999999
+• gnomADg Allele Frequency: 7.426000000000001e-05
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0010092: bitter alcoholic beverage consumption measurement - Quantification of some bitter alcoholic beverage consumption or bitter alcoholic beverage consumption-related behaviour, usually self-reported via a questionnaire.
+GWAS_EFO_0007825: balding measurement - quantification of the amount of balding in an individual
+GWAS_EFO_0007789: BMI-adjusted waist circumference - waist circumference measurement that has been adjusted by subjects’ body mass index
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16182553) -> Associated GWAS: GWAS_EFO_0010092, GWAS_EFO_0007825, GWAS_EFO_0007789
+Entity: Transcript (ID: 16394157) -> Associated GWAS: GWAS_EFO_0010092, GWAS_EFO_0007825, GWAS_EFO_0007789
+Entity: Transcript (ID: 16394156) -> Associated GWAS: GWAS_EFO_0010092, GWAS_EFO_0007825, GWAS_EFO_0007789
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 9069
+• Pathogenic/Likely Pathogenic: 844
+• Benign/Likely Benign: 2994
+• Uncertain Significance: 4967
+• Other Classifications: 264
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=1365)
+• Intellectual disability, autosomal dominant 45 (n=940)
+• CIC-related disorder (n=347)
+• Intellectual disability, autosomal dominant 45|Inborn genetic diseases (n=168)
+• Intellectual disability, autosomal dominant 45|not provided (n=116)
+• not provided|Inborn genetic diseases (n=114)
+• not specified|Inborn genetic diseases (n=66)
+• not specified|Intellectual disability, autosomal dominant 45|not provided (n=47)
+• NK-cell enteropathy|Intellectual disability, autosomal dominant 45|not specified (n=46)
+• See cases (n=40)
+• Intellectual disability, autosomal dominant 45|not provided|Inborn genetic diseases (n=38)
+• Neoplasm (n=28)
+• Inborn genetic diseases|not provided (n=25)
+• Autism spectrum disorder (n=14)
+• Inborn genetic diseases|Intellectual disability, autosomal dominant 45 (n=14)
+• not provided|Intellectual disability, autosomal dominant 45 (n=14)
+• not specified|not provided|CIC-related disorder (n=14)
+• not specified|not provided|Inborn genetic diseases (n=14)
+• Dias-Logan syndrome (n=14)
+• Neurodevelopmental disorder (n=13)
+• not specified|Intellectual disability, autosomal dominant 45 (n=13)
+• Intellectual disability, autosomal dominant 45|Intellectual disability, autosomal dominant 1 (n=13)
+• Intellectual disability, autosomal dominant 45|Marfanoid habitus and intellectual disability (n=12)
+• not specified|not provided|Inborn genetic diseases|CIC-related disorder (n=10)
+• CIC-related neurodevelopmental disorders (n=10)
+• Intellectual disability, autosomal dominant 45|CIC-related disorder (n=9)
+• Familial thoracic aortic aneurysm and aortic dissection (n=9)
+• Neurodevelopmental delay (n=8)
+• Neoplasm|not provided (n=8)
+• Intellectual disability, autosomal dominant 45|Anaplastic oligodendroglioma|Neoplasm (n=8)
+• not provided|CIC-related neurodevelopmental disorders|Intellectual disability, autosomal dominant 45 (n=8)
+• CIC-related disorder|Inborn genetic diseases|not provided (n=7)
+• Oligodendroglioma (n=7)
+• Autosomal dominant non-syndromic intellectual disability (n=7)
+• CIC-related disorder|not provided (n=6)
+• Intellectual disability, autosomal dominant 1 (n=6)
+• not specified|not provided (n=3)
+• not provided|See cases|Intellectual disability, autosomal dominant 45|CIC-related disorder (n=3)
+• not provided|Intellectual disability, autosomal dominant 45|not specified (n=3)
+• not provided|not specified (n=3)
+• CIC-related disorder|not specified (n=3)
+
+

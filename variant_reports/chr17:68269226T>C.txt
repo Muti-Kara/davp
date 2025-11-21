@@ -1,0 +1,91 @@
+=== chr17:68269226T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs9901177
+• Chromosome: 17
+• Position: 68269226
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 0/1
+• Quality Score: 371.64001465
+• Gene Names: SLC16A6
+• Databases: rs9901177, COSV59176187
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.2235
+• gnomADg Allele Frequency: 0.2609
+• 1KG Frequency: 0.30210000000000004
+
+SEQUENCING DATA:
+================
+• Depth (DP): 34
+• Allelic Depth (AD): [20, 14]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009282: sodium measurement - A quantitative measurement of the amount of sodium present in a sample.
+GWAS_EFO_0009284: chloride measurement - A quantitative measurement of the amount of chloride present in a sample.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0007037: cytomegalovirus seropositivity - cytomegalovirus seropositivity is the result of a measurement of circulating cytomegalovirus specific antibodies 
+GWAS_EFO_0004318: smoking behavior - Inhaling and exhaling the smoke of tobacco or something similar to tobacco.
+GWAS_EFO_0007015: 3-hydroxy-1-methylpropylmercapturic acid measurement - quantification in a urine sample of 3-hydroxy-1-methylpropylmercapturic acid, one of the main metabolites of crotonaldehyde, an important constituent of cigarette smoke with well documented toxic effects
+GWAS_Orphanet_93957: Limb dystonia - Focal limb dystonia is a form of focal dystonia (see this term), characterized by dystonic spasms of arm or leg muscles accompanied by repetitive, twisting movements or abnormal positions or postures. Limb dystonia may also be segmental, that is affecting group of muscles of an arm as well as the neck, and is also present in those with hemidystonia or generalized dystonia.
+GWAS_EFO_0004533: alkaline phosphatase measurement - Alkaline phosphatase measurement is a quantification of alkaline phosphatase in blood. AP is a marker for bone and liver disease.
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0004611: low density lipoprotein cholesterol measurement - The measurement of LDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0006933: pallidum volume - quantification of the volume of the pallidum or globus pallidus, a sub-cortical structure of the brain that is part of the telencephalon
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16184950) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284, GWAS_EFO_0004339, GWAS_EFO_0000289, GWAS_EFO_0007037, GWAS_EFO_0004318, GWAS_EFO_0007015, GWAS_Orphanet_93957, GWAS_EFO_0004533, GWAS_EFO_0005192, GWAS_EFO_0004611, GWAS_EFO_0006933
+Entity: Gene (ID: 16171646) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284, GWAS_EFO_0004339
+Entity: Transcript (ID: 16407859) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+Entity: Transcript (ID: 16407855) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284, GWAS_EFO_0004339, GWAS_EFO_0000289, GWAS_EFO_0007037, GWAS_EFO_0004318, GWAS_EFO_0007015, GWAS_Orphanet_93957, GWAS_EFO_0004533, GWAS_EFO_0005192, GWAS_EFO_0004611, GWAS_EFO_0006933
+Entity: Transcript (ID: 16344368) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+Entity: Transcript (ID: 16344359) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284, GWAS_EFO_0004339
+Entity: Transcript (ID: 16344360) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284, GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 22955799) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284, GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 22392767) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+Entity: ChromHMM State (ID: 21760095) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+Entity: ChromHMM State (ID: 21145763) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+Entity: ChromHMM State (ID: 20540673) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+Entity: ChromHMM State (ID: 19417618) -> Associated GWAS: GWAS_EFO_0009282, GWAS_EFO_0009284
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1680
+• Pathogenic/Likely Pathogenic: 94
+• Benign/Likely Benign: 509
+• Uncertain Significance: 1077
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|not specified (n=64)
+• Usher syndrome, type 4 (n=18)
+• Usher syndrome, type 4|not provided (n=6)
+• not provided|Usher syndrome, type 4 (n=4)
+• not provided|ARSG-related disorder (n=4)
+• Retinal dystrophy (n=4)
+• Usher syndrome, type 4|Usher syndrome (n=2)
+• not provided|ARSG-related disorder|not specified (n=2)
+• See cases (n=2)
+
+

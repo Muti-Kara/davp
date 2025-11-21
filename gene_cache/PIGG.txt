@@ -1,0 +1,111 @@
+PIGG Gene Biomedical Dossier
+### **PIGG Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 25985.
+*   **OMIM Gene ID:** 616918.
+*   **Primary Disease Associations:** PIGG-related disorder, also known as Intellectual disability, autosomal recessive 53 (MRT53), is a type of congenital disorder of glycosylation (PIGG-CDG) and is classified as an inherited GPI deficiency (IGD). It is also referred to as Early-onset epilepsy-intellectual disability-brain anomalies syndrome.
+*   **Clinical Significance Level:** The association between PIGG and autosomal recessive intellectual disability is considered "Definitive" by Ambry Genetics and "Strong" by Labcorp Genetics.
+*   **Inheritance Patterns Observed in Patients:** The inheritance pattern is autosomal recessive. Parents with heterozygous variants are typically asymptomatic carriers.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1 data, PIGG has a pLI (probability of being loss-of-function intolerant) of 1.00, a pRec (probability of being recessive) of 0, and a pNull (probability of being tolerant to LoF) of 0. The LOEUF (loss-of-function observed/expected upper-bound fraction) score is a newer metric, and a low value indicates intolerance; for PIGG, a specific LOEUF score from the most recent gnomAD version should be consulted for interpretation, with a threshold of < 0.6 in gnomAD v4.0 suggesting intolerance.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI score (≥0.9) indicates that PIGG is extremely intolerant to loss-of-function (LoF) variants and is likely associated with a dominant disorder or haploinsufficiency. However, the disease is inherited in an autosomal recessive manner. This suggests strong selective pressure against heterozygous LoF variants, even though they do not cause the full syndromic phenotype.
+*   **Variant Classes Most Likely to Be Pathogenic:** Loss-of-function variants, including nonsense, frameshift, and splice-site mutations, are known to be pathogenic. Missense variants have also been identified as pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0001249 - Intellectual disability.
+    *   HP:0001250 - Seizures.
+    *   HP:0001319 - Neonatal hypotonia.
+    *   HP:0001263 - Global developmental delay.
+    *   HP:0001270 - Motor delay.
+    *   HP:0002011 - Feeding difficulties.
+    *   HP:0002376 - Developmental regression.
+    *   HP:0001508 - Failure to thrive.
+    *   HP:0000252 - Microcephaly.
+    *   HP:0001344 - Absent speech.
+    *   HP:0001347 - Hyporeflexia.
+    *   HP:0001268 - Cerebellar atrophy.
+    *   HP:0000729 - Autistic behavior.
+    *   HP:0000486 - Strabismus.
+    *   HP:0000545 - Myopia.
+*   **Secondary HPO terms:**
+    *   HP:0001634 - Atrial septal defect.
+    *   HP:0004322 - Short stature.
+    *   HP:0000407 - Sensorineural hearing impairment.
+    *   HP:0001288 - Gait instability.
+    *   HP:0002123 - Spasticity.
+    *   HP:0003453 - Mitochondrial dysfunction.
+    *   HP:0000218 - High palate.
+    *   HP:0000347 - Micrognathia.
+    *   HP:0100543 - Bitemporal narrowing.
+*   **Age of Onset Patterns:** Symptoms typically begin in infancy or are early-onset.
+*   **Phenotype Severity Spectrum:** The severity varies. Individuals with null or severely decreased PIGG activity present with severe phenotypes including intellectual disability, hypotonia, seizures, and cerebellar atrophy. Those with mildly decreased activity may present with a less severe phenotype, such as autism spectrum disorder.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Biallelic null variants (e.g., frameshift, nonsense, splice-site) or those causing severely decreased enzyme activity are associated with a classic, severe phenotype of intellectual disability, developmental delay, hypotonia, seizures, and cerebellar atrophy. Variants leading to mildly decreased PIGG activity are correlated with autism spectrum disorder.
+*   **Protein Domain-Specific Phenotype Patterns:** Specific correlations to protein domains are not yet well-established in the literature.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the residual function of PIGG variants and clinical severity is considered strong. Null or severely hypomorphic variants consistently lead to severe neurological phenotypes.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   Homozygous c.928C>T (p.Gln310*) and c.2261+1G>C variants are associated with severe intellectual disability, hypotonia, and early-onset seizures.
+    *   Compound heterozygous c.2005C>T (p.Arg669Cys) and a large deletion are also linked to the severe phenotype.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.2624_2625del (p.Leu875Ter):**
+    *   **rsID:** rs771819481
+    *   **HGVS:** NM_017733.4:c.2624_2625del
+    *   **ClinVar Significance:** Pathogenic/Likely Pathogenic.
+    *   **Reported Phenotypes:** Intellectual disability, seizures, hypotonia.
+    *   **Allele Frequency (gnomAD):** 0.009% (Exomes).
+*   **c.928C>T (p.Gln310*):**
+    *   **HGVS:** NM_017733.4:c.928C>T
+    *   **ClinVar Significance:** Pathogenic.
+    *   **Reported Phenotypes:** Intellectual disability, hypotonia, early-onset seizures.
+    *   **Allele Frequency (gnomAD):** Not reported in gnomAD.
+*   **c.2261+1G>C:**
+    *   **HGVS:** NM_017733.4:c.2261+1G>C
+    *   **ClinVar Significance:** Pathogenic.
+    *   **Reported Phenotypes:** Intellectual disability, hypotonia, early-onset seizures.
+    *   **Allele Frequency (gnomAD):** Not reported in gnomAD.
+*   **c.2005C>T (p.Arg669Cys):**
+    *   **HGVS:** NM_017733.4:c.2005C>T
+    *   **ClinVar Significance:** Pathogenic.
+    *   **Reported Phenotypes:** Intellectual disability, hypotonia, early-onset seizures.
+    *   **Allele Frequency (gnomAD):** Not reported in gnomAD.
+*   **c.2600_2601delTA (p.Leu867*):**
+    *   **rsID:** Not available
+    *   **HGVS:** NM_017733.3:c.2600_2601delTA
+    *   **ClinVar Significance:** Pathogenic.
+    *   **Reported Phenotypes:** Autosomal recessive syndromic intellectual disability, Emm-Null Phenotype.
+    *   **Allele Frequency (gnomAD):** Not available for this specific representation.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The GTEx portal shows broad expression across many tissues. Specific high-expressing tissues should be reviewed directly from the GTEx portal for the most current data. The brain is a clinically relevant site of expression, aligning with the neurological phenotypes observed.
+*   **Tissue-Specific Phenotypes Expected:** Given the critical role of GPI-anchored proteins in neurogenesis, the prominent phenotypes are neurological. Expression analysis across various tissues can provide insights into the multisystemic nature of the disorder.
+*   **Expression During Development and Age-Related Phenotypes:** GPI-anchored proteins are crucial for development, particularly neurogenesis, which explains the early onset of symptoms.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PIGG encodes an ethanolamine phosphate transferase that adds an ethanolamine phosphate group to the second mannose of the glycosylphosphatidylinositol (GPI) anchor during its biosynthesis in the endoplasmic reticulum.
+*   **Disease Mechanism:** The disease mechanism is loss-of-function, leading to hypomorphic mutations. This results in a reduction of functional GPI-anchored proteins on the cell surface.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the GPI-anchor biosynthesis pathway leads to decreased or dysfunctional GPI-anchored proteins, which are vital for cell-cell adhesion, signal transduction, and neurogenesis. This deficiency underlies the severe neurological manifestations like intellectual disability, seizures, and hypotonia.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PIGG interacts with PIGF, which stabilizes it, and competes with PIGO for binding to PIGF. These interactions are critical for the proper function of the GPI biosynthesis pathway.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Whole-genome sequencing has shown an improved diagnostic yield for PIGG-related disorders compared to targeted gene panels. It is a known cause of inherited GPI deficiencies (IGDs), a group of disorders characterized by intellectual disability and seizures.
+*   **Most Common Reasons for Testing This Gene:** Testing for PIGG is indicated in individuals presenting with a combination of early-onset seizures, global developmental delay, intellectual disability, and hypotonia.
+*   **Clinical Actionability and Management Implications:** Currently, there are no specific treatments for PIGG-CDG. Management is symptomatic and supportive. Pyridoxine (vitamin B6) has been explored as a potential treatment for seizures in some GPI-deficient patients.
+*   **Genetic Counseling Considerations:** PIGG-related disorder is an autosomal recessive condition. Counseling should focus on the 25% recurrence risk for future pregnancies of carrier parents and the availability of prenatal and preimplantation genetic testing. Asymptomatic carrier status of parents should be confirmed.
+
+**Key Clinical Literature & Studies**
+*   **Tremblay-Laganière C, et al. (2021) PMID: 34113002:** Described 22 individuals from 19 families, expanding the phenotypic spectrum and correlating variant severity with clinical outcomes (severe vs. mild phenotypes like ASD). Established an in vitro system to assess variant pathogenicity.
+*   **Makrythanasis P, et al. (2016) PMID: 26996948:** First report linking pathogenic variants in PIGG to intellectual disability with seizures and hypotonia in five individuals from three families.
+*   **Lionel AC, et al. (2017) PMID: 28771251:** Highlighted the improved diagnostic yield of whole-genome sequencing for disorders including those caused by PIGG variants.
+*   **Zhao JJ, et al. (2017) PMID: 28581210:** Reported a new case with PIGG loss-of-function and demonstrated reduced cell surface levels of GPI-linked markers.
+*   **Parsamanesh N, et al. (2019) PMID: 31828834:** Identified a novel point mutation in an Iranian family with non-syndromic intellectual disability, expanding the mutational spectrum.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Biallelic loss-of-function or severe missense variants in PIGG are strongly associated with a core phenotype of global developmental delay (HP:0001263), infantile-onset seizures (HP:0001250), neonatal hypotonia (HP:0001319), and severe intellectual disability (HP:0001249).
+*   **Phenotype red flags:** The combination of early-onset, often intractable seizures, severe developmental delay/intellectual disability, hypotonia, and cerebellar atrophy are highly suggestive of a PIGG-related disorder.
+*   **Differential diagnosis considerations:** The phenotype of PIGG-related disorder overlaps significantly with other inherited GPI deficiencies (IGDs) caused by mutations in genes like PIGA, PIGL, PIGM, PIGO, PIGV, PGAP2, and PGAP3. It should also be considered in the differential for congenital disorders of glycosylation and other syndromic forms of epilepsy and intellectual disability.
+

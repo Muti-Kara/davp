@@ -1,0 +1,259 @@
+=== chr15:42360096C>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs758058910
+• Chromosome: 15
+• Position: 42360096
+• Reference Allele (REF): C
+• Alternative Allele (ALT): A
+• Genotype: 1/1
+• Quality Score: N/A
+• Gene Names: CAPN3
+• Databases: rs758058910, COSV58824256
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: pathogenic
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 2.05e-06
+• gnomADg Allele Frequency: N/A
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007997: granulocyte percentage of myeloid white cells - A calculated measurement in which the number of granulocytes is divided by the number of all myeloid white cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage.
+GWAS_EFO_0005091: monocyte count - quantification of monocytes in the blood
+GWAS_EFO_0007989: monocyte percentage of leukocytes - A calculated measurement in which the number of monocytes in a specified sample of blood is divided by the total number of white blood cells in the sample, and the result presented as a ratio, fraction, quotient or percentage. 
+GWAS_EFO_0004623: fibrinogen measurement - is a quantification of circulating fibrinogen  (factor I) is a soluble plasma glycoprotein, synthesised by the liver, that is converted by thrombin into fibrin during blood coagulation.
+GWAS_EFO_0005090: basophil count - quantification of basophils in the blood|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0004329: alcohol drinking - Behaviors associated with the ingesting of alcoholic beverages, including social drinking.
+GWAS_EFO_0007878: alcohol consumption measurement - quantification of some aspect of alcohol consumption such as frequency or quantity
+GWAS_EFO_0004530: triglyceride measurement - A triglyceride  measurement is a quantification of triglycerides in some body fluid, used as a biomarker for cardiovascular disease.
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0004696: sex hormone-binding globulin measurement - Is a quantification of sex hormone binding globulin. In men the test is used in when investigating testosterone deficiency.  The SHBG glycoprotein binds to circulating estradiol and testosterone, low levels of SHBG may be implicated in breast cancer etiology.
+GWAS_EFO_0004535: serum albumin measurement - An albumin measurement is a quantification of albumin in blood. Serum albumin, the main protein of plasma, has a good binding capacity for water, Ca2+, Na+, K+, fatty acids, hormones, bilirubin and drugs. Its main function is the regulation of the colloidal osmotic pressure of blood. Major zinc transporter in plasma, typically binds about 80% of all plasma zinc. Low levels of albumin in the blood may indicate liver disease.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0004627: IGF-1 measurement - Is the quantification of Insulin-like growth factor 1 (IGF-1), also called somatomedin C. IGF-1 is a hormone similar in molecular structure to insulin. It plays an important role in childhood growth and continues to have anabolic effects in adults. Levels of IGF-1 are known to increase in some cancers.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16141705) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Gene (ID: 16152202) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16234005) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612
+Entity: Transcript (ID: 16234299) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16234290) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16234303) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16272331) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16272418) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16272425) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: Transcript (ID: 16273220) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623, GWAS_EFO_0004623, GWAS_EFO_0005090, GWAS_EFO_0004329, GWAS_EFO_0007878, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004696, GWAS_EFO_0004535, GWAS_EFO_0007937, GWAS_EFO_0004627, GWAS_EFO_0004530, GWAS_EFO_0004612, GWAS_EFO_0004530
+Entity: TF Binding Site (ID: 277667869) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: TF Binding Site (ID: 266380793) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: TF Binding Site (ID: 184444294) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: TF Binding Site (ID: 174804971) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: TF Binding Site (ID: 115267913) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: Histone Modification Site (ID: 74837008) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: Histone Modification Site (ID: 92763004) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989
+Entity: ChromHMM State (ID: 19358165) -> Associated GWAS: GWAS_EFO_0004623
+Entity: ChromHMM State (ID: 19907204) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623
+Entity: ChromHMM State (ID: 20483879) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623
+Entity: ChromHMM State (ID: 21090330) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623
+Entity: ChromHMM State (ID: 21697141) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623
+Entity: ChromHMM State (ID: 22333654) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623
+Entity: ChromHMM State (ID: 22904054) -> Associated GWAS: GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0004623
+Entity: chr_chain (ID: 535887) -> Associated GWAS: GWAS_EFO_0004623
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 28200
+• Pathogenic/Likely Pathogenic: 7953
+• Benign/Likely Benign: 9347
+• Uncertain Significance: 10651
+• Other Classifications: 249
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Autosomal recessive limb-girdle muscular dystrophy type 2A (n=7634)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=1700)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=1204)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=649)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided (n=639)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=320)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy (n=305)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=255)
+• Inborn genetic diseases (n=213)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=208)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified (n=193)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Inborn genetic diseases (n=173)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified (n=141)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=136)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=130)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=130)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|CAPN3-related disorder (n=122)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided (n=105)
+• Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=90)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Inborn genetic diseases (n=86)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=77)
+• Inborn genetic diseases|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=76)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Inborn genetic diseases (n=75)
+• not provided|Inborn genetic diseases (n=71)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy (n=70)
+• not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=61)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|See cases|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=61)
+• not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=60)
+• Autosomal recessive limb-girdle muscular dystrophy (n=59)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=57)
+• not provided|Inborn genetic diseases|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=52)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|Abnormality of the musculature|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=50)
+• Abnormality of the musculature (n=50)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=49)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=49)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|not specified (n=48)
+• not specified|Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided (n=47)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=47)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Limb-girdle muscular dystrophy, recessive (n=39)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=39)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=38)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=38)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=37)
+• Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided (n=32)
+• Muscle weakness (n=30)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy (n=29)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=28)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=28)
+• Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=23)
+• not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=20)
+• CAPN3-related disorder (n=20)
+• Elbow flexion contracture (n=20)
+• Muscular dystrophy (n=20)
+• Absent Achilles reflex (n=20)
+• not specified|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=20)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|not specified (n=20)
+• Abnormality of the musculature|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=20)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Abnormality of the musculature|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=20)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=20)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|CAPN3-related disorder (n=20)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=20)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy (n=20)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy (n=19)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Limb-girdle muscular dystrophy, recessive|not provided (n=19)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=19)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=19)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided (n=19)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=19)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Abnormality of the musculature|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=18)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4|CAPN3-related disorder (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|not specified|Autosomal recessive limb-girdle muscular dystrophy (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided (n=10)
+• Familial idiopathic inflammatory myopathy|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Inborn genetic diseases|not provided (n=10)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|Limb-girdle muscular dystrophy, recessive|not provided|CAPN3-related disorder (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Lower-limb joint contracture (n=10)
+• Cardiac arrhythmia|Calf muscle hypertrophy (n=10)
+• Shoulder girdle muscle weakness|8 conditions|Limb-girdle muscular dystrophy, recessive|EMG: myopathic abnormalities (n=10)
+• Shoulder girdle muscle weakness|Congenital muscular dystrophy|Muscular dystrophy|Limb-girdle muscle weakness (n=10)
+• Shoulder girdle muscle weakness|Myopathy (n=10)
+• Muscle weakness|Muscular dystrophy, limb-girdle, autosomal dominant 4|See cases|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|CAPN3-related disorder|not provided|Autosomal recessive limb-girdle muscular dystrophy (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|CAPN3-related disorder (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Inborn genetic diseases|not specified (n=10)
+• not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Myopathy (n=10)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|not specified (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• not provided|not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Abnormality of the musculature|Limb-girdle muscular dystrophy (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Abnormality of the musculature (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|Inborn genetic diseases (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|not provided (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|See cases|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Limb-girdle muscular dystrophy (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|not specified|Inborn genetic diseases (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=10)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy|CAPN3-related disorder (n=10)
+• not provided|Limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Abnormality of the musculature|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=10)
+• Cardiac arrhythmia (n=10)
+• Lower-limb joint contracture (n=10)
+• Muscular dystrophy|not provided|CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|CAPN3-related disorder (n=10)
+• Qualitative or quantitative defects of calpain (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Abnormality of the musculature|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|CAPN3-related disorder|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|Inborn genetic diseases|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|CAPN3-related disorder|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Limb-girdle muscular dystrophy, recessive (n=10)
+• CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Abnormality of the musculature|Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4|CAPN3-related disorder (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Abnormality of the musculature|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|8 conditions|Autosomal recessive limb-girdle muscular dystrophy|See cases|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=10)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Inborn genetic diseases|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2B|not provided (n=9)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=9)
+• not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=9)
+• not provided|Limb-girdle muscular dystrophy, recessive|not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|CAPN3-related disorder (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|Inborn genetic diseases (n=9)
+• Limb-girdle muscular dystrophy, recessive|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided|Autosomal recessive limb-girdle muscular dystrophy (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not provided|not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy (n=9)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|CAPN3-related disorder|Autosomal recessive limb-girdle muscular dystrophy (n=9)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive disease (n=9)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Inborn genetic diseases (n=9)
+• Inborn genetic diseases|not provided (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Muscular dystrophy, limb-girdle, autosomal dominant 4|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=9)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided (n=9)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• not specified|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Inborn genetic diseases (n=9)
+• Muscular dystrophy, limb-girdle, autosomal dominant 4|Abnormality of the musculature|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|CAPN3-related disorder|not provided|not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A|Limb-girdle muscular dystrophy, recessive|not provided (n=9)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2A|Autosomal recessive limb-girdle muscular dystrophy|Muscular dystrophy, limb-girdle, autosomal dominant 4|See cases (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|not specified|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Myositis, eosinophilic|not provided|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• not specified|Limb-girdle muscular dystrophy, recessive|Autosomal recessive limb-girdle muscular dystrophy type 2A (n=9)
+• not specified|Muscular dystrophy, limb-girdle, autosomal dominant 4 (n=9)
+• Autosomal recessive limb-girdle muscular dystrophy type 2A|Limb-girdle muscular dystrophy, recessive|not provided|Autosomal recessive limb-girdle muscular dystrophy (n=8)
+
+

@@ -1,0 +1,67 @@
+CEP89 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 25907.
+*   **OMIM Gene ID:** 615470.
+*   **Primary Disease Associations:** Mitochondrial Complex IV Deficiency, Nuclear Type; Intellectual disability and multisystemic disorders.
+*   **Clinical Significance Level:** Evidence for a role in disease is moderate, with some sources classifying it as "Amber" (moderate evidence) due to the limited number of reported cases. A homozygous deletion involving *CEP89* was identified in a patient with a complex phenotype, providing the primary evidence for its disease association.
+*   **Inheritance Patterns:** The observed inheritance pattern is autosomal recessive, specifically biallelic loss-of-function.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI of 0.00, a LOEUF of 1.13, pRec of 0.81, and pNull of 0.19.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores suggest that the gene is tolerant to loss-of-function variation. This indicates that haploinsufficiency is not a likely disease mechanism. The high pRec score suggests a higher probability of being associated with recessive disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Homozygous deletions or biallelic loss-of-function variants (e.g., nonsense, frameshift) are the most likely pathogenic variant classes, consistent with a recessive inheritance pattern.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Intellectual disability (HP:0001249).
+    *   Cytochrome-c oxidase deficiency (HP:0008347).
+    *   Cystinuria (HP:0003387).
+    *   Cataract (HP:0000518).
+    *   Deafness / Hearing impairment (HP:0000365).
+    *   Broad-based gait (HP:0002136).
+    *   Developmental delay.
+    *   Hypotonia (HP:0001252).
+    *   Muscle weakness (HP:0001324).
+    *   Hepatomegaly (HP:0002240).
+*   **Secondary HPO terms:**
+    *   Exercise intolerance (HP:0003546).
+    *   Delayed motor development.
+    *   Hypertrophic cardiomyopathy (HP:0001639).
+    *   Liver dysfunction.
+*   **Age of Onset Patterns:** Clinical features can be identified in childhood.
+*   **Phenotype Severity Spectrum:** The phenotype associated with biallelic *CEP89* deletion is severe, involving multisystemic and neurological problems.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A homozygous deletion of *CEP89* (along with *SLC7A9*) was associated with a complex phenotype including intellectual disability, mitochondrial complex IV deficiency, cataracts, deafness, ataxia, and cystinuria. The cystinuria is attributed to the *SLC7A9* deletion, while the other features are likely due to the loss of *CEP89*.
+*   **Protein Domain-Specific Phenotype Patterns:** The CEP89 protein contains coiled-coil domains and a potential mitochondrial-targeting signal. Disruption of these domains through variants is expected to impact its function in ciliogenesis and mitochondrial metabolism.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently based on a single well-documented case, making the strength moderate until additional cases are reported.
+
+### **Clinical Variants & Phenotype Associations**
+*   As of now, the primary reported pathogenic event is a large homozygous deletion on chromosome 19q13.11, encompassing both *CEP89* and the adjacent *SLC7A9* gene. Specific pathogenic point variants or small indels in *CEP89* are not yet well-characterized in ClinVar with "Pathogenic" assertions.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, *CEP89* shows broad expression, with notable levels in the testis, cerebellum, and frontal cortex. Other sources mention expression in the nervous system, intestine, and blood.
+*   **Tissue-Specific Phenotypes Expected:** Given its role in mitochondrial function and ciliogenesis, and its expression in the brain, dysfunction is expected to lead to neurological phenotypes like intellectual disability and ataxia. Expression in other tissues aligns with the observed multisystemic issues.
+*   **Expression During Development and Age-Related Phenotypes:** The gene is expressed in the fetal ventricular zone and ganglionic eminence, suggesting a role in brain development. This aligns with the developmental delay and intellectual disability phenotypes.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** CEP89 is required for ciliogenesis and also plays a role in mitochondrial metabolism, where it may modulate the activity of mitochondrial complex IV.
+*   **Disease Mechanism:** The disease mechanism is loss-of-function, consistent with an autosomal recessive inheritance pattern. The homozygous deletion resulted in a lack of functional CEP89 protein.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *CEP89* impairs the assembly and activity of mitochondrial complex IV, leading to decreased ATP production. This mitochondrial dysfunction underlies the neurological and muscular symptoms. Its role in ciliogenesis suggests that ciliary defects may also contribute to the pleiotropic phenotype.
+*   **Protein-Protein Interactions Relevant to Phenotype:** CEP89 localizes to the centrosome and colocalizes with the distal appendage protein CEP164, indicating a role in centriole and cilium structure. It is also found in the mitochondrial intermembrane space.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *CEP89* variants is currently very low, as pathogenic variants have only been reported in a single case.
+*   **Most Common Reasons for Testing This Gene:** Testing for *CEP89* would be considered in individuals presenting with a combination of intellectual disability, mitochondrial complex IV deficiency, and other features of the reported phenotype like cataracts, deafness, and ataxia, particularly if cystinuria is also present (suggesting a contiguous gene deletion).
+*   **Clinical Actionability and Management Implications:** There are currently no specific therapies targeting CEP89 deficiency. Management is supportive and focuses on the individual's symptoms, such as educational support for intellectual disability and monitoring of mitochondrial and organ function.
+*   **Genetic Counseling Considerations:** For parents of an affected individual, the recurrence risk for future pregnancies is 25%, consistent with autosomal recessive inheritance. Carrier testing for at-risk family members would be possible once the specific pathogenic variants are identified.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 23575228, 2013:** This landmark paper first described a patient with a homozygous deletion of *CEP89* and *SLC7A9*. It established the link between *CEP89* loss-of-function and a phenotype of isolated complex IV deficiency, intellectual disability, cataract, deafness, and ataxia. Using a *Drosophila* model, the study demonstrated that Cep89 is crucial for mitochondrial integrity, complex IV activity, and neuronal function.
+*   **PMID: 35029312, 2022:** This study investigated the role of *CEP89* in ovarian cancer, finding that increased copy number and expression are associated with a poor prognosis. While focused on oncology, it highlights the gene's role in cellular processes that can be relevant to both cancer and developmental disorders.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** A homozygous deletion of *CEP89* is strongly associated with a syndromic presentation including **Intellectual disability (HP:0001249)**, **Cytochrome-c oxidase deficiency (HP:0008347)**, **Cataract (HP:0000518)**, and **Hearing impairment (HP:0000365)**.
+*   **Phenotype red flags:** The co-occurrence of mitochondrial complex IV deficiency with intellectual disability and the specific constellation of cataracts, deafness, and ataxia should raise strong suspicion for *CEP89* defects, especially if accompanied by cystinuria (which points to a contiguous gene deletion with *SLC7A9*).
+*   **Differential diagnosis considerations:** The phenotype overlaps with other mitochondrial disorders caused by defects in complex IV assembly factors or other genes involved in mitochondrial function. It also shares features with ciliopathies, given the gene's role in ciliogenesis. Therefore, genes associated with Leigh syndrome, other complex IV deficiencies, and syndromic ciliopathies should be considered.
+

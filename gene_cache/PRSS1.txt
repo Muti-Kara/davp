@@ -1,0 +1,91 @@
+PRSS1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** PRSS1 (HGNC: 9475).
+*   **OMIM Gene ID:** 276000.
+*   **Primary Disease Associations:** Hereditary Pancreatitis (PCTT) (MIM: 167800). It is also associated with an increased risk for pancreatic cancer.
+*   **Clinical Significance Level:** The association between PRSS1 and hereditary chronic pancreatitis is classified as "Definitive" by ClinGen.
+*   **Inheritance Patterns:** PRSS1-related hereditary pancreatitis is inherited in an autosomal dominant manner. Some cases may arise from de novo pathogenic variants.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v4.0 constraint metrics for PRSS1 are not available as of the latest update. However, the concept of pLI (probability of being loss-of-function intolerant) helps classify genes, with a pLI ≥ 0.9 indicating intolerance to protein-truncating variants. Low LOEUF (loss-of-function observed/expected upper bound fraction) scores are also indicative of strong intolerance to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores:** A high pLI score suggests that loss-of-function variants in the gene are not tolerated, often associating them with dominant diseases. For PRSS1, the disease mechanism is gain-of-function, not loss-of-function, so these specific scores are less informative for pathogenicity assessment than for other genes.
+*   **Variant Classes Most Likely to be Pathogenic:** Pathogenic variants are typically missense mutations that lead to a gain-of-function. Copy number variants (duplications) and gene conversion events have also been reported as pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Recurrent pancreatitis (HP:0001740)
+    *   Chronic pancreatitis (HP:0001736)
+    *   Pancreatic calcification (HP:0005239)
+    *   Abdominal pain (HP:0002027)
+    *   Exocrine pancreatic insufficiency (HP:0001734)
+    *   Steatorrhea (HP:0002018)
+    *   Diabetes mellitus (HP:0000819)
+    *   Pancreatic cancer (HP:0006282)
+    *   Nausea and vomiting (HP:0002018)
+    *   Weight loss (HP:0001824)
+*   **Secondary HPO terms:**
+    *   Pancreatic pseudocyst (HP:0005244)
+    *   Jaundice (HP:0000952)
+    *   Malabsorption (HP:0002024)
+    *   Pancreatic ductal dilatation (HP:0030768)
+    *   Pancreatic intraepithelial neoplasia (PanIN)
+*   **Age of Onset Patterns:** Onset is highly variable, often occurring in childhood or early adulthood. In one study of the p.A16V mutation, the median age of onset was 10 years. Another study involving the R122C mutation reported a mean onset age of 23.5 years.
+*   **Phenotype Severity Spectrum:** The clinical presentation ranges from mild, with occasional episodes of acute pancreatitis, to severe, with progression to chronic pancreatitis, exocrine and endocrine insufficiency, and a significantly increased risk of pancreatic cancer. Penetrance of pathogenic variants is incomplete and variable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Gain-of-function missense variants are the primary cause of hereditary pancreatitis. Some variants, such as p.R122H and p.N29I, are considered high-penetrance, while others, like p.A16V and p.R122C, have lower penetrance. Certain missense mutations can lead to protein misfolding and endoplasmic reticulum stress.
+*   **Protein Domain-Specific Phenotype Patterns:** The majority of pathogenic mutations are located in the N-terminal activation peptide or at key cleavage sites, affecting autoactivation or degradation of trypsinogen. For example, the p.R122H mutation at a primary cleavage site prevents trypsin degradation.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is strong for high-penetrance variants like p.R122H and p.N29I leading to hereditary pancreatitis. For lower-penetrance variants such as p.A16V, the phenotype is more variable and may depend on other genetic or environmental factors.
+*   **Examples: specific variants → specific phenotypes:**
+    *   **p.Arg122His (R122H):** Strongly associated with hereditary pancreatitis and increased risk for pancreatic cancer; it prevents trypsin from being broken down.
+    *   **p.Asn29Ile (N29I):** A high-penetrance variant that enhances autoactivation of trypsinogen.
+    *   **p.Ala16Val (A16V):** Associated with a variable phenotype and incomplete penetrance, suggesting a role in multigenic inheritance.
+    *   **p.Arg122Cys (R122C):** A lower-penetrance variant associated with pancreatitis, diabetes, and pancreatic cancer.
+
+### **Clinical Variants & Phenotype Associations**
+*   **p.Arg122His (c.365G>A):** Pathogenic / Reported phenotypes: Hereditary pancreatitis, chronic pancreatitis, pancreatic cancer (HP:0001736, HP:0006282) / AF: Low.
+*   **p.Asn29Ile (c.86A>T):** Pathogenic / Reported phenotypes: Hereditary pancreatitis (HP:0001736) / AF: Low.
+*   **p.Ala16Val (c.47C>T):** Pathogenic / Reported phenotypes: Hereditary pancreatitis, chronic pancreatitis, pancreatic cancer (HP:0001736, HP:0006282) / AF: Low.
+*   **p.Arg122Cys (c.365G>T):** Pathogenic / Reported phenotypes: Hereditary pancreatitis, diabetes mellitus, pancreatic cancer (HP:0001736, HP:0000819, HP:0006282) / AF: Low.
+*   **p.Gly208Ala (c.623G>C):** Pathogenic / Reported phenotypes: Chronic pancreatitis (HP:0001736) / AF: Low.
+*   **p.Arg116Cys (c.346C>T):** Pathogenic / Reported phenotypes: Chronic pancreatitis, pancreatic cancer (HP:0001736, HP:0006282) / AF: Low.
+*   **p.Glu190Lys (c.568G>A):** Likely Pathogenic / Reported phenotypes: Chronic pancreatitis (HP:0001736) / AF: Novel.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** PRSS1 shows the highest expression in the pancreas.
+*   **Tissue-Specific Phenotypes Expected:** The highly specific expression in the pancreas directly correlates with the primary phenotype of pancreatitis. Pathogenic variants lead to premature activation of trypsin within the pancreas, causing autodigestion and inflammation.
+*   **Expression During Development and Age-Related Phenotypes:** While expression data across different developmental stages is limited, the typical onset of hereditary pancreatitis in childhood suggests significant expression and functional importance early in life.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The PRSS1 gene encodes cationic trypsinogen, a digestive enzyme precursor produced in the pancreas that is activated to trypsin in the small intestine to digest proteins.
+*   **Disease Mechanism:** The primary mechanism is gain-of-function, where mutations either enhance the autoactivation of trypsinogen to trypsin or inhibit the degradation of active trypsin within the pancreas. A secondary mechanism involves protein misfolding and endoplasmic reticulum stress.
+*   **Cellular/Molecular Pathways Disrupted:** Pathogenic variants disrupt the delicate balance of protease-antiprotease activity in the pancreas, leading to premature and excessive trypsin activity. This triggers a cascade of digestive enzyme activation, leading to pancreatic autodigestion, inflammation, and cell death. The JAK1/STAT5 signaling pathway has been implicated in mediating the effects of some PRSS1 mutations on pancreatic cancer progression.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Trypsinogen's interaction with chymotrypsin C (CTRC), which mediates its degradation, is critical. Some PRSS1 mutations make trypsinogen resistant to CTRC cleavage, contributing to increased trypsin levels. The balance with the pancreatic secretory trypsin inhibitor (SPINK1) is also crucial for preventing premature trypsin activation.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In children with recurrent acute pancreatitis or chronic pancreatitis, PRSS1 pathogenic variants can be found in 17% and 46% of cases, respectively. In adults with chronic pancreatitis of unknown cause, the prevalence varies, with one German study reporting pathogenic variants in about 5% of cases.
+*   **Most Common Reasons for Testing:** Testing is indicated for individuals with recurrent acute pancreatitis, chronic pancreatitis with onset before age 25, or a family history of pancreatitis consistent with autosomal dominant inheritance.
+*   **Clinical Actionability and Management Implications:** Identifying a pathogenic PRSS1 variant confirms a diagnosis of hereditary pancreatitis, guides management (e.g., pain control, pancreatic enzyme replacement), and indicates the need for surveillance for diabetes and pancreatic cancer. It also allows for predictive testing of at-risk family members.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal dominant inheritance pattern, the 50% risk to offspring, the concept of reduced penetrance, and the availability of prenatal or preimplantation genetic testing. The significant lifetime risk of pancreatic cancer for carriers is a key point for discussion.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 33257277, 2021:** This review classifies PRSS1 variants based on their deleterious effect, providing guidance for clinical interpretation in patients with pancreatitis by considering in vitro data and allele frequencies.
+*   **PMID: 31728256, 2019:** Demonstrated that the T/C PRSS1 genotype was associated with larger tumor size and poorer overall survival in pancreatic ductal adenocarcinoma, suggesting its use as a prognostic factor.
+*   **PMID: 31525287, 2019:** Investigated a PRSS1 mutation (R116C), finding it promoted malignant behaviors in pancreatic cancer cells and induced early neoplastic lesions in a mouse model, implicating the JAK1-STAT5 pathway.
+*   **PMID: 30723467, 2019:** Reported a novel p.Glu190Lys variant in a patient with chronic pancreatitis and showed through functional studies that it increases trypsinogen autoactivation, classifying it as likely pathogenic.
+*   **PMID: 19453252, 2009:** Characterized the variable phenotype of the p.A16V mutation, noting its family-dependent penetrance and suggesting it contributes to a multigenic predisposition to pancreatitis.
+*   **PMID: 19266188, 2009:** Described the clinical features of the R122C mutation in six families, highlighting lower penetrance than other common mutations but a significant risk for diabetes and pancreatic cancer.
+*   **PMID: 18195514, 2008:** Identified a new polymorphism (c.488 C > T) associated with chronic pancreatitis and a mutation (c.361 G > A) correlated with hereditary pancreatitis in a Chinese cohort.
+*   **PMID: 8841182, 1996:** Landmark study that first identified mutations in the cationic trypsinogen gene (PRSS1) as the cause of hereditary pancreatitis, establishing the genetic basis of the disease.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   **p.Arg122His and p.Asn29Ile:** Strongly associated with Recurrent pancreatitis (HP:0001740) and Chronic pancreatitis (HP:0001736) with high penetrance.
+    *   **All pathogenic gain-of-function variants:** Associated with an increased risk of Pancreatic cancer (HP:0006282) and Diabetes mellitus (HP:0000819) as disease complications.
+*   **Phenotype red flags:**
+    *   The presence of Recurrent pancreatitis (HP:0001740) or Chronic pancreatitis (HP:0001736), especially with a childhood or early adult onset, strongly suggests considering PRSS1 testing.
+    *   A family history of pancreatitis in multiple generations following an autosomal dominant pattern is a major red flag.
+*   **Differential diagnosis considerations:**
+    *   Phenotypes overlap with pancreatitis caused by mutations in other genes such as **SPINK1, CFTR, CTRC,** and **CPA1**. Multigene panels are often considered for diagnosis.
+    *   Alcoholic and idiopathic pancreatitis must also be considered in the differential diagnosis.
+

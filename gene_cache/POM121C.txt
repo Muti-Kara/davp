@@ -1,0 +1,56 @@
+POM121C Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 34005
+- **OMIM Gene ID:** 615754
+- **Primary Disease Associations:** While associated with Developmental And Epileptic Encephalopathy 7 and Williams-Beuren Syndrome in some databases, there are no definitive gene-phenotype relationships established in OMIM for *POM121C* itself.
+- **Clinical Significance Level:** The clinical significance of *POM121C* is not definitively established, and there are no submissions for this gene in ClinGen at this time.
+- **Inheritance Patterns:** The precise inheritance pattern related to *POM121C* variants is not well-defined in the literature.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v4.0 database does not provide specific constraint metrics such as pLI or LOEUF for *POM121C*.
+- **Clinical Interpretation of Constraint Scores:** The absence of these scores indicates that there is currently insufficient data to determine the gene's tolerance to loss-of-function variation.
+- **Variant Classes Most Likely to be Pathogenic:** Without established disease correlations, it is difficult to predict which variant classes are most likely to be pathogenic for *POM121C*.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As there are no confirmed disease associations for *POM121C*, a definitive list of primary HPO terms cannot be compiled. However, given its function as a component of the nuclear pore complex, phenotypes could theoretically involve a wide range of systems.
+- **Secondary HPO terms:** No secondary HPO terms are specifically linked to *POM121C* variants in the literature.
+- **Age of Onset Patterns:** The age of onset for any potential *POM121C*-related disorder is currently unknown.
+- **Phenotype Severity Spectrum:** The spectrum of severity for phenotypes associated with *POM121C* has not been characterized.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** There are no established correlations between specific variant classes in *POM121C* and particular phenotypes.
+- **Protein Domain-Specific Phenotype Patterns:** The relationship between variants in specific domains of the POM121C protein and clinical phenotypes is not known.
+- **Genotype-Phenotype Correlation Strength:** The strength of genotype-phenotype correlations for *POM121C* is currently undefined.
+- **Examples: specific variants → specific phenotypes:** There are no documented examples of specific *POM121C* variants leading to distinct phenotypes.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic variants in *POM121C* with clear phenotype associations are reported in ClinVar.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas, which incorporates GTEx data, *POM121C* shows expression in a wide range of tissues, with higher levels noted in the testis, adrenal gland, and liver.
+- **Tissue-Specific Phenotypes Expected:** Given the broad expression, pathogenic variants could potentially lead to systemic effects or manifest in tissues with the highest expression levels. For example, some studies have explored its role in adipogenesis and insulin sensitivity.
+- **Expression During Development and Age-Related Phenotypes:** Information regarding the developmental expression of *POM121C* and its link to age-related phenotypes is limited.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *POM121C* is an essential component of the nuclear pore complex (NPC), which mediates the transport of molecules between the nucleus and the cytoplasm.
+- **Disease Mechanism:** The potential disease mechanisms for *POM121C* variants (haploinsufficiency, dominant-negative, or gain-of-function) have not been determined.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** As part of the NPC, pathogenic variants in *POM121C* would likely disrupt nucleocytoplasmic transport, which could have widespread cellular consequences. Some research suggests a role for *POM121C* in regulating the transcriptional activity of PPARγ, which is involved in metabolism and cell proliferation.
+- **Protein-Protein Interactions Relevant to Phenotype:** POM121C interacts with various other nucleoporins to form the NPC. It has also been shown to interact with importin β, a key component of the nuclear import machinery.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield of sequencing *POM121C* in clinical cohorts is unknown, as it is not currently a recognized disease-causing gene.
+- **Most Common Reasons for Testing This Gene:** Testing for *POM121C* is not a standard clinical practice.
+- **Clinical Actionability and Management Implications:** There is no information on the clinical actionability or management implications related to *POM121C* variants.
+- **Genetic Counseling Considerations:** Due to the lack of established disease association, genetic counseling for *POM121C* variants would be challenging and focus on the uncertainty of the findings.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 17900573, Year: 2007:** This study identified two distinct human POM121 genes (*POM121* and *POM121C*) and suggested their requirement for the formation of nuclear pore complexes.
+- **PMID: 38177583, Year: 2024:** Research indicated that overexpression of *POM121* is associated with unfavorable outcomes in colorectal cancer and that it regulates the subcellular localization and transcriptional activity of PPARγ.
+- **PMID: 32675796, Year: 2020:** A study on lethal prostate cancer showed that *POM121* upregulation was linked to tumor progression by increasing the nuclear import of oncogenic transcription factors like MYC and E2F1.
+- **PMID: 32986877, Year: 2020:** This publication discusses the role of *POM121* in laryngeal cancer, suggesting it as a potential prognostic marker.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** There are currently no high-confidence HPO-variant associations for *POM121C*.
+- **Phenotype red flags:** No specific HPO terms are considered "red flags" that would strongly suggest pathogenic variants in *POM121C*.
+- **Differential diagnosis considerations:** Given its function, hypothetical disorders related to *POM121C* might have overlapping phenotypes with other nucleoporinopathies, which are a group of diseases caused by defects in the nuclear pore complex.
+

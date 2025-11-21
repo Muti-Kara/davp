@@ -1,0 +1,93 @@
+=== chr1:15937835C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs199632433
+• Chromosome: 1
+• Position: 15937835
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: SPEN
+• Databases: rs199632433, COSV65268149
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.004535
+• gnomADg Allele Frequency: 0.0033829999999999997
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16140939) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004509
+Entity: Transcript (ID: 16231884) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004509
+Entity: Histone Modification Site (ID: 84798662) -> Associated GWAS: GWAS_EFO_0009270
+Entity: Histone Modification Site (ID: 81965295) -> Associated GWAS: GWAS_EFO_0004509
+Entity: ChromHMM State (ID: 20060653) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0009270
+Entity: ChromHMM State (ID: 20631503) -> Associated GWAS: GWAS_EFO_0004509
+Entity: ChromHMM State (ID: 21862940) -> Associated GWAS: GWAS_EFO_0004509
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 9066
+• Pathogenic/Likely Pathogenic: 836
+• Benign/Likely Benign: 2671
+• Uncertain Significance: 5543
+• Other Classifications: 16
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=2778)
+• Radio-Tartaglia syndrome (n=580)
+• SPEN-related disorder (n=346)
+• not provided|Inborn genetic diseases (n=124)
+• Inborn genetic diseases|not provided (n=59)
+• not provided|Radio-Tartaglia syndrome (n=30)
+• See cases (n=24)
+• Inborn genetic diseases|Radio-Tartaglia syndrome (n=21)
+• Inborn genetic diseases|SPEN-related disorder (n=12)
+• Neurodevelopmental delay (n=12)
+• Radio-Tartaglia syndrome|not provided (n=12)
+• SPEN-related disorder|Inborn genetic diseases (n=11)
+• SPEN-related neurodevelopmental disorder (n=8)
+• Radio-Tartaglia syndrome|Inborn genetic diseases (n=6)
+• Neurodevelopmental abnormality|not provided|Radio-Tartaglia syndrome|Inborn genetic diseases (n=6)
+• Neoplasm (n=6)
+• Myoepithelial tumor (n=6)
+• See cases|Inborn genetic diseases (n=6)
+• Radio-Tartaglia syndrome|not provided|Encephalopathy (n=6)
+• Inborn genetic diseases|Radio-Tartaglia syndrome|not provided (n=6)
+• Breast ductal adenocarcinoma (n=6)
+• Autism spectrum disorder|not provided (n=6)
+• Hereditary spastic paraplegia (n=2)
+• Developmental disorder|Radio-Tartaglia syndrome (n=2)
+• Moyamoya angiopathy (n=2)
+• not provided|SPEN-related disorder (n=2)
+• Primary dilated cardiomyopathy|not provided (n=1)
+
+

@@ -1,0 +1,71 @@
+CYP3A43 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 17450
+*   **OMIM Gene ID:** 606534
+*   **Primary Disease Associations:** Primarily associated with modifying risk for complex diseases, including prostate cancer and lung adenocarcinoma, and influencing drug metabolism. No definitive Mendelian disease has been associated with this gene.
+*   **Clinical Significance Level:** Evidence for a role as a disease/risk modifier is emerging, but no associations are currently classified as definitive or strong for a monogenic disorder.
+*   **Inheritance Patterns:** Not applicable in a Mendelian context; variants are studied as risk alleles for complex multifactorial diseases.
+
+### **Constraint & Variant Intolerance**
+*   **gnomAD v4.0.0 scores:** pLI = 0.00; LOEUF = 1.18.
+*   **Clinical Interpretation:** The pLI (probability of being Loss-of-Function Intolerant) and LOEUF (Loss-of-function Observed/Expected Upper bound Fraction) scores indicate that this gene is highly tolerant of loss-of-function variants. These values suggest that heterozygous loss-of-function variants are not under strong negative selection in the general population.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the high tolerance to LoF variants, pathogenic variants are unlikely to operate through haploinsufficiency. Disease-associated variants reported in the literature are typically missense variants or polymorphisms that may alter enzyme function or expression.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are directly and consistently linked to variants in *CYP3A43*. The following are inferred from its association with cancer risk:
+    *   Neoplasm of the prostate (HP:0002664)
+    *   Pulmonary adenocarcinoma (HP:0030078)
+*   **Secondary HPO terms:** Phenotypes are primarily related to pharmacogenomics rather than developmental abnormalities and do not have standard HPO term representations. These include:
+    *   Altered drug metabolism
+    *   Variability in response to antipsychotic medication
+    *   Altered vitamin D metabolism
+*   **Age of Onset Patterns:** Associations are with adult-onset diseases, such as cancer.
+*   **Phenotype Severity Spectrum:** The gene's impact is as a risk modifier, so it contributes to the severity of complex diseases like higher-stage prostate cancer or breast cancer tumor grade rather than causing a disorder of a specific severity.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Missense variants and other polymorphisms are associated with altered enzyme activity, influencing metabolism and modifying cancer risk. A frameshift variant has been identified as a likely loss-of-function allele.
+*   **Protein Domain-Specific Phenotype Patterns:** Data is insufficient to link specific protein domains to distinct phenotype patterns. Most variants are interpreted in the context of their effect on the entire enzyme's metabolic capacity.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between specific variants and pharmacogenomic phenotypes or cancer risk is currently considered weak to moderate and requires further study.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   The `CYP3A43*3` allele (p.Pro340Ala, rs680055) is associated with an increased risk for prostate cancer, particularly in individuals with a family history.
+    *   The `CYP3A43*2A` allele (c.74delA, rs61469810), a loss-of-function variant, showed a significant association with tumor grade in breast cancer.
+    *   The intronic variant rs472660 is associated with variability in response to the antipsychotic drug olanzapine.
+
+### **Clinical Variants & Phenotype Associations**
+*   No variants in *CYP3A43* are registered in ClinVar as "Pathogenic" or "Likely Pathogenic" for a Mendelian disorder. Variants are primarily classified as "drug response," "risk factor," "Uncertain Significance," or "Benign."
+*   **Selected Reported Variants:**
+    *   **rs680055 / p.Pro340Ala (in `*3` allele) / Drug response, Risk factor, Benign / Associated with increased prostate cancer risk and altered vitamin D metabolism. / AF (gnomAD): ~15-26% in various populations.**
+    *   **rs61469810 / c.74delA (in `*2A` allele) / Uncertain significance / Associated with breast cancer tumor grade; considered a loss-of-function variant. / AF (gnomAD): Very rare.**
+    *   **rs472660 / Intron variant / Drug response / Associated with response to olanzapine treatment. / AF (gnomAD): ~38-48% in various populations.**
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues:** *CYP3A43* shows its highest expression in the prostate and testis, with significant expression also found in the liver, adrenal gland, and lung.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the prostate aligns with its role in testosterone metabolism and its association with prostate cancer risk. Expression in the liver is consistent with its function in drug and xenobiotic metabolism.
+*   **Expression During Development:** In contrast to *CYP3A7*, which is dominant in the fetal liver, *CYP3A43* is expressed at very low levels in the fetal period.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The gene encodes a member of the cytochrome P450 superfamily, which are monooxygenases that catalyze reactions in drug metabolism and the synthesis of steroids and other lipids.
+*   **Disease Mechanism:** Not haploinsufficiency. Disease risk is likely mediated by variants that alter the enzyme's metabolic capacity (either gain or loss-of-function), affecting pathways related to hormone metabolism or drug clearance.
+*   **Cellular/Molecular Pathways Disrupted:**
+    *   **Testosterone Metabolism:** Altered testosterone hydroxylase activity may contribute to prostate cancer pathology.
+    *   **Ras/ERK1/2 Signaling:** In lung adenocarcinoma cells, *CYP3A43* expression appears to suppress tumor growth by inhibiting the ERK1/2 signaling pathway.
+    *   **Drug and Xenobiotic Metabolism:** As a P450 enzyme, it participates in Phase I metabolism of a variety of compounds, and altered function can impact drug efficacy and toxicity.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** The diagnostic yield for establishing the cause of a Mendelian disorder is effectively zero based on current knowledge.
+*   **Most Common Reasons for Testing:** Testing is performed in a research context to study cancer risk or in pharmacogenomic panels to predict drug response and metabolism.
+*   **Clinical Actionability:** A finding in *CYP3A43* could potentially lead to adjustments in drug dosage (e.g., for certain antipsychotics) or inform cancer risk stratification, but this is not yet a standard clinical practice.
+*   **Genetic Counseling Considerations:** Counseling should emphasize that variants in this gene are considered risk factors for complex diseases or can influence drug response, rather than being causative for a monogenic disorder. The low pLI score indicates that loss-of-function variants are well-tolerated.
+
+### **Key Clinical Literature & Studies**
+*   **Wang, J. et al. (2022), PMID: 36552945:** Found that *CYP3A43* expression was lower in more advanced stages of lung adenocarcinoma and that it suppresses tumor proliferation and migration, potentially via the ERK1/2 pathway.
+*   **Domchek, S.M. et al. (2004), PMID: 15574762:** A landmark study that first associated the `CYP3A43*3` allele with an increased risk of prostate cancer, particularly in men with a positive family history.
+*   **Cauffiez, C. et al. (2004), PMID: 14695544:** The first report identifying a genetic polymorphism in *CYP3A43*, describing a frameshift variant (`c.74delA` in `*2A`) that results in a loss-of-function.
+*   **Gellner, K. et al. (2001), PMID: 11239423:** The foundational paper that cloned and characterized *CYP3A43*, identifying it as a new member of the human CYP3A subfamily and noting its high expression in prostate and testis.
+*   **Lamba, J. et al. (2002), PMID: 12434002:** Studied the impact of CYP3A haplotypes on drug metabolism, highlighting the difficulty in separating the effects of linked variants in the *CYP3A* gene cluster.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Currently, there are no high-confidence associations between specific *CYP3A43* variants and monogenic disease HPO terms. The strongest associations are with pharmacogenomic phenotypes.
+*   **Phenotype Red Flags:** There are no specific HPO terms that are red flags for this gene. However, a personal or family history of prostate cancer or adverse reactions to certain drugs metabolized by CYP3A enzymes may increase the relevance of investigating this gene in a research or pharmacogenomic context.
+*   **Differential Diagnosis Considerations:** Phenotypes related to altered drug metabolism show significant overlap with variants in other genes in the CYP3A cluster, particularly *CYP3A4* and *CYP3A5*, which are the major contributors to CYP3A activity in the liver and intestine. Genetic linkage between variants in *CYP3A43*, *CYP3A4*, and *CYP3A5* makes it challenging to isolate the specific contribution of *CYP3A43* variants.
+

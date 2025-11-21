@@ -1,0 +1,67 @@
+HCAR2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:24827
+*   **OMIM Gene ID:** 609163
+*   **Primary Disease Associations:** While strongly associated with modulating inflammatory responses and lipid metabolism, direct Mendelian disease associations are not well-established. It has been linked to conditions such as Pellagra and Diversion Colitis. It has also been studied for its role in neuroinflammatory and neurodegenerative diseases like Alzheimer's and Parkinson's disease, as well as its potential as a tumor suppressor in breast cancer.
+*   **Clinical Significance Level:** The direct clinical significance for a specific Mendelian disorder remains to be definitively established.
+*   **Inheritance Patterns Observed in Patients:** No clear inheritance patterns for a specific disease have been documented.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v4.0 constraint metrics for *HCAR2* are not explicitly detailed in the provided search results, however gnomAD's methodology for calculating these scores such as pLI (probability of being loss-of-function intolerant), and LOEUF (loss-of-function observed/expected upper bound fraction) is available. A higher pLI (closer to 1) and a lower LOEUF suggest a gene is more intolerant to loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** A high pLI (e.g., ≥0.9) or a low LOEUF (e.g., <0.35 in gnomAD v2) for a gene suggests that it is under selective pressure and that loss-of-function variants are likely to be pathogenic. The interpretation often depends on the specific transcript being analyzed.
+*   **Variant Classes Most Likely to Be Pathogenic:** Based on its function as a receptor, missense variants that affect ligand binding or signal transduction, as well as nonsense and frameshift variants leading to a non-functional protein, would be most likely to be pathogenic. Frameshift and missense variants in *HCAR2* have been investigated in the context of breast cancer risk.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As there is no definitive Mendelian disease associated with *HCAR2*, a ranked list of HPO terms is not available. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for phenotypic abnormalities in human diseases but does not currently list specific phenotypes for *HCAR2*.
+*   **Secondary HPO terms:** Not applicable due to the lack of a defined Mendelian disease association.
+*   **Age of Onset Patterns:** Not defined due to the absence of an associated Mendelian disorder.
+*   **Phenotype Severity Spectrum:** Not defined.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific genotype-phenotype correlations are not well-established. However, studies have investigated the association of coding variants with the response to niacin therapy for dyslipidemia, but no significant associations were found. Rare, potentially pathogenic variants, including frameshift and missense mutations, have been identified in breast cancer cases, suggesting a potential role in cancer susceptibility.
+*   **Protein Domain-Specific Phenotype Patterns:** The C-terminal tail of the HCAR2 protein contains common coding variants, but their functional impact and association with specific phenotypes remain largely unknown. Variants affecting transmembrane domains or ligand-binding pockets would be hypothesized to impact receptor function.
+*   **Genotype-Phenotype Correlation Strength:** Currently weak, as no definitive disease-causing variants with consistent phenotypic outcomes have been established.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   rs7314976 (p.Arg311C) and rs2454727 (p.Met317Ile) are common coding variants that have been studied in relation to niacin response, but no clear phenotype has been associated with them.
+    *   A frameshift mutation, c.1086_1090del (p.P363Nfs*26), and several missense variants have been identified in breast cancer cohorts, suggesting a potential association with cancer risk.
+
+### **Clinical Variants & Phenotype Associations**
+*   There are no well-characterized pathogenic variants with confirmed clinical significance in ClinVar for a specific Mendelian disease. Several variants of uncertain significance have been reported. Studies have identified variants in the context of complex diseases like breast cancer, but their pathogenicity is not fully established.
+    *   **c.1086_1090del (p.P363Nfs*26):** Frameshift variant identified in breast cancer cases.
+    *   **c.424C>T (p.Arg142Trp):** Missense variant associated with breast cancer risk.
+    *   **c.517_518delinsAC (p.Gly173Thr):** Missense variant associated with breast cancer risk.
+    *   **c.1036A>G (p.Met346Val):** Missense variant associated with breast cancer risk.
+    *   **rs7314976 (c.931C>T, p.Arg311C):** Common coding variant, no confirmed disease association.
+    *   **rs2454727 (c.951G>A, p.Met317Ile):** Common coding variant, no confirmed disease association.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *HCAR2* shows the highest expression in adipose tissue and spleen. It is also expressed in immune cells like neutrophils and microglia. This expression pattern aligns with its role in regulating lipolysis and inflammation.
+*   **Tissue-Specific Phenotypes Expected:** Given its high expression in adipose tissue, variants could lead to metabolic phenotypes related to lipid metabolism. Its expression in immune cells suggests that pathogenic variants could result in inflammatory or immunodeficiency-related phenotypes.
+*   **Expression During Development and Age-Related Phenotypes:** Expression of *HCAR2* is induced in microglia in the context of Alzheimer's disease pathology, suggesting a role in age-related neuroinflammation. Knockout mice show a progressive degenerative retinal phenotype with age.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *HCAR2* encodes a G protein-coupled receptor that acts as a high-affinity receptor for nicotinic acid (niacin) and β-hydroxybutyrate, mediating decreased lipolysis and modulating inflammatory responses.
+*   **Disease Mechanism:** Loss-of-function variants are hypothesized to be the primary disease-causing mechanism, potentially through haploinsufficiency, as suggested by studies in breast cancer where it may act as a tumor suppressor.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of HCAR2 signaling can impact the G(i)-protein-mediated inhibition of adenylyl cyclase, leading to altered cAMP levels. This can affect downstream pathways involved in lipolysis in adipocytes and inflammatory responses in immune cells. In microglia, HCAR2 activation can promote an anti-inflammatory phenotype and inhibit neuroinflammation.
+*   **Protein-Protein Interactions Relevant to Phenotype:** As a GPCR, HCAR2 interacts with G(i) proteins to initiate its signaling cascade. Its function is also linked to pathways involving AMP-activated protein kinase (AMPK) and NF-κB.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *HCAR2* in clinical cohorts for any specific Mendelian disease is currently zero or not reported, as it is not yet associated with a definitive disease phenotype.
+*   **Most Common Reasons for Testing This Gene:** Testing for *HCAR2* variants is currently primarily in a research setting, particularly in studies of dyslipidemia response to niacin, neuroinflammatory disorders, and cancer susceptibility.
+*   **Clinical Actionability and Management Implications:** Currently, there is no direct clinical actionability based on *HCAR2* genotype alone. However, its role as the niacin receptor suggests that variants could influence the therapeutic response to niacin. Furthermore, its involvement in inflammatory pathways suggests it could be a therapeutic target for inflammatory and neurodegenerative diseases.
+*   **Genetic Counseling Considerations:** Given the lack of a clear disease association, genetic counseling would focus on the uncertain significance of any identified variants and the current state of research.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 32328562 (2020):** This study in a mouse model of Alzheimer's disease demonstrated that HCAR2 is induced in microglia and that its absence exacerbates amyloid pathology and cognitive deficits, highlighting its role in neuroinflammation.
+*   **PMID: 29940600 (2018):** Investigated common coding variants in *HCAR2* and their association with lipid response to niacin therapy in the AIM-HIGH cohort, finding no significant correlation.
+*   **PMID: 30154941 (2018):** Identified rare and potentially pathogenic variants in *HCAR2* in breast cancer cases, suggesting a role as a tumor suppressor.
+*   **PMID: 12616187 (2003):** One of the initial studies that identified HCAR2 (then called GPR109A) as a high-affinity receptor for nicotinic acid.
+*   **PMID: 12616186 (2003):** Concurrently with the above study, this paper also identified HCAR2 (then called PUMA-G) as the nicotinic acid receptor and described its role in mediating the anti-lipolytic effects of niacin.
+*   **bioRxiv (2021):** A study on knockout mice suggested that HCAR2 expression is important for maintaining an immunoinhibitory environment in the retina and that its absence leads to progressive retinal degeneration.
+*   **PMID: 29997787 (2018):** This paper discusses the role of HCAR2 as a receptor for monomethyl fumarate, a drug used for multiple sclerosis, and its implications for the inflammatory response.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no established high-confidence HPO-variant associations for *HCAR2*.
+*   **Phenotype red flags:** Based on its function and expression, phenotypes such as severe dyslipidemia unresponsive to standard therapies, early-onset neuroinflammatory conditions, or a strong family history of breast cancer with a potential loss-of-function variant might warrant further investigation of *HCAR2*, although this is speculative.
+*   **Differential diagnosis considerations:** Given its role in inflammation and metabolism, phenotypic overlap could exist with genes involved in familial hypercholesterolemia, lipodystrophies, and primary immunodeficiencies. However, without a defined *HCAR2*-related disease, this remains hypothetical.
+

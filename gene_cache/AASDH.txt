@@ -1,0 +1,55 @@
+AASDH Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 23993
+- **OMIM Gene ID:** 614365
+- **Primary Disease Associations:** While OMIM lists no specific gene-phenotype relationships, GeneCards associates AASDH with Combined Malonic and Methylmalonic Aciduria and Methylmalonic Aciduria, cblA type; however, this appears to be a database error as the primary literature does not support this. More recent research has implicated homozygous variants in AASDH as a novel candidate gene for childhood-onset cardiomyopathy. Additionally, circular RNA originating from the AASDH gene (circ-AASDH) has been found to be highly expressed in lung adenocarcinoma, correlating with tumor size and clinical stage.
+- **Clinical Significance Level:** The evidence for a role in Mendelian disease is currently limited and not definitively established.
+- **Inheritance Patterns Observed in Patients:** A study on childhood-onset cardiomyopathy identified homozygous variants in AASDH, suggesting a potential autosomal recessive inheritance pattern for this phenotype.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for AASDH are: pLI = 0.00, LOEUF = 1.15, pRec = 0.77, and pNull = 0.23.
+- **Clinical Interpretation of Constraint Scores:** The very low probability of being loss-of-function intolerant (pLI) score suggests that the gene is tolerant to heterozygous loss-of-function (LoF) variants. The LOEUF score, which is the upper bound of the observed/expected ratio for LoF variants, is greater than the recommended threshold of < 0.35, indicating the gene is not under strong selection against LoF variants. The high pRec and low pNull scores may hint at a recessive inheritance pattern.
+- **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to heterozygous LoF variants, pathogenic variants, if they exist, are more likely to be homozygous missense or LoF variants. Some research suggests certain missense variants may impact protein function.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As there is no well-defined disease association, a ranked list of HPO terms is not available. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+- **Secondary HPO terms:** Not applicable due to the lack of a defined disease phenotype.
+- **Age of Onset Patterns:** A potential association with childhood-onset cardiomyopathy has been reported.
+- **Phenotype Severity Spectrum:** Not established.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Homozygous variants have been identified in a case of childhood-onset cardiomyopathy.
+- **Protein Domain-Specific Phenotype Patterns:** The AASDH protein contains an AMP-binding domain and a phosphopantetheine-binding domain. The functional consequences of variants in these specific domains have not yet been correlated with distinct phenotypes.
+- **Genotype-Phenotype Correlation Strength:** Currently weak, as the association with any specific disease is not yet firmly established.
+- **Examples: Specific Variants → Specific Phenotypes:** No specific variant-phenotype correlations are well-documented.
+
+### **Clinical Variants & Phenotype Associations**
+- At present, there are no variants in AASDH listed in ClinVar with a "pathogenic" or "likely pathogenic" classification. The available data primarily consists of variants of uncertain significance.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, AASDH is expressed in a wide range of tissues, with the highest levels observed in the heart, liver, and kidney in mouse models. In humans, expression is noted in the intestine, nervous system, and blood. The GTEx project aims to understand how genetic variation relates to gene expression in different tissues.
+- **Tissue-Specific Phenotypes Expected:** High expression in the heart may align with the reported association with childhood-onset cardiomyopathy. Its role in lung adenocarcinoma suggests a potential role in lung-specific pathology.
+- **Expression During Development and Age-Related Phenotypes:** Developmental expression patterns and their relation to age-related phenotypes are not well characterized.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** The AASDH protein is thought to covalently bind beta-alanine in an ATP-dependent manner, suggesting a role in post-translational protein modification or post-transcriptional RNA modification.
+- **Disease Mechanism:** If pathogenic, the mechanism for a potential recessive disease like cardiomyopathy would likely be loss-of-function.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** AASDH is involved in the lysine degradation pathway. Disruption of this pathway could lead to metabolic disturbances, although the specific downstream consequences leading to a phenotype like cardiomyopathy are not yet elucidated. The authentic 2-aminoadipate semialdehyde dehydrogenase has been identified as ALDH7A1, not AASDH, clarifying its role in lysine metabolism.
+- **Protein-Protein Interactions Relevant to Phenotype:** There is a documented interaction between AASDH and PALB2.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** Currently, the diagnostic yield for testing AASDH is expected to be very low, as it is not routinely included in most clinical testing panels for specific disorders.
+- **Most Common Reasons for Testing This Gene:** Testing for AASDH would be primarily for research purposes, particularly in unsolved cases of suspected genetic cardiomyopathy or as part of large-scale genomic studies.
+- **Clinical Actionability and Management Implications:** None at present, due to the lack of a confirmed disease association.
+- **Genetic Counseling Considerations:** Counseling would emphasize the uncertainty of the gene's role in disease and the current lack of evidence for pathogenicity.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 31690835, 2020:** This paper provides technical standards for the interpretation of copy-number variants, which is relevant for assessing genomic variants in genes like AASDH.
+- **PMID: not available, 2017:** A study on childhood-onset cardiomyopathy identified homozygous variants in AASDH in one patient, suggesting it as a novel candidate gene.
+- **PMID: not available, 2021:** A study on circ-AASDH identified its role in the progression of early-stage lung adenocarcinoma by targeting miR-140-3p to activate E2F7 expression.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** None established.
+- **Phenotype red flags:** Due to limited data, there are currently no "red flag" HPO terms that strongly suggest pathogenic variants in AASDH. The finding of cardiomyopathy (HP:0001638) in conjunction with homozygous variants could be a consideration but requires more evidence.
+- **Differential diagnosis considerations:** For a phenotype like cardiomyopathy, other well-established cardiomyopathy-associated genes would be the primary differential diagnosis.
+

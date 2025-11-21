@@ -1,0 +1,83 @@
+=== chr17:46549661G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs775372718
+• Chromosome: 17
+• Position: 46549661
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: LRRC37A2
+• Databases: rs775372718, COSV60235881
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.09142
+• gnomADg Allele Frequency: 0.029220000000000003
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0009902: handedness - A better, faster, or more precise performance or individual preference for use of a hand, known as the dominant hand; the less capable or less preferred hand is called the non-dominant hand. Dominance typically applies to all tasks, but in rare cases may be task-specific (known as cross-handedness or mixed-dominance) Ambidexterity is the ability to do any task equally well with either hand.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0008393: reaction time measurement - In psychology, the quantification of the interval of time between the presentation of a stimulus to a subject and the beginning of the subject's response to that stimulus. Several categories of reaction time, such as simple reaction time and choice reaction time, have been established and studied in experimental psychology to assess general alertness and motor speed.
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0004464: brain measurement - None
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0005091: monocyte count - quantification of monocytes in the blood
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16178386) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192, GWAS_EFO_0004528, GWAS_EFO_0005091
+Entity: Gene (ID: 16181691) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464
+Entity: Transcript (ID: 16376174) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192, GWAS_EFO_0004528, GWAS_EFO_0005091
+Entity: Transcript (ID: 16376180) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192, GWAS_EFO_0004528, GWAS_EFO_0005091
+Entity: Transcript (ID: 16376177) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192, GWAS_EFO_0004528, GWAS_EFO_0005091
+Entity: Transcript (ID: 16376183) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192, GWAS_EFO_0004528, GWAS_EFO_0005091
+Entity: Transcript (ID: 16389182) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464
+Entity: Transcript (ID: 16389183) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464
+Entity: Non Coding RNA (ID: 17169168) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192, GWAS_EFO_0004528, GWAS_EFO_0005091
+Entity: ChromHMM State (ID: 22949741) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 22386435) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464
+Entity: ChromHMM State (ID: 21752422) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 21139660) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 20534165) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464
+Entity: ChromHMM State (ID: 19960968) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337, GWAS_EFO_0004528, GWAS_EFO_0008393, GWAS_EFO_0004464, GWAS_EFO_0005192
+Entity: ChromHMM State (ID: 19411642) -> Associated GWAS: GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337
+Entity: chr_chain (ID: 575191) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0009902, GWAS_EFO_0004509, GWAS_EFO_0008393, GWAS_EFO_0004337
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1238
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 157
+• Uncertain Significance: 1081
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=4)
+
+

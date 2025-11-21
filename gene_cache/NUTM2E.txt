@@ -1,0 +1,56 @@
+NUTM2E Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 23448
+- **OMIM Gene ID:** Not available.
+- **Primary Disease Associations:** NUTM2E is associated with clear cell sarcoma of the kidney (CCSK) and other sarcomas, often as part of a fusion gene. Specifically, a translocation t(10;17)(q22;p13) results in a YWHAE-NUTM2E fusion transcript.
+- **Clinical Significance Level:** The role of the YWHAE-NUTM2E fusion in clear cell sarcoma of the kidney is established, suggesting a definitive clinical significance in that context.
+- **Inheritance Patterns:** The primary disease association is due to a somatic translocation, not a germline inherited pattern.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** gnomAD v4.0 does not provide specific constraint metrics (pLI, LOEUF) for NUTM2E. This can occur for various reasons, including low coverage or other data quality metrics not meeting the thresholds for calculation.
+- **Clinical Interpretation of Constraint Scores:** The absence of constraint scores means that population-based evidence for or against haploinsufficiency cannot be determined from gnomAD. Clinical interpretation must rely on case-specific evidence.
+- **Variant Classes Most Likely to be Pathogenic:** In its primary disease association, the pathogenic event is a translocation creating a fusion gene, which is a gain-of-function or dominant-negative mechanism. Standard variant classes like nonsense or missense in the context of Mendelian disease are not the established mechanism.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As NUTM2E's main association is with a specific cancer type through somatic fusion, a typical list of germline-associated HPO terms is not applicable. The primary phenotype is:
+    - Clear cell sarcoma of the kidney (HP:0030064)
+- **Secondary HPO terms:** No well-documented secondary HPO terms associated with germline variants in NUTM2E were found.
+- **Age of Onset Patterns:** Clear cell sarcoma of the kidney typically presents in early childhood.
+- **Phenotype Severity Spectrum:** Clear cell sarcoma of the kidney is a malignant tumor requiring aggressive treatment, indicating a severe phenotype.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** The key "variant" is the t(10;17)(q22;p13) translocation, leading to the YWHAE-NUTM2E fusion protein. This is specifically correlated with the phenotype of clear cell sarcoma of the kidney.
+- **Protein Domain-Specific Phenotype Patterns:** Information on specific protein domains of NUTM2E and their direct correlation to distinct phenotypes is not available. The pathogenic mechanism relates to the novel function of the fusion protein.
+- **Genotype-Phenotype Correlation Strength:** The correlation between the YWHAE-NUTM2E fusion gene and clear cell sarcoma of the kidney is strong.
+- **Examples:** The presence of the YWHAE-NUTM2E fusion is a defining molecular feature of a subset of clear cell sarcomas of the kidney.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic germline variants are listed in ClinVar for NUTM2E. The primary pathogenic event is a somatic translocation.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** According to The Human Protein Atlas, which incorporates GTEx data, NUTM2E shows low tissue specificity, with expression detected in numerous tissues. The highest expression appears in tissues such as the testis, endometrium, and smooth muscle.
+- **Tissue-Specific Phenotypes Expected:** The established phenotype is kidney-specific (clear cell sarcoma), which is where the somatic event has its oncogenic effect, rather than being predicted by germline expression patterns.
+- **Expression During Development and Age-Related Phenotypes:** While detailed developmental expression data is not available, the presentation of CCSK in childhood suggests a role for the fusion product in renal development or early life.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** The precise function of the NUTM2E protein is not well characterized.
+- **Disease Mechanism:** The disease mechanism is a somatic translocation creating a YWHAE-NUTM2E fusion protein. This is considered a gain-of-function or dominant-negative mechanism, where the resulting chimeric protein disrupts normal cellular processes, leading to oncogenesis.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The YWHAE-NUTM2E fusion protein is believed to act as an oncogenic driver, though the specific downstream pathways that are disrupted, leading to the clear cell sarcoma phenotype, are still under investigation.
+- **Protein-Protein Interactions Relevant to Phenotype:** YWHAE is a 14-3-3 protein, which are known to be involved in various critical cellular processes, including signal transduction and cell cycle control. The fusion of YWHAE to NUTM2E likely results in aberrant pathway activation.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** Testing for the YWHAE-NUTM2E fusion is a key diagnostic and classification tool for pediatric renal tumors, specifically to identify clear cell sarcoma of the kidney.
+- **Most Common Reasons for Testing This Gene:** The most common reason for testing is for the differential diagnosis of a pediatric renal mass suspected to be CCSK.
+- **Clinical Actionability and Management Implications:** Identification of the YWHAE-NUTM2E fusion confirms the diagnosis of CCSK, which has specific treatment protocols and prognostic implications.
+- **Genetic Counseling Considerations:** Since the translocation is a somatic event within the tumor, it is not inherited, and genetic counseling would focus on explaining the nature of the cancer and the non-hereditary basis of this specific genetic finding.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 26542179, 2016:** This study focused on the clinical phenotype of pediatric clear cell sarcoma of the kidney positive for the YWHAE-NUTM2B/E fusion, establishing its clinical relevance.
+- **Recurring translocation (10;17) and deletion (14q) in clear cell... (publication details not fully captured):** This paper highlights the recurring nature of the t(10;17) translocation in CCSK.
+- **Translocation (10;17)(q22;p13): A recurring translocation in clear... (publication details not fully captured):** This study further solidifies the t(10;17) translocation, involving YWHAE and NUTM2E, as a recurrent and defining feature of a subset of CCSKs.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** The somatic translocation t(10;17)(q22;p13) resulting in a YWHAE-NUTM2E fusion has a high-confidence association with Clear cell sarcoma of the kidney (HP:0030064).
+- **Phenotype red flags:** A pediatric patient presenting with a renal mass, where the pathology is consistent with clear cell sarcoma, is a strong indicator to test for the YWHAE-NUTM2E fusion.
+- **Differential diagnosis considerations:** The phenotype of a pediatric renal tumor overlaps with other entities such as Wilms tumor and malignant rhabdoid tumor. Molecular testing, including for the YWHAE-NUTM2E fusion, is critical for accurate diagnosis.
+

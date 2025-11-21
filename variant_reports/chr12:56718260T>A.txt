@@ -1,0 +1,167 @@
+=== chr12:56718260T>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs768199123
+• Chromosome: 12
+• Position: 56718260
+• Reference Allele (REF): T
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: NACA
+• Databases: rs768199123
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 5.4050000000000006e-05
+• gnomADg Allele Frequency: 0.00022989999999999998
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004269: cardiac arrhythmia - Any disturbances of the normal rhythmic beating of the heart or MYOCARDIAL CONTRACTION. Cardiac arrhythmias can be classified by the abnormalities in HEART RATE, disorders of electrical impulse generation, or impulse conduction.
+GWAS_EFO_0005055: QRS duration - QRS duration is a measurement of the combined duration of the Q, R and S waves of the human heart's electric cycle
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16177923) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Gene (ID: 16178019) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16373820) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374413) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374415) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374420) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374412) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374423) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374432) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374437) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374442) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374464) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374458) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374454) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374445) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374460) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374470) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374467) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374476) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374482) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374491) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374487) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374506) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374524) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Transcript (ID: 16374516) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Enhancer (ID: 26063352) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25962709) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25898417) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25527609) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25453390) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25362867) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25339095) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25240738) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 25096697) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24990325) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24945864) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24830451) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24651798) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24490845) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24476074) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24182528) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24082240) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 24008948) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 23702362) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 23605658) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 23577593) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 23454355) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Enhancer (ID: 23298179) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Non Coding RNA (ID: 17098642) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Non Coding RNA (ID: 17098645) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Non Coding RNA (ID: 17098648) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Non Coding RNA (ID: 17098643) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Non Coding RNA (ID: 17098644) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Non Coding RNA (ID: 17098641) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: TF Binding Site (ID: 309987322) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 309936094) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 273920475) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 179590490) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 176651201) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 176439269) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 117216916) -> Associated GWAS: GWAS_EFO_0004269
+Entity: TF Binding Site (ID: 117208630) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 92830539) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 92276595) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 91260959) -> Associated GWAS: GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 86034500) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 85057825) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 84463431) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 83553921) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 83355081) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 79138110) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 78711709) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 75414440) -> Associated GWAS: GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 74484388) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 70253279) -> Associated GWAS: GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 65505908) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 64997595) -> Associated GWAS: GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 62601823) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 60419619) -> Associated GWAS: GWAS_EFO_0004269
+Entity: Histone Modification Site (ID: 59639687) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 55883926) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 53393141) -> Associated GWAS: GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 52074256) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: Histone Modification Site (ID: 49083408) -> Associated GWAS: GWAS_EFO_0005055
+Entity: DNase Hypersensitivity Site (ID: 36493549) -> Associated GWAS: GWAS_EFO_0004269
+Entity: ChromHMM State (ID: 22852170) -> Associated GWAS: GWAS_EFO_0004269
+Entity: ChromHMM State (ID: 19300777) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: ChromHMM State (ID: 19857265) -> Associated GWAS: GWAS_EFO_0004269, GWAS_EFO_0005055
+Entity: ChromHMM State (ID: 20430853) -> Associated GWAS: GWAS_EFO_0004269
+Entity: ChromHMM State (ID: 21036029) -> Associated GWAS: GWAS_EFO_0004269
+Entity: ChromHMM State (ID: 21647051) -> Associated GWAS: GWAS_EFO_0004269
+Entity: ChromHMM State (ID: 22276911) -> Associated GWAS: GWAS_EFO_0004269
+Entity: chr_chain (ID: 467820) -> Associated GWAS: GWAS_EFO_0004269
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 11653
+• Pathogenic/Likely Pathogenic: 124
+• Benign/Likely Benign: 1731
+• Uncertain Significance: 9798
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection (n=138)
+• PAN2-related multiple congenital anomalies syndrome (n=102)
+• PAN2-related disorder (n=101)
+• not specified|not provided (n=23)
+• See cases (n=22)
+• Inborn genetic diseases (n=16)
+• Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection|Inborn genetic diseases (n=14)
+• Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection|not provided (n=4)
+• Inborn genetic diseases|Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection (n=4)
+• not provided|Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection|Inborn genetic diseases (n=2)
+• Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection|Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection (n=2)
+• Pseudo-TORCH syndrome 3 (n=2)
+• Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection|not specified|not provided (n=2)
+• not provided|Primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection (n=2)
+• Primordial dwarfism-immunodeficiency-lipodystrophy syndrome|Microcephalic primordial dwarfism (n=2)
+
+

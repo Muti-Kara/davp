@@ -1,0 +1,69 @@
+CARMIL3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+
+*   **HGNC ID:** 20272.
+*   **OMIM Gene ID:** 614716.
+*   **Primary Disease Associations:** While directly linked to Comedo Carcinoma and Phototoxic Dermatitis in some databases, no definitive Mendelian disease association has been established in OMIM. Research suggests a role in early embryonic development, specifically in cell migration and morphogenesis.
+*   **Clinical Significance Level:** The clinical significance for a specific Mendelian disorder is not yet definitively established.
+*   **Inheritance Patterns:** Zebrafish studies suggest recessive inheritance patterns for developmental phenotypes.
+
+### **Constraint & Variant Intolerance**
+
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 data for CARMIL3 (Transcript: ENST00000339949.8) shows a pLI of 0.00, a LOEUF of 1.18, pRec of 0.81, and pNull of 0.19.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that CARMIL3 is tolerant to loss-of-function (LoF) variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** While LoF variants are generally tolerated, missense or gain-of-function variants could potentially be pathogenic, though no specific examples are currently established.
+
+### **Phenotype Spectrum & HPO Terms**
+
+*   **Primary HPO terms:** As CARMIL3 is not yet definitively linked to a human disease, a comprehensive list of primary HPO terms is not available. However, based on animal models and related gene functions, potential phenotypes could involve:
+    *   Defects in left/right patterning (HP:0001657).
+    *   Impaired cell migration (HP:0002081).
+    *   Abnormal embryogenesis (HP:0003002).
+*   **Secondary HPO terms:**
+    *   Cardiovascular abnormalities related to patterning defects, such as dextrocardia (HP:0001651).
+*   **Age of Onset Patterns:** Based on zebrafish studies, any potential phenotype would likely have a prenatal or infantile onset.
+*   **Phenotype Severity Spectrum:** The severity of phenotypes observed in zebrafish mutants was variable.
+
+### **Genotype-Phenotype Correlations**
+
+*   **Variant Classes and Their Typical Phenotypes:** In zebrafish, premature stop codons (nonsense mutations) resulted in defects in cell migration and left-right patterning.
+*   **Protein Domain-Specific Phenotype Patterns:** Variants affecting the Capping Protein Binding Region (CBR) are predicted to be strong or null alleles, leading to developmental defects.
+*   **Genotype-Phenotype Correlation Strength:** Currently, the genotype-phenotype correlation strength in humans is considered weak to nonexistent due to a lack of established disease association.
+*   **Examples: Specific Variants → Specific Phenotypes:** No specific human variants have been definitively linked to a phenotype. In zebrafish, the *carmil3 sa19830* and *carmil3 stl413* alleles (both premature stop codons) lead to impaired endodermal migration and Kupffer's vesicle defects.
+
+### **Clinical Variants & Phenotype Associations**
+
+*   No well-characterized pathogenic variants in CARMIL3 with associated human phenotypes are currently reported in ClinVar.
+
+### **Tissue Expression & Clinical Relevance**
+
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** According to GTEx data, CARMIL3 is most highly expressed in the cerebellum, cerebellar hemisphere, and pituitary gland. This could suggest a potential role in neurological development or function.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression data, pathogenic variants could potentially lead to neurological phenotypes. However, this is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Studies in zebrafish show that *carmil3* has distinct spatial and temporal expression patterns during development, and maternal expression is significant.
+
+### **Molecular Mechanism & Phenotype Pathways**
+
+*   **Normal Gene Function:** CARMIL3 is a protein that regulates actin assembly and dynamics, which is crucial for cell migration and morphogenesis.
+*   **Disease Mechanism:** Based on zebrafish studies, a loss-of-function mechanism is suggested, where mutations lead to impaired protein function. However, the tolerance to LoF in humans suggests this may not be a primary disease mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** CARMIL3 interacts with capping protein (CP) to regulate actin polymerization. Disruption of this interaction can lead to defects in cell migration and the formation of embryonic structures, as seen in the impaired endodermal and dorsal forerunner cell migration in zebrafish, affecting Kupffer's vesicle and left-right asymmetry.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The key interaction is with the heterodimeric actin capping protein (CP).
+
+### **Diagnostic Yield & Clinical Utility**
+
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for CARMIL3 is currently zero, as it is not associated with a known human disease.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would likely only occur in a research setting, particularly for individuals with unexplained developmental defects involving cell migration or laterality.
+*   **Clinical Actionability and Management Implications:** There is no clinical actionability or specific management related to CARMIL3 variants at this time.
+*   **Genetic Counseling Considerations:** Genetic counseling would be challenging due to the lack of a defined human phenotype. Counseling would focus on the uncertain significance of any identified variants.
+
+### **Key Clinical Literature & Studies**
+
+*   **PMID: 34599974, 2022:** This study in zebrafish was the first to describe the in vivo role of CARMIL3 in vertebrate development, demonstrating its importance for endodermal cell migration, dorsal forerunner cell clustering, and subsequent morphogenesis of Kupffer's vesicle and left-right asymmetry.
+*   **PMID: 34968846, 2021:** This research identified CARMIL3 as a molecular signature of ischemic neurons in stroke, showing its upregulation is associated with neuronal edema, impaired autophagy, and oxidative stress.
+*   **PMID: 28659424, 2017:** This review details the functions of the CARMIL family of proteins as multidomain regulators of actin-based motility through their interaction with capping protein.
+
+### **HPO-Variant Matching Summary**
+
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for CARMIL3 in humans.
+*   **Phenotype red flags:** Based on animal models, phenotypes such as laterality defects (e.g., situs inversus) combined with other developmental anomalies could be a potential red flag, but this is highly speculative.
+*   **Differential diagnosis considerations:** The potential phenotypes associated with CARMIL3, such as laterality defects, could overlap with a wide range of ciliopathies and other developmental syndromes.
+

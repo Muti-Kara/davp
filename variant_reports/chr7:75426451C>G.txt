@@ -1,0 +1,84 @@
+=== chr7:75426451C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs372291559
+• Chromosome: 7
+• Position: 75426451
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: POM121C
+• Databases: rs372291559
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.48550000000000004
+• gnomADg Allele Frequency: 0.40190000000000003
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0003939: energy intake - Total number of calories taken in daily whether ingested or by parenteral routes.
+GWAS_EFO_0007796: parental longevity - length of an individual's parents' life, either taken individually (paternal or maternal longevity) or in combination and sometimes used as an indicator of an individual longevity
+GWAS_EFO_0002690: systemic lupus erythematosus - An autoimmune multi-organ disease typically associated with vasculopathy and autoantibody production. Most patients have antinuclear antibodies (ANA). The presence of anti-dsDNA or anti-Smith antibodies are highly-specific.|A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0004765: visceral adipose tissue measurement - Is a quantification of a particular location of adipose tissue.
+GWAS_EFO_0004735: serum alanine aminotransferase measurement - Is a quantification of serum alanine aminotransferase, most commonly found in liver, the test is used in ascertainment of liver function.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16140979) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340, GWAS_EFO_0002690, GWAS_EFO_0004340, GWAS_EFO_0006335, GWAS_EFO_0004765
+Entity: Transcript (ID: 16232055) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: Transcript (ID: 16232056) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: Transcript (ID: 16232049) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: Transcript (ID: 16232036) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: Transcript (ID: 16232023) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340, GWAS_EFO_0002690, GWAS_EFO_0004340, GWAS_EFO_0006335, GWAS_EFO_0004765
+Entity: Enhancer (ID: 25334425) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939
+Entity: Enhancer (ID: 24033551) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939
+Entity: Non Coding RNA (ID: 17354806) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: Non Coding RNA (ID: 17354807) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340, GWAS_EFO_0002690, GWAS_EFO_0004340, GWAS_EFO_0006335, GWAS_EFO_0004765
+Entity: Non Coding RNA (ID: 17354805) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: Non Coding RNA (ID: 17354804) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: ChromHMM State (ID: 22129057) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: ChromHMM State (ID: 21501980) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: ChromHMM State (ID: 20891195) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: ChromHMM State (ID: 20297938) -> Associated GWAS: GWAS_EFO_0004735, GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 19737274) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0003939, GWAS_EFO_0007796, GWAS_EFO_0004340
+Entity: chr_chain (ID: 329207) -> Associated GWAS: GWAS_EFO_0004340
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1297
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 208
+• Uncertain Significance: 1089
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not specified|not provided (n=8)
+
+

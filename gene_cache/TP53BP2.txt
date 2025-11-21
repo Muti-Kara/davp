@@ -1,0 +1,72 @@
+TP53BP2 Gene Biomedical Dossier
+Here is the comprehensive clinical genetics dossier for the human gene TP53BP2.
+
+### **Gene Identity & Clinical Context**
+*   **Gene Identifiers**: HGNC: 12000; OMIM: 602143.
+*   **Primary Disease Associations**: Primarily studied for its role as a tumor suppressor, where its downregulation is associated with the development and poor prognosis of multiple cancers, including hepatocellular carcinoma, breast cancer, lung cancer, and gastric cancer. It is also identified as a strong candidate gene for the central nervous system (CNS) defects observed in 1q41q42 microdeletion syndrome. A potential association with Primary Open Angle Glaucoma (POAG) has been reported in a single large family.
+*   **Clinical Significance Level**: The role of somatic TP53BP2 downregulation in cancer progression is well-documented. Its role as a causative gene for the CNS phenotype in the 1q41q42 microdeletion is rated as strong candidacy. The evidence for a role in monogenic POAG is currently limited, based on a single family study.
+*   **Inheritance Patterns**: For the potential association with POAG, an autosomal dominant inheritance pattern was speculated. For its role in cancer, alterations are typically somatic; a clear Mendelian inheritance pattern for cancer predisposition via germline variants is not well-established.
+
+### **Constraint & Variant Intolerance**
+*   **gnomAD Constraint Scores**: Numeric constraint scores (pLI, LOEUF) were not available in the provided search results.
+*   **Clinical Interpretation of Constraint**: Without specific constraint scores, a definitive interpretation of haploinsufficiency intolerance cannot be made. However, its potential role in the 1q41q42 microdeletion syndrome suggests a possible haploinsufficiency mechanism.
+*   **Variant Classes Most Likely to be Pathogenic**: Loss-of-function variants are implicated in cancer, as downregulation is consistently linked to tumorigenesis. Specific truncating variants and alternative splice variants have been shown to be oncogenic. Missense variants are also potentially pathogenic, as demonstrated in a family with POAG.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms**:
+    *   Hepatocellular carcinoma
+    *   Breast carcinoma (Triple-negative and Lobular)
+    *   Primary open-angle glaucoma
+    *   Lung cancer
+    *   Gastric cancer
+    *   Soft tissue sarcoma
+    *   Acute myeloid leukemia
+    *   Loss of retinal ganglion cells
+*   **Secondary HPO Terms**:
+    *   Chemotherapy resistance
+    *   Abnormality of cell migration
+    *   Decreased apoptosis
+    *   Increased cell proliferation
+*   **Age of Onset Patterns**: The associated cancers are typically adult-onset. The age of onset for the potential glaucoma phenotype was not specified.
+*   **Phenotype Severity Spectrum**: The associated cancer phenotypes are severe, often correlated with poor prognosis and low survival rates. The glaucoma phenotype was significant enough to affect multiple individuals across generations in a large family.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Phenotypes**: Reduced expression (loss-of-function) is broadly correlated with tumor initiation, progression, and metastasis across various cancers. A truncated isoform (t-TP53BP2) is associated with lobular breast carcinoma. An alternative splice variant (ASPP2κ) is prevalent in acute leukemia and considered oncogenic. A missense variant (p.Val37Met) has been linked to POAG.
+*   **Protein Domain-Specific Phenotype Patterns**: The C-terminal domain is critical for p53 interaction and pro-apoptotic function; an isoform lacking this domain is associated with colorectal tumors. The N-terminal region is involved in binding to RAS, which enhances p53-mediated apoptosis. The SH3 domain mediates interaction with the Hepatitis C virus NS5A protein.
+*   **Genotype-Phenotype Correlation Strength**: The correlation between TP53BP2 downregulation and poor prognosis in several major cancers is strong. The correlation between specific splice or truncated variants and certain cancers (leukemia, breast cancer) is moderate. The link between the p.Val37Met missense variant and POAG is currently weak, as it is based on a single family.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Characterized Pathogenic Variants**:
+    *   **HGVS**: c.109G>A (p.Val37Met) / **Significance**: Uncertain Significance (reported as potentially pathogenic) / **Reported Phenotypes**: Primary Open Angle Glaucoma / **AF**: Not reported in search results.
+*   **Variants with Strongest Phenotype Evidence**: Evidence for specific single nucleotide variants is limited in the provided search results. The strongest evidence relates to downregulation of the gene or expression of oncogenic isoforms rather than specific germline variants.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues & Clinical Correlation**: High expression is noted in the liver, mammary gland, lung, and stomach, which correlates with the observation that its downregulation is implicated in cancers of these organs. Expression in the retina and lens is consistent with its potential role in glaucoma.
+*   **Tissue-Specific Phenotypes Expected**: Loss of expression in the liver can lead to hepatocellular carcinoma. Loss of expression in breast tissue is associated with breast cancer. Altered function in retinal ganglion cells may contribute to glaucoma.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: TP53BP2 is a key regulator of apoptosis and cell growth, primarily through its interaction with and enhancement of the TP53 tumor suppressor.
+*   **Disease Mechanism**: In cancer, the primary mechanism is loss-of-function, acting as a tumor suppressor; this can occur via downregulation, truncating mutations, or the expression of dominant-negative/oncogenic isoforms. For developmental defects such as those in 1q41-q42 deletion syndrome, the mechanism is likely haploinsufficiency.
+*   **Cellular/Molecular Pathways Disrupted**: The central disrupted pathway is p53-mediated apoptosis. Its loss also dysregulates other critical pathways including RAS/MAPK, PI3K/AKT, and NF-κB, leading to increased cell proliferation and migration, and decreased apoptosis, which are hallmarks of cancer.
+*   **Protein-Protein Interactions Relevant to Phenotype**: Its direct binding to TP53 is essential for promoting apoptosis. Interactions with RAS, YAP, Bcl-2, and other proteins are also critical for regulating cell function and suppressing tumorigenesis.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: The diagnostic yield of sequencing TP53BP2 for specific Mendelian disorders is not yet established and was not reported in the search results.
+*   **Most Common Reasons for Testing**: Testing is most relevant in a research or clinical trial context to assess prognosis in cancers like hepatocellular carcinoma, where low expression correlates with poor outcomes. It could be considered in unsolved familial cases of POAG or individuals with features of 1q41-q42 microdeletion.
+*   **Clinical Actionability and Management Implications**: Low expression in tumors is associated with chemoresistance, which could potentially guide therapeutic choices. As its overexpression can induce apoptosis, it is being investigated as a potential therapeutic target in cancer.
+*   **Genetic Counseling Considerations**: Counseling for a variant associated with POAG would emphasize the limited evidence and unknown penetrance. For a germline variant found incidentally, counseling would be challenging due to the undefined cancer risks, though its role as a tumor suppressor would be discussed.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 37492707** (2022): A comprehensive review detailing the roles of TP53BP2 as a tumor suppressor in various cancers and its regulation of key signaling pathways like p53, RAS/MAPK, and PI3K/AKT.
+*   **PMID: 28246638** (2017): The first study to link a variant in TP53BP2 (p.Val37Met) to Primary Open Angle Glaucoma in a large family, suggesting it as a novel candidate gene.
+*   **PubMed (from Cancer Genetics Web)** (2019): Report on an alternative splice variant, ASPP2κ, acting as a stress-inducible, oncogenic isoform with high prevalence in acute leukemia.
+*   **NCBI Gene ID: 7159**: GeneRIF entry noting that TP53BP2 is a strong candidate gene for CNS defects in the 1q41q42 microdeletion syndrome.
+*   **PMID: 36166164** (2022): This study (part of a broader search result) highlights that TP53BP2 interacts with various proteins to regulate cell proliferation, apoptosis, and drug resistance, reinforcing its role as a potential antitumor target.
+*   **PMID: 31032230** (2019): Paper cited in search result indicating a truncated TP53BP2 isoform promotes tumorigenesis in lobular breast carcinoma through distinct mechanisms of actomyosin relaxation and YAP activation.
+*   **NCBI Gene ID: 7159**: GeneRIF entry showing that ASPP2 (TP53BP2) suppression promotes malignancy via LSR and YAP in human endometrial cancer.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: Downregulation or loss-of-function of TP53BP2 is strongly associated with cancer progression phenotypes, including increased cell proliferation, resistance to apoptosis, and poor prognosis in hepatocellular, breast, and other carcinomas.
+*   **Phenotype Red Flags**: The presence of lobular breast carcinoma or acute leukemia with specific oncogenic isoforms (t-TP53BP2, ASPP2κ) should raise suspicion of TP53BP2 involvement. While evidence is limited, familial POAG unexplained by other genes could be a minor red flag.
+*   **Differential Diagnosis Considerations**: For glaucoma, other POAG-associated genes (e.g., *MYOC*, *OPTN*) are primary considerations. Given its role as a p53 interactor, phenotypes overlapping with the p53 pathway dysfunction (e.g., Li-Fraumeni Syndrome) could be considered, although the genetic basis is distinct. For the 1q41-q42 deletion phenotype, other genes in the critical region, such as *DISP1*, must be considered.
+

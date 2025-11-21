@@ -1,0 +1,83 @@
+=== chr5:141184083G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs2697533
+• Chromosome: 5
+• Position: 141184083
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0/1
+• Quality Score: 956.64001465
+• Gene Names: PCDHB16
+• Databases: rs2697533
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.5898
+• gnomADg Allele Frequency: 0.5553
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 73
+• Allelic Depth (AD): [38, 32]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0004308: leukocyte count - The number of WHITE BLOOD CELLS per unit volume in venous BLOOD. A differential leukocyte count measures the relative numbers of the different types of white cells.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16157392) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Gene (ID: 16164791) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Gene (ID: 16166679) -> Associated GWAS: GWAS_EFO_0004308, GWAS_EFO_0004339, GWAS_EFO_0004747
+Entity: Gene (ID: 16181328) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Transcript (ID: 16291751) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Transcript (ID: 16318052) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Transcript (ID: 16318051) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Transcript (ID: 16325470) -> Associated GWAS: GWAS_EFO_0004308, GWAS_EFO_0004339, GWAS_EFO_0004747
+Entity: Transcript (ID: 16387394) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Non Coding RNA (ID: 17315945) -> Associated GWAS: GWAS_EFO_0004308, GWAS_EFO_0004339, GWAS_EFO_0004747
+Entity: Non Coding RNA (ID: 17315952) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Non Coding RNA (ID: 17315950) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Non Coding RNA (ID: 17315951) -> Associated GWAS: GWAS_EFO_0004339
+Entity: Non Coding RNA (ID: 17315948) -> Associated GWAS: GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 19682689) -> Associated GWAS: GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 20240968) -> Associated GWAS: GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 20831298) -> Associated GWAS: GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 21437213) -> Associated GWAS: GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 22066839) -> Associated GWAS: GWAS_EFO_0004339
+Entity: ChromHMM State (ID: 22666295) -> Associated GWAS: GWAS_EFO_0004339
+Entity: chr_chain (ID: 271888) -> Associated GWAS: GWAS_EFO_0004339
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 9203
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 896
+• Uncertain Significance: 8285
+• Other Classifications: 22
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not specified|not provided (n=29)
+• See cases (n=20)
+
+

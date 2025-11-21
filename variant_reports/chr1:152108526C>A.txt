@@ -1,0 +1,100 @@
+=== chr1:152108526C>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs879174342
+• Chromosome: 1
+• Position: 152108526
+• Reference Allele (REF): C
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: TCHH
+• Databases: rs879174342, COSV64274659, COSV64278294
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 7.4e-07
+• gnomADg Allele Frequency: 0.00013989999999999999
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004631: vitamin D measurement - A quantification of Vitamin D levels, typically in blood. Vitamin D includes both CHOLECALCIFEROLS and ERGOCALCIFEROLS, which have the common effect of preventing or curing RICKETS in animals. It can also be viewed as a hormone since it can be formed in SKIN by action of ULTRAVIOLET RAYS upon the precursors, 7-dehydrocholesterol and ERGOSTEROL, and acts on VITAMIN D RECEPTORS to regulate CALCIUM in opposition to PARATHYROID HORMONE (MeSH).25-hydroxyvitamin D or calcifediol, a prehormone precursor of vitamin D, is widely used as a proxy to quanitfy vitamin D levels in blood.|is about MeSH:D014807
+GWAS_EFO_0007825: balding measurement - quantification of the amount of balding in an individual
+GWAS_EFO_0007821: hair morphology measurement - quantification of some aspect of hair morphology such as hair density, colour, thickness or growth pattern
+GWAS_EFO_0007824: hair shape measurement - quantification of some aspect of hair shape, eg whether it is curly or straight
+GWAS_EFO_0005038: hair morphology - Any measurable or observable characteristic related to the shape, structure, color, or pattern of the fine, keratinized filamentous growths arising from the epidermis of mammals.
+GWAS_EFO_0005854: allergic rhinitis - Inflammation of the nasal mucous membranes caused by an IgE-mediated response to external allergens. The inflammation may also involve the mucous membranes of the sinuses, eyes, middle ear, and pharynx. Symptoms include sneezing, nasal congestion, rhinorrhea, and itching. It may lead to fatigue, drowsiness, and malaise thus causing impairment of the quality of life.
+GWAS_EFO_0008378: mosquito bite reaction size measurement - quantification of the size of a mosquito bite reaction, generally through the use of a standardised questionnaire
+GWAS_HP_0000964: Eczema - Eczema is a form of dermatitis. The term eczema is broadly applied to a range of persistent skin conditions and can be related to a number of underlying conditions. Manifestations of eczema can include dryness and recurring skin rashes with redness, skin edema, itching and dryness, crusting, flaking, blistering, cracking, oozing, or bleeding.|Eczema has several forms including atopic dermatitis, contact dermatitis, dyshidrotic eczema, nummular eczema, seborrheic dermatitis, and stasis dermatitis.
+GWAS_EFO_0000270: obsolete_asthma - A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.|Tendency of the smooth muscle of the tracheobronchial tree to contract more intensely in response to a given stimulus than it does in the response seen in normal individuals. This condition is present in virtually all symptomatic patients with asthma. The most prominent manifestation of this smooth muscle contraction is a decrease in airway caliber that can be readily measured in the pulmonary function laboratory.|A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).|A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, excercise, stress, reflux disease, medications, foods and emotional anxiety.
+GWAS_EFO_0008377: mosquito bite reaction itch intensity measurement - quanitifcation of the itch intensity of a mosquito bite reaction, generally through the use of a standardised questionnaire
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16177944) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Transcript (ID: 16373923) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Transcript (ID: 16373926) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 93517826) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 87463616) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 86957639) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 84579961) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 84227896) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 83146701) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 82881300) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 78456771) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 76882498) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 74330801) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 72275530) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 71977724) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 70202836) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038, GWAS_EFO_0007825
+Entity: Histone Modification Site (ID: 68690666) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 66025686) -> Associated GWAS: GWAS_EFO_0004631, GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 63961784) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 63647275) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 61873598) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 50086477) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 50261102) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: Histone Modification Site (ID: 51348399) -> Associated GWAS: GWAS_EFO_0004631
+Entity: Histone Modification Site (ID: 53259397) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: ChromHMM State (ID: 19541751) -> Associated GWAS: GWAS_EFO_0005038, GWAS_EFO_0005854, GWAS_EFO_0008378, GWAS_HP_0000964, GWAS_EFO_0000270, GWAS_EFO_0008377, GWAS_EFO_0004631
+Entity: ChromHMM State (ID: 20087810) -> Associated GWAS: GWAS_EFO_0004631
+Entity: ChromHMM State (ID: 21275977) -> Associated GWAS: GWAS_EFO_0004631
+Entity: ChromHMM State (ID: 22516246) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0007821, GWAS_EFO_0007824, GWAS_EFO_0005038
+Entity: chr_chain (ID: 98139) -> Associated GWAS: GWAS_EFO_0004631
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 16065
+• Pathogenic/Likely Pathogenic: 46
+• Benign/Likely Benign: 1629
+• Uncertain Significance: 14390
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Uncombable hair syndrome 3 (n=64)
+• not provided|not specified (n=20)
+• Bladder exstrophy-epispadias-cloacal extrophy complex (n=1)
+
+

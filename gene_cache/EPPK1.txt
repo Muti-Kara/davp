@@ -1,0 +1,61 @@
+EPPK1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID & OMIM Gene ID**: HGNC:15577, OMIM: 607553.
+*   **Primary Disease Associations**: The primary disease association for germline/mosaic variants is Autism Spectrum Disorder (ASD). EPPK1 is also implicated in various cancers through somatic changes, including lung, endometrial, and cervical cancer.
+*   **Clinical Significance Level**: There is **strong** evidence for association with Autism Spectrum Disorder, based on the identification of postzygotic mosaic mutations in affected individuals.
+*   **Inheritance Patterns**: The observed pathogenic variants associated with Autism Spectrum Disorder have occurred as postzygotic mosaic mutations.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: Numeric constraint values for EPPK1 from gnomAD were not available in the search results.
+*   **Clinical Interpretation of Constraint Scores**: Genes associated with neurodevelopmental disorders like autism are often intolerant to loss-of-function variation, which would be reflected by a high pLI (probability of being loss-of-function intolerant, >0.9) and a low LOEUF (loss-of-function observed/expected upper bound fraction, <0.35) score.
+*   **Variant Classes Most Likely to be Pathogenic**: Based on reported cases, non-synonymous mosaic mutations are a documented pathogenic variant class. Given the gene's large size, loss-of-function variants (nonsense, frameshift) could also be a mechanism, although this is speculative without specific constraint data.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: Specific HPO terms are not detailed in the provided search results. The primary associated phenotype is **Autism Spectrum Disorder** (HP:0000717).
+*   **Secondary HPO terms**: A general association with **Intellectual disability** is noted.
+*   **Age of Onset Patterns**: As the primary association is with a neurodevelopmental disorder, the age of onset is expected to be in childhood.
+*   **Phenotype Severity Spectrum**: The severity spectrum is not well-defined in the search literature, but the association is with Autism Spectrum Disorder, which itself has a wide spectrum of severity.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Postzygotic, non-synonymous mosaic mutations have been specifically linked to Autism Spectrum Disorder.
+*   **Protein Domain-Specific Phenotype Patterns**: No specific domain-phenotype correlations have been established in the provided search results. The protein consists of multiple homologous plakin repeats.
+*   **Genotype-Phenotype Correlation Strength**: The correlation between postzygotic mosaic mutations and Autism Spectrum Disorder is considered **strong**.
+*   **Examples: Specific Variants → Specific Phenotypes**: Four non-synonymous postzygotic mosaic mutations were identified in ASD probands, which is a statistically significant enrichment. Specific variant details were not provided in the search results.
+
+### **Clinical Variants & Phenotype Associations**
+*   No specific pathogenic variants with rsIDs or full HGVS nomenclature were identified in the provided search results.
+*   A study identified four non-synonymous postzygotic mosaic mutations in individuals with Autism Spectrum Disorder.
+*   ClinVar contains numerous variant entries for EPPK1, but specific pathogenic variants and associated HPO terms were not detailed in the search results.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: EPPK1 shows high expression in epithelial tissues, including the esophagus, skin, vagina, and colon. It is also expressed in the small intestine, liver, and pancreas.
+*   **Tissue-Specific Phenotypes Expected**: High expression in epithelial tissues is consistent with its role in cytoskeletal integrity and wound healing, as demonstrated in mouse models. Its role in neurodevelopmental phenotypes is less understood from an expression standpoint, though it is expressed in the embryonic and adult mouse retina.
+*   **Expression During Development and Age-Related Phenotypes**: The gene is expressed during fetal development. Expression in the developing mouse retina suggests a role in neural development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: EPPK1 encodes a cytoskeletal linker protein that connects to and organizes intermediate filaments, such as keratin, particularly in response to stress.
+*   **Disease Mechanism**: The mechanism for neurodevelopmental disorders is not fully elucidated but may involve altered cytoskeletal dynamics during brain development due to mosaic variants. In cancer, altered EPPK1 expression affects cell proliferation and signaling pathways. A gain-of-function mechanism has been proposed for pathogenic variants located near the end of some genes, but this has not been demonstrated for EPPK1.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: EPPK1 is part of the EGFR signaling pathway. In cancer models, it can activate the p38 MAPK and PI3K/AKT signaling pathways, promoting cell proliferation and migration. Disruption of its primary function in organizing keratin filaments can impair tissue integrity and response to injury.
+*   **Protein-Protein Interactions Relevant to Phenotype**: EPPK1 binds directly to keratin and vimentin intermediate filaments.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for *EPPK1* testing in unselected ASD cohorts is likely low and primarily relevant for detecting mosaic mutations.
+*   **Most Common Reasons for Testing This Gene**: Testing may be considered in individuals with Autism Spectrum Disorder, particularly if there is a suspicion of a mosaic genetic etiology.
+*   **Clinical Actionability and Management Implications**: There are no specific management guidelines based on an *EPPK1* finding. Management would be based on the clinical phenotype (e.g., supportive therapies for ASD). In cancer, high expression may indicate a poor prognosis and potentially poor response to immunotherapy.
+*   **Genetic Counseling Considerations**: Counseling for an ASD diagnosis associated with a mosaic *EPPK1* variant would involve discussing the sporadic nature of the event, with a generally low recurrence risk for parents.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38706750 (2024)**: Identified high *EPPK1* expression as an independent poor prognostic factor in type I endometrial cancer, correlating with higher tumor stage and metastasis.
+*   **PMID: 38595561 (2024)**: Showed that smoking upregulates *EPPK1* and that high expression is a poor prognostic biomarker for early-stage lung adenocarcinoma.
+*   **PMID: 28475858 (2017)**: Landmark study identifying a statistically significant enrichment of de novo postzygotic mosaic mutations in *EPPK1* in individuals with Autism Spectrum Disorder, establishing it as a strong candidate gene.
+*   **PMID: 34188203 (2021)**: A study on cervical cancer demonstrating that KLF5-mediated *EPPK1* expression promotes cell proliferation via the p38 signaling pathway.
+*   **PMID: 27206504 (2016)**: Mouse model study showing that epiplakin deficiency impairs keratin reorganization and exacerbates acute pancreatitis, highlighting its protective role under stress.
+*   **PMID: 23398049 (2013)**: Study in epiplakin-null mice demonstrating accelerated keratinocyte migration and wound healing, clarifying its role in modulating cell motility.
+*   **PMID: 14708632 (2003)**: Early paper describing the structure and heterogeneity of the human *EPPK1* gene, noting its large single coding exon.
+*   **PMID: 11278896 (2001)**: Characterized epiplakin as a novel member of the plakin family, detailing its structure and tissue localization.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: Non-synonymous mosaic variants in *EPPK1* are associated with **Autism Spectrum Disorder (HP:0000717)**.
+*   **Phenotype Red Flags**: The presence of Autism Spectrum Disorder or a broader neurodevelopmental phenotype should raise consideration for variants in *EPPK1*, particularly if standard germline testing is negative and a mosaic etiology is suspected.
+*   **Differential Diagnosis Considerations**: The phenotype of Autism Spectrum Disorder is genetically heterogeneous. Other genes associated with ASD, especially those functioning in cytoskeletal regulation or identified with mosaic mutations, should be considered. For cancer-related findings, the relevance is prognostic and somatic, distinct from germline disease causality.
+

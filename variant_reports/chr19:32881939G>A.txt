@@ -1,0 +1,85 @@
+=== chr19:32881939G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201150324
+• Chromosome: 19
+• Position: 32881939
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: CEP89
+• Databases: rs201150324
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 2.8330000000000005e-05
+• gnomADg Allele Frequency: 7.224000000000001e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005208: glomerular filtration rate - measurement of the flow rate of filtered fluid through the kidney, calculated either by comparative measurements of substances in the blood and urine, or estimated from a blood test
+GWAS_EFO_0004300: longevity - The  length of time of an organism's life.|Combine with age, or move?
+GWAS_EFO_0003884: chronic kidney disease - Conditions in which the KIDNEYS perform below the normal level for more than three months. Chronic kidney insufficiency is classified by five stages according to the decline in GLOMERULAR FILTRATION RATE and the degree of kidney damage (as measured by the level of PROTEINURIA). The most severe form is the end-stage renal disease (CHRONIC KIDNEY FAILURE). (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002)|The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION.|Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+GWAS_EFO_0004531: urate measurement - A urate measurement is the quantification of some urate in body fluid
+GWAS_EFO_0004518: creatinine measurement - A creatinine measurement is a measure of the metabolite creatinine in a sample. For example, in the serum, where it can be used in assessment of kidney function.
+GWAS_EFO_0005116: urinary metabolite measurement - quantification of some metabolite in urine
+GWAS_EFO_0005002: lysine measurement - The quantification of some lysine, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0004725: metabolite measurement - This is an annotation class for metabolite measurements where the exact metabolite measurements are unknown. Do not annotate to this class.|The quantification of some metabolite.
+GWAS_EFO_0010510: NG-monomethyl-arginine measurement - Quantification of NG-monomethyl-arginine levels in a sample.
+GWAS_EFO_0005664: blood metabolite measurement - quantification of some metabolite in blood
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16153346) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004300, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004531, GWAS_EFO_0004518, GWAS_EFO_0004300
+Entity: Transcript (ID: 16276967) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004300, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004531, GWAS_EFO_0004518, GWAS_EFO_0004300
+Entity: Transcript (ID: 16276999) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004300, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004531
+Entity: Transcript (ID: 16277008) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004300, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004531, GWAS_EFO_0004518, GWAS_EFO_0004300
+Entity: ChromHMM State (ID: 20568163) -> Associated GWAS: GWAS_EFO_0005116, GWAS_EFO_0005002, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004509, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004509, GWAS_EFO_0004305, GWAS_EFO_0004725, GWAS_EFO_0005116, GWAS_EFO_0004518, GWAS_EFO_0010510, GWAS_EFO_0004531, GWAS_EFO_0005664
+Entity: ChromHMM State (ID: 21173936) -> Associated GWAS: GWAS_EFO_0005116, GWAS_EFO_0005002, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004509, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004509, GWAS_EFO_0004305, GWAS_EFO_0004725, GWAS_EFO_0005116, GWAS_EFO_0004518, GWAS_EFO_0010510, GWAS_EFO_0004531, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004300
+Entity: ChromHMM State (ID: 21790105) -> Associated GWAS: GWAS_EFO_0004305, GWAS_EFO_0004725, GWAS_EFO_0005116, GWAS_EFO_0004518, GWAS_EFO_0010510, GWAS_EFO_0004531, GWAS_EFO_0005664
+Entity: ChromHMM State (ID: 22421532) -> Associated GWAS: GWAS_EFO_0005116, GWAS_EFO_0005002, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004509, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004509, GWAS_EFO_0004305, GWAS_EFO_0004725, GWAS_EFO_0005116, GWAS_EFO_0004518, GWAS_EFO_0010510, GWAS_EFO_0004531, GWAS_EFO_0005664
+Entity: ChromHMM State (ID: 22980977) -> Associated GWAS: GWAS_EFO_0005116, GWAS_EFO_0005002, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004509, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0005208, GWAS_EFO_0004509, GWAS_EFO_0004305, GWAS_EFO_0004725, GWAS_EFO_0005116, GWAS_EFO_0004518, GWAS_EFO_0010510, GWAS_EFO_0004531, GWAS_EFO_0005664
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3529
+• Pathogenic/Likely Pathogenic: 48
+• Benign/Likely Benign: 1205
+• Uncertain Significance: 2276
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|not specified (n=331)
+• Cystinuria (n=44)
+• not specified|not provided (n=30)
+• not provided|Cystinuria (n=8)
+• SLC7A9-related disorder (n=4)
+• not provided|SLC7A9-related disorder (n=4)
+• See cases (n=3)
+
+

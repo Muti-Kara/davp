@@ -1,0 +1,66 @@
+GOLGA8S Gene Biomedical Dossier
+### **Gene Dossier: GOLGA8S**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 44409
+*   **OMIM Gene ID:** Not listed in OMIM, which focuses on phenotypes.
+*   **Primary Disease Associations:** While directly causative pathogenic variants in *GOLGA8S* have not been definitively established to cause a specific Mendelian disease, its location in the 15q11.2 region associates it with disorders involving this cytogenetic band, such as Angelman syndrome and Prader-Willi syndrome. It is also considered a candidate gene in cohorts of patients with developmental disorders.
+*   **Clinical Significance Level:** The evidence for *GOLGA8S* as a disease-causing gene is currently limited, and it would be considered a gene with limited or uncertain clinical evidence.
+*   **Inheritance Patterns Observed in Patients:** As the gene is primarily associated with large copy number variations (deletions) in the 15q11-q13 region, the inheritance is typically de novo or follows the pattern of the larger genomic rearrangement.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** A search of the gnomAD database (v4.0) did not yield specific constraint metrics for *GOLGA8S*. These scores (pLI, LOEUF) are calculated for individual genes, and their absence may reflect low coverage, its location within a complex genomic region, or other data quality issues.
+*   **Clinical Interpretation of Constraint Scores:** The probability of being loss-of-function intolerant (pLI) and the loss-of-function observed/expected upper bound fraction (LOEUF) are metrics used to assess a gene's tolerance to inactivating variants. A high pLI (≥0.9) or a low LOEUF (<0.35 in gnomAD v2) suggests a gene is intolerant to loss-of-function (LoF) variants and is more likely to be associated with a dominant disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Given its association with genomic disorders of the 15q11.2 region, large-scale copy number variants (deletions) that include *GOLGA8S* are known to be pathogenic. The pathogenicity of single nucleotide variants (SNVs) or smaller indels within *GOLGA8S* is not well-established.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As *GOLGA8S* is associated with the 15q13.3 microdeletion syndrome, the primary HPO terms are those linked to this condition:
+    *   Intellectual disability (HP:0001249)
+    *   Seizures (HP:0001250)
+    *   Autism spectrum disorder (HP:0000717)
+    *   Schizophrenia (HP:0100753)
+    *   Delayed speech and language development (HP:0000750)
+    *   Motor delay (HP:0001270)
+    *   Muscular hypotonia (HP:0001252)
+*   **Secondary HPO terms:** Less consistently reported phenotypes may include:
+    *   Abnormal facial shape (HP:0001999)
+    *   Microcephaly (HP:0000252)
+    *   Behavioral abnormality (HP:0000708)
+*   **Age of Onset Patterns:** Phenotypes associated with the 15q13.3 deletion syndrome are typically observed from infancy or early childhood.
+*   **Phenotype Severity Spectrum:** The severity of phenotypes associated with 15q13.3 deletions is variable, ranging from mild learning difficulties to severe intellectual disability and refractory epilepsy.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Deletions of the 15q13.3 region, which includes *GOLGA8S* and other genes like *CHRNA7*, are associated with neurodevelopmental and psychiatric phenotypes. There is insufficient data to correlate specific smaller variants within *GOLGA8S* to distinct phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** *GOLGA8S* contains a Golgin-A conserved domain. However, no specific phenotype patterns have been linked to variants within this or other domains of the protein.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between large deletions encompassing *GOLGA8S* and neurodevelopmental phenotypes is strong. The correlation for variants solely affecting *GOLGA8S* is currently unknown.
+
+**Clinical Variants & Phenotype Associations**
+*   No specific pathogenic or likely pathogenic single-nucleotide variants in *GOLGA8S* are extensively documented in ClinVar with detailed phenotype correlations. The primary pathogenic events are large structural variations. For example, the recurrent 15q13.3 microdeletion is a known pathogenic copy number variant.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** According to GTEx data, *GOLGA8S* is most highly expressed in the testis. Its paralog, *GOLGA8G*, is also highly expressed in the testis. The clinical relevance of this specific expression pattern to the known neurodevelopmental phenotypes is not clear and may suggest other, undiscovered roles.
+*   **Tissue-Specific Phenotypes Expected:** Given the primary associations with neurodevelopmental disorders, altered expression or function in the brain would be expected to contribute to the phenotype, despite the high expression in the testis.
+*   **Expression During Development and Age-Related Phenotypes:** Information on the developmental expression patterns of *GOLGA8S* is not readily available from the search results.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function in One Sentence:** *GOLGA8S* is a protein-coding gene predicted to be involved in Golgi organization and located in the Golgi apparatus.
+*   **Disease Mechanism:** The phenotypes associated with the 15q13.3 region are thought to be due to haploinsufficiency, where the deletion of one copy of the gene(s) leads to disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** *GOLGA8S* is predicted to be involved in Golgi organization. Disruption of Golgi function can impact protein sorting, modification, and transport, which are critical for neuronal function and development. Its paralogs are also involved in the Prader-Willi and Angelman syndrome pathway. A recent study suggested a role for GOLGA8 proteins in the uptake of antisense oligonucleotides, indicating a function at the plasma membrane or in endocytic pathways.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The search results did not provide specific protein-protein interactions for GOLGA8S relevant to disease phenotypes.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for 15q13.3 microdeletions is a standard part of the diagnostic workup for individuals with developmental delay, intellectual disability, and epilepsy. The yield of detecting this specific deletion in such cohorts is significant. The diagnostic yield for SNVs in *GOLGA8S* is unknown.
+*   **Most Common Reasons for Testing This Gene:** Testing is typically done as part of a chromosomal microarray or exome sequencing for patients with unexplained neurodevelopmental disorders.
+*   **Clinical Actionability and Management Implications:** An individual with a 15q13.3 microdeletion would be monitored for seizures, developmental delays, and psychiatric conditions. Management is supportive and symptomatic.
+*   **Genetic Counseling Considerations:** Counseling would involve discussion of the variability in clinical presentation, the possibility of inheritance from an unaffected or mildly affected parent carrying the deletion, and the risk of recurrence in future pregnancies.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 18311144, 2008:** Sharp et al. first described the recurrent 15q13.3 microdeletion syndrome associated with mental retardation and seizures.
+*   **PMID: 25529636, 2014:** Antonacci et al. investigated the role of palindromic *GOLGA8* core duplicons in promoting the instability of chromosome 15q13.3, highlighting the architectural basis for the recurrent microdeletion.
+*   **Recent Publications:** No landmark clinical genetics publications focusing specifically on *GOLGA8S* variants and phenotype correlations were identified in the search results from 2020-2025. Research continues to focus on the broader 15q13.3 region.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Large deletions that include *GOLGA8S* are strongly associated with Intellectual disability (HP:0001249), Seizures (HP:0001250), and Autism spectrum disorder (HP:0000717).
+*   **Phenotype red flags:** The co-occurrence of intellectual disability, epilepsy, and features of autism should raise suspicion for a genomic disorder in the 15q13.3 region.
+*   **Differential Diagnosis Considerations:** The phenotype of the 15q13.3 microdeletion syndrome overlaps with numerous other genetic conditions that cause intellectual disability and epilepsy. It shares features with other genomic disorders and single-gene disorders affecting neuronal development.
+

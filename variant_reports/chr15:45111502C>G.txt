@@ -1,0 +1,138 @@
+=== chr15:45111502C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs2467828
+• Chromosome: 15
+• Position: 45111502
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: DUOX2
+• Databases: rs2467828
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign, likely_benign, uncertain_significance
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.001334
+• gnomADg Allele Frequency: 0.001455
+• 1KG Frequency: 0.0034000000000000002
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0006334: total iron binding capacity - The determination of the saturation of iron binding sites on serum transferrin proteins.
+GWAS_EFO_0004459: ferritin measurement - A ferritin measurement a is measurement of ferritin level  in serum as an indicator of iron metabolism
+GWAS_EFO_0006333: transferrin saturation measurement - The determination of the iron bound to transferrin in a sample.
+GWAS_EFO_0006332: serum iron measurement - quantification of the amount of iron in a blood sample used in the diagnosis of familial hemochromatosis
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16176818) -> Associated GWAS: GWAS_EFO_0006334, GWAS_EFO_0004459, GWAS_EFO_0006333, GWAS_EFO_0006332
+Entity: Transcript (ID: 16368577) -> Associated GWAS: GWAS_EFO_0006334, GWAS_EFO_0004459, GWAS_EFO_0006333, GWAS_EFO_0006332
+Entity: Transcript (ID: 16368583) -> Associated GWAS: GWAS_EFO_0006334, GWAS_EFO_0004459, GWAS_EFO_0006333, GWAS_EFO_0006332
+Entity: Transcript (ID: 16368570) -> Associated GWAS: GWAS_EFO_0006334, GWAS_EFO_0004459, GWAS_EFO_0006333, GWAS_EFO_0006332
+Entity: ChromHMM State (ID: 22904924) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0006334, GWAS_EFO_0004459, GWAS_EFO_0006333, GWAS_EFO_0006332
+Entity: ChromHMM State (ID: 19907992) -> Associated GWAS: GWAS_EFO_0006334, GWAS_EFO_0004459, GWAS_EFO_0006333, GWAS_EFO_0006332
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 18799
+• Pathogenic/Likely Pathogenic: 3319
+• Benign/Likely Benign: 7914
+• Uncertain Significance: 7566
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=1142)
+• Thyroid dyshormonogenesis 6|not provided (n=889)
+• Thyroid dyshormonogenesis 6 (n=869)
+• not provided|Thyroid dyshormonogenesis 6 (n=520)
+• not provided|Inborn genetic diseases (n=505)
+• Thyroglobulin synthesis defect (n=163)
+• Inborn genetic diseases|not provided (n=144)
+• Genetic transient congenital hypothyroidism (n=139)
+• not provided|Thyroid dyshormonogenesis 6|not specified (n=87)
+• not provided|not specified (n=84)
+• DUOX2-related disorder (n=79)
+• Thyroid dyshormonogenesis 6|not provided|not specified (n=68)
+• DUOX2-related disorder|not provided (n=49)
+• Thyroid dyshormonogenesis 6|not provided|DUOX2-related disorder (n=46)
+• not provided|Thyroid dyshormonogenesis 6|Congenital hypothyroidism|DUOX2-related disorder|Inborn genetic diseases|Familial thyroid dyshormonogenesis (n=40)
+• Thyroid dyshormonogenesis 6|Congenital hypothyroidism|not provided|not specified|Familial thyroid dyshormonogenesis (n=40)
+• Thyroid dyshormonogenesis 6|not provided|Inborn genetic diseases (n=39)
+• not provided|DUOX2-related disorder (n=38)
+• not provided|Thyroid dyshormonogenesis 6|Inborn genetic diseases (n=31)
+• Congenital hypothyroidism|not provided (n=30)
+• Thyroid dyshormonogenesis 6|See cases|not provided (n=25)
+• not provided|See cases (n=25)
+• Thyroid dyshormonogenesis 6|not provided|Familial thyroid dyshormonogenesis (n=16)
+• Thyroid dyshormonogenesis 6|not specified (n=16)
+• Inborn genetic diseases|Thyroid dyshormonogenesis 6 (n=13)
+• Familial thyroid dyshormonogenesis (n=12)
+• Inborn genetic diseases|not specified (n=12)
+• Thyroglobulin synthesis defect|not provided (n=12)
+• not provided|DUOX2-related disorder|Thyroid dyshormonogenesis 6 (n=11)
+• not provided|not specified|Thyroid dyshormonogenesis 6 (n=11)
+• not specified|Thyroid dyshormonogenesis 6|not provided (n=11)
+• Thyroid dyshormonogenesis 6|Inborn genetic diseases|not provided (n=10)
+• Thyroid dyshormonogenesis 6|not specified|not provided (n=10)
+• Congenital hypothyroidism (n=10)
+• not provided|Inborn genetic diseases|DUOXA2-related disorder|not specified (n=10)
+• not provided|Thyroid dyshormonogenesis 6|Familial thyroid dyshormonogenesis (n=9)
+• not specified|Thyroid dyshormonogenesis 6 (n=8)
+• Thyroid dyshormonogenesis 6|not provided|DUOX2-related disorder|Familial thyroid dyshormonogenesis (n=8)
+• not specified|not provided|Thyroid dyshormonogenesis 6 (n=8)
+• not provided|Thyroid dyshormonogenesis 6|DUOX2-related disorder|Familial thyroid dyshormonogenesis (n=7)
+• Thyroid dyshormonogenesis 6|Familial thyroid dyshormonogenesis|Nongoitrous Euthyroid Hyperthyrotropinemia|not provided|Inborn genetic diseases|DUOX2-related disorder (n=7)
+• Thyroid dyshormonogenesis 6|Inborn genetic diseases (n=7)
+• not provided|not specified|Inborn genetic diseases (n=7)
+• not provided|Thyroid dyshormonogenesis 6|Congenital hypothyroidism (n=6)
+• Familial thyroid dyshormonogenesis|not provided|Inborn genetic diseases|Nongoitrous Euthyroid Hyperthyrotropinemia|Congenital hypothyroidism|Thyroid dyshormonogenesis 6|DUOX2-related disorder|Familial thyroid dyshormonogenesis (n=6)
+• not specified|Inborn genetic diseases (n=6)
+• Nongoitrous Euthyroid Hyperthyrotropinemia|Thyroid dyshormonogenesis 6|not provided|DUOX2-related disorder|Familial thyroid dyshormonogenesis (n=6)
+• Thyroid dyshormonogenesis 6|not provided|Genetic transient congenital hypothyroidism (n=6)
+• Nongoitrous Euthyroid Hyperthyrotropinemia|Thyroid dyshormonogenesis 6|not provided (n=6)
+• not specified|Thyroid dyshormonogenesis 6|not provided|DUOX2-related disorder (n=6)
+• not provided|Thyroglobulin synthesis defect|Congenital hypothyroidism|not specified|Inborn genetic diseases|DUOXA2-related disorder (n=6)
+• Thyroglobulin synthesis defect|Familial thyroid dyshormonogenesis (n=6)
+• not specified|not provided|Congenital hypothyroidism|Inborn genetic diseases|DUOXA2-related disorder (n=6)
+• See cases|not provided (n=5)
+• not provided|Thyroid dyshormonogenesis 6|DUOX2-related disorder|not specified (n=5)
+• not provided|Congenital hypothyroidism|Inborn genetic diseases|not specified|Familial thyroid dyshormonogenesis (n=5)
+• DUOX2-related disorder|not provided|Thyroid dyshormonogenesis 6 (n=5)
+• Thyroglobulin synthesis defect|Inborn genetic diseases|Familial thyroid dyshormonogenesis (n=5)
+• Anomalous pulmonary venous return (n=4)
+• Inborn genetic diseases|not specified|not provided (n=4)
+• Thyroid dyshormonogenesis 6|Nongoitrous Euthyroid Hyperthyrotropinemia (n=4)
+• not provided|Inborn genetic diseases|Thyroid dyshormonogenesis 6 (n=4)
+• Thyroid dyshormonogenesis 6|not provided|not specified|Inborn genetic diseases (n=4)
+• not specified|Familial thyroid dyshormonogenesis (n=4)
+• Genetic transient congenital hypothyroidism|not provided (n=4)
+• Thyroid dyshormonogenesis 6|not provided|DUOX2-related disorder|not specified|Inborn genetic diseases (n=4)
+• Thyroid dyshormonogenesis 6|Familial thyroid dyshormonogenesis (n=4)
+• Genetic transient congenital hypothyroidism|not provided|DUOX2-related disorder (n=4)
+• Idiopathic basal ganglia calcification 1 (n=4)
+• Inborn genetic diseases|Thyroid dyshormonogenesis 6|not provided (n=4)
+
+

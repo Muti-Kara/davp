@@ -1,0 +1,81 @@
+MCM7 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID:** 6950
+– **OMIM Gene ID:** 600592
+– **Primary Disease Associations:**
+    - Autosomal Recessive Primary Microcephaly (MCPH) and Intellectual Disability
+    - Meier-Gorlin Syndrome
+    - A multi-system disorder with features including neonatal progeroid appearance, lipodystrophy, and adrenal insufficiency
+– **Clinical Significance Level:** Evidence for association with the above phenotypes is emerging, with case reports and functional studies supporting pathogenicity.
+– **Inheritance Patterns Observed in Patients:** Autosomal recessive inheritance is documented for primary microcephaly and Meier-Gorlin syndrome-related phenotypes.
+
+### **Constraint & Variant Intolerance**
+– **pLI, LOEUF, pRec, pNull:**
+    - The probability of being loss-of-function intolerant (pLI) score is a metric to assess a gene's tolerance to protein-truncating variants, with a value ≥ 0.9 indicating extreme intolerance.
+    - The loss-of-function observed/expected upper bound fraction (LOEUF) is a continuous metric of a gene's intolerance to loss-of-function variation.
+– **Clinical Interpretation of Constraint Scores:** The gnomAD database provides constraint scores like pLI and LOEUF that help in interpreting variant pathogenicity. Low LOEUF scores suggest a gene is intolerant to loss-of-function variation.
+– **Variant Classes Most Likely to be Pathogenic:** Biallelic missense and likely loss-of-function variants have been reported as pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+– **Primary HPO terms:**
+    - Microcephaly (HP:0000252)
+    - Severe intellectual disability (HP:0010864)
+    - Growth delay (HP:0001510)
+    - Speech impairment
+    - Motor impairment
+    - Behavioral abnormalities
+    - Adrenal insufficiency (HP:0000846)
+    - Lipodystrophy (HP:0009125)
+    - Progeroid appearance
+– **Secondary HPO terms:**
+    - Frontal bossing (HP:0002007)
+– **Age of Onset Patterns:** Phenotypes such as primary microcephaly are congenital. Other features like lipodystrophy and adrenal insufficiency can develop later in life.
+– **Phenotype Severity Spectrum:** The severity of phenotypes associated with MCM7 variants can range from typical Meier-Gorlin syndrome to a more complex and severe multi-system disorder.
+
+### **Genotype-Phenotype Correlations**
+– **Variant Classes and Their Typical Phenotypes:** Homozygous missense mutations have been linked to autosomal recessive primary microcephaly with intellectual disability. Biallelic variants, including missense mutations, are associated with a spectrum from Meier-Gorlin syndrome to a progeroid syndrome with lipodystrophy and adrenal insufficiency.
+– **Protein Domain-Specific Phenotype Patterns:** The MCM7 protein contains a highly conserved MCM domain essential for its function. A homozygous missense variant (p.Ala265Thr) located in a highly conserved region has been identified in patients with primary microcephaly and intellectual disability.
+– **Genotype-Phenotype Correlation Strength:** There is an emerging correlation between biallelic MCM7 variants and developmental disorders. However, the observation of disparate clinical features in patients with similar variant profiles suggests a complex genotype-phenotype relationship that may be influenced by other factors.
+– **Examples: Specific Variants → Specific Phenotypes:**
+    - A homozygous missense variant c.793G>A (p.Ala265T) in MCM7 was identified in three individuals with primary microcephaly, severe intellectual disability, and motor and speech impairments.
+    - A patient with typical Meier-Gorlin syndrome was found to have biallelic variants in MCM7.
+    - Another patient with a multi-system disorder including progeroid appearance, lipodystrophy, and adrenal insufficiency also had biallelic MCM7 variants.
+
+### **Clinical Variants & Phenotype Associations**
+– **NM_005916.5(MCM7):c.793G>A (p.Ala265T)** / rs-not-available / Pathogenic / Primary microcephaly, severe intellectual disability, speech and motor impairments
+– **NM_005916.5(MCM7):c.1579C>T (p.Arg527Ter)** / rs-not-available / Pathogenic / Meier-Gorlin syndrome
+– **NM_005916.5(MCM7):c.776G>C (p.Gly259Ala)** / rs-not-available / Pathogenic / Meier-Gorlin syndrome
+– **NM_005916.5(MCM7):c.1616A>G (p.Tyr539Cys)** / rs-not-available / Pathogenic / Meier-Gorlin syndrome
+– **NM_005916.5(MCM7):c.415C>T (p.Gln139Ter)** / rs-not-available / Pathogenic / Meier-Gorlin syndrome
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** MCM7 is highly expressed in proliferating cells. Studies in mice show high expression of Mcm7 in the proliferative zones of the brain during early development, consistent with its role in neurogenesis. This aligns with the neurological phenotypes, such as microcephaly, observed in patients.
+– **Tissue-Specific Phenotypes Expected:** Given its crucial role in DNA replication, pathogenic variants in MCM7 are expected to affect rapidly dividing tissues, leading to developmental defects like microcephaly and growth retardation.
+– **Expression During Development and Age-Related Phenotypes:** Mcm7 expression is higher during early mouse developmental stages. This is consistent with congenital phenotypes like primary microcephaly.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function in One Sentence:** MCM7 is a core component of the MCM2-7 complex, which functions as the replicative helicase essential for initiating and elongating DNA replication once per cell cycle.
+– **Disease Mechanism:** Pathogenic variants in MCM7 can lead to a dysfunctional protein, impairing the formation and function of the MCM complex. This results in reduced efficiency of S-phase progression and can lead to genomic instability. The mechanism is generally considered loss-of-function.
+– **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the MCM2-7 complex function impairs DNA replication, which is fundamental for cell proliferation. Inaccurate DNA replication can lead to a decrease in proliferating cells, particularly in critical developmental processes like neurogenesis, resulting in brain malformations such as microcephaly. The MCM complex is a key part of the pre-replication complex (pre_RC).
+– **Protein-Protein Interactions Relevant to Phenotype:** MCM7 interacts with other MCM proteins (MCM2-6) to form the hexameric MCM complex. Variants can disrupt these interactions, affecting the stability and function of the entire complex.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts:** Whole-exome sequencing has been successful in identifying biallelic MCM7 variants in individuals with neurodevelopmental disorders and features of Meier-Gorlin syndrome.
+– **Most Common Reasons for Testing This Gene:** Testing for MCM7 variants should be considered in patients presenting with primary microcephaly, intellectual disability, and/or features of Meier-Gorlin syndrome, especially when other known causes have been excluded.
+– **Clinical Actionability and Management Implications:** Currently, management is supportive and tailored to the patient's specific symptoms. A definitive molecular diagnosis can guide genetic counseling.
+– **Genetic Counseling Considerations:** For autosomal recessive conditions, parents of an affected child are obligate carriers. There is a 25% chance of having another affected child with each pregnancy.
+
+### **Key Clinical Literature & Studies**
+– **PMID: 34059554, 2022:** Reported a homozygous missense mutation in MCM7 causing autosomal recessive primary microcephaly and intellectual disability, highlighting the crucial role of MCM7 in nervous system development.
+– **PMID: 33654309, 2021:** Described biallelic MCM7 variants in patients with a phenotypic spectrum from Meier-Gorlin syndrome to a multi-system disorder with lipodystrophy and adrenal insufficiency, expanding the clinical genetics of disrupted DNA replication.
+– **New Genotype-Phenotype Correlations Discovered:** Recent studies have established a link between biallelic MCM7 mutations and a spectrum of human developmental disorders, including primary microcephaly and Meier-Gorlin syndrome-related phenotypes.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations:**
+    - Homozygous missense variants (e.g., p.Ala265T) are strongly associated with a phenotype of primary microcephaly (HP:0000252) and severe intellectual disability (HP:0010864).
+    - Biallelic variants, including truncating and missense changes, are associated with growth delay (HP:0001510) and features of Meier-Gorlin syndrome.
+– **Phenotype red flags:**
+    - The combination of congenital microcephaly (HP:0000252), severe intellectual disability (HP:0010864), and growth retardation (HP:0001510) in the absence of other major malformations is highly suggestive of an MCM7-related disorder.
+– **Differential Diagnosis Considerations:**
+    - The phenotype of MCM7 mutations overlaps with other disorders caused by variants in genes involved in DNA replication and repair. This includes other forms of autosomal recessive primary microcephaly (MCPH) and Meier-Gorlin syndrome caused by mutations in genes like ORC1, ORC4, ORC6, CDT1, and CDC6.
+

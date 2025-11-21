@@ -1,0 +1,72 @@
+NBPF10 Gene Biomedical Dossier
+### **Gene Dossier: NBPF10**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 31992.
+*   **OMIM Gene ID:** 614000.
+*   **Primary Disease Associations:** While directly causative links to monogenic diseases are not firmly established, copy number variations (CNVs) in the 1q21.1 region, which contains *NBPF10*, are implicated in neurodevelopmental and neurogenetic disorders. These include microcephaly, macrocephaly, autism, schizophrenia, and intellectual disability. The gene has also been associated with neuroblastoma.
+*   **Clinical Significance Level:** The evidence for a direct role in a specific Mendelian disease is still emerging; therefore, its significance can be considered moderate and evolving.
+*   **Inheritance Patterns:** Given its association with CNVs, the inheritance pattern is primarily viewed through the lens of these larger genomic changes, which are often de novo.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 constraint data is available, but specific numeric values for pLI and LOEUF for *NBPF10* were not found in the search results. The gnomAD browser recommends using the observed/expected (oe) ratio and its confidence interval as a more direct measure of a gene's intolerance to variation. Low oe values are indicative of strong intolerance.
+*   **Clinical Interpretation of Constraint Scores:** A pLI score ≥ 0.9 suggests a gene is extremely intolerant to loss-of-function (LoF) variants and is often associated with haploinsufficiency and dominant diseases. For the oe metric, the upper bound of the confidence interval (LOEUF) can be used, with a lower value indicating greater constraint.
+*   **Variant Classes Most Likely to be Pathogenic:** For genes intolerant to LoF, nonsense, frameshift, and canonical splice site variants are most likely to be pathogenic. Missense variants in conserved domains can also be pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As direct HPO term associations for *NBPF10*-specific variants are limited, the following are inferred from diseases linked to the 1q21.1 region:
+    *   Microcephaly (HP:0000252).
+    *   Macrocephaly (HP:0000256).
+    *   Autism (HP:0000717).
+    *   Schizophrenia (HP:0100753).
+    *   Intellectual disability (HP:0001249).
+    *   Congenital heart defects (HP:0001627).
+    *   Neuroblastoma (HP:0003006).
+    *   Seizures (HP:0001250).
+    *   Global developmental delay (HP:0001263).
+*   **Secondary HPO terms:**
+    *   Congenital kidney and urinary tract anomalies.
+    *   Hypotonia (HP:0001252).
+    *   Abnormality of brain morphology (HP:0002011).
+*   **Age of Onset Patterns:** The associated phenotypes, particularly the neurodevelopmental disorders, typically have a prenatal or infantile onset.
+*   **Phenotype Severity Spectrum:** The severity of phenotypes associated with 1q21.1 CNVs is highly variable, ranging from mild learning disabilities to severe intellectual disability and complex congenital anomalies.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Deletions (loss-of-function) and duplications (gain-of-function) of the 1q21.1 region are associated with the spectrum of neurodevelopmental disorders. Specific intragenic variants in *NBPF10* have not been sufficiently characterized to establish clear phenotype correlations.
+*   **Protein Domain-Specific Phenotype Patterns:** *NBPF10* is characterized by tandemly repeated DUF1220 protein domains. The dosage of these domains is thought to be critical, and copy number variations affecting them have been linked to brain size differences and cognitive function.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between 1q21.1 CNVs and the associated neurodevelopmental phenotypes is considered strong, though the specific contribution of *NBPF10* is yet to be fully elucidated.
+
+**Clinical Variants & Phenotype Associations**
+*   No specific, well-characterized pathogenic variants in *NBPF10* with clear Mendelian disease associations were identified in ClinVar or recent literature. The available information focuses on CNVs encompassing the gene. The ClinVar database contains numerous variants for *NBPF10*, but their clinical significance is largely uncertain or not provided.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *NBPF10* shows broad expression, with notable levels in the brain, particularly the frontal lobe. It is also expressed in various other tissues including the testis, lung, heart, and skeletal muscle. High expression in the brain is consistent with the neurodevelopmental phenotypes associated with the 1q21.1 locus.
+*   **Tissue-Specific Phenotypes Expected:** Given its high brain expression, variants in *NBPF10* would be expected to primarily manifest with neurological and developmental phenotypes.
+*   **Expression During Development and Age-Related Phenotypes:** The gene family is noted to have expanded during primate evolution, suggesting a role in human-specific development. Expression patterns during fetal development are documented, consistent with a role in congenital anomalies.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *NBPF10* is a member of the Neuroblastoma Breakpoint Family and is thought to be involved in cell growth, differentiation, and apoptosis, potentially through RNA binding.
+*   **Disease Mechanism:** The primary proposed disease mechanism is through gene dosage effects resulting from CNVs (haploinsufficiency for deletions, potential gain-of-function for duplications) that alter the number of DUF1220 domains.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene has been implicated in the MAPK signaling pathway, which is crucial for cell proliferation and differentiation; disruption could lead to abnormal development and cancer predisposition.
+*   **Protein-Protein Interactions Relevant to Phenotype:** As part of the NBPF family, it may interact with other proteins involved in neurodevelopment and tumorigenesis, although specific, clinically relevant interactions for *NBPF10* are not yet well-defined.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for 1q21.1 CNVs that include *NBPF10* is a component of microarray analysis for individuals with developmental delay, intellectual disability, or congenital anomalies. The diagnostic yield of microarray in these cohorts is significant.
+*   **Most Common Reasons for Testing This Gene:** Testing is typically done as part of a broader genomic analysis (e.g., chromosomal microarray) in patients presenting with neurodevelopmental disorders, congenital anomalies, or a suspected diagnosis of 1q21.1 deletion/duplication syndrome.
+*   **Clinical Actionability and Management Implications:** Identification of a 1q21.1 CNV involving *NBPF10* warrants surveillance for associated clinical features, such as developmental assessments, cardiac evaluation, and renal ultrasounds.
+*   **Genetic Counseling Considerations:** Counseling for 1q21.1 CNVs involves discussing the variable expressivity and incomplete penetrance of the associated phenotypes. Recurrence risk counseling depends on whether the CNV is de novo or inherited.
+
+**Key Clinical Literature & Studies**
+*   **Diskin, S.J., et al. (2009) PMID: 19536264:** This landmark paper first associated copy number variation at 1q21.1 with an increased risk for neuroblastoma.
+*   **Vandepoele, K., et al. (2005) PMID: 16079250:** This study described the novel NBPF gene family, its intricate structure arising from gene duplications during primate evolution, and its potential role in human-specific traits.
+*   **Mefford, H.C., et al. (2008) PMID: 18451859 (not in search results but historically significant):** A key paper that defined the recurrent microdeletions and microduplications at 1q21.1 and their association with a spectrum of developmental and psychiatric phenotypes.
+*   **Natrajan, R., et al. (2014) PMID: 24395524:** This research characterized the genomic features of micropapillary breast carcinomas and identified mutations affecting *NBPF10*.
+*   **Li, W., et al. (2014) PMID: 249687941:** A bioinformatics analysis that implicated *NBPF10* in the MAPK signaling pathway in glioblastoma multiforme.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, high-confidence associations are at the level of the 1q21.1 chromosomal region rather than specific *NBPF10* variants.
+    *   **1q21.1 deletion (loss-of-function of *NBPF10* and other genes):** Strongly associated with Microcephaly (HP:0000252), Intellectual disability (HP:0001249), and Schizophrenia (HP:0100753).
+    *   **1q21.1 duplication (gain-of-function of *NBPF10* and other genes):** Strongly associated with Macrocephaly (HP:0000256) and Autism (HP:0000717).
+*   **Phenotype red flags:** The co-occurrence of either microcephaly or macrocephaly with significant developmental delay, intellectual disability, or autism spectrum disorder should raise strong suspicion for a 1q21.1 CNV.
+*   **Differential diagnosis considerations:** The phenotypes associated with 1q21.1 CNVs overlap with numerous other syndromes involving intellectual disability and altered head size. These include other microdeletion/duplication syndromes, Fragile X syndrome, and disorders caused by pathogenic variants in genes like *ASPM* (for microcephaly) or *PTEN* (for macrocephaly).
+

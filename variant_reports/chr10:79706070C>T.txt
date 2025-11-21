@@ -1,0 +1,131 @@
+=== chr10:79706070C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs3871230
+• Chromosome: 10
+• Position: 79706070
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: NUTM2B-AS1, NUTM2B
+• Databases: rs3871230, COSV61135886
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.11410000000000001
+• gnomADg Allele Frequency: 0.15480000000000002
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 49705
+• Pathogenic/Likely Pathogenic: 7255
+• Benign/Likely Benign: 23593
+• Uncertain Significance: 18235
+• Other Classifications: 622
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=4082)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided (n=1608)
+• Inborn genetic diseases (n=1416)
+• not provided|Inborn genetic diseases (n=1292)
+• Diamond-Blackfan anemia (n=899)
+• Diamond-Blackfan anemia 3 (n=821)
+• not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=415)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Leukodystrophy (n=345)
+• not provided|Leukodystrophy (n=257)
+• POLR-related leukodystrophy (n=250)
+• Neonatal pseudo-hydrocephalic progeroid syndrome (n=250)
+• POLR3A-related disorder (n=201)
+• RPS24-related disorder (n=189)
+• Inborn genetic diseases|not provided (n=175)
+• Diamond-Blackfan anemia|Diamond-Blackfan anemia 3 (n=174)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided (n=143)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Inborn genetic diseases (n=136)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|Leukodystrophy (n=117)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|POLR3A-related disorder (n=117)
+• See cases (n=116)
+• Leukodystrophy (n=114)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Leukodystrophy|not provided (n=111)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Leukodystrophy (n=104)
+• not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|POLR3A-related disorder (n=97)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=87)
+• not provided|Diamond-Blackfan anemia (n=87)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Neonatal pseudo-hydrocephalic progeroid syndrome|Leukodystrophy (n=78)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided (n=78)
+• not provided|Leukodystrophy|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=68)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Leukodystrophy|not specified (n=68)
+• POLR-related leukodystrophy|not provided (n=68)
+• not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Leukodystrophy (n=65)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|POLR3A-related disorder (n=65)
+• not provided|POLR3A-related disorder (n=58)
+• Diamond-Blackfan anemia 3|Diamond-Blackfan anemia (n=58)
+• POLR3A-related neurological disorders (n=39)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|Leukodystrophy|POLR3A-related disorder (n=39)
+• Leukodystrophy|not provided (n=39)
+• not provided|POLR3A-related neurological disorders (n=39)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Leukodystrophy (n=39)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Wiedemann-Rautenstrauch-like progeroid syndrome (n=39)
+• not provided|Neonatal pseudo-hydrocephalic progeroid syndrome|Wiedemann-Rautenstrauch-like progeroid syndrome|Leukodystrophy (n=39)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Leukodystrophy|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=39)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Leukodystrophy|Neonatal pseudo-hydrocephalic progeroid syndrome (n=39)
+• POLR3A-related neurological disorders|not provided (n=39)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Leukodystrophy (n=39)
+• Leukodystrophy|POLR3A-related disorder (n=39)
+• POLR3A-related neurological disorders|not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=39)
+• not provided|Neonatal pseudo-hydrocephalic progeroid syndrome|Leukodystrophy|POLR3A-related disorder (n=39)
+• not provided|Inborn genetic diseases|not specified|Leukodystrophy|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=36)
+• Hypomyelinating leukodystrophy 4 (n=36)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|POLR3A-related disorder|POLR-related leukodystrophy|not provided (n=29)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Hereditary ataxia (n=29)
+• not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Inborn genetic diseases (n=29)
+• not provided|Neonatal pseudo-hydrocephalic progeroid syndrome|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|POLR3A-related neurological disorders|not specified|POLR3A-related disorder|Hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism (n=29)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|Inborn genetic diseases|POLR-related leukodystrophy|Spastic ataxia|Movement disorder|Hereditary ataxia (n=29)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Neonatal pseudo-hydrocephalic progeroid syndrome (n=29)
+• not specified|not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=29)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|Inborn genetic diseases|Neonatal pseudo-hydrocephalic progeroid syndrome (n=29)
+• not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Neonatal pseudo-hydrocephalic progeroid syndrome|POLR-related leukodystrophy|POLR3A-related disorder|not specified (n=29)
+• not provided|Inborn genetic diseases|not specified (n=29)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome (n=29)
+• not specified|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided|POLR3A-related disorder (n=29)
+• Neonatal pseudo-hydrocephalic progeroid syndrome|not provided|Wiedemann-Rautenstrauch-like progeroid syndrome|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Neonatal pseudo-hydrocephalic progeroid syndrome (n=29)
+• Hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism|POLR-related leukodystrophy (n=29)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Inborn genetic diseases (n=29)
+• Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Inborn genetic diseases|not provided (n=29)
+• Diamond-Blackfan anemia|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|not provided (n=29)
+• POLR-related leukodystrophy|Leukoencephalopathy, ataxia, hypodontia, hypomyelination syndrome|Diamond-Blackfan anemia (n=29)
+• not specified|RPS24-related disorder (n=29)
+• Diamond-Blackfan anemia 3|Diamond-Blackfan anemia|not provided (n=29)
+• Abnormality of blood and blood-forming tissues (n=29)
+• Diamond-Blackfan anemia|not provided (n=29)
+• not specified|Diamond-Blackfan anemia|RPS24-related disorder (n=29)
+• not provided|Diamond-Blackfan anemia 3 (n=27)
+• DLG5-related disorder (n=18)
+
+

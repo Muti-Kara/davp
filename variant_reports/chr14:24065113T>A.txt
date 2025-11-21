@@ -1,0 +1,52 @@
+=== chr14:24065113T>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs768936187
+• Chromosome: 14
+• Position: 24065113
+• Reference Allele (REF): T
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: CARMIL3
+• Databases: rs768936187
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 1.9390000000000002e-05
+• gnomADg Allele Frequency: 1.375e-05
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 247
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 0
+• Uncertain Significance: 247
+• Other Classifications: 0
+

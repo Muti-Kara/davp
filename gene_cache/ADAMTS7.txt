@@ -1,0 +1,80 @@
+ADAMTS7 Gene Biomedical Dossier
+### **Gene Dossier: ADAMTS7**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 223.
+*   **OMIM Gene ID:** 605009.
+*   **Primary Disease Associations:** While not linked to a classic Mendelian disorder, ADAMTS7 is strongly associated with Coronary Artery Disease (CAD). It has also been associated with arthritis.
+*   **Clinical Significance Level:** The association with CAD is supported by strong evidence from multiple genome-wide association studies (GWAS).
+*   **Inheritance Patterns:** The association with CAD follows a complex, polygenic inheritance pattern. Specific alleles confer a protective or risk-modifying effect.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for ADAMTS7 are: pLI = 0.00, LOEUF = 1.13.
+*   **Clinical Interpretation of Constraint Scores:** A pLI score close to 0 and a LOEUF score greater than 1 indicate that the gene is tolerant to loss-of-function variation. This is consistent with the observation that complete knockout of Adamts7 in mice is not lethal, though it does confer protection against atherosclerosis.
+*   **Variant Classes Most Likely to be Pathogenic:** For CAD, variants are considered risk or protective factors rather than strictly pathogenic. Missense variants, like rs3825807, have the most well-documented functional and clinical consequences, influencing disease risk. Gain-of-function is the likely pro-atherogenic mechanism.
+
+**Phenotype Spectrum & HPO Terms**
+*   The primary phenotype associated with ADAMTS7 is not a rare disease with classical HPO terms, but rather susceptibility to or protection from a complex disease.
+*   **Primary Phenotype:** Coronary Artery Disease (CAD).
+    *   Related clinical phenotypes include coronary artery stenosis, coronary artery calcification, and atherosclerosis.
+    *   Associated procedures include coronary revascularization.
+    *   It is also associated with ischemic stroke, particularly the large-artery atherosclerosis subtype.
+*   **Secondary Phenotype:** Arthritis.
+*   **Age of Onset Patterns:** CAD is an adult-onset disease.
+*   **Phenotype Severity Spectrum:** Genetic variation is associated with the severity of CAD, with certain alleles linked to less severe angiographic disease and more stable plaque characteristics.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   The 'A' allele of the missense variant rs3825807 (Ser214) is considered the risk allele, associated with increased odds of CAD, atherosclerosis, and cardiovascular mortality. This is considered a gain-of-function allele.
+    *   The 'G' allele of rs3825807 (Pro214) is a protective, reduced-function variant associated with lower odds of obstructive CAD, less severe atherosclerosis, more stable plaque features (smaller fibrous cap), and a lower risk of revascularization procedures.
+*   **Protein Domain-Specific Phenotype Patterns:** The key functional variant, rs3825807 (S214P), is located in the prodomain of the ADAMTS7 protein. This substitution affects the maturation and secretion of the enzyme, which in turn influences its activity.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between rs3825807 and CAD phenotypes is strong, having been identified in multiple large-scale GWAS and replicated in independent cohorts.
+*   **Examples: specific variants → specific phenotypes:**
+    *   **rs3825807 (A>G) / p.Ser214Pro:** The ancestral 'A' allele (Ser214) is associated with increased vascular smooth muscle cell (VSMC) migration, neointimal thickening, and higher CAD risk. The 'G' allele (Pro214) is associated with reduced ADAMTS7 maturation, decreased VSMC migration, and protection from CAD.
+
+**Clinical Variants & Phenotype Associations**
+*   The most clinically relevant variants in ADAMTS7 are common polymorphisms that modulate the risk of complex disease rather than rare pathogenic variants causing Mendelian disease.
+*   **rs3825807 / c.641C>G / p.Ser214Pro / Association with reduced risk of CAD / Protective Allele (G) AF varies by population:** This missense variant is the most studied. The G allele is protective against CAD, associated with reduced angiographic severity and lower revascularization risk. The A allele is the risk allele.
+*   **rs1994016:** This variant is in linkage disequilibrium with rs3825807 and is also strongly associated with CAD.
+*   **rs7178051:** This protective variant is associated with reduced ADAMTS7 expression and confers stronger protection against CAD in never-smokers.
+*   **rs7173743:** This variant was associated with a lower risk of ischemic stroke, particularly the large-artery atherosclerosis subtype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** ADAMTS7 has high expression in the heart (atrial appendage) and aorta. Its expression in vascular tissues, particularly in vascular smooth muscle cells (VSMCs) within atherosclerotic plaques, is highly relevant to its role in CAD.
+*   **Tissue-Specific Phenotypes Expected:** The gene's role in VSMC migration and extracellular matrix degradation directly contributes to the development of atherosclerosis within coronary arteries. Its expression in cartilage is relevant to its association with arthritis.
+*   **Expression During Development and Age-Related Phenotypes:** Expression of ADAMTS7 can be induced by inflammatory stimuli and is found in all stages of human atherosclerotic plaques. Exposure to cigarette smoke extract also increases its expression in human coronary artery smooth muscle cells, providing a link between smoking and CAD risk.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ADAMTS7 is a secreted metalloprotease that degrades extracellular matrix proteins, most notably cartilage oligomeric matrix protein (COMP).
+*   **Disease Mechanism:** The primary mechanism in CAD appears to be a gain-of-function. The higher-activity 'A' allele of rs3825807 promotes increased proteolytic degradation of COMP by ADAMTS7. This removes an inhibitory signal and facilitates the migration of vascular smooth muscle cells, a key process in neointima formation and atherosclerotic plaque development.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of the COMP-mediated inhibition of VSMC migration leads to neointimal thickening and atherosclerosis.
+    *   Degradation of thrombospondin-1 by ADAMTS7 can impair endothelial repair mechanisms after vascular injury.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The key interaction is between ADAMTS7 and its substrate, COMP. The degradation of COMP is the central event linking ADAMTS7 activity to VSMC migration and atherosclerosis.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for ADAMTS7 is not used for Mendelian disease diagnosis. Genotyping of SNPs like rs3825807 is used in research cohorts to study risk and prognosis in CAD.
+*   **Most Common Reasons for Testing This Gene:** Testing is performed in research settings to investigate the genetic basis of coronary artery disease, atherosclerosis, and ischemic stroke.
+*   **Clinical Actionability and Management Implications:** While not yet standard in clinical practice, understanding a patient's ADAMTS7 genotype could potentially inform risk stratification for CAD. The protective effect of the rs7178051 variant is diminished in smokers, highlighting a gene-environment interaction. ADAMTS7 is being explored as a potential therapeutic target for CAD.
+*   **Genetic Counseling Considerations:** Counseling would focus on explaining the concept of genetic risk modification for a complex disease like CAD, rather than a deterministic monogenic disorder. The impact of environmental factors, such as smoking, which interacts with ADAMTS7 genotype, would be a key point.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 28623250, 2017:** Found that higher levels of ADAMTS7 in human carotid plaques are associated with features of vulnerability (high lipid content, low smooth muscle cell content) and an increased risk for postoperative cardiovascular events.
+*   **PMID: 29089352, 2017:** Showed that the protective 'G' allele of rs3825807 is associated with less severe CAD, characterized by smaller fibrous caps in plaques, lower angiographic severity scores, and a reduced risk of revascularization.
+*   **PMID: 25010684, 2014:** A study in a cohort of patients with established CAD found that the 'A' allele of rs3825807 was an independent risk factor for cardiovascular mortality, while the 'G' allele was associated with improved survival.
+*   **PMID: 24705578, 2014:** Demonstrated that ADAMTS7 is expressed in human atherosclerotic plaques and that the protective G/G genotype of rs3825807 is associated with decreased VSMC migratory activity.
+*   **PMID: 24200179, 2013:** Landmark study that provided the first in vivo evidence that knockout of Adamts7 in mice reduces neointima formation after vascular injury and protects against atherosclerosis.
+*   **PMID: 37371973, 2023:** A review highlighting ADAMTS7 as a promising therapeutic target for atherosclerosis, summarizing evidence that its proatherogenic effects are due to its catalytic function.
+*   **PMID: 29651515, 2018:** Showed an association between ADAMTS7 variants and a reduced risk of ischemic stroke, particularly the large-artery atherosclerosis subtype, in a Chinese population.
+*   **PMID: 28882897, 2017:** Identified a gene-smoking interaction where the protective effect of the rs7178051 allele against CHD is significantly reduced in smokers.
+*   **PMID: 34347571, 2021:** Review discussing ADAMTS7 as an emerging therapeutic target, noting that the gain-of-function allele has an effect size for CAD risk similar to established lipid-related variants.
+*   **PMID: 22178602, 2012:** CARDIoGRAM consortium GWAS that replicated the ADAMTS7 signal and identified the coding SNP rs3825807 as the lead variant associated with CAD.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Association studies, not Mendelian disease data, are the primary source.
+    *   **Coronary artery disease (HP:0001677), Atherosclerosis (HP:0002637):** Strongly associated with the 'A' allele of rs3825807 (p.Ser214Pro) as a risk factor and the 'G' allele as a protective factor.
+    *   **Coronary artery stenosis (HP:0004966):** Associated with the 'A' allele of rs3825807. The 'G' allele is associated with lower odds of obstructive CAD.
+    *   **Ischemic stroke (HP:0002140):** The G-T-T haplotype of rs3825807-rs11634042-rs7173743 is associated with a lower risk, especially for the large-artery atherosclerosis subtype.
+*   **Phenotype red flags:** The presence of premature or severe coronary artery disease, particularly in the absence of traditional risk factors, might increase suspicion, but ADAMTS7 is a risk modifier, not a sole cause.
+*   **Differential diagnosis considerations:** The genetic contribution to CAD is highly polygenic. Overlap exists with numerous other genes identified through GWAS for CAD, as well as genes causing Mendelian forms of hypercholesterolemia (e.g., *LDLR*, *APOB*, *PCSK9*) which also present with premature atherosclerosis.
+

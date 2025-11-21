@@ -1,0 +1,58 @@
+HCAR3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:4853
+*   **OMIM Gene ID:** 604812
+*   **Primary Disease Associations:** While no definitive monogenic disease is established, *HCAR3* has been associated with risk or modification of several conditions, including schizophrenia, breast cancer, and cardiovascular disease in the context of Pseudoxanthoma Elasticum. It is also linked to Neuronopathy, Distal Hereditary Motor, Autosomal Dominant 2, and Primary Hypoalphalipoproteinemia, though evidence for causality is not definitive.
+*   **Clinical Significance Level:** The clinical significance of *HCAR3* variants is largely considered uncertain or of associative risk, with no definitive pathogenic variants leading to a Mendelian disorder established.
+*   **Inheritance Patterns Observed in Patients:** Not applicable as no confirmed Mendelian disease is associated with this gene.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI score of 0.00, a LOEUF of 1.15, pRec of 0.547, and pNull of 0.453.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores indicate that *HCAR3* is extremely tolerant to loss-of-function variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or have a dominant-negative effect. Some frameshift and missense variants have been investigated in the context of cancer risk.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As there is no defined Mendelian disease, a ranked list of HPO terms is not applicable. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities but requires association with a specific disease.
+*   **Secondary HPO terms:** Not applicable.
+*   **Age of Onset Patterns:** Not applicable.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A definitive genotype-phenotype correlation has not been established.
+*   **Protein Domain-Specific Phenotype Patterns:** The functional consequences of variants in specific domains remain largely uncharacterized.
+*   **Genotype-Phenotype Correlation Strength:** Weak; currently, only associations with complex traits have been reported.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   The risk allele 'T' of SNP rs2454721 is associated with elevated *HCAR3* expression and a blunted niacin response in psychiatric patients, and is linked to schizophrenia risk.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists a few variants with "Pathogenic" or "Likely pathogenic" classifications, however, these are often related to complex traits or have conflicting interpretations and are not definitively causal for Mendelian disease. Specific examples with sufficient evidence for this dossier are not available. A search for pathogenic variants in ClinVar returned a limited number of results with uncertain significance for Mendelian disease.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *HCAR3* shows high expression in immune cells like neutrophils and macrophages, as well as in keratinocytes and adipocytes. This expression pattern supports its potential role in inflammation, skin biology, and metabolism.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression, variants could plausibly impact immune responses (e.g., in inflammatory conditions), skin integrity or disease (e.g., psoriasis), and metabolic processes.
+*   **Expression During Development and Age-Related Phenotypes:** Specific data on developmental expression and age-related phenotypes are not well-documented in the search results.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *HCAR3* encodes a G protein-coupled receptor that responds to metabolites like 3-hydroxy-octanoic acid and kynurenic acid, regulating cellular metabolism and immune responses.
+*   **Disease Mechanism:** For schizophrenia, elevated *HCAR3* expression (a potential gain-of-function mechanism) is associated with disease risk. In breast cancer, it has been suggested to act as an oncogene. A specific disease mechanism for a Mendelian disorder has not been defined.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In adipocytes, HCAR3 activation inhibits lipolysis via Gαi-mediated reduction of cAMP. In immune cells, it is thought to modulate intracellular calcium levels and may have immunosuppressive effects. In keratinocytes, it is involved in proliferation, migration, and metabolism.
+*   **Protein-Protein Interactions Relevant to Phenotype:** *HCAR3* signals through Gαi/o-type G proteins. It also forms dimers with its paralog, HCAR2 (GPR109A).
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Zero for Mendelian disorders. Testing for this gene is not standard practice for diagnosis.
+*   **Most Common Reasons for Testing This Gene:** Currently, testing is performed in a research context, for example, to investigate its role in complex diseases like schizophrenia or its potential as a therapeutic target.
+*   **Clinical Actionability and Management Implications:** None at present. Variants in *HCAR3* could potentially serve as biomarkers for niacin efficacy, but this is still under investigation.
+*   **Genetic Counseling Considerations:** Counseling would focus on the uncertain role of *HCAR3* variants and the lack of a defined disease association, emphasizing that variants are currently considered of uncertain significance for Mendelian disease.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 37984442, 2024:** Identified *HCAR3* as a novel susceptibility gene for schizophrenia, linking the rs2454721 variant to blunted niacin response and increased gene expression.
+*   **PMID: 34844621, 2021:** Identified rare, potentially pathogenic germline variants in *HCAR3* (e.g., p.Q373Kfs*82) in breast cancer cases, suggesting its role as a potential oncogene.
+*   **PMID: 33432025, 2021:** In a study on Pseudoxanthoma Elasticum, *HCAR3* was one of four prioritized genes with variants potentially modifying the severity of cardiovascular disease.
+*   **bioRxiv, 2023:** Showed that *HCAR3* is highly expressed in human keratinocytes and plays a role in epithelial proliferation, migration, and metabolism, suggesting its importance in skin biology.
+*   **PMID: 31735928, 2020:** A review highlighting that HCAR3 is exclusive to humans and higher primates, is activated by the metabolite kynurenic acid, and has potential as an immunological drug target due to its expression in immune cells.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** No high-confidence associations currently exist due to the lack of a confirmed monogenic disease link.
+*   **Phenotype red flags:** There are currently no "red flag" HPO terms that strongly suggest a pathogenic variant in *HCAR3*.
+*   **Differential diagnosis considerations:** Given the associations with metabolic and immune functions, phenotypes overlapping with other metabolic or immunoregulatory disorders could be considered, but *HCAR3* would not be a primary candidate for differential diagnosis at this time.
+

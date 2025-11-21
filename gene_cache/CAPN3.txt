@@ -1,0 +1,92 @@
+CAPN3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** CAPN3 (HGNC:1480).
+*   **OMIM Gene ID:** 114240.
+*   **Primary Disease Associations:** Limb-girdle muscular dystrophy autosomal recessive 1 (LGMDR1, formerly LGMD2A) and limb-girdle muscular dystrophy autosomal dominant 4 (LGMDD4).
+*   **Clinical Significance Level:** The association between *CAPN3* and autosomal recessive limb-girdle muscular dystrophy type 2A is classified as "Definitive" and "Strong".
+*   **Inheritance Patterns:** Primarily autosomal recessive. An autosomal dominant pattern associated with a milder, later-onset phenotype has also been described.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** In gnomAD v2.1.1, *CAPN3* has a pLI score of 0.00, a pRec score of 0.99, and a pNull score of 9.2e-13. The LOEUF score is 1.25.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that the gene is tolerant to loss-of-function variants in the heterozygous state, which is consistent with its primary recessive inheritance pattern. The high pRec score suggests the gene is intolerant to homozygous loss-of-function variants.
+*   **Variant Classes Most Likely to be Pathogenic:** Loss-of-function variants (nonsense, frameshift, splice-site) are established pathogenic mechanisms for the recessive form. Missense mutations are also very common. Specific in-frame deletions and missense variants have been associated with the dominant form.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Proximal muscle weakness (HP:0003701).
+    *   Elevated serum creatine phosphokinase (HP:0003236).
+    *   Limb-girdle muscle weakness (HP:0006785).
+    *   Scapular winging (HP:0003691).
+    *   Waddling gait (HP:0002515).
+    *   Difficulty walking (HP:0002355).
+    *   Myopathy (HP:0003198).
+    *   Gait disturbance (HP:0001288).
+    *   Achilles tendon contracture (HP:0001771).
+    *   Calf muscle hypertrophy (HP:0008952).
+*   **Secondary HPO terms:**
+    *   Myalgia (HP:0003326).
+    *   Flexion contracture (HP:0001371).
+    *   Scoliosis (HP:0002650).
+    *   Distal muscle weakness (HP:0002460).
+    *   Exercise intolerance (HP:0003546).
+    *   Loss of ambulation (HP:0002505).
+*   **Age of Onset Patterns:** Onset for the recessive form (LGMDR1) is typically in late childhood or early adolescence, often between ages 6 and 18. The dominant form (LGMDD4) has a later onset, with an average age of 34 years. Asymptomatic hyper-CK-emia can be a pre-symptomatic finding in children.
+*   **Phenotype Severity Spectrum:** Severity is variable. The recessive form generally leads to loss of ambulation within 20-30 years of onset. The dominant form is typically milder. Null mutations are generally associated with a more severe phenotype.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous or compound heterozygous null variants (nonsense, frameshift, splice-site) are generally associated with a more severe phenotype and complete loss of calpain-3 protein. Patients with at least one missense mutation may have a less severe course.
+*   **Protein Domain-Specific Phenotype Patterns:** Pathogenic missense mutations are frequently located in the protease domain (domain II) and domain III. Variants near the calmodulin-binding site have been associated with the autosomal dominant form.
+*   **Genotype-Phenotype Correlation Strength:** Moderate. While some general correlations exist, such as null variants leading to more severe disease, significant phenotypic variability is observed even among individuals with the same mutations.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   The c.643_663del21 in-frame deletion is associated with autosomal dominant LGMDD4, characterized by later onset, myalgia, and a generally milder phenotype.
+    *   Compound heterozygosity for the c.1746-20C>G variant along with another pathogenic variant often results in a mild-to-moderate phenotype.
+    *   The 2362AG->TCATCT mutation (exon 22) is a frequent cause of LGMDR1 but does not appear to be a specific risk factor for wheelchair dependence at a certain age.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.550delA (p.Thr184Argfs*36) / rs80338814 / Pathogenic /** LGMDR1, proximal muscle weakness, elevated CK. Reported as one of the most common pathogenic variants. / GnomAD AF (v2.1.1, European NFE): 0.00045.
+*   **c.2362A>T (p.Lys788*) / rs80338845 / Pathogenic /** LGMDR1. A common mutation. / Not specified in results. (Note: Original report describes 2362AG->TCATCT).
+*   **c.1468C>T (p.Arg490Trp) / rs28939981 / Pathogenic /** LGMDR1, difficulty walking, scapular winging. / GnomAD AF (v2.1.1): 0.00004.
+*   **c.643_663del21 (p.Ala215_Gly221del) / rs753761899 / Pathogenic /** LGMDD4, myalgia, back pain, later-onset muscle weakness. Associated with dominant inheritance. / Not specified in results.
+*   **c.1746-20C>G / rs769032738 / VUS to Pathogenic (context-dependent) /** Mild-to-moderate LGMDR1 when in compound heterozygous state. Often considered hypomorphic. / GnomAD AF (v4.0): 0.0003.
+*   **c.1342C>T (p.Arg448Cys) / rs776043976 / Pathogenic /** LGMDR1. Affects a clinically significant residue. / GnomAD AF (v2.1.1, African): 0.00007.
+*   **c.2257G>A (p.Asp753Asn) / rs146923842 / Likely Pathogenic /** LGMDR1, sometimes with a later onset and milder phenotype. Also reported in hyperCKemia. / GnomAD AF (v2.1.1, European NFE): 0.00118.
+*   **c.661G>T (p.Gly221Cys) / Not available / Pathogenic /** LGMDR1, progressive muscle weakness in pelvic and shoulder girdles. / Absent from public databases.
+*   **c.2120A>G (p.Asp707Gly) / rs750821564 / Pathogenic /** LGMDR1, severe and progressive clinical features. / GnomAD AF (v2.1.1): 0.000008.
+*   **c.2201_2202delAT (p.Tyr734*) / Not available / Pathogenic /** LGMDR1, predicted to cause protein truncation or nonsense-mediated decay. / Not found in population databases.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *CAPN3* shows the highest expression by far in Skeletal Muscle, with lower levels of expression in the spinal cord and other tissues.
+*   **Tissue-Specific Phenotypes Expected:** The highly specific expression in skeletal muscle explains why the phenotype is almost exclusively restricted to muscle weakness and wasting. There is typically no cardiac involvement or intellectual disability.
+*   **Expression During Development:** *CAPN3* is believed to play a role in the early stages of myogenesis (muscle formation) and muscle remodeling.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *CAPN3* encodes calpain-3, a calcium-dependent, non-lysosomal cysteine protease specific to skeletal muscle that plays a role in muscle protein turnover, sarcomere maintenance, and muscle remodeling.
+*   **Disease Mechanism:** The primary mechanism for recessive LGMDR1 is loss-of-function. For the dominant LGMDD4 associated with the c.643_663del21 variant, a dominant-negative effect on the calpain-3 homodimer has been proposed.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of calpain-3's proteolytic activity may lead to the accumulation of damaged proteins and dysregulation of protein turnover in muscle.
+    *   *CAPN3* deficiency can lead to degradation of SERCA proteins, impairing calcium homeostasis and storage in the sarcoplasmic reticulum.
+    *   Loss of function can dysregulate the NF-κB pathway, potentially leading to protein degradation, inflammation, and fibrosis in skeletal muscle.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Calpain-3 binds to titin (TTN), a giant protein essential for sarcomere structure and elasticity, which localizes calpain-3 to the sarcomere. This interaction is critical for muscle function and maintenance.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In cohorts of patients with suspected limb-girdle muscular dystrophy, *CAPN3* is one of the most frequently mutated genes, accounting for 17% to 30% of solved cases.
+*   **Most Common Reasons for Testing:** This gene is tested in individuals presenting with progressive proximal muscle weakness, particularly of the shoulder and pelvic girdles, often with scapular winging and elevated serum CK levels.
+*   **Clinical Actionability and Management Implications:** Management is supportive and includes physical therapy and stretching to maintain mobility and prevent contractures. Genetic diagnosis confirms the specific subtype of LGMD, which is crucial for prognosis and genetic counseling.
+*   **Genetic Counseling Considerations:** Autosomal recessive LGMDR1 carriers are typically asymptomatic. The identification of a dominantly acting *CAPN3* variant has significant implications for genetic counseling, as affected individuals have a 50% chance of passing the condition to their children.
+
+### **Key Clinical Literature & Studies**
+*   **Richard et al. (1995) (PMID: 7720071):** Landmark paper that first identified mutations in the muscle-specific calpain (*CAPN3*) gene as the cause of autosomal recessive limb-girdle muscular dystrophy type 2A.
+*   **Sáenz et al. (2005) (PMID: 15625251):** A large study of 238 LGMD2A patients that characterized the mutational spectrum and genotype-phenotype correlations, noting a mean onset age of 14 and that mutation type did not clearly correlate with the age of wheelchair dependence.
+*   **Vissing et al. (2016) (PMID: 27259757):** First major study to provide strong evidence for a dominantly inherited form of calpainopathy (LGMDD4) caused by a specific 21-bp in-frame deletion in *CAPN3*, expanding the known inheritance patterns.
+*   **Nallamilli et al. (2018) (PMID: 30127038):** A large US-based study that found *CAPN3* to be the most common gene implicated in their LGMD cohort (17% of cases) and noted an increased prevalence of dominantly inherited forms.
+*   **Reddy et al. (2021) (PMID: 33246816):** A comprehensive study on an Indian cohort that identified 71 novel mutations, highlighting population-specific mutation distribution and observing a slower disease progression compared to European populations.
+*   **Zhang et al. (2021) (PMID: 33964115):** A case study reporting compound heterozygous variants, including a novel deletion, and emphasizing the role of nonsense-mediated decay as a pathogenic mechanism.
+*   **Jalali et al. (2023) (PMID: 36778401):** A recent case report identifying a novel homozygous missense variant (p.Gly221Cys) using WES, demonstrating the continued discovery of new pathogenic variants.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Biallelic loss-of-function variants (nonsense, frameshift, splice-site) are strongly associated with the classic LGMDR1 phenotype: Limb-girdle muscle weakness (HP:0006785), Proximal muscle weakness (HP:0003701), Elevated serum creatine phosphokinase (HP:0003236), and Scapular winging (HP:0003691).
+    *   The heterozygous c.643_663del21 variant is strongly associated with later-onset LGMDD4, with Myalgia (HP:0003326) and back pain being prominent features.
+*   **Phenotype red flags:** The combination of progressive, symmetric proximal muscle weakness (pelvic and shoulder girdles), prominent scapular winging, and highly elevated CK levels in a patient with a normal heart function and intellect is highly suggestive of a *CAPN3*-related myopathy.
+*   **Differential diagnosis considerations:** The clinical presentation of calpainopathy can overlap with other limb-girdle muscular dystrophies, such as those caused by mutations in *DYSF* (LGMDR2), *ANO5* (LGMDR12), and *FKRP* (LGMDR9). It can also occasionally mimic facioscapulohumeral muscular dystrophy (FSHD) or distal myopathies.
+

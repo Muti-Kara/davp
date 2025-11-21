@@ -1,0 +1,63 @@
+SPDYE6 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+
+*   **HGNC ID:** HGNC:34015
+*   **OMIM Gene ID:** Not available in OMIM.
+*   **Primary Disease Associations:** As of the latest available information, SPDYE6 has not been definitively associated with a Mendelian disease.
+*   **Clinical Significance Level:** The clinical significance of SPDYE6 is currently uncertain and not established.
+*   **Inheritance Patterns:** No clear inheritance patterns have been described in the literature.
+
+### **Constraint & Variant Intolerance**
+
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI score of 0.00, a LOEUF of 1.13, a pRec of 0.44, and a pNull of 0.56.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score and LOEUF score greater than 1 suggest that the gene is not under strong constraint against loss-of-function variants and haploinsufficiency is unlikely to be a disease mechanism. The gene is tolerant to variation.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the lack of disease association and constraint data, it is difficult to predict which variant classes are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+
+*   **Primary HPO terms:** There are currently no established HPO terms associated with variants in SPDYE6.
+*   **Secondary HPO terms:** No secondary HPO terms are documented.
+*   **Age of Onset Patterns:** Information on age of onset is not available.
+*   **Phenotype Severity Spectrum:** Information on phenotype severity is not available.
+
+### **Genotype-Phenotype Correlations**
+
+*   **Variant Classes and Their Typical Phenotypes:** No genotype-phenotype correlations have been established.
+*   **Protein Domain-Specific Phenotype Patterns:** No protein domain-specific phenotype patterns have been described.
+*   **Genotype-Phenotype Correlation Strength:** The genotype-phenotype correlation is currently unknown.
+*   **Examples: Specific Variants → Specific Phenotypes:** No such examples are available in the literature.
+
+### **Clinical Variants & Phenotype Associations**
+
+*   As of the latest data, there are no well-characterized pathogenic variants in SPDYE6 with established phenotype associations reported in ClinVar or the literature.
+
+### **Tissue Expression & Clinical Relevance**
+
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Genotype-Tissue Expression (GTEx) portal, SPDYE6 has very low expression across all tissues, with the highest median expression observed in the testis, although still at a very low level.
+*   **Tissue-Specific Phenotypes Expected:** Due to the extremely low and restricted expression, it is difficult to predict tissue-specific phenotypes. The slightly higher expression in the testis is noted, but no associated phenotype is known.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is not readily available.
+
+### **Molecular Mechanism & Phenotype Pathways**
+
+*   **Normal Gene Function:** SPDYE6 belongs to the Speedy/RINGO family of proteins which are known to bind and activate cyclin-dependent kinases (CDKs), thereby playing a role in cell cycle regulation.
+*   **Disease Mechanism:** No disease mechanism has been established for SPDYE6. Given the constraint metrics, haploinsufficiency is unlikely.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is implicated in the oocyte meiosis and progesterone-mediated oocyte maturation pathways. Disruption of these pathways could theoretically lead to reproductive phenotypes, but this has not been clinically observed.
+*   **Protein-Protein Interactions Relevant to Phenotype:** As a member of the Speedy/RINGO family, it likely interacts with CDKs, but the specific phenotypic relevance of these interactions is unknown.
+
+### **Diagnostic Yield & Clinical Utility**
+
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for SPDYE6 in clinical cohorts is effectively zero, as it is not currently included in most diagnostic gene panels for specific phenotypes.
+*   **Most Common Reasons for Testing This Gene:** There are no common clinical reasons for testing this gene at present.
+*   **Clinical Actionability and Management Implications:** There are no known clinical actionability or management implications associated with variants in SPDYE6.
+*   **Genetic Counseling Considerations:** Given the lack of a known disease association, genetic counseling would focus on the uncertainty of findings in this gene.
+
+### **Key Clinical Literature & Studies**
+
+*   Currently, there are no key clinical publications that establish a definitive link between variants in SPDYE6 and a specific human phenotype. The existing literature is primarily focused on the molecular function of the Speedy/RINGO protein family in cell cycle control.
+
+### **HPO-Variant Matching Summary**
+
+*   **High-Confidence HPO-Variant Associations:** There are no high-confidence HPO-variant associations for SPDYE6 at this time.
+*   **Phenotype Red Flags:** There are currently no known "red flag" phenotypes that would strongly suggest pathogenic variants in SPDYE6.
+*   **Differential Diagnosis Considerations:** Not applicable due to the lack of a defined disease phenotype.
+

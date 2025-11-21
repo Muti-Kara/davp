@@ -1,0 +1,107 @@
+GJB2 Gene Biomedical Dossier
+### **GJB2 Gene Dossier**
+
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** GJB2.
+*   **OMIM Gene ID:** 121011.
+*   **Primary Disease Associations:**
+    *   Autosomal recessive nonsyndromic hearing loss 1A (DFNB1A).
+    *   Autosomal dominant nonsyndromic hearing loss 3A (DFNA3A).
+    *   Syndromic forms of hearing loss with associated skin disorders. These include Vohwinkel syndrome, keratitis-ichthyosis-deafness (KID) syndrome, palmoplantar keratoderma with deafness, hystrix-like ichthyosis with deafness (HID), and Bart-Pumphrey syndrome.
+*   **Clinical Significance Level:** The association of *GJB2* with both syndromic and nonsyndromic hearing loss is considered definitive.
+*   **Inheritance Patterns Observed in Patients:** Autosomal recessive and autosomal dominant. Recessive mutations are the most common cause of nonsyndromic hearing loss, while dominant mutations are often associated with syndromic forms.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The probability of being loss-of-function intolerant (pLI) score for GJB2 is low, approaching 0. The loss-of-function observed/expected upper bound fraction (LOEUF) score is 1.97, which is higher than 99.9% of genes associated with autosomal dominant or recessive disease, suggesting tolerance to loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that heterozygous loss-of-function variants in *GJB2* are well-tolerated in the general population. This is consistent with the gene's primary association with autosomal recessive disease, where two pathogenic variants are required to cause disease.
+*   **Variant Classes Most Likely to Be Pathogenic:** Pathogenic variants include missense, nonsense, frameshift, and splice site mutations. Truncating variants (nonsense and frameshift) are generally associated with a more severe phenotype than non-truncating (missense) variants.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0000365 - Hearing impairment.
+    *   HP:0000407 - Sensorineural hearing impairment.
+    *   HP:0000389 - Abnormality of the inner ear.
+    *   HP:0000972 - Palmoplantar hyperkeratosis.
+    *   HP:0008069 - Ichthyosis.
+    *   HP:0000522 - Keratitis.
+    *   HP:0001581 - Leukonychia.
+    *   HP:0001251 - Knuckle pads.
+    *   HP:0000962 - Hyperkeratosis.
+*   **Secondary HPO terms:**
+    *   HP:0007519 - Follicular hyperkeratosis.
+    *   HP:0100723 - Stellate keratosis.
+    *   HP:0001815 - Ainhum (constricting bands of digits).
+    *   HP:0001156 - Brachydactyly of the 5th finger.
+    *   HP:0000175 - Cleft palate.
+    *   HP:0009733 - Nail dystrophy.
+    *   HP:0007716 - Alopecia.
+*   **Age of Onset Patterns:** Hearing loss is typically congenital and pre-lingual. It is often detected through newborn hearing screening.
+*   **Phenotype Severity Spectrum:** The severity of hearing loss ranges from mild to profound. Biallelic truncating mutations are generally associated with profound hearing loss, while compound heterozygous for a truncating and a non-truncating variant often leads to moderate hearing loss. Individuals with two non-truncating variants typically present with mild hearing impairment.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Biallelic truncating variants (e.g., c.35delG homozygotes) are strongly correlated with severe-to-profound nonsyndromic hearing loss.
+    *   Compound heterozygotes with one truncating and one non-truncating variant generally have a less severe hearing loss phenotype.
+    *   Biallelic non-truncating (missense) variants are often associated with mild-to-moderate hearing loss.
+    *   Specific dominant missense mutations are associated with syndromic presentations that include skin abnormalities.
+*   **Protein Domain-Specific Phenotype Patterns:** Pathogenic missense variants are distributed across all domains of the connexin 26 protein, including the N-terminal domain, transmembrane domains, extracellular loops, and cytoplasmic loop. The specific location of a missense mutation can influence its functional consequence and the resulting phenotype.
+*   **Genotype-Phenotype Correlation Strength:** There is a strong and well-established correlation between the type of *GJB2* variant and the severity of nonsyndromic hearing loss. For syndromic forms, the correlation is also generally strong, though some phenotypic variability can be observed even with the same mutation.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   Homozygosity for the c.35delG variant is consistently associated with profound nonsyndromic hearing loss.
+    *   Compound heterozygosity for c.35delG and a missense variant like p.V37I or p.L90P is linked to milder hearing impairment.
+    *   The p.Asp50Asn (D50N) mutation is associated with hystrix-like ichthyosis with deafness (HID).
+    *   The p.Asn54Lys (N54K) and p.Gly59Ser (G59S) mutations cause Bart-Pumphrey syndrome.
+    *   The p.R75Q and p.R75W variants are common dominant mutations in the Chinese Han population, often presenting with palmoplantar keratoderma.
+
+### **Clinical Variants & Phenotype Associations**
+*   **rs1801002 / NM_004004.6(GJB2):c.35delG / Pathogenic / Autosomal recessive deafness 1A / AF (gnomAD): ~0.012 (European)**: Associated with severe-to-profound nonsyndromic hearing loss when homozygous or compound heterozygous with another pathogenic variant.
+*   **rs80338942 / NM_004004.6(GJB2):c.235delC / Pathogenic / Autosomal recessive deafness 1A / AF (gnomAD): ~0.007 (East Asian)**: A common cause of nonsyndromic hearing loss in East Asian populations, with phenotypic heterogeneity in severity and age of onset.
+*   **rs104894396 / NM_004004.6(GJB2):c.71G>A (p.Trp24Ter) / Pathogenic / Autosomal recessive deafness 1A / AF (gnomAD): ~0.0001**: A common pathogenic variant reported in association with autosomal recessive nonsyndromic hearing loss.
+*   **rs111033251 / NM_004004.6(GJB2):c.109G>A (p.Val37Ile) / Pathogenic / Autosomal recessive deafness 1A / AF (gnomAD): ~0.001**: Associated with milder hearing loss compared to truncating variants.
+*   **rs80338939 / NM_004004.6(GJB2):c.167delT / Pathogenic / Autosomal recessive deafness 1A / AF (gnomAD): ~0.0007 (European)**: Homozygotes for this variant are reported to be more severely affected than c.35delG homozygotes.
+*   **rs104894399 / NM_004004.6(GJB2):c.224G>A (p.Arg75Gln) / Pathogenic / Deafness, autosomal dominant 3A, with or without palmoplantar keratoderma / AF (gnomAD): Rare**: A frequent dominant mutation in Chinese populations, associated with hearing loss and often palmoplantar keratoderma.
+*   **rs104894400 / NM_004004.6(GJB2):c.223C>T (p.Arg75Trp) / Pathogenic / Deafness, autosomal dominant 3A, with or without palmoplantar keratoderma / AF (gnomAD): Rare**: A frequent dominant mutation in Chinese populations, often presenting with skin abnormalities.
+*   **rs104894406 / NM_004004.6(GJB2):c.551G>A (p.Arg184Gln) / Pathogenic / Deafness, autosomal dominant 3A, with palmoplantar keratoderma / AF (gnomAD): Rare**: This rare variant is associated with dominant syndromic deafness and exerts a dominant-negative effect.
+*   **rs727503153 / NM_004004.6(GJB2):c.148G>A (p.Asp50Asn) / Pathogenic / Hystrix-like ichthyosis with deafness / AF (gnomAD): Extremely rare**: Causes channels that are constantly leaky, leading to cell death and the HID syndrome phenotype.
+*   **rs121908226 / NM_004004.6(GJB2):c.175G>C (p.Gly59Arg) / Pathogenic / Vohwinkel syndrome / AF (gnomAD): Extremely rare**: Associated with the characteristic features of Vohwinkel syndrome.
+*   **ClinVar ID 17029 / NM_004004.6(GJB2):c.-23+1G>A / Pathogenic / Autosomal recessive deafness 1A / AF (gnomAD): ~0.0003**: A common pathogenic splice site variant with a founder effect in Central Asia.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** Esophagus - Mucosa (20.8), Vagina (10.8), and Cervix - Ectocervix (9.0). High expression is also noted in skin and the inner ear (cochlea).
+*   **Tissue-Specific Phenotypes Expected:** High expression in the cochlea directly correlates with the hearing loss phenotype. Expression in the skin and epithelial tissues is linked to the dermatological abnormalities seen in syndromic forms, such as palmoplantar keratoderma and ichthyosis.
+*   **Expression During Development and Age-Related Phenotypes:** *GJB2* is crucial for the proper development and function of the cochlea. While most hearing loss is congenital, some genotypes can be associated with post-lingual or progressive hearing loss.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The *GJB2* gene encodes connexin 26, a protein that forms gap junctions, which are intercellular channels facilitating the transport of ions (like potassium), metabolites, and signaling molecules between adjacent cells.
+*   **Disease Mechanism:**
+    *   **Loss-of-function:** Most autosomal recessive nonsyndromic hearing loss is caused by loss-of-function mutations that prevent the formation of functional gap junction channels, often due to protein truncation and retention in the endoplasmic reticulum. This disrupts the recycling of potassium ions in the cochlea, which is essential for hearing.
+    *   **Dominant-negative:** Some dominant missense mutations can interfere with the function of the wild-type connexin 26 protein or other co-expressed connexins.
+    *   **Gain-of-function:** Certain dominant mutations associated with syndromic disease (e.g., KID syndrome) can result in "leaky" channels with increased hemichannel activity, leading to cytotoxicity and cell death.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of gap junction trafficking and assembly impairs intercellular communication. In the inner ear, this leads to a failure in maintaining the proper ionic environment for sensory hair cells, resulting in sensorineural hearing impairment. In the skin, altered connexin function disrupts epidermal growth and differentiation, leading to hyperproliferative skin disorders.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Mutations in *GJB2* are the most common cause of genetic hearing impairment worldwide, accounting for up to 50% of autosomal recessive nonsyndromic hearing loss cases. The diagnostic yield in the 100,000 Genomes Project for hearing loss was 27.5%, with *GJB2* being a common causative gene.
+*   **Most Common Reasons for Testing This Gene:** The primary reason for testing is congenital sensorineural hearing loss, particularly in individuals with a family history suggestive of autosomal recessive inheritance or those with syndromic features involving hearing loss and skin abnormalities.
+*   **Clinical Actionability and Management Implications:** Genetic diagnosis allows for precise counseling regarding prognosis, inheritance patterns, and the risk for other family members. It informs management decisions, such as early intervention with hearing aids or candidacy for cochlear implantation.
+*   **Genetic Counseling Considerations:** Counseling should address the specific mode of inheritance (autosomal recessive vs. dominant), the expected phenotype based on the genotype, and the variability in expressivity, especially for dominant mutations. For recessive hearing loss, carrier testing for parents and relatives is important.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 14985372, Year: 2004:** This landmark study was one of the first large, systematic analyses to establish a strong genotype-phenotype correlation in *GJB2*-related deafness. It demonstrated that the severity of hearing loss correlates with the type of mutation, with biallelic truncating variants causing more severe deafness than non-truncating variants.
+*   **PMID: 16184697, Year: 2005:** A multicenter study that further solidified the genotype-phenotype correlation by classifying variants as truncating or non-truncating and showing a clear gradient of hearing loss severity across T/T, T/NT, and NT/NT genotypes.
+*   **PMID: 25036735, Year: 2014:** Characterized the spectrum of dominant *GJB2* mutations in a large cohort of Chinese Han individuals, identifying p.R75Q, p.R75W, and p.R184Q as frequent mutations with a high de novo rate and association with palmoplantar keratoderma.
+*   **PMID: 32679753, Year: 2020:** Investigated phenotypic heterogeneity for the c.235delC homozygous mutation, highlighting the variability in onset and severity and discussing potential modifying factors.
+*   **PMID: 34187979, Year: 2021:** A review summarizing the syndromic skin diseases associated with *GJB2* mutations, contrasting the loss-of-function mechanism in nonsyndromic deafness with the gain-of-function or dominant-negative effects in syndromic forms.
+*   **PMID: 36987747, Year: 2023:** A comprehensive review of the molecular mechanisms and clinical phenotypes of 84 functionally studied *GJB2* missense variants, categorizing them based on their impact on protein trafficking and channel function.
+*   **PMID: 38655184, Year: 2025 (ePub):** A case report and analysis of the rare c.551G>A (p.R184Q) variant, discussing its association with dominant syndromic deafness and the phenotypic variability observed even within the same family.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Biallelic truncating variants (e.g., homozygous c.35delG) are strongly predictive of severe-to-profound congenital sensorineural hearing impairment (HP:0000407, HP:0000365).
+    *   Heterozygous missense mutations like p.Asp50Asn, p.Gly59Arg, and those affecting Arg75 are highly associated with syndromic phenotypes combining hearing loss with skin abnormalities like palmoplantar hyperkeratosis (HP:0000972), ichthyosis (HP:0008069), and keratitis (HP:0000522).
+    *   Compound heterozygosity for a truncating and a non-truncating variant (e.g., c.35delG/p.Val37Ile) is predictive of a milder, moderate degree of hearing loss.
+*   **Phenotype red flags:**
+    *   The combination of congenital sensorineural hearing loss (HP:0000407) and palmoplantar hyperkeratosis (HP:0000972) is a strong indicator for a pathogenic dominant variant in *GJB2*.
+    *   The presence of ichthyosis (HP:0008069) or keratitis (HP:0000522) with deafness should prompt investigation for specific syndromic *GJB2* mutations.
+    *   Congenital, non-progressive, severe-to-profound hearing loss in a patient with consanguineous parents strongly suggests biallelic recessive mutations in *GJB2*.
+*   **Differential diagnosis considerations:** The phenotype of nonsyndromic hearing loss caused by *GJB2* mutations overlaps with hearing loss caused by mutations in many other genes, including *STRC*, *USH2A*, and *MYO15A*. Syndromic forms can have overlapping features with other keratoderma-associated syndromes, but the combination with deafness is highly suggestive of a connexin disorder. Digenic inheritance with a *GJB2* mutation and a deletion in the nearby *GJB6* gene can also cause hearing loss and must be considered.
+

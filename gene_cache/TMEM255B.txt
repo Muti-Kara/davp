@@ -1,0 +1,52 @@
+TMEM255B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 28297.
+*   **OMIM Gene ID:** No OMIM identifier is currently assigned to this gene.
+*   **Primary Disease Associations:** There are no established disease associations for TMEM255B in curated databases such as GeneCards and UniProt. One source lists potential associations with several neurological disorders, but these are not confirmed by primary literature.
+*   **Clinical Significance Level:** Not established; currently no evidence for a role in human disease.
+*   **Inheritance Patterns:** No inheritance patterns have been described as no associated Mendelian disorder has been identified.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF:** The gnomAD v2.1.1 probability of being loss-of-function intolerant (pLI) score is 0.00, and the loss-of-function observed/expected upper bound fraction (LOEUF) score is 1.13.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score (<0.1) and high LOEUF score suggest that TMEM255B is tolerant to loss-of-function variation. Genes with these scores are not considered to be highly constrained against inactivating mutations.
+*   **Variant Classes Most Likely to be Pathogenic:** Based on constraint scores, loss-of-function variants (e.g., nonsense, frameshift) are not expected to be a common cause of severe Mendelian disease.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No Human Phenotype Ontology (HPO) terms are currently associated with variants in TMEM255B in human patients.
+*   **Secondary HPO terms:** No secondary HPO terms are associated with this gene in humans.
+*   **Age of Onset Patterns:** Not applicable as no human phenotype has been established.
+*   **Phenotype Severity Spectrum:** Not applicable.
+*   **Animal Model Phenotypes:** Mouse models with mutations in Tmem255b have exhibited phenotypes related to growth/size, the cardiovascular system, and neurological/behavioral functions.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No genotype-phenotype correlations have been established for TMEM255B in humans, as no clinical phenotype has been linked to variants in this gene.
+*   **Protein Domain-specific Phenotype Patterns:** Not applicable.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Characterized Clinical Variants:** Public databases such as ClinVar contain numerous variant entries for TMEM255B; however, as of early 2025, none are classified as "Pathogenic" or "Likely Pathogenic". Most reported variants are classified as benign, likely benign, or of uncertain significance.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** RNA-sequencing data shows that TMEM255B is expressed across a wide variety of tissues, indicating low tissue specificity. Tissues with notable expression include the testis, cerebellum, and fibroblasts.
+*   **Tissue-specific Phenotypes Expected:** The widespread expression pattern does not suggest a phenotype restricted to a single organ system; however, this is speculative without a known disease association.
+*   **Expression During Development:** Data on developmental expression patterns and their relation to age-related phenotypes are not available.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** TMEM255B encodes a transmembrane protein belonging to the TMEM255/FAM70 family. Its precise molecular function is not well-characterized but it is predicted to be an integral component of the membrane.
+*   **Disease Mechanism:** No disease mechanism has been elucidated. The gene's tolerance to loss-of-function variation suggests that haploinsufficiency is an unlikely mechanism for dominant disease.
+*   **Cellular/Molecular Pathways Disrupted:** The specific cellular or molecular pathways affected by TMEM255B variants are currently unknown.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** This gene is not typically included in diagnostic panels for specific disorders, and therefore, data on diagnostic yield are not available.
+*   **Most Common Reasons for Testing this Gene:** There are currently no established clinical indications for testing TMEM255B.
+*   **Clinical Actionability and Management Implications:** None have been defined.
+*   **Genetic Counseling Considerations:** Given the lack of evidence for a role in disease, variants of uncertain significance should be interpreted with caution. The gene's constraint profile suggests that loss-of-function variants are unlikely to be causative for highly penetrant, dominantly inherited disorders.
+
+### **Key Clinical Literature & Studies**
+*   **Key Publications:** No key clinical or genetic studies have been published that definitively link TMEM255B to a human phenotype or establish genotype-phenotype correlations. The gene is mentioned in large-scale genomic and transcriptomic studies, but is not the primary focus of these publications.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no known high-confidence associations between HPO terms and specific variants in TMEM255B.
+*   **Phenotype Red Flags:** No specific HPO terms are considered "red flags" that would strongly suggest pathogenic variants in this gene.
+*   **Differential Diagnosis Considerations:** Not applicable.
+

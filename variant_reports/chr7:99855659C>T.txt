@@ -1,0 +1,212 @@
+=== chr7:99855659C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs187831002
+• Chromosome: 7
+• Position: 99855659
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CYP3A43
+• Databases: rs187831002
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 8.210000000000001e-06
+• gnomADg Allele Frequency: 1.97e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007001: dehydroepiandrosterone sulphate measurement - Quantification of dehydroepiandrosterone sulfate (DHEA-S) in a sample. DHEA-S is a metabolite of dehydroepiandrosterone (DHEA), the most abundant circulating steroid hormone in humans.
+GWAS_EFO_0005653: serum metabolite measurement - quantification of some metabolite in serum
+GWAS_EFO_0007007: ticagrelor measurement - Quantification of the amount of ticagrelor in a sample. Ticagrelor is a platelet aggregation inhibitor used for the prevention of thrombotic events in people with acute coronary syndrome or myocardial infarction with ST elevation.
+GWAS_EFO_0005672: acute coronary syndrome - A disorder characterized by signs and symptoms related to acute ischemia of the myocardium secondary to coronary artery disease. The clinical presentation covers a spectrum of heart diseases from unstable angina to myocardial infarction.|Signs and symptoms related to acute ischemia of the myocardium secondary to coronary artery disease. The clinical presentation covers a spectrum of heart diseases from unstable angina to myocardial infarction.
+GWAS_EFO_0004541: HbA1c measurement - A quantification of glycated A1c hemoglobin in blood used as an index for blood glucose level over several months.
+GWAS_EFO_0004344: birth weight - The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0005116: urinary metabolite measurement - quantification of some metabolite in urine
+GWAS_EFO_0003884: chronic kidney disease - Conditions in which the KIDNEYS perform below the normal level for more than three months. Chronic kidney insufficiency is classified by five stages according to the decline in GLOMERULAR FILTRATION RATE and the degree of kidney damage (as measured by the level of PROTEINURIA). The most severe form is the end-stage renal disease (CHRONIC KIDNEY FAILURE). (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002)|The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION.|Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+GWAS_EFO_0004908: testosterone measurement - is a quantification of testosterone, typically in serum. Testosterone is a steroid hormone.Testosterone measurement is used in the diagnosis ofprecocious or delayed puberty, infertility (in men and women), ovarian tumours, adrenal tumours and pituitary disorders.
+GWAS_EFO_0004531: urate measurement - A urate measurement is the quantification of some urate in body fluid
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0004458: C-reactive protein measurement - C-reactive protein (CRP) measurement is a measurement of the level of C-reactive protein in the blood.  Levels are known to rise in response to inflammation, CRP is therefore used as a clinical measure of inflammation. The measurement is used in the process of clinical diagnosis as high levels of CRP are associated with cardiovascular disease, diabetes and hypertension and in some cancers.|is about MeSH:D002097
+GWAS_EFO_0004697: estradiol measurement - Is a quantification of circulating estradiol a circulating steriod sex hormone.
+GWAS_EFO_0005939: parental genotype effect measurement - quantification of the effect of the parental genotype, usually the maternal genotype on the development of a child, for example to determine its influence on congenital abnormalities
+GWAS_EFO_0010134: kidney transplant - A surgical procedure in which one or both kidneys from a donor are implanted into a recipient.
+GWAS_EFO_0005199: renal transplant outcome measurement - quantification of the outcome of a kidney transplant
+GWAS_EFO_0008458: tacrolimus measurement - Quantification of the amount of tacrolimus in a sample.  Tacrolimus (TAC) is a common immunosuppressive agent that potently inhibits T-cell function and proliferation through inhibition of calcineurin by binding to FKB12.
+GWAS_EFO_0008535: post-traumatic stress disorder symptom measurement - Quantification of the severity of post-traumatic stress disorder symptoms, typically quantified as the sum score of items of a diagnostic instrument such as the Semi-Structured Assessment for the Genetics of Alcoholism
+GWAS_EFO_0000180: HIV-1 infection - The type species of lentivirus and the etiologic agent of acquired immunodeficiency syndrome (AIDS). It is characterized by its cytopathic effect and affinity for the T4-lymphocyte.
+GWAS_EFO_0010125: viral load - A measurement of the quantity of virus in a given volume of body fluid.
+GWAS_EFO_0009422: CXCL5 measurement - Quantification of the amount of CXCL5 protein in a sample.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0004730: hormone measurement - The determination of the amount of hormone present in a sample.
+GWAS_EFO_0004725: metabolite measurement - This is an annotation class for metabolite measurements where the exact metabolite measurements are unknown. Do not annotate to this class.|The quantification of some metabolite.
+GWAS_EFO_0007970: estrone measurement - quantification of the amount of estrone in a sample
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0004244: interstitial lung disease - A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of pulmonary alveoli that extends to the interstitium and beyond leading to diffuse pulmonary fibrosis. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features.|A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of PULMONARY ALVEOLI that extends to the interstitium and beyond leading to diffuse PULMONARY FIBROSIS. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features.
+GWAS_HP_0000539: Abnormality of refraction - An abnormality in the process of focusing of light by the eye in order to produce a sharp image on the retina.
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0006336: diastolic blood pressure - The blood pressure after the contraction of the heart while the chambers of the heart refill with blood.
+GWAS_EFO_0000341: chronic obstructive pulmonary disease - A group of disorders affecting the bronchi and the lung parenchyma. It is characterized by chronic and irreversible obstruction of the airflow. It includes chronic bronchitis and pulmonary emphysema.|A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA.|A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema.
+GWAS_EFO_0000768: idiopathic pulmonary fibrosis - Idiopathic pulmonary fibrosis (IPF) is a nonneoplastic pulmonary disease that is characterized by the formation of scar tissue within the lungs in the absence of any known cause.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16166542) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325376) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325456) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325488) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325483) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325491) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325498) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325494) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325502) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325510) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325508) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325511) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325541) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325546) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325553) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Transcript (ID: 16325561) -> Associated GWAS: GWAS_EFO_0007001, GWAS_EFO_0005653
+Entity: Non Coding RNA (ID: 17019514) -> Associated GWAS: GWAS_EFO_0007007, GWAS_EFO_0005672, GWAS_EFO_0004541, GWAS_EFO_0004344, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004908, GWAS_EFO_0004531, GWAS_EFO_0007937, GWAS_EFO_0004458, GWAS_EFO_0004697, GWAS_EFO_0005939, GWAS_EFO_0005653, GWAS_EFO_0010134, GWAS_EFO_0005199, GWAS_EFO_0008458, GWAS_EFO_0008535, GWAS_EFO_0000180, GWAS_EFO_0010125, GWAS_EFO_0009422, GWAS_EFO_0005939, GWAS_EFO_0004747, GWAS_EFO_0007007, GWAS_EFO_0005672, GWAS_EFO_0007001, GWAS_EFO_0005653, GWAS_EFO_0004305, GWAS_EFO_0004730, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0004908, GWAS_EFO_0007970, GWAS_EFO_0004509, GWAS_EFO_0004784, GWAS_EFO_0007007, GWAS_EFO_0005672, GWAS_EFO_0004339, GWAS_EFO_0004305, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0004244, GWAS_HP_0000539, GWAS_EFO_0004509, GWAS_EFO_0004713, GWAS_EFO_0005192, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0004339, GWAS_EFO_0006336, GWAS_EFO_0000341, GWAS_EFO_0000768, GWAS_EFO_0004713
+Entity: ChromHMM State (ID: 19156381) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0004305, GWAS_EFO_0004730, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0004908, GWAS_EFO_0007970
+Entity: ChromHMM State (ID: 20301710) -> Associated GWAS: GWAS_EFO_0005653
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3578
+• Pathogenic/Likely Pathogenic: 120
+• Benign/Likely Benign: 807
+• Uncertain Significance: 2647
+• Other Classifications: 4
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=189)
+• Hereditary spastic paraplegia 50 (n=97)
+• Hereditary spastic paraplegia 50|Inborn genetic diseases (n=15)
+• Premature ovarian failure 8 (n=10)
+• Spastic paraplegia (n=8)
+• See cases (n=8)
+• not provided|Hereditary spastic paraplegia 50 (n=6)
+• Hereditary spastic paraplegia (n=5)
+• Alazami-Yuan syndrome (n=5)
+• not provided|Inborn genetic diseases (n=5)
+• Vitamin D-dependent rickets, type 3 (n=5)
+• Hereditary spastic paraplegia 50|not provided (n=4)
+• not specified|Hereditary spastic paraplegia 50 (n=4)
+• not provided|Spastic paraplegia (n=4)
+• Meier-Gorlin syndrome (n=3)
+• Hereditary spastic paraplegia|Hereditary spastic paraplegia 50 (n=3)
+• Inborn genetic diseases|not provided (n=3)
+• Prostate cancer (n=2)
+• not provided|not specified (n=2)
+• not specified|Hereditary spastic paraplegia 50|Inborn genetic diseases|not provided (n=2)
+• AP-4 deficiency syndrome (n=2)
+• Hereditary spastic paraplegia 50|Spastic paraplegia (n=2)
+• not provided|Inborn genetic diseases|Hereditary spastic paraplegia 50 (n=2)
+• Intellectual disability (n=2)
+• not provided|Hereditary spastic paraplegia 50|Inborn genetic diseases (n=2)
+• Inborn genetic diseases|Hereditary spastic paraplegia 50 (n=2)
+• Microcephaly 25, primary, autosomal recessive (n=2)
+• Spermatogenesis maturation arrest (n=2)
+• Non-obstructive azoospermia|Spermatogenic failure 61 (n=2)
+• Spermatogenic failure 61 (n=2)
+• Non-obstructive azoospermia|Premature ovarian insufficiency (n=2)
+• Meier-Gorlin syndrome|9 conditions (n=1)
+• MCM7-related disorder (n=1)
+• 9 conditions (n=1)
+• Intellectual disability|Hereditary spastic paraplegia 50|not provided (n=1)
+• Hereditary spastic paraplegia 50|Intellectual disability|not provided (n=1)
+• Abnormality of the nervous system (n=1)
+• AP4M1-related disorder (n=1)
+• Hereditary spastic paraplegia 50|not provided|not specified (n=1)
+• not provided|Spastic paraplegia|Hereditary spastic paraplegia 50 (n=1)
+• not provided|Hereditary spastic paraplegia 50|AP4M1-related disorder (n=1)
+• not specified|Hereditary spastic paraplegia 50|not provided|AP4M1-related disorder (n=1)
+• Hereditary spastic paraplegia 50|not provided|Hereditary spastic paraplegia|Inborn genetic diseases (n=1)
+• Hereditary spastic paraplegia 50|Inborn genetic diseases|not provided (n=1)
+• Hereditary spastic paraplegia 50|Spastic paraplegia|AP-4 deficiency syndrome (n=1)
+• Hereditary spastic paraplegia 50|Hereditary spastic paraplegia|not specified (n=1)
+• not specified|Hereditary spastic paraplegia 50|AP4M1-related disorder|not provided (n=1)
+• Hereditary spastic paraplegia 50|AP-4 deficiency syndrome (n=1)
+• not specified|Hereditary spastic paraplegia (n=1)
+• Hereditary spastic paraplegia 50|Intellectual disability|not provided|Hereditary spastic paraplegia|Spastic paraplegia (n=1)
+• Hereditary spastic paraplegia 50|not provided|Spastic paraplegia (n=1)
+• Hereditary spastic paraplegia 50|not provided|Hereditary spastic paraplegia (n=1)
+• not specified|Hereditary spastic paraplegia|Hereditary spastic paraplegia 50|AP4M1-related disorder|not provided (n=1)
+• Brain atrophy (n=1)
+• CNS hypomyelination (n=1)
+• Hypoplasia of the corpus callosum (n=1)
+• Microcephaly (n=1)
+• Global developmental delay|Hereditary spastic paraplegia 50|not provided|AP4M1-related disorder|Spastic paraplegia (n=1)
+• not provided|Hereditary spastic paraplegia 50|not specified (n=1)
+• not specified|Spastic paraplegia|Hereditary spastic paraplegia 50|Inborn genetic diseases (n=1)
+• Hereditary spastic paraplegia 50|Spastic paraplegia|not provided (n=1)
+• Hereditary spastic paraplegia 50|not provided|AP4M1-related disorder (n=1)
+• not provided|Hereditary spastic paraplegia 50|Hereditary spastic paraplegia|Spastic paraplegia (n=1)
+• Hereditary spastic paraplegia 50|Intellectual disability|Spastic paraplegia|not provided (n=1)
+• not provided|AP4M1-related disorder|Hereditary spastic paraplegia 50|Spastic paraplegia (n=1)
+• Hereditary spastic paraplegia 50|not specified|not provided (n=1)
+• Intellectual disability|not provided (n=1)
+• Hereditary spastic paraplegia|Hereditary spastic paraplegia 50|not provided|Inborn genetic diseases (n=1)
+• Hereditary spastic paraplegia|Hereditary spastic paraplegia 50|AP4M1-related disorder (n=1)
+• not specified|Hereditary spastic paraplegia|Hereditary spastic paraplegia 50|Inborn genetic diseases (n=1)
+• not provided|Hereditary spastic paraplegia 50|Spastic paraplegia (n=1)
+• not specified|Hereditary spastic paraplegia 50|not provided|Hereditary spastic paraplegia|AP4M1-related disorder (n=1)
+• Hereditary spastic paraplegia 50|Inborn genetic diseases|not specified (n=1)
+• not specified|Hereditary spastic paraplegia 50|Hereditary spastic paraplegia|Inborn genetic diseases (n=1)
+• Hereditary spastic paraplegia|not provided (n=1)
+• Alazami-Yuan syndrome|Inborn genetic diseases|not provided (n=1)
+• not provided|Alazami-Yuan syndrome (n=1)
+• not provided|TAF6-related disorder (n=1)
+• not provided|Inborn genetic diseases|Alazami-Yuan syndrome (n=1)
+• Syndromic intellectual disability|Global developmental delay (n=1)
+• Abnormal facial shape|Alazami-Yuan syndrome|Inborn genetic diseases|not provided (n=1)
+• Cornelia de Lange syndrome 1|Alazami-Yuan syndrome (n=1)
+• Autism (n=1)
+• Congenital long QT syndrome (n=1)
+• fentanyl response - Dosage|tacrolimus response - Metabolism/PK (n=1)
+• tacrolimus response - Metabolism/PK (n=1)
+• STAG3-related disorder (n=1)
+• Premature ovarian failure 8|Spermatogenic failure 61|PRIMARY OVARIAN FAILURE 8 (n=1)
+• Premature ovarian failure (n=1)
+• Premature ovarian insufficiency (n=1)
+• Female infertility|Abnormality of the ovary (n=1)
+• Premature ovarian insufficiency|Premature ovarian failure 8|not provided (n=1)
+• PRIMARY OVARIAN FAILURE 8 (n=1)
+• Variant of unknown significance (n=1)
+• not specified|not provided (n=1)
+• Neurodevelopmental delay (n=1)
+• Progressive microcephaly (n=1)
+
+

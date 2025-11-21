@@ -1,0 +1,269 @@
+=== chr13:20189481A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs35887622
+• Chromosome: 13
+• Position: 20189481
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: GJB2
+• Databases: rs35887622, CM077555, CM970679
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: pathogenic/likely_pathogenic, pathogenic
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.012320000000000001
+• gnomADg Allele Frequency: 0.009406
+• 1KG Frequency: 0.006
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 52539
+• Pathogenic/Likely Pathogenic: 28162
+• Benign/Likely Benign: 11898
+• Uncertain Significance: 12156
+• Other Classifications: 323
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Autosomal recessive nonsyndromic hearing loss 1A (n=4918)
+• Palmoplantar keratoderma-deafness syndrome (n=1698)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=1452)
+• not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=990)
+• Autosomal dominant nonsyndromic hearing loss 3A (n=804)
+• Autosomal dominant keratitis-ichthyosis-hearing loss syndrome (n=672)
+• Knuckle pads, deafness AND leukonychia syndrome (n=573)
+• Autosomal recessive nonsyndromic hearing loss 1A|not specified|not provided (n=547)
+• Autosomal recessive nonsyndromic hearing loss 1A|not specified (n=411)
+• Nonsyndromic genetic hearing loss|not provided (n=343)
+• Rare genetic deafness|not provided (n=339)
+• not provided|7 conditions (n=335)
+• not specified|not provided (n=305)
+• 7 conditions (n=302)
+• Nonsyndromic genetic hearing loss (n=290)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss (n=276)
+• Hearing loss (n=276)
+• not provided|Autosomal recessive nonsyndromic hearing loss 1A|not specified (n=275)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|not specified (n=269)
+• Knuckle pads, deafness AND leukonychia syndrome|7 conditions (n=250)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|7 conditions (n=244)
+• not provided|Nonsyndromic genetic hearing loss (n=238)
+• Rare genetic deafness (n=211)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=197)
+• not specified|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=196)
+• Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|Autosomal recessive nonsyndromic hearing loss 1A (n=194)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A (n=177)
+• Autosomal dominant nonsyndromic hearing loss 3A|not provided (n=176)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|not provided (n=169)
+• not provided|Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|7 conditions (n=153)
+• Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|not provided|not specified (n=152)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Hearing impairment|Nonsyndromic genetic hearing loss|Nonsyndromic Deafness|Hearing loss, autosomal recessive|Mutilating keratoderma (n=152)
+• Knuckle pads, deafness AND leukonychia syndrome|Inborn genetic diseases|GJB2-related disorder|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A (n=152)
+• Autosomal recessive nonsyndromic hearing loss 1B|7 conditions (n=152)
+• Hearing impairment|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=151)
+• Autosomal recessive nonsyndromic hearing loss 1A|8 conditions|not provided|Inborn genetic diseases|GJB2-related disorder|7 conditions (n=151)
+• Autosomal dominant nonsyndromic hearing loss 3A|7 conditions|Nonsyndromic genetic hearing loss (n=151)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Hearing impairment|Rare genetic deafness|Hearing loss|Nonsyndromic genetic hearing loss|GJB2-related disorder|7 conditions (n=150)
+• Autosomal dominant keratitis-ichthyosis-hearing loss syndrome|Autosomal recessive nonsyndromic hearing loss 1A|not provided|7 conditions (n=150)
+• Hearing impairment|Nonsyndromic genetic hearing loss|not specified|not provided (n=148)
+• Hearing loss|Sensorineural hearing loss disorder|Mutilating keratoderma|not provided|Autosomal dominant keratitis-ichthyosis-hearing loss syndrome|Ichthyosis, hystrix-like, with hearing loss|Ichthyosis, hystrix-like, with hearing loss (n=146)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss|Hearing loss|7 conditions|Autosomal dominant nonsyndromic hearing loss 3A|Rare genetic deafness|Inborn genetic diseases|See cases|GJB2-related disorder|Autosomal recessive nonsyndromic hearing loss 1A (n=145)
+• Autosomal recessive nonsyndromic hearing loss 1B|Autosomal dominant keratitis-ichthyosis-hearing loss syndrome|Nonsyndromic Deafness|Hearing impairment|Autosomal dominant nonsyndromic hearing loss 3A (n=145)
+• Rare genetic deafness|not provided|not specified (n=145)
+• not provided|not specified (n=144)
+• Knuckle pads, deafness AND leukonychia syndrome|not provided (n=144)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|not provided (n=144)
+• Rare genetic deafness|not provided|Hearing loss|GJB2-related disorder|Autosomal recessive nonsyndromic hearing loss 1A|7 conditions (n=144)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Nonsyndromic genetic hearing loss|not provided|Mutilating keratoderma|Autosomal dominant nonsyndromic hearing loss 3A|GJB2-related disorder|7 conditions|Hearing loss|Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1B (n=144)
+• Autosomal recessive nonsyndromic hearing loss 1A|See cases|Inborn genetic diseases|Knuckle pads, deafness AND leukonychia syndrome (n=144)
+• Mutilating keratoderma (n=144)
+• 7 conditions|not provided (n=144)
+• Hearing impairment (n=144)
+• Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|not provided|not specified|7 conditions (n=143)
+• Mutilating keratoderma|not specified|not provided (n=143)
+• not specified|not provided|Autosomal recessive nonsyndromic hearing loss 1A|7 conditions (n=143)
+• not specified|not provided|8 conditions|Autosomal recessive nonsyndromic hearing loss 1A|7 conditions (n=143)
+• Nonsyndromic genetic hearing loss|not provided|7 conditions (n=143)
+• GJB2-related disorder|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=142)
+• Autosomal dominant nonsyndromic hearing loss 3A|not specified|not provided (n=141)
+• Hearing loss|Mutilating keratoderma (n=141)
+• Sensorineural hearing loss disorder|not provided (n=141)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss|not provided|not specified (n=141)
+• Noonan syndrome 1 (n=140)
+• Rare genetic deafness|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|nonsyndromic sensorineural hearing loss|not provided|GJB2-related disorder (n=139)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing loss|not provided|Nonsyndromic genetic hearing loss|8 conditions (n=139)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|not specified|7 conditions (n=139)
+• Autosomal recessive nonsyndromic hearing loss 1A|8 conditions|not provided (n=139)
+• Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|not provided (n=138)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|8 conditions|Autosomal recessive nonsyndromic hearing loss 1B (n=138)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing loss, autosomal recessive|7 conditions|Knuckle pads, deafness AND leukonychia syndrome|Sensorineural hearing loss disorder (n=138)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Rare genetic deafness|Autosomal dominant nonsyndromic hearing loss 3A|Nonsyndromic genetic hearing loss|Autosomal recessive nonsyndromic hearing loss 1A (n=138)
+• Autosomal recessive nonsyndromic hearing loss 1B|GJB2-related disorder|Hearing impairment|7 conditions (n=138)
+• not specified|Nonsyndromic genetic hearing loss|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A (n=138)
+• Palmoplantar keratoderma-deafness syndrome|Autosomal dominant nonsyndromic hearing loss 3A|Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss (n=138)
+• Hereditary palmoplantar keratoderma|Hearing loss, autosomal recessive|Nonsyndromic Deafness (n=138)
+• Autosomal dominant nonsyndromic hearing loss 3A|Rare genetic deafness|Hearing loss, autosomal recessive|not provided|Nonsyndromic genetic hearing loss (n=138)
+• Hereditary palmoplantar keratoderma|Palmoplantar keratoderma-deafness syndrome (n=138)
+• Deafness, digenic, GJB2/GJB3|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|Hearing impairment|Autosomal recessive nonsyndromic hearing loss 1A (n=137)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal dominant nonsyndromic hearing loss 3A|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=137)
+• Autosomal recessive nonsyndromic hearing loss 1B|Rare genetic deafness|Hearing loss|Autism spectrum disorder|GJB2-related disorder|Mutilating keratoderma (n=137)
+• Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss (n=136)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss|7 conditions (n=136)
+• Autosomal recessive nonsyndromic hearing loss 1A|8 conditions|not specified (n=136)
+• Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=134)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss|GJB2-related disorder|7 conditions (n=133)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|Hearing loss|not provided|Nonsyndromic genetic hearing loss|Nonsyndromic Deafness|7 conditions (n=131)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Rare genetic deafness|Hearing impairment|Hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A (n=131)
+• Autosomal recessive nonsyndromic hearing loss 1B|Ichthyosis, hystrix-like, with hearing loss|8 conditions|Nonsyndromic genetic hearing loss|Deafness|7 conditions|GJB2-related disorder|Mutilating keratoderma (n=131)
+• Knuckle pads, deafness AND leukonychia syndrome|See cases (n=131)
+• Nonsyndromic Deafness|not provided (n=131)
+• not provided|Autosomal dominant keratitis-ichthyosis-hearing loss syndrome (n=131)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|nonsyndromic sensorineural hearing loss|not provided|Nonsyndromic genetic hearing loss|7 conditions (n=131)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Rare genetic deafness|not provided|8 conditions|Nonsyndromic genetic hearing loss|GJB2-related disorder (n=131)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|Progressive sensorineural hearing impairment|Autosomal dominant nonsyndromic hearing loss 3A|not provided|GJB2-related disorder (n=131)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Rare genetic deafness|not provided|8 conditions|Nonsyndromic genetic hearing loss|7 conditions|GJB2-related disorder (n=130)
+• Rare genetic deafness|not provided|Autosomal recessive nonsyndromic hearing loss 1A|8 conditions (n=130)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|7 conditions|Inborn genetic diseases (n=126)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=125)
+• Autosomal recessive nonsyndromic hearing loss 1B|Autism spectrum disorder|8 conditions|7 conditions|CREBBP-related disorder (n=125)
+• Hearing impairment|Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|Hearing loss|not provided|nonsyndromic sensorineural hearing loss|GJB2-related disorder|7 conditions (n=125)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Hearing loss|Autosomal recessive nonsyndromic hearing loss 1A (n=123)
+• Autosomal recessive nonsyndromic hearing loss 1B|Hearing loss, autosomal recessive|Mutilating keratoderma|Hearing impairment|Nonsyndromic genetic hearing loss|Palmoplantar keratoderma-deafness syndrome|GJB2-related disorder|Sensorineural hearing loss disorder|Hereditary palmoplantar keratoderma|7 conditions|Rare genetic deafness|Ichthyosis, hystrix-like, with hearing loss|Knuckle pads, deafness AND leukonychia syndrome (n=123)
+• Rare genetic deafness|not provided|Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Nonsyndromic genetic hearing loss|GJB2-related disorder (n=122)
+• Inborn genetic diseases|not provided (n=121)
+• Autosomal recessive nonsyndromic hearing loss 1A|7 conditions|not provided (n=119)
+• Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|not provided|7 conditions (n=117)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Hearing loss|Nonsyndromic genetic hearing loss|nonsyndromic sensorineural hearing loss|not provided (n=117)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Hearing impairment|Rare genetic deafness|Hearing loss|Autosomal recessive nonsyndromic hearing loss 1B (n=113)
+• Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|Mutilating keratoderma (n=113)
+• Hearing impairment|not specified|8 conditions|not provided (n=113)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Hearing loss|Rare genetic deafness|Nonsyndromic genetic hearing loss (n=113)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A (n=111)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Rare genetic deafness|Hearing loss|Nonsyndromic genetic hearing loss|8 conditions (n=109)
+• Nonsyndromic genetic hearing loss|not provided|Autosomal recessive nonsyndromic hearing loss 1A|7 conditions (n=108)
+• Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|not specified (n=103)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|Hearing impairment|Hearing loss (n=103)
+• Autosomal recessive nonsyndromic hearing loss 1A|Deafness, digenic, GJB2/GJB6|Hearing impairment|Severe sensorineural hearing impairment|not provided|Deafness|Rare genetic deafness|Nonsyndromic genetic hearing loss|Hearing impairment (n=103)
+• Bilateral conductive hearing impairment|7 conditions|Autosomal dominant nonsyndromic hearing loss 3A|Hearing impairment (n=103)
+• Bilateral sensorineural hearing impairment|Bilateral sensorineural hearing impairment|Autosomal recessive nonsyndromic hearing loss 1A (n=103)
+• Autosomal recessive nonsyndromic hearing loss 1B|Hearing loss, autosomal recessive|Hearing loss|Ear malformation|Inborn genetic diseases|Autosomal recessive nonsyndromic hearing loss 104|Hereditary palmoplantar keratoderma|Mutilating keratoderma (n=103)
+• Knuckle pads, deafness AND leukonychia syndrome|Knuckle pads, deafness AND leukonychia syndrome|GJB2-related disorder (n=103)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Rare genetic deafness|Autosomal dominant nonsyndromic hearing loss 3A|7 conditions|not provided|Nonsyndromic genetic hearing loss|GJB2-related disorder|Mutilating keratoderma (n=103)
+• Nonsyndromic genetic hearing loss|Hearing impairment|not provided|Autosomal recessive nonsyndromic hearing loss 1A|Autosomal recessive nonsyndromic hearing loss 1A (n=103)
+• Autosomal recessive nonsyndromic hearing loss 1B|Autosomal dominant nonsyndromic hearing loss 3A|Hearing loss|GJB2-related disorder|Rare genetic deafness|Mutilating keratoderma|7 conditions (n=103)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|not specified|Hearing loss|Sensorineural hearing loss disorder|not provided (n=102)
+• Deafness|Hearing loss, autosomal recessive (n=102)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Rare genetic deafness|not provided|Hearing loss|Nonsyndromic genetic hearing loss|7 conditions (n=101)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Hearing loss|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Rare genetic deafness|not specified|Inborn genetic diseases|7 conditions (n=100)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Inborn genetic diseases|Nonsyndromic genetic hearing loss (n=98)
+• Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|not provided|not specified|GJB2-related disorder|Mutilating keratoderma (n=98)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|Hearing loss|not provided (n=97)
+• Rare genetic deafness|8 conditions|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=94)
+• Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Inborn genetic diseases|7 conditions (n=94)
+• not provided|Autosomal recessive nonsyndromic hearing loss 1A|8 conditions (n=94)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|not provided|7 conditions (n=93)
+• not specified|Nonsyndromic genetic hearing loss|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=92)
+• not specified|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=92)
+• Rare genetic deafness|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=91)
+• not provided|Inborn genetic diseases (n=91)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A (n=91)
+• Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss|8 conditions (n=91)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|not provided|Nonsyndromic genetic hearing loss|7 conditions|GJB2-related disorder (n=91)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss|7 conditions (n=91)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|8 conditions|Nonsyndromic genetic hearing loss (n=90)
+• Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|8 conditions (n=90)
+• Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss (n=87)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|not provided|nonsyndromic sensorineural hearing loss|GJB2-related disorder (n=86)
+• Autosomal recessive nonsyndromic hearing loss 12|not specified|8 conditions (n=84)
+• Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|not provided|not specified|Ichthyosis, hystrix-like, with hearing loss|7 conditions|GJB2-related disorder|Mutilating keratoderma (n=80)
+• Autosomal recessive nonsyndromic hearing loss 1A|not specified|7 conditions (n=80)
+• not specified|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic Deafness|GJB2-related disorder (n=80)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|7 conditions (n=75)
+• Rare genetic deafness|Hearing impairment|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|8 conditions|Autosomal recessive nonsyndromic hearing loss 1A (n=70)
+• Autosomal recessive nonsyndromic hearing loss 1B|Palmoplantar keratoderma-deafness syndrome (n=70)
+• Mutilating keratoderma|Hearing loss|7 conditions (n=70)
+• Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A (n=68)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|not provided|8 conditions (n=67)
+• Hearing impairment|Hearing loss|7 conditions|Autosomal dominant nonsyndromic hearing loss 3A|Nonsyndromic genetic hearing loss|GJB2-related disorder|Rare genetic deafness|not provided|Autosomal recessive nonsyndromic hearing loss 1A|Mutilating keratoderma (n=67)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Rare genetic deafness|not provided|not specified|GJB2-related disorder|Nonsyndromic genetic hearing loss|7 conditions (n=61)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|Autosomal recessive nonsyndromic hearing loss 1A (n=57)
+• Autosomal recessive nonsyndromic hearing loss 1B|not provided (n=57)
+• Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A (n=56)
+• Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=56)
+• not specified|not provided|Inborn genetic diseases (n=52)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|not specified|8 conditions (n=51)
+• Hearing loss|Autosomal recessive nonsyndromic hearing loss 1A (n=51)
+• not provided|Nonsyndromic genetic hearing loss|Autosomal recessive nonsyndromic hearing loss 1A|not specified (n=49)
+• Autosomal recessive nonsyndromic hearing loss 1A|not specified|not provided|Hearing impairment|Nonsyndromic genetic hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|7 conditions|8 conditions (n=49)
+• Autosomal dominant nonsyndromic hearing loss 3A|Nonsyndromic genetic hearing loss (n=49)
+• not specified|Nonsyndromic Deafness|Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|not provided|Nonsyndromic genetic hearing loss|GJB2-related disorder|Autosomal dominant keratitis-ichthyosis-hearing loss syndrome (n=49)
+• Ichthyosis, hystrix-like, with hearing loss|not specified|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Autosomal dominant nonsyndromic hearing loss 3A (n=47)
+• Nonsyndromic genetic hearing loss|not specified (n=46)
+• not specified|not provided|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss (n=45)
+• not provided|8 conditions|Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness (n=43)
+• nonsyndromic sensorineural hearing loss|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=43)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided (n=40)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|GJB2-related disorder|Ear malformation|8 conditions|Rare genetic deafness (n=40)
+• not specified|8 conditions (n=40)
+• not provided|not specified|GJB2-related disorder|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A (n=40)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss (n=36)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|Hearing loss|8 conditions|Autosomal dominant nonsyndromic hearing loss 3A|Nonsyndromic genetic hearing loss|7 conditions (n=35)
+• Autosomal dominant nonsyndromic hearing loss 3A|Hearing impairment|Hearing loss|not provided|Rare genetic deafness|not specified|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss (n=35)
+• Hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided|Mutilating keratoderma|7 conditions (n=35)
+• IFAP syndrome 1, with or without BRESHECK syndrome|not provided (n=35)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|Hearing loss|8 conditions|not provided|Autosomal dominant nonsyndromic hearing loss 3A (n=32)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Rare genetic deafness|not provided (n=32)
+• not provided|Nonsyndromic genetic hearing loss|Autosomal recessive nonsyndromic hearing loss 1A (n=32)
+• Hearing loss|not provided|GJB2-related disorder (n=32)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss (n=30)
+• Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|not provided|GJB2-related disorder (n=29)
+• not provided|Nonsyndromic genetic hearing loss|8 conditions (n=29)
+• Autosomal recessive nonsyndromic hearing loss 1A|not provided|Nonsyndromic genetic hearing loss|7 conditions|not specified (n=27)
+• Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|not provided|8 conditions|Autosomal dominant nonsyndromic hearing loss 3A|GJB2-related disorder (n=27)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|Hearing loss (n=26)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|not provided|7 conditions|GJB2-related disorder (n=26)
+• Autosomal recessive nonsyndromic hearing loss 1A|not specified|8 conditions|not provided (n=26)
+• not provided|Rare genetic deafness|Autosomal recessive nonsyndromic hearing loss 1A|6 conditions (n=24)
+• Hearing impairment|Autosomal recessive nonsyndromic hearing loss 1A|not provided|GJB2-related disorder (n=24)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Rare genetic deafness|not provided|Autosomal recessive nonsyndromic hearing loss 1A (n=24)
+• Autosomal recessive nonsyndromic hearing loss 1B|Nonsyndromic genetic hearing loss|GJB2-related disorder|7 conditions (n=24)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|Hearing impairment|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Inborn genetic diseases|7 conditions|GJB2-related disorder (n=22)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|8 conditions|not provided (n=21)
+• not specified|Autosomal recessive nonsyndromic hearing loss 1A|8 conditions|not provided (n=21)
+• not specified|Ichthyosis, hystrix-like, with hearing loss|not provided|Autosomal dominant nonsyndromic hearing loss 3A|Autosomal recessive nonsyndromic hearing loss 1A|Nonsyndromic genetic hearing loss|GJB2-related disorder (n=20)
+• Autosomal recessive nonsyndromic hearing loss 1A|Ichthyosis, hystrix-like, with hearing loss|Autosomal dominant nonsyndromic hearing loss 3A|8 conditions (n=17)
+• Ichthyosis, hystrix-like, with hearing loss|Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A (n=15)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing impairment|Rare genetic deafness|not provided|Hearing loss|Autosomal recessive nonsyndromic hearing loss 1B (n=11)
+• Autosomal recessive nonsyndromic hearing loss 1A|Hearing loss, autosomal recessive|Nonsyndromic genetic hearing loss|Ear malformation|Autosomal recessive nonsyndromic hearing loss 104|Autosomal dominant nonsyndromic hearing loss 3A|Hereditary palmoplantar keratoderma|Knuckle pads, deafness AND leukonychia syndrome (n=11)
+• Mutilating keratoderma|GJB2-related disorder|7 conditions (n=11)
+• Autosomal recessive nonsyndromic hearing loss 1A|Rare genetic deafness|Hearing loss|Nonsyndromic genetic hearing loss|7 conditions|Mutilating keratoderma (n=11)
+• Autosomal recessive nonsyndromic hearing loss 1A|Autosomal dominant nonsyndromic hearing loss 3A|Ichthyosis, hystrix-like, with hearing loss|not specified (n=9)
+• Keratitis ichthyosis and deafness syndrome|Mutilating keratoderma|Nonsyndromic Hearing Loss, Dominant|Ichthyosis, hystrix-like, with hearing loss|Hearing loss, autosomal recessive (n=8)
+• See cases (n=1)
+
+

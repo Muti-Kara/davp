@@ -1,0 +1,71 @@
+=== chr5:825245T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201174878
+• Chromosome: 5
+• Position: 825245
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: ZDHHC11
+• Databases: rs201174878, COSV52075216, COSV52077111
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 3.0160000000000003e-05
+• gnomADg Allele Frequency: 0.00107
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004847: age at onset - The age at which some process, or disease started in a human individual.
+GWAS_HP_0000545: Myopia - An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16139438) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: Transcript (ID: 16226542) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: Transcript (ID: 16226577) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: Transcript (ID: 16226582) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: Non Coding RNA (ID: 17299658) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: ChromHMM State (ID: 22644068) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: ChromHMM State (ID: 22042412) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: ChromHMM State (ID: 20806675) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: ChromHMM State (ID: 20219657) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: ChromHMM State (ID: 19664528) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+Entity: ChromHMM State (ID: 19067655) -> Associated GWAS: GWAS_EFO_0004847, GWAS_HP_0000545
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1271
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 282
+• Uncertain Significance: 989
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=4)
+
+

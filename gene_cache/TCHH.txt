@@ -1,0 +1,58 @@
+TCHH Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**: The HGNC ID is HGNC:11786, and the OMIM gene ID is 190345. It is primarily associated with Uncombable Hair Syndrome 3 (UHS3), with OMIM MIM number 617252.
+*   **Clinical significance level**: The association between TCHH and Uncombable Hair Syndrome is classified as definitive.
+*   **Inheritance patterns observed in patients**: The inheritance pattern is typically autosomal recessive. Some cases result from compound heterozygosity.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: In gnomAD v4.0.0, the scores for TCHH are a pLI of 0.01, a LOEUF of 1.15, a pRec of 0.77, and a pNull of 0.23.
+*   **Clinical interpretation of constraint scores**: The low pLI and high LOEUF scores indicate that the gene is tolerant to loss-of-function variants, which is consistent with its association with a recessive disease.
+*   **Variant classes most likely to be pathogenic**: Pathogenic variants are typically loss-of-function, including nonsense, frameshift, and splice site variants. Missense variants have also been documented as causative.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: The most frequently reported HPO terms are Uncombable hair (HP:0002264), Pili canaliculi (HP:0003780), Triangular hair shaft (HP:0003781), Hair shaft grooves (HP:0003782), and Spun-glass hair (HP:0002265). A silvery-blond hair color is also a characteristic feature.
+*   **Secondary HPO terms**: Less common, but documented, HPO terms include Hypotrichosis (HP:0001006), Sparse hair (HP:0008070), Abnormality of hair texture (HP:0002241), Blond hair (HP:0002213), and Alopecia (HP:0001596).
+*   **Age of onset patterns**: The phenotype usually becomes apparent in early childhood, typically between the ages of 3 months and 3 years, and may show improvement as the individual gets older.
+*   **Phenotype severity spectrum**: The severity can vary from hair that is simply unruly to the classic, severe "spun-glass" hair that is impossible to comb flat against the scalp.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**: Biallelic loss-of-function variants, such as nonsense, frameshift, and splice site mutations, are consistently linked to the classic Uncombable Hair Syndrome 3 phenotype.
+*   **Protein domain-specific phenotype patterns**: Pathogenic variants have been identified throughout the TCHH gene, suggesting that the disruption of the overall protein, rather than a specific domain, is responsible for the disease.
+*   **Genotype-phenotype correlation strength**: There is a strong correlation between the presence of biallelic pathogenic variants in TCHH and the clinical presentation of uncombable hair syndrome.
+*   **Examples: specific variants → specific phenotypes**: The compound heterozygous variants c.1610del (p.Gly537Alafs*52) and c.2665C>T (p.Arg889*) have been documented to cause classic uncombable hair syndrome. Similarly, a homozygous frameshift variant, c.1189dupA (p.Ile397Asnfs*11), results in the same condition.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1189dupA (p.Ile397Asnfs*11)**: Pathogenic; associated with Uncombable hair syndrome 3 (HP:0002264); allele frequency not reported.
+*   **c.2665C>T (p.Arg889*)**: Pathogenic; associated with Uncombable hair syndrome 3 (HP:0002264); allele frequency not reported.
+*   **c.1610del (p.Gly537Alafs*52)**: Pathogenic; associated with Uncombable hair syndrome 3 (HP:0002264); allele frequency not reported.
+*   **c.3031C>T (p.Gln1011*)**: Pathogenic; associated with Uncombable hair (HP:0002264); allele frequency not reported.
+*   **c.3376C>T (p.Arg1126*)**: Pathogenic; associated with Uncombable hair (HP:0002264); allele frequency not reported.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation**: GTEx data shows the highest expression of TCHH in the skin (sun-exposed and non-sun-exposed sites with TPMs of 138.8 and 112.5, respectively). High expression is specifically localized to the inner root sheath of the hair follicle, which directly correlates with the hair-specific phenotype.
+*   **Tissue-specific phenotypes expected**: Given the highly specific expression pattern, phenotypes are expected to be confined to the hair.
+*   **Expression during development and age-related phenotypes**: TCHH is critical for proper hair shaft formation during the anagen (growth) phase of the hair cycle. The onset of symptoms in early childhood corresponds to the initial hair growth cycles.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function**: Trichohyalin (TCHH) is an intermediate filament-associated protein that provides structural integrity to the inner root sheath of the hair follicle.
+*   **Disease mechanism**: Uncombable Hair Syndrome 3 is caused by a loss-of-function mechanism, where pathogenic variants prevent the proper cross-linking of keratin intermediate filaments within the hair shaft.
+*   **Cellular/molecular pathways disrupted → phenotype consequences**: The disruption of keratinization and the formation of the cornified envelope in the inner root sheath of the hair follicle leads to a malformed, grooved hair shaft, resulting in the characteristic uncombable hair phenotype.
+*   **Protein-protein interactions relevant to phenotype**: TCHH interacts with keratin intermediate filaments and is cross-linked by transglutaminase 3 (TGM3). Notably, mutations in TGM3 are also a cause of uncombable hair syndrome.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**: For individuals presenting with a clinical diagnosis of uncombable hair syndrome, genetic testing of TCHH, along with PADI3 and TGM3, identifies the causative variants in a high percentage of cases.
+*   **Most common reasons for testing this gene**: The primary indication for testing is a clinical suspicion of uncombable hair syndrome, based on characteristic features like "spun-glass" hair, difficulty in combing, and a triangular cross-section of the hair shaft on microscopy.
+*   **Clinical actionability and management implications**: A molecular diagnosis confirms the cause of the phenotype. Management is supportive and involves gentle hair care practices, with the understanding that the condition often improves with age.
+*   **Genetic counseling considerations**: Genetic counseling for autosomal recessive inheritance is recommended. Heterozygous carriers of a pathogenic variant are typically unaffected.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 27851900, year: 2016**: This landmark study was the first to identify biallelic pathogenic variants in TCHH, PADI3, and TGM3 as the genetic cause of uncombable hair syndrome.
+*   **PMID: 28129089, year: 2017**: This paper reported novel compound heterozygous pathogenic variants in TCHH, thereby expanding the known mutational spectrum of the gene.
+*   **PMID: 29032158, year: 2017**: This study further solidified the roles of TCHH, PADI3, and TGM3 in uncombable hair syndrome through the analysis of a larger patient cohort.
+*   **PMID: 31737691, year: 2019**: This case report described a novel homozygous frameshift variant in TCHH in a patient diagnosed with uncombable hair syndrome.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: Biallelic loss-of-function variants (nonsense, frameshift, or splice site) in TCHH have a high-confidence association with Uncombable hair (HP:0002264), Pili canaliculi (HP:0003780), and Triangular hair shaft (HP:0003781).
+*   **Phenotype red flags**: The combination of Uncombable hair (HP:0002264) and Pili canaliculi (HP:0003780) presenting in early childhood should raise strong suspicion for pathogenic variants in TCHH or the other two causative genes, PADI3 and TGM3.
+*   **Differential diagnosis considerations**: The clinical phenotype of uncombable hair caused by TCHH variants is indistinguishable from that caused by pathogenic variants in PADI3 and TGM3. Therefore, diagnostic testing is often performed using a gene panel that includes all three genes.
+

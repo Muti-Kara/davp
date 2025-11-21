@@ -1,0 +1,56 @@
+=== chr1:52364569C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs147211573
+• Chromosome: 1
+• Position: 52364569
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: CC2D1B
+• Databases: rs147211573
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.00047129999999999996
+• gnomADg Allele Frequency: 0.0004529
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1366
+• Pathogenic/Likely Pathogenic: 1
+• Benign/Likely Benign: 55
+• Uncertain Significance: 1310
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Meier-Gorlin syndrome 1 (n=1)
+
+

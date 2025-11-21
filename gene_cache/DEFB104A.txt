@@ -1,0 +1,74 @@
+DEFB104A Gene Biomedical Dossier
+### **Gene Dossier: DEFB104A (defensin beta 104A)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: HGNC:18115.
+*   **OMIM Gene ID**: No specific OMIM entry for a monogenic disease associated with DEFB104A has been identified.
+*   **Primary Disease Associations**: No definitive monogenic disease association is established; however, copy number variation (CNV) at the DEFB4/DEFB104 locus is associated with susceptibility to complex inflammatory diseases, including Crohn's disease, celiac disease, and atopic asthma. It has also been investigated in the context of cancer.
+*   **Clinical Significance Level**: The evidence for association with complex diseases is moderate, but there is no definitive evidence for causation of a Mendelian disorder.
+*   **Inheritance Patterns Observed in Patients**: Not applicable for a Mendelian disorder; inheritance of CNV contributes to disease risk.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: Based on gnomAD v2.1.1 data, DEFB104A has a pLI (probability of being loss-of-function intolerant) of 0.00 and a LOEUF (loss-of-function observed/expected upper bound fraction) of 1.15. The pRec score is 0.09 and pNull is 1.00.
+*   **Clinical Interpretation of Constraint Scores**: These scores indicate that the gene is highly tolerant of loss-of-function variation. This is consistent with the absence of a described haploinsufficient disease state and the gene's location in a region known for copy number variation.
+*   **Variant Classes Most Likely to Be Pathogenic**: Loss-of-function variants (nonsense, frameshift) are unlikely to be pathogenic on their own in a heterozygous state. Pathogenicity is more likely linked to multi-exonic deletions or duplications (copy number variants) affecting gene dosage.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No specific HPO terms are definitively linked to pathogenic variants in DEFB104A. Inferred terms based on disease associations would relate to inflammatory bowel disease and immunodeficiency.
+    *   `HP:0002037` Inflammatory bowel disease
+    *   `HP:0002599` Colitis
+    *   `HP:0011968` Celiac disease
+    *   `HP:0002719` Recurrent infections
+    *   `HP:0001250` Seizures (Note: This is a general term and any link is speculative)
+*   **Secondary HPO terms**: Based on weaker associations or related biology.
+    *   `HP:0002213` Asthma
+    *   `HP:0001025` Atopic dermatitis
+    *   `HP:0100583` Periodontitis
+    *   `HP:0002721` Immunodeficiency
+*   **Age of Onset Patterns**: Varies by associated complex disease, with inflammatory bowel disease often presenting in young adulthood and atopy in childhood.
+*   **Phenotype Severity Spectrum**: The contribution of DEFB104A variants to complex diseases represents a risk factor, and does not solely determine severity.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: The primary genotype-phenotype correlation is with copy number variation (CNV), not single nucleotide variants.
+*   **Genotype-Phenotype Correlation Strength**: Moderate for CNV and disease susceptibility.
+    *   **Higher CNV**: An increased copy number of the beta-defensin gene cluster including DEFB4/DEFB104 is associated with a higher risk for Crohn's disease.
+    *   **Lower CNV**: A lower copy number (>4 copies) has been suggested to be protective against celiac disease. A lack of the DEFB4A gene copy was found to be significantly more frequent in individuals with atopy.
+*   **Examples: specific variants → specific phenotypes**: No well-established correlations exist for specific single-nucleotide variants causing distinct phenotypes. Promoter variants are known to affect gene expression levels.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants in DEFB104A are listed in ClinVar as pathogenic or likely pathogenic for a Mendelian disorder. Research studies have identified variants associated with complex disease risk.
+*   **VAR_024767** / **rs2680507**: This missense variant is listed in UniProt but has no established clinical significance in the provided results.
+*   The absence of confirmed pathogenic variants in clinical databases like ClinVar underscores that DEFB104A is not associated with a known monogenic disease.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: According to the GTEx portal, DEFB104A shows the highest expression in the testis, with lower levels in the vagina, lungs, and minor salivary glands. It is also noted to be enriched in the epididymis.
+*   **Tissue-Specific Phenotypes Expected**: Expression in epithelial tissues of the respiratory and gastrointestinal tracts is consistent with a role in mucosal innate immunity and the associated risk for inflammatory diseases in these locations. Expression in the testis suggests a role in reproductive tract immunity.
+*   **Expression During Development and Age-Related Phenotypes**: Data suggests that expression can be induced by inflammatory processes, such as in osteoarthritis.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: The gene encodes beta-defensin 104, an antimicrobial peptide that is a crucial component of the innate immune system providing defense at epithelial surfaces.
+*   **Disease Mechanism**: The primary mechanism appears to be related to gene dosage. Altered copy number changes the expression level of the defensin peptide, modifying the host's ability to manage microbial burden and inflammation at mucosal surfaces.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: As a beta-defensin, it is part of the "Antimicrobial peptides" and "Innate Immune System" pathways. Dysregulation can disrupt the balance between commensal microbes and the host immune system, leading to chronic inflammation as seen in Crohn's disease or altered allergic responses.
+*   **Protein-Protein Interactions Relevant to Phenotype**: Has synergistic antimicrobial effects with lysozyme and DEFB103 [Existing Data].
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for a monogenic disorder caused by DEFB104A variants is effectively zero based on current knowledge.
+*   **Most Common Reasons for Testing This Gene**: Testing is currently performed in a research context to investigate susceptibility to complex inflammatory diseases (e.g., Crohn's, celiac disease) or cancer, typically by assessing copy number variation of the beta-defensin locus.
+*   **Clinical Actionability and Management Implications**: There is no direct clinical actionability based on DEFB104A genotype alone. Findings may contribute to the overall understanding of a patient's risk profile for certain inflammatory diseases.
+*   **Genetic Counseling Considerations**: Counseling should emphasize that variants in this gene are risk factors for complex diseases, not direct causes of monogenic disorders. The concept of gene dosage and susceptibility should be discussed.
+
+**Key Clinical Literature & Studies**
+*   **Bentley RW, et al. (2010)**: Established a key genotype-phenotype correlation by showing that a higher genomic copy number of DEFB4 is associated with Crohn's disease. (PMID: 19809410)
+*   **Gress, L. et al. (2021)**: Reported that mutations and a lack of the DEFB4A gene copy were associated with increased risk for asthma and atopy in a large pediatric cohort. (PMID: 33679802)
+*   **Ahn, D. et al. (2020)**: Found that reduced expression of defensin-related genes, including DEFB4A, was associated with regional lymph node metastasis in early-stage tongue cancer. (PMID: 32665809)
+*   **Groth, M. et al. (2010)**: Demonstrated that both copy number and sequence variations in the promoter region affect the expression level of human DEFB4. (PMID: 20445567)
+*   **Fellermann, K. et al. (2006)**: Showed that copy number variation of beta-defensins, including DEFB4, influences susceptibility to Crohn's disease.
+*   **García, JR. et al. (2001)**: First characterized human beta-defensin 4 (hBD-4) as a novel inducible antimicrobial peptide with a salt-sensitive spectrum of activity. (PMID: 11481241)
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: The strongest associations are between copy number variants (not single nucleotide variants) and complex disease phenotypes.
+    *   **Increased CNV**: `HP:0002037` Inflammatory bowel disease
+    *   **Decreased CNV**: `HP:0002213` Asthma; `HP:0001025` Atopy
+*   **Phenotype Red Flags**: A personal or family history of early-onset or severe inflammatory bowel disease, particularly Crohn's disease, could suggest a potential role for CNV at the beta-defensin locus. A combination of atopy and asthma may also be relevant.
+*   **Differential Diagnosis Considerations**: For phenotypes like inflammatory bowel disease, other well-established susceptibility genes such as NOD2, ATG16L1, and IL23R should be considered as primary candidates. For immunodeficiency phenotypes, a broad panel of primary immunodeficiency genes would be the standard diagnostic approach.
+

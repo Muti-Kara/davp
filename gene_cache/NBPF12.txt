@@ -1,0 +1,81 @@
+NBPF12 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 24297
+*   **OMIM Gene ID:** 608607
+*   **Primary Disease Associations:** While not definitively linked to a single Mendelian disorder, copy number variations (CNVs) in the 1q21.1 region, which includes *NBPF12*, are associated with a range of neurodevelopmental and congenital anomalies. These include microcephaly, macrocephaly, autism, schizophrenia, intellectual disability, and congenital heart disease. The gene is also implicated in various cancers, including neuroblastoma.
+*   **Clinical Significance Level:** The clinical significance is currently considered limited or uncertain for single nucleotide variants, as most associations are with larger copy number variations in the 1q21.1 region.
+*   **Inheritance Patterns:** The phenotypes associated with 1q21.1 CNVs are typically inherited in an autosomal dominant pattern. However, due to variable expressivity and incomplete penetrance, individuals with the same CNV can present with a wide range of clinical features or be unaffected.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** As of the latest gnomAD release (v4.0), specific constraint metrics for *NBPF12* are not readily available or may be difficult to interpret due to the gene's location within a region of complex segmental duplications. Such regions often pose challenges for accurate variant calling and annotation.
+*   **Clinical Interpretation of Constraint Scores:** Generally, a high pLI (close to 1) and a low LOEUF score suggest a gene is intolerant to loss-of-function variation and may be associated with a dominant disease. The absence of these scores for *NBPF12* prevents a definitive interpretation of its tolerance to variation.
+*   **Variant Classes Most Likely to Be Pathogenic:** Given the association with CNVs, deletions or duplications of the gene are the most well-documented pathogenic variant classes. The role of missense, nonsense, or splice site variants in causing disease is not yet clearly established.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** The following HPO terms are associated with the 1q21.1 CNV syndromes that include *NBPF12*:
+    *   HP:0001249 - Intellectual disability
+    *   HP:0000252 - Microcephaly
+    *   HP:0000256 - Macrocephaly
+    *   HP:0001627 - Abnormal heart morphology (Congenital heart disease)
+    *   HP:0007364 - Autism spectrum disorder
+    *   HP:0001256 - Spasticity
+    *   HP:0000750 - Delayed speech and language development
+    *   HP:0001508 - Failure to thrive
+    *   HP:0001263 - Global developmental delay
+    *   HP:0000478 - Abnormality of the eye
+    *   HP:0000316 - Hypertelorism
+    *   HP:0000520 - Proptosis
+    *   HP:0000431 - Wide nasal bridge
+    *   HP:0000453 - Long philtrum
+    *   HP:0000218 - High palate
+*   **Secondary HPO terms:** Less commonly documented but associated HPO terms include:
+    *   HP:0001631 - Atrial septal defect
+    *   HP:0001639 - Ventricular septal defect
+    *   HP:0002123 - Seizures
+    *   HP:0002376 - Developmental regression
+    *   HP:0004322 - Short stature
+    *   HP:0011451 - Sensorineural hearing impairment
+    *   HP:0000175 - Cleft palate
+*   **Age of Onset Patterns:** The associated phenotypes are typically congenital or have an infantile or early childhood onset.
+*   **Phenotype Severity Spectrum:** The severity of phenotypes associated with 1q21.1 CNVs is highly variable, ranging from asymptomatic carriers to individuals with severe intellectual disability and multiple congenital anomalies.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Deletions and duplications (CNVs) of the 1q21.1 region are the primary variant class with established, albeit variable, phenotype associations. Microdeletions are often linked to microcephaly, while microduplications are more commonly associated with macrocephaly.
+*   **Protein Domain-Specific Phenotype Patterns:** *NBPF12* contains multiple copies of the DUF1220/Olduvai domain. The copy number of these domains has been linked to brain size and cognitive evolution, suggesting a dosage-dependent effect.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is considered moderate for CNVs, but with significant variability and incomplete penetrance. The correlation for specific single-nucleotide variants is currently weak or unknown.
+*   **Examples: Specific Variants → Specific Phenotypes:** Specific pathogenic single-nucleotide variants in *NBPF12* with clear phenotype correlations are not well-documented in the literature. The primary examples relate to CNVs, such as the association of 1q21.1 microdeletions with microcephaly and developmental delay.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists variants in the 1q21.1-21.2 region, often encompassing multiple genes including *NBPF12*. Specific pathogenic single-nucleotide variants within *NBPF12* itself are not well-characterized. For instance, a duplication of chr1:145,804,679-147,735,815 (GRCh37) has been reported, but its direct correlation to a specific phenotype is part of the broader 1q21.1 duplication syndrome.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *NBPF12* shows the highest expression in the stomach, with notable expression in the thymus, brain, and testis. Its expression in the brain is consistent with the neurological phenotypes observed in 1q21.1 CNV syndromes.
+*   **Tissue-Specific Phenotypes Expected:** The brain expression aligns with the observed phenotypes of intellectual disability, developmental delay, and autism. Cardiac expression may be relevant to the congenital heart defects seen in some individuals with 1q21.1 CNVs.
+*   **Expression During Development and Age-Related Phenotypes:** Expression patterns during development are not well-defined but are presumed to be critical for brain and other organ development, given the congenital nature of the associated phenotypes.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *NBPF12* is a member of the Neuroblastoma Breakpoint Family and is thought to play a role in neurogenesis and brain evolution through the expansion of its DUF1220/Olduvai domains.
+*   **Disease Mechanism:** The primary disease mechanism appears to be haploinsufficiency (in the case of deletions) or a gene dosage effect (in the case of duplications) of one or more genes within the 1q21.1 region, including *NBPF12*.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *NBPF* genes is hypothesized to impact signaling pathways crucial for neuronal proliferation and migration during brain development, leading to abnormalities in brain size and function. The exact pathways are still under investigation.
+*   **Protein-Protein Interactions Relevant to Phenotype:** *NBPF12* is known to interact with other NBPF family members and proteins such as PPIAL4A. These interactions are likely important for its function, but their direct link to specific phenotypes is not yet fully understood.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for pathogenic variants in *NBPF12* is primarily through chromosomal microarray analysis detecting CNVs in the 1q21.1 region in individuals with developmental delay, intellectual disability, or congenital anomalies.
+*   **Most Common Reasons for Testing This Gene:** Testing is typically performed as part of a broader genetic evaluation for developmental delay, intellectual disability, autism spectrum disorder, or multiple congenital anomalies, often via chromosomal microarray.
+*   **Clinical Actionability and Management Implications:** Management is supportive and focused on the specific phenotypes present in the individual, such as early intervention services for developmental delay, monitoring for seizures, and surgical correction of congenital heart defects.
+*   **Genetic Counseling Considerations:** Genetic counseling for 1q21.1 CNVs should address the wide range of possible phenotypes, incomplete penetrance, and variable expressivity. Recurrence risk is typically 50% for an autosomal dominant condition, but de novo events are also common.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31441433, Year: 2020:** Highlighted that the driver of Olduvai domain expansion, a key feature of *NBPF* genes, remains active, suggesting a mechanism for the recurrent 1q21 rearrangements.
+*   **PMID: 34667634, Year: 2021:** A case report supporting the association between *NBPF* genes and the clinical features of 1q21 copy number variation disorders, including developmental delay and congenital heart disease.
+*   **PMID: 16823392, Year: 2006:** A foundational study linking DUF1220 domains, present in multiple copies in *NBPF* genes, to human brain evolution.
+*   **PMID: 32099071, Year: 2020:** Research on NBPF15, a related family member, elucidated properties of the N-terminal region, which is also present in NBPF12, suggesting potential roles in protein aggregation and phase transition.
+*   **PMID: 22535790, Year: 2012:** An important study demonstrating the linear association between Olduvai domain copy number and brain size, providing a potential explanation for the macrocephaly/microcephaly phenotypes in 1q21 CNVs.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   1q21.1 microdeletion (encompassing *NBPF12*) → Microcephaly (HP:0000252), Global developmental delay (HP:0001263), Intellectual disability (HP:0001249)
+    *   1q21.1 microduplication (encompassing *NBPF12*) → Macrocephaly (HP:0000256), Global developmental delay (HP:0001263), Autism spectrum disorder (HP:0007364)
+*   **Phenotype red flags:** The co-occurrence of intellectual disability or developmental delay with either microcephaly or macrocephaly should raise strong suspicion for a 1q21.1 CNV involving *NBPF12*.
+*   **Differential diagnosis considerations:** The phenotypes associated with 1q21.1 CNVs overlap with numerous other genetic syndromes. Differential diagnoses should include other recurrent microdeletion/microduplication syndromes and monogenic causes of intellectual disability, autism, and abnormal head size.
+

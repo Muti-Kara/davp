@@ -1,0 +1,109 @@
+=== chr12:122702333C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs2454727
+• Chromosome: 12
+• Position: 122702333
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0/1
+• Quality Score: 543.64001465
+• Gene Names: HCAR2
+• Databases: rs2454727, COSV61024117
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1207
+• gnomADg Allele Frequency: 0.22820000000000001
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 124
+• Allelic Depth (AD): [91, 24]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0004343: waist-hip ratio - The waist circumference measurement divided by the hip circumference measurement. For both men and women, a waist-to-hip ratio (WHR) of 1.0 or higher is considered "at risk" for undesirable health consequences, such as heart disease and ailments associated with OVERWEIGHT. A healthy WHR is 0.90 or less for men, and 0.80 or less for women. (National Center for Chronic Disease Prevention and Health Promotion, 2004)
+GWAS_EFO_0004502: adiponectin measurement - Adiponectin measurement is a measurement of the circulating hormone adiponectin in serum. Adiponectin regulated modulates glucose regulation and fatty acid catabolism. Low circulating adiponectin concentrations (hypoadiponectinemia; <4 μg/mL) are associated with a variety of diseases, including dysmetabolism (type 2 diabetes, insulin resistance, hypertension, dyslipidemia, metabolic syndrome, hyperuricemia), atherosclerosis (coronary artery disease, stroke, peripheral artery disease), sleep apnea, non-alcoholic fatty liver disease, gastritis and gastro-esophageal reflux disease, inflammatory bowel diseases, pancreatitis, osteoporosis, and cancer (endometrial cancer, postmenopausal breast cancer, leukemia, colon cancer, gastric cancer, prostate cancer). Hyperadiponectinemia is associated with cardiac, renal and pulmonary diseases.
+GWAS_EFO_0007788: BMI-adjusted waist-hip ratio - waist-hip ratio that has been adjusted by subjects’ body mass index
+GWAS_EFO_0009105: high altitude adaptation - Evolutionary modification in certain human populations who have acquired the ability to survive at extremely high altitudes. This adaptation means irreversible, long-term physiological responses to high-altitude environments, associated with heritable behavioural and genetic changes.
+GWAS_EFO_0007986: reticulocyte count - The number of reticulocytes per unit volume of blood. Reticulocytes are immature red blood cells and typically compose aoubt 1% of red blood cells in the human body.
+GWAS_EFO_0004242: obsessive-compulsive disorder - An anxiety disorder characterized by recurrent, persistent obsessions or compulsions. Obsessions are the intrusive ideas, thoughts, or images that are experienced as senseless or repugnant. Compulsions are repetitive and seemingly purposeful behavior which the individual generally recognizes as senseless and from which the individual does not derive pleasure although it may provide a release from tension.|A disorder characterized by the presence of persistent and recurrent irrational thoughts (obsessions), resulting in marked anxiety and repetitive excessive behaviors (compulsions) as a way to try to decrease that anxiety.
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0003940: physical activity - The physical activity of a human or an animal as a behavioral phenomenon.
+GWAS_EFO_0000195: metabolic syndrome - A cluster of metabolic risk factors for CARDIOVASCULAR DISEASES and TYPE 2 DIABETES MELLITUS. The major components of metabolic syndrome X include excess ABDOMINAL FAT; atherogenic DYSLIPIDEMIA; HYPERTENSION; HYPERGLYCEMIA; INSULIN RESISTANCE; a proinflammatory state; and a prothrombotic (THROMBOSIS) state. (from AHA/NHLBI/ADA Conference Proceedings, Circulation 2004; 109:551-556)|A combination of medical conditions that, when present, increase the risk of heart attack, stroke, and diabetes mellitus. It includes the following medical conditions: increased blood pressure, central obesity, abnormal cholesterol levels, and elevated fasting glucose.|Reason: duplicate. This will be merged with MONDO:0000816
+GWAS_EFO_0007805: HDL cholesterol change measurement - quantification of the change in HDL cholesterol levels in an individual over time, eg over the course of several hours after a high-fat meal or following treatment with a cholesterol-lowering drug
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_HP_0000155: Oral ulcer - Erosion of the mucous mebrane of the mouth with local excavation of the surface, resulting from the sloughing of inflammatory necrotic tissue.
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0007789: BMI-adjusted waist circumference - waist circumference measurement that has been adjusted by subjects’ body mass index
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0010700: reticulocyte measurement - A quantification of some aspect of reticulocyte function, quantity, or composition.
+GWAS_EFO_0005271: sleep duration - duration of sleep, measured either via a self-reporting questionnaire, interview or through obversation in a sleep lab
+GWAS_EFO_0004530: triglyceride measurement - A triglyceride  measurement is a quantification of triglycerides in some body fluid, used as a biomarker for cardiovascular disease.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16176890) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Gene (ID: 16176892) -> Associated GWAS: GWAS_EFO_0007986
+Entity: Transcript (ID: 16368973) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Transcript (ID: 16368982) -> Associated GWAS: GWAS_EFO_0007986
+Entity: Non Coding RNA (ID: 17106906) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Non Coding RNA (ID: 17106905) -> Associated GWAS: GWAS_EFO_0004526, GWAS_EFO_0007789, GWAS_EFO_0007788, GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788
+Entity: Non Coding RNA (ID: 17106904) -> Associated GWAS: GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007788, GWAS_EFO_0004526, GWAS_EFO_0007789, GWAS_EFO_0007788, GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Non Coding RNA (ID: 17106908) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Non Coding RNA (ID: 17106912) -> Associated GWAS: GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Non Coding RNA (ID: 17106909) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Non Coding RNA (ID: 17106910) -> Associated GWAS: GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788
+Entity: Non Coding RNA (ID: 17106907) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789
+Entity: Non Coding RNA (ID: 17418577) -> Associated GWAS: GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788
+Entity: ChromHMM State (ID: 19314445) -> Associated GWAS: GWAS_EFO_0004612, GWAS_EFO_0007788, GWAS_EFO_0004526, GWAS_EFO_0007789, GWAS_EFO_0007788, GWAS_EFO_0004528, GWAS_EFO_0004343, GWAS_EFO_0004502, GWAS_EFO_0007788, GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004340, GWAS_EFO_0007788, GWAS_HP_0000155, GWAS_EFO_0007788, GWAS_EFO_0004612, GWAS_EFO_0007789, GWAS_EFO_0007788, GWAS_EFO_0005192, GWAS_EFO_0010700, GWAS_EFO_0005271, GWAS_EFO_0004612, GWAS_EFO_0004530, GWAS_EFO_0007788, GWAS_EFO_0005192
+Entity: ChromHMM State (ID: 19869064) -> Associated GWAS: GWAS_EFO_0007986, GWAS_EFO_0004242
+Entity: ChromHMM State (ID: 20444453) -> Associated GWAS: GWAS_EFO_0007986
+Entity: ChromHMM State (ID: 21050438) -> Associated GWAS: GWAS_EFO_0007986
+Entity: ChromHMM State (ID: 21661299) -> Associated GWAS: GWAS_EFO_0009105, GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805
+Entity: ChromHMM State (ID: 22865435) -> Associated GWAS: GWAS_EFO_0007986, GWAS_EFO_0004242
+Entity: chr_chain (ID: 481017) -> Associated GWAS: GWAS_EFO_0007986, GWAS_EFO_0004242, GWAS_EFO_0005192, GWAS_EFO_0003940, GWAS_EFO_0000195, GWAS_EFO_0007805
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3981
+• Pathogenic/Likely Pathogenic: 209
+• Benign/Likely Benign: 1052
+• Uncertain Significance: 2710
+• Other Classifications: 10
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Autosomal dominant nonsyndromic hearing loss 64 (n=107)
+• not provided|not specified (n=86)
+• not specified|not provided (n=50)
+• Autosomal dominant nonsyndromic hearing loss 64|not provided (n=29)
+• DIABLO-related disorder (n=20)
+• DIABLO-related disorder|not provided (n=19)
+• Autosomal dominant nonsyndromic hearing loss (n=18)
+• not provided|Hearing impairment (n=10)
+• not specified|Nonsyndromic genetic hearing loss (n=10)
+• DIABLO-Related Hearing Loss (n=10)
+• not specified|not provided|DIABLO-related disorder (n=10)
+• Mucopolysaccharidosis-plus syndrome (n=3)
+• See cases (n=2)
+
+

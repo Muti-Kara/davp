@@ -1,0 +1,59 @@
+MAML1 Gene Biomedical Dossier
+### **MAML1 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:13632
+*   **OMIM Gene ID:** 605424
+*   **Primary Disease Associations:** While not linked to a single Mendelian disorder, MAML1 is associated with susceptibility to Glioma Susceptibility 1 and Prostate Cancer. Mouse models indicate a critical role in muscle development, with knockout mice exhibiting severe muscular dystrophy.
+*   **Clinical Significance Level:** The clinical significance for specific variants varies, with many classified as variants of uncertain significance. However, its essential role in the Notch signaling pathway suggests a strong potential for pathogenic variants to cause disease.
+*   **Inheritance Patterns Observed in Patients:** While Mendelian inheritance patterns are not clearly defined for a specific MAML1-related syndrome, heterozygous loss-of-function is suggested by mouse models showing that haploinsufficiency leads to a reduction in marginal zone B cells.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for MAML1 (transcript ENST00000292634.9) are: pLI = 0.00, LOEUF = 1.15. The probability of being loss-of-function intolerant (pLI) is low, suggesting the gene is not highly constrained against protein-truncating variants. The observed/expected upper bound fraction (LOEUF) is also not indicative of strong constraint.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that heterozygous loss-of-function variants in MAML1 are generally tolerated in the general population and the gene is not under strong purifying selection against truncation.
+*   **Variant Classes Most Likely to be Pathogenic:** While truncating variants may be tolerated, missense variants or variants that have a dominant-negative or gain-of-function effect could be pathogenic, given the gene's role as a transcriptional coactivator in a multi-protein complex.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As MAML1 is not definitively linked to a single Mendelian disease, a ranked list of HPO terms is not well-established. However, based on its function and mouse models, relevant HPO terms would relate to muscular dystrophy and immune system abnormalities.
+*   **Secondary HPO terms:** Potential secondary HPO terms could involve abnormalities in organ systems where Notch signaling is crucial, such as the cardiovascular and skeletal systems.
+*   **Age of Onset Patterns:** Mouse models with a MAML1 knockout die in the perinatal period, suggesting that severe loss-of-function mutations would likely manifest prenatally or in infancy.
+*   **Phenotype Severity Spectrum:** The phenotype in mouse models is severe and lethal when the gene is knocked out, but heterozygous mice are viable with more subtle phenotypes, suggesting a spectrum from severe to mild depending on the nature and dosage of the variant.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous loss-of-function in mice results in severe muscular dystrophy and perinatal lethality. Heterozygous loss-of-function (haploinsufficiency) in mice leads to a reduction in marginal zone B-cells, indicating a role in the immune system.
+*   **Protein Domain-Specific Phenotype Patterns:** The N-terminal region of MAML1 is essential for its interaction with Notch receptors and for its role in myogenesis. Mutations in this domain would likely disrupt these functions. The C-terminal region contains transactivation domains crucial for activating gene expression.
+*   **Genotype-phenotype Correlation Strength:** The correlation between homozygous loss-of-function and muscular dystrophy in mice is strong. The correlation for heterozygous variants in humans is less clear and likely context-dependent.
+
+**Clinical Variants & Phenotype Associations**
+*   ClinVar lists a number of variants in MAML1, with the majority classified as "Uncertain significance". Specific pathogenic variants with well-defined phenotypes are not extensively documented in the literature. One example includes:
+    *   **NM_014757.5(MAML1):c.2713C>G (p.Pro905Ala):** Classified as a variant of uncertain significance.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** MAML1 is widely expressed, with the highest levels in the spleen, whole blood, and small intestine (terminal ileum). Expression is also noted in the heart and pancreas.
+*   **Tissue-Specific Phenotypes Expected:** High expression in immune cells (spleen, blood) aligns with the observed B-cell development defects in mice. Expression in the heart and muscle is consistent with the muscular dystrophy phenotype in knockout mice and its role in myogenesis.
+*   **Expression During Development and Age-Related Phenotypes:** MAML1 is dynamically expressed during development in structures like the brain, spinal cord, and somites, highlighting its importance in embryogenesis.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MAML1 acts as a transcriptional coactivator for Notch proteins, forming a complex with the Notch intracellular domain and the DNA-binding protein RBP-Jkappa to activate the transcription of Notch target genes.
+*   **Disease Mechanism:** Based on mouse models, both haploinsufficiency and complete loss-of-function can lead to disease phenotypes. Dominant-negative effects are also possible, as truncated mutants can inhibit myogenesis.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the Notch signaling pathway affects cell fate determination. MAML1 also coactivates other key pathways, including MEF2C (essential for muscle development), p53, and Wnt/β-catenin, explaining the pleiotropic effects of its disruption.
+*   **Protein-Protein Interactions Relevant to Phenotype:** MAML1 interacts directly with all four NOTCH receptors, RBPJ, MEF2C, p53, and β-catenin. These interactions are crucial for its function in various signaling pathways.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for MAML1 variants in patients with undiagnosed diseases is likely low, given the lack of a well-defined, associated Mendelian disease.
+*   **Most Common Reasons for Testing This Gene:** Testing for MAML1 may be considered in patients with unexplained muscular dystrophies or complex developmental disorders where disruption of the Notch pathway is suspected, especially if other more common genetic causes have been ruled out.
+*   **Clinical Actionability and Management Implications:** Currently, management would be supportive and based on the patient's specific phenotypes. There are no targeted therapies for MAML1-related conditions.
+*   **Genetic Counseling Considerations:** Given the uncertain clinical significance of most variants and the lack of a clear inheritance pattern for a specific disease, genetic counseling would be complex. Counseling would focus on the gene's function, the uncertainty of the variant's impact, and the potential for variable expressivity and incomplete penetrance.
+
+**Key Clinical Literature & Studies**
+*   **Wu L, et al. (2000) *Nature Genetics*.** First identified and cloned human MAML1, establishing it as a transcriptional coactivator for all four NOTCH receptors, localizing to nuclear bodies and amplifying NOTCH-induced transcription.
+*   **Shen H, et al. (2006) *Genes & Development*.** Demonstrated that MAML1 is essential for myogenesis by functioning as a coactivator for MEF2C, and that MAML1 knockout mice have severe muscular dystrophy.
+*   **Oyama T, et al. (2007) *Blood*.** Showed that Maml1 is required for Notch2-mediated marginal zone B-cell development and that haploinsufficiency leads to a reduction in these cells, indicating a gene-dosage effect.
+*   **Wilson JJ, et al. (2020) *Molecular and Cellular Biology*.** Revealed differential requirements for MAML1 at different Notch-responsive genes, highlighting the complexity of its transcriptional coactivator function.
+*   **Pistollato F, et al. (2017) *Journal of Cellular and Molecular Medicine*.** Reviewed the diverse roles of MAML1 beyond the Notch pathway, implicating it in Wnt/β-catenin, p53, and other signaling networks relevant to development and cancer.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence associations between specific MAML1 variants and specific HPO terms in humans.
+*   **Phenotype red flags:** A combination of muscular dystrophy (e.g., HP:0003560 Muscular dystrophy) and an immunodeficiency phenotype (e.g., HP:0002721 Immunodeficiency) could be a red flag, though this is based on mouse model data.
+*   **Differential diagnosis considerations:** The potential muscular phenotype overlaps with numerous other congenital muscular dystrophies. The immunodeficiency phenotype would need to be distinguished from other primary immunodeficiencies. The broad role of Notch signaling means phenotypes could overlap with other "Notchopathies" like Alagille syndrome.
+

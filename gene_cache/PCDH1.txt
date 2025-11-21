@@ -1,0 +1,62 @@
+PCDH1 Gene Biomedical Dossier
+### **Gene Dossier: PCDH1**
+
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 8655
+*   **OMIM Gene ID:** 603626
+*   **Primary Disease Associations:** While primarily studied in the context of asthma and atopic diseases, PCDH1 has also been linked to Hantavirus Hemorrhagic Fever with Renal Syndrome and Hantavirus Pulmonary Syndrome. It has also been identified as a receptor for New World hantaviruses.
+*   **Clinical Significance Level:** The evidence for association with bronchial hyperresponsiveness and asthma is moderate, based on multiple association studies. Its role in other conditions is still emerging.
+*   **Inheritance Patterns Observed in Patients:** The inheritance patterns for PCDH1-associated phenotypes are complex and appear to be multifactorial, influenced by both genetic and environmental factors.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** A search for PCDH1 on gnomAD reveals a pLI score, which indicates a gene's tolerance to loss-of-function variants. A high pLI score (closer to 1) suggests intolerance. The LOEUF (loss-of-function observed/expected upper bound fraction) is another metric where lower values indicate intolerance. Specific numeric values for PCDH1 from the most recent gnomAD version are not available in the search results.
+*   **Clinical Interpretation of Constraint Scores:** Genes with high pLI scores (typically ≥ 0.9) are considered highly likely to be intolerant to loss-of-function mutations, which are often associated with dominant genetic diseases and haploinsufficiency. A low LOEUF score also points towards intolerance to inactivation.
+*   **Variant Classes Most Likely to be Pathogenic:** For genes intolerant to loss-of-function, nonsense, frameshift, and canonical splice site variants are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Bronchial hyperreactivity (HP:0002875)
+    *   Asthma (HP:0002099)
+    *   Eczema (HP:0000964)
+    *   Atopic dermatitis (HP:0001047)
+    *   Wheezing (HP:0030828)
+    *   Allergic rhinitis (HP:0003192)
+*   **Secondary HPO terms:**
+    *   Recurrent respiratory infections (HP:0002205)
+    *   Cough (HP:0012735)
+    *   Chest tightness (HP:0002877)
+*   **Age of Onset Patterns:** Phenotypes such as transient early wheeze and atopic dermatitis are often observed in early childhood. Asthma associated with PCDH1 can manifest in childhood and continue into adulthood.
+*   **Phenotype Severity Spectrum:** The severity of respiratory phenotypes can range from mild, transient wheezing to more persistent and severe asthma.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific gene variants in PCDH1 have been significantly associated with bronchial hyperresponsiveness (BHR) in multiple populations. Polymorphisms in the gene are also linked to the pathogenesis of asthma and allergic dermatitis.
+*   **Protein Domain-Specific Phenotype Patterns:** The PCDH1 protein has an extracellular region with cadherin-like domains, a transmembrane region, and a cytoplasmic region. Dysfunction in its role in cell-cell adhesion and epithelial barrier integrity is thought to contribute to the associated phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between PCDH1 variants and bronchial hyperresponsiveness is considered moderate to strong, having been replicated in several studies. The association with asthma and atopic conditions is also consistently reported.
+*   **Examples: specific variants → specific phenotypes:** The variant rs3797054 has been specifically implicated in the development of BHR.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists natural variants in PCDH1, such as rs12517385 and rs12515587, although their clinical significance in the context of monogenic disease is not clearly defined. Most of the literature focuses on the association of common variants with complex phenotypes like asthma rather than single pathogenic variants causing a Mendelian disorder.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** PCDH1 mRNA and protein are expressed in airway epithelial cells, macrophages, skin, and throughout all epithelial and endothelial lineages during mouse embryonic development. High expression is also noted in the brain and neuro-glial cells. This expression pattern aligns with its role in epithelial barrier function in the lungs and skin, correlating with asthma and eczema phenotypes.
+*   **Tissue-Specific Phenotypes Expected:** Given its expression in the airway epithelium, variants in PCDH1 are expected to lead to respiratory phenotypes like bronchial hyperresponsiveness and asthma. Its expression in skin keratinocytes corresponds to its association with atopic dermatitis and eczema.
+*   **Expression During Development and Age-Related Phenotypes:** PCDH1 is expressed as early as embryonic day 9.5 in mice, with prominent expression in blood vessels during early embryogenesis. Its continuous expression and regulation during development and in mature tissues suggest multiple roles.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function in One Sentence:** PCDH1 is a cell adhesion molecule that plays a crucial role in maintaining epithelial barrier integrity and is involved in neural cell adhesion.
+*   **Disease Mechanism: Haploinsufficiency, Dominant-Negative, Gain-of-Function:** The likely disease mechanism for PCDH1-associated phenotypes is a loss of function, leading to impaired epithelial barrier integrity. This could be due to haploinsufficiency, where one functional copy of the gene is not enough.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of PCDH1 function leads to a weaker epithelial barrier, which can cause a dysregulated response to environmental triggers and antigens, leading to inflammation and the development of asthma and eczema. PCDH1 has been shown to interact with SMAD3 to modulate TGF-β–induced gene transcription.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PCDH1 interacts with protein phosphatase 1α (PP1α) through its conserved cytoplasmic domain, which is relevant to its signaling functions. It also interacts with Desmoplakin, a scaffold protein.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 18511562, Year: 2008:** First identified PCDH1 as a novel susceptibility gene for bronchial hyperresponsiveness in both children and adults through positional cloning, suggesting its role in airway epithelial integrity.
+*   **PMID: 30416954, Year: 2018:** A literature review summarizing the role of PCDH1 in childhood asthma, eczema, and other atopic phenotypes, highlighting its function in epithelial barrier formation and repair.
+*   **PMID: 37964405, Year: 2023:** A study on pancreatic adenocarcinoma that showed high PCDH1 expression correlated with poor prognosis and metastasis, indicating a role in cancer progression through NF-κB signaling.
+*   **PMID: 19183307, Year: 2009:** A study on mouse development showing the widespread and tightly regulated expression of Pcdh1, suggesting its multiple roles in development and mature tissues.
+*   **PMID: 12435422, Year: 2002:** A foundational paper describing the role of protocadherins in homologous cell adhesion and organ development, particularly in the nervous system.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Variants in PCDH1 are strongly associated with Bronchial hyperreactivity (HP:0002875), Asthma (HP:0002099), and Atopic dermatitis (HP:0001047).
+*   **Phenotype red flags:** A combination of early-onset asthma or wheezing with co-occurring eczema should raise suspicion for the involvement of PCDH1 variants.
+*   **Differential diagnosis considerations:** The atopic phenotypes associated with PCDH1 overlap with those caused by variants in other genes involved in epithelial barrier function, such as FLG (filaggrin). The broader cadherin superfamily of genes is also involved in cell adhesion and can present with overlapping features.
+

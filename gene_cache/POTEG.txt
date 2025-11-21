@@ -1,0 +1,57 @@
+POTEG Gene Biomedical Dossier
+### **Gene Dossier: POTEG**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 33896
+*   **OMIM Gene ID:** 608916
+*   **Primary Disease Associations:** Currently, no definitive disease associations have been established for POTEG in OMIM or Gene2Phenotype. GeneCards lists associations with Lung Acinar Adenocarcinoma and Glycogen Storage Disease III, though the evidence for a causal relationship is not specified.
+*   **Clinical Significance Level:** The clinical significance of POTEG is currently uncertain. There are no pathogenic or likely pathogenic variants reported in ClinVar, and it is not included in any Genomics England PanelApp gene panels.
+*   **Inheritance Patterns:** As no Mendelian disease has been robustly linked to POTEG, the mode of inheritance is unknown.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint metrics from gnomAD for POTEG were not retrieved. Generally, a pLI score ≥ 0.9 suggests a gene is intolerant to loss-of-function (LoF) variation. The LOEUF score is a more continuous metric of LoF intolerance, with lower values indicating higher constraint.
+*   **Clinical Interpretation of Constraint Scores:** High pLI and low LOEUF scores for a gene suggest that LoF variants are not tolerated and are likely to be pathogenic, often associated with dominant disorders. The absence of such scores for POTEG in the search results prevents a direct interpretation of its intolerance to variation.
+*   **Variant Classes Most Likely to be Pathogenic:** Without established disease associations, it is difficult to determine which variant classes are most likely to be pathogenic for POTEG.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are definitively associated with POTEG due to the lack of a defined disease phenotype.
+*   **Secondary HPO terms:** No secondary HPO terms are currently documented for POTEG.
+*   **Age of Onset Patterns:** Information regarding the age of onset for any potential POTEG-related phenotype is not available.
+*   **Phenotype Severity Spectrum:** The spectrum of severity for any potential POTEG-related phenotype is unknown.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** There are no established genotype-phenotype correlations for POTEG at this time.
+*   **Protein Domain-Specific Phenotype Patterns:** Information on phenotype patterns related to specific protein domains of POTEG is not available.
+*   **Genotype-Phenotype Correlation Strength:** The strength of any genotype-phenotype correlation for POTEG is currently unknown.
+*   **Examples: specific variants → specific phenotypes:** No examples of specific POTEG variants leading to specific phenotypes have been documented.
+
+**Clinical Variants & Phenotype Associations**
+*   **Well-characterized Pathogenic Variants:** There are currently no variants in POTEG classified as pathogenic or likely pathogenic in ClinVar.
+*   **Variants with Strongest Phenotype Evidence:** Not applicable as no variants with strong phenotype evidence have been reported.
+*   **Novel Variants from Recent Case Reports:** No recent case reports describing novel POTEG variants and associated phenotypes were identified in the search results.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** The Human Protein Atlas indicates tissue-enhanced expression in the prostate. The GTEx project provides a resource to study how genetic variants affect tissue-specific gene expression. POTEG is also noted to be expressed in the testis, ovary, and placenta. Expression has been observed in fetal tissues between 10 and 20 weeks of gestation.
+*   **Tissue-Specific Phenotypes Expected:** Given the expression pattern, pathogenic variants might be expected to lead to phenotypes related to male reproductive health or developmental processes, but this is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Expression in fetal tissues suggests a potential role in development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** POTEG encodes a protein belonging to the POTE ankyrin domain family, and its ankyrin repeats are thought to mediate protein-protein interactions.
+*   **Disease Mechanism:** The disease mechanism for POTEG, if any, is unknown. Mechanisms such as haploinsufficiency, dominant-negative effects, or gain-of-function have not been described.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** POTEG has been shown to interact with EGFR, AP1G1, AP1S2, and CUL2. Its function is predicted to be part of the cAMP signaling pathway, which is crucial for neuronal function and motor control. Disruption of this pathway can lead to a range of neurological disorders.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interaction with EGFR could suggest a role in cell growth and signaling pathways, which, if altered, could contribute to cancer development.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for POTEG is effectively zero, as it is not currently associated with a Mendelian disease.
+*   **Most Common Reasons for Testing This Gene:** There are no common clinical indications for testing POTEG.
+*   **Clinical Actionability and Management Implications:** There are no clinical actionability or management guidelines associated with POTEG variants.
+*   **Genetic Counseling Considerations:** Given the lack of a clear disease association, genetic counseling for POTEG variants would focus on the uncertainty of the findings.
+
+**Key Clinical Literature & Studies**
+*   No key clinical publications establishing a direct link between POTEG variants and a specific human phenotype were identified in the search results. Most of the literature focuses on its expression in various tissues and its potential role in cancer.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are no high-confidence HPO-variant associations for POTEG.
+*   **Phenotype red flags:** There are no HPO terms that strongly suggest the presence of a pathogenic variant in POTEG.
+*   **Differential diagnosis considerations:** Not applicable due to the lack of a defined POTEG-related phenotype.
+

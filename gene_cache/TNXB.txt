@@ -1,0 +1,115 @@
+TNXB Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID**: 11976.
+*   **OMIM Gene ID**: 600985.
+*   **Primary Disease Associations**:
+    *   Ehlers-Danlos syndrome, classic-like, type 1 (clEDS), an autosomal recessive condition, is the primary disease associated with biallelic pathogenic variants in TNXB.
+    *   TNXB haploinsufficiency has been associated with the hypermobility type of Ehlers-Danlos syndrome (hEDS).
+    *   Familial vesicoureteral reflux has been linked to heterozygous variants in some families, though the evidence is not yet definitive.
+*   **Clinical Significance Level**: The association between TNXB and "Ehlers-Danlos syndrome due to tenascin-X deficiency" is rated as **Strong** by the Genomics England PanelApp.
+*   **Inheritance Patterns Observed in Patients**:
+    *   **Autosomal Recessive**: Biallelic pathogenic variants result in classic-like Ehlers-Danlos syndrome (clEDS), which is characterized by a complete absence of the tenascin-X protein.
+    *   **Autosomal Dominant**: Heterozygous variants that lead to reduced tenascin-X levels (haploinsufficiency) are associated with a percentage of cases of hypermobile Ehlers-Danlos syndrome (hEDS) and benign joint hypermobility syndrome (BJHS).
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: TNXB is not highly constrained against loss-of-function variants. The gnomAD v2.1.1 scores are pLI = 0.00, pNull = 1.00, and pRec = 0.00. The LOEUF score is 1.03, which does not indicate intolerance to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores**: The low pLI and high LOEUF scores indicate that the loss of one copy of the TNXB gene is generally tolerated in the large population sample of gnomAD. This is consistent with the primary disease, clEDS, being a recessive condition where heterozygous carriers are often mildly affected or asymptomatic.
+*   **Variant Classes Most Likely to be Pathogenic**:
+    *   **Null variants**: Nonsense, frameshift, splice-site variants, and whole-gene deletions that lead to a complete absence of functional protein are the most common cause of autosomal recessive clEDS.
+    *   **Gene conversion events**: Recombination events with the highly homologous pseudogene, *TNXA*, are a recurrent mechanism of pathogenicity, creating chimeric genes. These events introduce deleterious sequences, such as a 120-bp deletion or the c.12174C>G (p.Cys4058Trp) missense variant, into *TNXB*.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms** (Ranked by approximate frequency for clEDS):
+    1.  Skin hyperextensibility (HP:0000974) - 100%.
+    2.  Joint hypermobility (HP:0001382) - 100%.
+    3.  Easy bruising (HP:0000978) - ~91%.
+    4.  Soft skin (HP:0000977).
+    5.  Myalgia (HP:0003326).
+    6.  Pes planus (HP:0001763).
+    7.  Arthralgia (HP:0002829).
+    8.  Piezogenic pedal papules (HP:0010733).
+    9.  Muscle weakness (HP:0001324).
+    10. Fatigue (HP:0012378).
+    11. Axonal polyneuropathy (HP:0003477).
+    12. Hematoma formation (HP:0032239).
+    13. Rectal prolapse (HP:0002035).
+    14. Uterine prolapse (HP:0001990).
+    15. Brachydactyly (HP:0001156).
+*   **Secondary HPO terms**:
+    *   Vesicoureteral reflux (HP:0000076).
+    *   Edema of the lower limbs (HP:0010741).
+    *   Mitral valve prolapse (HP:0001634).
+    *   Arrhythmia (HP:0011675).
+    *   Mild atrophic scarring (HP:0001075) - Notably, severe atrophic "cigarette paper" scars seen in classic EDS are absent.
+    *   Gastrointestinal dysmotility.
+    *   Proximal muscle weakness (HP:0003701).
+    *   Distal muscle weakness (HP:0009053).
+*   **Age of Onset Patterns**: The diagnosis of clEDS is often made in adulthood. However, clinical features such as joint hypermobility and easy bruising are present from childhood.
+*   **Phenotype Severity Spectrum**: Severity ranges from mild joint hypermobility in some heterozygous carriers to a multi-systemic disorder in individuals with biallelic null mutations, featuring significant musculoskeletal, skin, and neurological symptoms.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**:
+    *   **Biallelic null variants**: These genotypes, resulting from nonsense, frameshift, or splice-site mutations, consistently lead to a complete lack of tenascin-X protein and the classic-like EDS phenotype.
+    *   **Homozygous 30-kb deletion**: Deletion of *CYP21A2* and *TNXB* due to unequal crossover causes congenital adrenal hyperplasia (CAH) combined with clEDS, known as CAH-X syndrome.
+    *   **Heterozygous variants**: Haploinsufficiency of TNXB is associated with hypermobility type EDS (hEDS), often characterized by joint hypermobility, pain, and soft skin, but without the full constellation of features seen in clEDS.
+*   **Protein Domain-Specific Phenotype Patterns**: The pathogenic missense variant p.Cys4058Trp, often resulting from a gene conversion event, affects a cysteine residue predicted to be critical for a disulfide bond, thereby disrupting the protein's tertiary structure.
+*   **Genotype-Phenotype Correlation Strength**: To date, no specific genotype-phenotype correlations within the clEDS spectrum have been firmly established.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.11435_11524+30del (120-bp deletion) & c.12174C>G, p.(Cys4058Trp)** / ClinVar Significance: Pathogenic / Reported Phenotypes: Ehlers-Danlos syndrome, classic-like, 1; Congenital adrenal hyperplasia and Ehlers-Danlos syndrome, CAH-X type / This combination characterizes a common gene conversion event (TNXA/TNXB chimera 1).
+*   **c.12174C>G, p.(Cys4058Trp)** / ClinVar Significance: Pathogenic / Reported Phenotypes: Ehlers-Danlos syndrome, classic-like, 1; Ehlers-Danlos syndrome, hypermobility type / This variant alone characterizes a distinct gene conversion event (chimera 2).
+*   **Complete or partial gene deletions** / ClinVar Significance: Pathogenic / Reported Phenotypes: Ehlers-Danlos syndrome, classic-like, 1; Congenital adrenal hyperplasia / Large deletions often also involve the adjacent *CYP21A2* gene.
+*   **NM_001365276.2(TNXB):c.8473G>A, p.(Glu2825Lys)** / ClinVar Significance: Likely Pathogenic / Reported Phenotypes: Ehlers-Danlos syndrome due to tenascin-X deficiency.
+*   **NM_019105.8:c.5362del, p.(Thr1788Profs*100)** / ClinVar Significance: Pathogenic / Reported Phenotypes: classic-like Ehlers-Danlos syndrome / This novel frameshift variant was shown to cause nonsense-mediated mRNA decay.
+*   **NM_019105.8:c.8278C>T, p.(Gln2760*)** / ClinVar Significance: Pathogenic / Reported Phenotypes: classic-like Ehlers-Danlos syndrome / A novel nonsense variant identified in an Italian patient.
+*   **6074A > T nucleotide transition, p.(Asp2025Val)** / ClinVar Significance: Reported as Likely Pathogenic / Reported Phenotypes: Ehlers-Danlos syndrome with severe joint pain, hypermobility, and muscle weakness.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: GTEx data shows high expression of TNXB in tissues rich in connective tissue, including adrenal gland, artery (aorta and tibial), skin, colon, lung, and adipose tissue.
+*   **Tissue-Specific Phenotypes Expected**:
+    *   **Skin, Joints, Muscle**: High expression in these tissues correlates directly with the primary clEDS phenotypes of skin hyperextensibility, joint hypermobility, and myopathy.
+    *   **Adrenal Gland**: Proximity and co-deletion with the *CYP21A2* gene, which is highly expressed in the adrenal gland, explains the combined CAH-X syndrome phenotype.
+    *   **Gastrointestinal Tract**: Expression in the colon and other GI tissues may underlie symptoms like rectal prolapse and dysmotility.
+*   **Expression During Development**: Tenascin-X is involved in matrix maturation and wound healing, suggesting its expression is critical throughout life for tissue homeostasis.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: Tenascin-X is an extracellular matrix (ECM) glycoprotein that organizes and maintains the structural integrity of connective tissues by regulating the production and assembly of collagen fibrils and elastic fibers.
+*   **Disease Mechanism**:
+    *   **Loss-of-Function**: Recessive clEDS is caused by biallelic null variants leading to a complete absence of tenascin-X protein, which disrupts the structure of the ECM.
+    *   **Haploinsufficiency**: Dominant hEDS associated with TNXB is caused by heterozygous variants that reduce the amount of functional tenascin-X protein by approximately half.
+*   **Cellular/Molecular Pathways Disrupted**:
+    *   **ECM Organization**: The absence of tenascin-X leads to disorganized and sparse collagen fibrils and abnormal elastic fibers in the dermis, weakening connective tissue.
+    *   **TGF-β Signaling**: The fibrinogen-related domain of tenascin-X can modulate TGF-β signaling, which is critical for tissue fibrosis and wound healing.
+    *   **PI3K/Akt Signaling**: Tenascin-X may play a role in regulating the PI3K/Akt signaling pathway, with downstream effects on cell proliferation and apoptosis.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: TNXB variants are an underdiagnosed cause of EDS-like symptoms, partly due to the technical challenges of sequencing imposed by the *TNXA* pseudogene. NGS panels that can accurately distinguish the gene from the pseudogene are required for effective screening.
+*   **Most Common Reasons for Testing**: Testing is indicated for patients presenting with clinical features of classic or hypermobile EDS, especially when atrophic scarring is absent or when accompanied by features like significant myalgia, neuropathy, or organ prolapse. It is also indicated in patients with congenital adrenal hyperplasia who show signs of a connective tissue disorder.
+*   **Clinical Actionability and Management**: Management is symptomatic and proactive, including physical therapy to strengthen muscles without overburdening joints, pain management (often avoiding opioids for chronic pain), and surveillance for cardiac, gastrointestinal, and gynecological complications.
+*   **Genetic Counseling Considerations**: Counseling for clEDS involves explaining its autosomal recessive inheritance and the 25% recurrence risk for sibs. The presence of the highly homologous *TNXA* pseudogene complicates molecular diagnosis, requiring specialized laboratory techniques like long-range PCR or MLPA for accurate variant detection, especially for deletions and gene conversion events. Testing of heterozygous carriers is possible once the familial variants are known.
+
+### **Key Clinical Literature & Studies**
+*   **Schalkwijk et al., 2001 (NEJM)**: First described a recessive form of Ehlers-Danlos syndrome caused by a deficiency of tenascin-X, linking the protein absence to the phenotype of hyperextensible skin and joint hypermobility without atrophic scarring.
+*   **Zweers et al., 2003 (AJHG)**: Provided the first evidence that haploinsufficiency of TNXB is associated with the hypermobile type of Ehlers-Danlos syndrome.
+*   **Demirdas et al., 2017 (Clin Genet)**: A key study that delineated the clinical spectrum of TNXB-related clEDS in 17 individuals, highlighting features like easy bruising, foot anomalies, myopathy, and neuropathy, and discussing diagnostic challenges.
+*   **Malfait et al., 2017 (Am J Med Genet C)**: The 2017 International Classification of the Ehlers-Danlos Syndromes, which formally defined "Classical-like EDS" (clEDS) as a distinct subtype caused by TNXB deficiency.
+*   **Green et al., 2020 (Clin Genet)**: Described the clinical and molecular characteristics of 20 patients with clEDS, reinforcing the core phenotype and noting the high frequency of gene conversion events involving the *TNXA* pseudogene.
+*   **Chen et al., 2023 (Front. Mol. Biosci.)**: A comprehensive review summarizing the roles of tenascin-X in clEDS, pain pathogenesis, tumor suppression, and fibrosis, referencing the *Tnxb-/-* mouse model.
+*   **Morissette et al., 2015 (Am J Med Genet C)**: Detailed the CAH-X syndrome, a contiguous gene deletion syndrome involving *CYP21A2* and *TNXB*, linking congenital adrenal hyperplasia with EDS phenotypes.
+*   **Miki et al., 2023 (Front Genet)**: Developed and validated an NGS-based screening system to accurately detect TNXB variants, including those derived from the *TNXA* pseudogene, in a cohort of nine clEDS patients.
+*   **Ritelli et al., 2019 (Genes)**: Reported two Italian patients with clEDS due to novel compound heterozygous null variants in TNXB, highlighting that the disorder is likely underdiagnosed outside of specific populations.
+*   **Kaufman & Butler, 2016 (World J Med Genet)**: Case report of a patient with a specific *TNXB* missense mutation presenting with moderate to severe EDS symptoms, contributing to the catalogue of pathogenic variants.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**:
+    *   Biallelic null variants (nonsense, frameshift, splice site, large deletions, pathogenic gene conversions) are strongly associated with the full clEDS phenotype, characterized by a triad of **Skin hyperextensibility (HP:0000974)**, **Joint hypermobility (HP:0001382)**, and **Easy bruising (HP:0000978)**.
+    *   Heterozygous null or missense variants (causing haploinsufficiency) are associated with **Joint hypermobility (HP:0001382)** as part of a diagnosis of hEDS or joint hypermobility syndrome.
+*   **Phenotype Red Flags**:
+    *   The presence of classic EDS features (significant skin hyperextensibility and generalized joint hypermobility) in the **absence of atrophic, "cigarette paper" scarring** is a primary red flag for TNXB-related clEDS.
+    *   Co-occurrence of a hypermobility spectrum disorder with **early-onset and significant myalgia (HP:0003326)**, **muscle weakness (HP:0001324)**, or signs of **axonal polyneuropathy (HP:0003477)** should raise suspicion for *TNXB* mutations.
+    *   The combination of congenital adrenal hyperplasia (CAH) with EDS features is a strong indicator for a contiguous gene deletion involving *CYP21A2* and *TNXB*.
+*   **Differential Diagnosis Considerations**:
+    *   **Classical EDS (cEDS)**: Caused by *COL5A1* or *COL5A2* variants. Overlaps in skin hyperextensibility and joint hypermobility, but is distinguished by the presence of prominent atrophic scarring, which is characteristically absent in clEDS.
+    *   **Hypermobile EDS (hEDS)**: The genetic basis is largely unknown, but a subset of cases have *TNXB* heterozygous variants. Distinguishing hEDS from clEDS relies on the severity of skin hyperextensibility, which is typically mild or absent in hEDS.
+    *   **Other Connective Tissue Disorders**: Conditions like Marfan syndrome, Loeys-Dietz syndrome, and other rare EDS types should be considered, but can typically be differentiated by their distinct clinical features and genetic causes.
+

@@ -1,0 +1,56 @@
+GSTT2B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID & OMIM ID**: The HGNC-approved symbol is GSTT2B with ID HGNC:33437. There is no OMIM entry for a specific Mendelian disease caused by variants in GSTT2B.
+*   **Clinical Significance**: The clinical significance of GSTT2B is not established for any monogenic disorder. Its role is primarily investigated in the context of risk modification for complex diseases, particularly cancers, and in pharmacogenomics.
+*   **Inheritance Patterns**: No Mendelian inheritance pattern is associated with GSTT2B. A common deletion polymorphism (copy number variant) exists, and individuals can be homozygous for the deletion (null genotype), heterozygous, or homozygous for the insertion (present genotype).
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: Constraint metrics are not available for GSTT2B in gnomAD (v2.1.1 or v4).
+*   **Clinical Interpretation**: The absence of constraint scores is likely due to its classification as a gene/pseudogene and high sequence homology with its paralog, GSTT2, which complicates accurate variant calling. The commonality of the deletion polymorphism indicates the gene is highly tolerant to loss-of-function.
+*   **Variant Classes**: The most studied variant class is copy number variation (whole gene deletion). Pathogenicity of sequence variants (nonsense, missense) has not been established.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No HPO terms are definitively associated with pathogenic variants in GSTT2B.
+*   **Secondary HPO terms**: One study reported a statistical association between the GSTT2B insertion allele and an increased risk of being small for gestational age (HP:0001511), but this is not a confirmed causal link.
+*   **Age of Onset & Severity**: As no monogenic disease is linked to GSTT2B, patterns of onset and severity are not applicable in a clinical context.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes**: The primary genotype studied is the null (homozygous deletion) versus present genotype. The null genotype has been associated with a protective effect against oral squamous cell carcinoma and may influence the response to immunotherapy in bladder cancer.
+*   **Protein Domain-specific Patterns**: Not applicable, as pathogenic sequence variants have not been characterized.
+*   **Genotype-Phenotype Correlation Strength**: The strength of correlations is weak and associative, primarily related to risk modification for complex diseases.
+
+### **Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic single nucleotide variants (SNVs) or small indels in GSTT2B are reported in ClinVar as causative for a monogenic disease.
+*   The primary variant of interest is a large deletion polymorphism (a copy number variant).
+*   **Variant**: GSTT2B gene deletion (null allele)
+*   **Significance**: Benign / Risk Factor (context-dependent)
+*   **Reported Phenotypes**: Associated with a protective effect against oral squamous cell carcinoma; modulates response to Bacillus Calmette-Guérin (BCG) immunotherapy in bladder cancer.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: Expression has been noted in the liver, kidney, esophagus, and a wide range of other tissues, though reliable quantification is challenging. The Human Protein Atlas notes that a reliable estimation of protein expression could not be performed.
+*   **Tissue-specific Phenotypes**: The gene's relevance in the esophagus and bladder aligns with investigations into cancers affecting these tissues. Its role in detoxification suggests its importance in tissues with high exposure to xenobiotics.
+*   **Expression During Development**: The reported association with being small for gestational age suggests potential relevance during development, but this is not well-established.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: GSTT2B catalyzes the conjugation of reduced glutathione to a wide array of endogenous and exogenous toxic compounds.
+*   **Disease Mechanism**: The mechanism is not related to a monogenic disease but to altered detoxification capacity due to loss-of-function (from gene deletion). This can modify susceptibility to carcinogens and modulate cellular stress responses.
+*   **Phenotype Consequences**: Disruption of glutathione metabolism can lead to increased cellular oxidative stress. In bladder cancer models, loss of the gene alters the tumor microenvironment, promoting a pro-inflammatory state that enhances immunotherapy response, possibly involving the PI3K-Akt-mTOR pathway.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: The diagnostic yield for a Mendelian disorder is zero, as GSTT2B is not associated with one.
+*   **Reasons for Testing**: Testing is currently performed in a research context to study complex disease susceptibility or for pharmacogenomic research, such as predicting BCG response in bladder cancer patients.
+*   **Clinical Actionability**: There are no established clinical management guidelines based on GSTT2B genotype.
+*   **Genetic Counseling Considerations**: Counseling would focus on explaining that GSTT2B genotype is a minor risk-modifying factor for certain complex diseases and is not the cause of a specific inherited disorder.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38832049 (2024)**: Investigated the role of GSTT1, GSTT2, and GSTT2B deletions in modulating the response to BCG immunotherapy in bladder cancer patients.
+*   **PMID: 37547071 (2023)**: Showed in a mouse model that loss of Gstt2 alters the tumor microenvironment to favor a better response to BCG immunotherapy for bladder cancer.
+*   **PMID: 26207597 (2016)**: An explorative study that found no significant association between the GSTT2B copy number variant and risks for asthma, Alzheimer's, allergic rhinitis, hypertension, hypothyroidism, or recurrent miscarriage in an Italian population.
+*   **NCBI GeneRIF (2014)**: A study suggested the GSTT2B insertion allele was associated with an increased risk of being small for gestational age.
+*   **NCBI GeneRIF (2012)**: A study suggested the GSTT2B deletion may have a protective effect on the risk of oral squamous cell carcinoma in a specific South African population.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: There are currently no high-confidence HPO-variant associations for GSTT2B that would be used for diagnosing a monogenic disease.
+*   **Phenotype Red Flags**: There are no HPO terms that strongly suggest pathogenic variants in this gene for a Mendelian disorder. The gene may be of interest in a research or pharmacogenomic setting for patients with specific cancers (e.g., bladder cancer).
+*   **Differential Diagnosis Considerations**: As GSTT2B is not linked to a specific phenotype syndrome, it is not typically included in the differential diagnosis for Mendelian diseases.
+

@@ -1,0 +1,52 @@
+=== chr14:19421670G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs77791636
+• Chromosome: 14
+• Position: 19421670
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0/1
+• Quality Score: 571.64001465
+• Gene Names: POTEG
+• Databases: rs77791636, COSV66922759
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1646
+• gnomADg Allele Frequency: 0.2127
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 186
+• Allelic Depth (AD): [145, 38]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 748
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 98
+• Uncertain Significance: 648
+• Other Classifications: 2
+

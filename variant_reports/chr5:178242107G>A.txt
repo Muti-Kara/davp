@@ -1,0 +1,157 @@
+=== chr5:178242107G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201065091
+• Chromosome: 5
+• Position: 178242107
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: COL23A1
+• Databases: rs201065091
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 2.8550000000000003e-05
+• gnomADg Allele Frequency: 2.627e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007825: balding measurement - quantification of the amount of balding in an individual
+GWAS_EFO_0001663: prostate carcinoma - A carcinoma that arises from epithelial cells of the prostate gland.
+GWAS_EFO_0008457: cannabis dependence measurement - Quantification of the degree to which an individual is dependent on cannabis, for example based on the number of DSM-IV criteria met for cannabis dependence.
+GWAS_GO_0006306: DNA methylation - The covalent transfer of a methyl group to either N-6 of adenine or C-5 or N-4 of cytosine
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0005204: bulimia nervosa - A disorder characterized by recurrent episodes of binge-eating over which the individual feels a lack of control; these episodes of binge-eating are followed by recurrent compensatory behavior to prevent weight gain, usually self-induced vomiting. In addition, self-evaluation is unduly influenced by body image.|An eating disorder that is characterized by a cycle of binge eating (BULIMIA or bingeing) followed by inappropriate acts (purging) to avert weight gain. Purging methods often include self-induced VOMITING, use of LAXATIVES or DIURETICS, excessive exercise, and FASTING.
+GWAS_EFO_0006930: brain volume measurement - quantification of the volume of the brain or of a part of the brain
+GWAS_EFO_0005423: adolescent idiopathic scoliosis - A scoliosis with no known cause arising in adolescent.
+GWAS_EFO_0005106: body composition measurement - measurement of the percentages of fat, bone and muscle in human bodies
+GWAS_EFO_0007843: nose morphology measurement - quantification of some aspect of nose morphology such as nose wing breadth, nose tip shape or nose profile
+GWAS_EFO_0007710: cognitive decline measurement - quantification of some aspect of cognitive decline such as the rate at which it occurs or its severity, for example in patients with dementia or Alzheimer's disease. Cognitive decline is ususally assessed using a structured-interview protocol covering a number of standardised areas.
+GWAS_EFO_0000249: obsolete_Alzheimer's disease - A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting in late middle age and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.|A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.|A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)|A dementia which is an incurable disease of unknown cause, starting in late middle age or in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, that leads in advanced cases to a profound decline in cognitive and physical functioning, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+GWAS_EFO_0005200: antiphospholipid antibody measurement - Quantification of antiphospholipid antibodies in a biological sample, usually a blood sample. Antiphospholipid antibodies include anticardiolipin antibodies (ACL), lupus anticoagulant (LAC), and anti- β 2 glycoprotein I antibodies (anti- β 2GPI).They can be an indicator of antiphospholipid syndrome
+GWAS_EFO_0008411: susceptibility to bacterial meningitis measurement - Quantification of an individual's susceptibility to bacterial meningitis
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16179442) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663, GWAS_EFO_0008411
+Entity: Transcript (ID: 16379715) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663
+Entity: Transcript (ID: 16379716) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663
+Entity: Transcript (ID: 16379719) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663
+Entity: Transcript (ID: 16379722) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663
+Entity: Transcript (ID: 16379741) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663
+Entity: Transcript (ID: 16379748) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663, GWAS_EFO_0008457, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0005204, GWAS_EFO_0006930, GWAS_EFO_0005423, GWAS_EFO_0005106, GWAS_EFO_0001663, GWAS_EFO_0007843, GWAS_EFO_0007710, GWAS_EFO_0000249, GWAS_EFO_0007825, GWAS_EFO_0007937, GWAS_EFO_0005200, GWAS_EFO_0001663, GWAS_EFO_0008411
+Entity: ChromHMM State (ID: 19689150) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 20839609) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 22673348) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0001663
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 15968
+• Pathogenic/Likely Pathogenic: 1281
+• Benign/Likely Benign: 6807
+• Uncertain Significance: 7845
+• Other Classifications: 35
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Ehlers-Danlos syndrome, dermatosparaxis type (n=1690)
+• Inborn genetic diseases (n=492)
+• not provided|Inborn genetic diseases (n=478)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided (n=188)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type (n=153)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Inborn genetic diseases (n=117)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|not specified (n=64)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not specified (n=52)
+• Congenital stationary night blindness 1B (n=49)
+• Retinal dystrophy (n=49)
+• Inborn genetic diseases|Ehlers-Danlos syndrome, dermatosparaxis type (n=48)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Ehlers-Danlos syndrome (n=48)
+• Congenital stationary night blindness 1B|not provided (n=35)
+• Ehlers-Danlos syndrome (n=34)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|ADAMTS2-related disorder (n=30)
+• See cases (n=28)
+• not provided|Congenital stationary night blindness 1B (n=28)
+• Inborn genetic diseases|not provided (n=28)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Inborn genetic diseases|not provided (n=23)
+• Congenital stationary night blindness|not provided (n=21)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|Inborn genetic diseases (n=20)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|not specified (n=16)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Inborn genetic diseases|not specified (n=16)
+• Congenital stationary night blindness 1C (n=14)
+• GRM6-related disorder (n=14)
+• Retinal dystrophy|not provided (n=14)
+• not provided|GRM6-related disorder (n=14)
+• not provided|Inborn genetic diseases|Retinal dystrophy (n=14)
+• Ehlers-Danlos syndrome|Ehlers-Danlos syndrome, dermatosparaxis type (n=14)
+• not specified|Ehlers-Danlos syndrome, dermatosparaxis type (n=14)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|Ehlers-Danlos syndrome (n=14)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|Inborn genetic diseases (n=12)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Ehlers-Danlos syndrome|not provided (n=11)
+• Vascular endothelial growth factor (VEGF) inhibitor response (n=7)
+• Retinal dystrophy|not provided|Inborn genetic diseases (n=7)
+• not specified|not provided (n=7)
+• Congenital stationary night blindness|not provided|Congenital stationary night blindness 1B (n=7)
+• Frontotemporal dementia and/or amyotrophic lateral sclerosis 1 (n=7)
+• Paget disease of bone 2, early-onset (n=7)
+• Congenital stationary night blindness 1B|not provided|Retinal dystrophy (n=7)
+• not provided|Congenital stationary night blindness (n=7)
+• Congenital stationary night blindness 1B|not provided|Leber congenital amaurosis|Retinal dystrophy (n=7)
+• not provided|Retinal dystrophy|Congenital stationary night blindness 1B (n=7)
+• GRM6-related disorder|not provided (n=7)
+• not provided|Inborn genetic diseases|Congenital stationary night blindness 1B (n=7)
+• not provided|Retinal dystrophy (n=7)
+• not provided|Congenital stationary night blindness 1B|GRM6-related disorder (n=7)
+• Congenital stationary night blindness|Congenital stationary night blindness 1B (n=7)
+• Congenital stationary night blindness 1B|not provided|Congenital stationary night blindness (n=7)
+• not provided|Inborn genetic diseases|Optic atrophy (n=7)
+• not provided|ADAMTS2-related disorder|Inborn genetic diseases (n=7)
+• not provided|not specified|Ehlers-Danlos syndrome, dermatosparaxis type (n=7)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|not specified|Ehlers-Danlos syndrome|Inborn genetic diseases (n=7)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not specified|Inborn genetic diseases (n=7)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|not specified|Inborn genetic diseases (n=7)
+• Inborn genetic diseases|Ehlers-Danlos syndrome, dermatosparaxis type|not provided (n=7)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|Inborn genetic diseases|not specified|ADAMTS2-related disorder (n=7)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Inborn genetic diseases|not provided|not specified (n=7)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|See cases|not specified (n=7)
+• Ehlers-Danlos syndrome|Ehlers-Danlos syndrome, dermatosparaxis type|not provided|not specified (n=7)
+• See cases|Inborn genetic diseases|Ehlers-Danlos syndrome, dermatosparaxis type (n=7)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|Ehlers-Danlos syndrome|not specified (n=7)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|Ehlers-Danlos syndrome|ADAMTS2-related disorder (n=7)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|Ehlers-Danlos syndrome|not specified|Inborn genetic diseases (n=7)
+• Ehlers-Danlos syndrome|not provided (n=7)
+• Ehlers-Danlos syndrome, dermatosparaxis type|ADAMTS2-related disorder (n=7)
+• not provided|Inborn genetic diseases|Ehlers-Danlos syndrome, dermatosparaxis type (n=6)
+• ADAMTS2-related disorder|Inborn genetic diseases (n=4)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|not specified|Inborn genetic diseases (n=4)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|Ehlers-Danlos syndrome|Inborn genetic diseases|ADAMTS2-related disorder (n=4)
+• not provided|Ehlers-Danlos syndrome, dermatosparaxis type|ADAMTS2-related disorder (n=4)
+• not specified|Ehlers-Danlos syndrome|Ehlers-Danlos syndrome, dermatosparaxis type (n=4)
+• not provided|Ehlers-Danlos syndrome|Inborn genetic diseases|not specified|Ehlers-Danlos syndrome, dermatosparaxis type (n=2)
+• ADAMTS2-related disorder (n=2)
+• Ehlers-Danlos syndrome, dermatosparaxis type|Ehlers-Danlos syndrome|not provided|not specified (n=2)
+• Ehlers-Danlos syndrome, dermatosparaxis type|not provided|Inborn genetic diseases|not specified (n=2)
+
+

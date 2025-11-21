@@ -1,0 +1,58 @@
+=== chr7:75399185G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs236633
+• Chromosome: 7
+• Position: 75399185
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|1
+• Quality Score: N/A
+• Gene Names: TRIM73
+• Databases: rs236633
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1051
+• gnomADg Allele Frequency: 0.06516000000000001
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16138190) -> Associated GWAS: GWAS_EFO_0004340
+Entity: Transcript (ID: 16222176) -> Associated GWAS: GWAS_EFO_0004340
+Entity: ChromHMM State (ID: 20891186) -> Associated GWAS: GWAS_EFO_0004340
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 209
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 59
+• Uncertain Significance: 150
+• Other Classifications: 0
+

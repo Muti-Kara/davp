@@ -1,0 +1,71 @@
+=== chr1:223795896T>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1571844481
+• Chromosome: 1
+• Position: 223795896
+• Reference Allele (REF): T
+• Alternative Allele (ALT): G
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: TP53BP2
+• Databases: rs1571844481
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: N/A
+• gnomADg Allele Frequency: 2.004e-05
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007662: response to triptolide - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a triptolide stimulus. Triptolide is a  therapeutic diterpenoid derived from the Chinese herb Tripterygium wilfordii and has been shown to induce apoptosis by activation of pro-apoptotic proteins, inhibiting NFkB and c-KIT pathways, suppressing the Jak2 transcription, activating MAPK8/JNK signaling and modulating the heat shock responses.
+GWAS_EFO_0006952: cytotoxicity measurement - quantification of some aspect of cytotoxity such as survival time or cell viability
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16175337) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Transcript (ID: 16361259) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Transcript (ID: 16361285) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Transcript (ID: 16361294) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Transcript (ID: 16361306) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Non Coding RNA (ID: 17050789) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Non Coding RNA (ID: 17050790) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Non Coding RNA (ID: 17050792) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: Non Coding RNA (ID: 17416074) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+Entity: ChromHMM State (ID: 20104658) -> Associated GWAS: GWAS_EFO_0007662, GWAS_EFO_0006952
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3108
+• Pathogenic/Likely Pathogenic: 8
+• Benign/Likely Benign: 652
+• Uncertain Significance: 2448
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=8)
+
+

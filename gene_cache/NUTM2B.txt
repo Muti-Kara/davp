@@ -1,0 +1,83 @@
+NUTM2B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 23445.
+*   **OMIM Gene ID:** There is no OMIM entry for the gene NUTM2B itself, but its antisense partner, NUTM2B-AS1, is listed under OMIM 618639.
+*   **Primary Disease Associations:** NUTM2B is primarily associated with specific cancers through gene fusions, not as a standalone pathogenic gene. The main associations are Clear Cell Sarcoma of the Kidney (CCSK) and high-grade Endometrial Stromal Sarcoma (ESS).
+*   **Clinical Significance Level:** The role of *YWHAE-NUTM2B* fusions in causing high-grade ESS and CCSK is well-established, suggesting a definitive clinical significance for the fusion event in the context of somatic cancer genetics.
+*   **Inheritance Patterns:** Disease associations are due to somatic chromosomal translocations, specifically t(10;17)(q22;p13), leading to fusion genes. There is no evidence of germline inheritance for NUTM2B-related disorders, although its antisense transcript, *NUTM2B-AS1*, has been linked to an autosomal dominant myopathy.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for NUTM2B are pLI = 0.00, LOEUF = 1.32, pRec = 0.76, and pNull = 0.24.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI score (<0.9) and high LOEUF score indicate that NUTM2B is tolerant to loss-of-function (LoF) variation. This suggests that haploinsufficiency of this gene is not a common disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Pathogenicity is not associated with conventional germline variants (missense, nonsense, etc.). Instead, it is driven by somatic chromosomal rearrangements that create oncogenic fusion proteins, such as *YWHAE-NUTM2B*.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As NUTM2B's role is in specific somatic cancers, HPO terms describe the tumors and their features rather than a multi-systemic germline disorder.
+    *   Clear cell sarcoma of the kidney (Orphanet:457246).
+    *   Endometrial stromal sarcoma (Orphanet:213711).
+    *   HP:0030093 - Sarcoma.
+    *   HP:0002857 - Renal neoplasm.
+    *   HP:0000107 - Renal tumor.
+    *   HP:0012119 - High grade endometrial stromal sarcoma.
+    *   HP:0002664 - Neoplasm.
+    *   HP:0000007 - Autosomal dominant inheritance (related to NUTM2B-AS1, not NUTM2B fusions).
+*   **Secondary HPO terms:**
+    *   HP:0001945 - Fever (Associated with CCSK presentation).
+    *   HP:0002018 - Nausea (Associated with CCSK presentation).
+    *   HP:0001944 - Dehydration (Associated with CCSK presentation).
+    *   HP:0002910 - Abdominal pain.
+    *   HP:0000093 - Hematuria.
+    *   HP:0001903 - Anemia.
+    *   HP:0002716 - Lymphadenopathy.
+*   **Age of Onset Patterns:** Clear cell sarcoma of the kidney (CCSK) with the *YWHAE-NUTM2B/E* fusion typically presents in childhood, often in very young patients. High-grade endometrial stromal sarcoma occurs in adults.
+*   **Phenotype Severity Spectrum:** Sarcomas involving *YWHAE-NUTM2B* fusions are generally considered high-grade and clinically aggressive.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** The key variant class is a chromosomal translocation, t(10;17)(q22;p13), which creates a *YWHAE-NUTM2B* fusion gene. This specific fusion is strongly correlated with high-grade endometrial stromal sarcoma and clear cell sarcoma of the kidney.
+*   **Protein Domain-Specific Phenotype Patterns:** The fusion joins the *YWHAE* gene, which encodes a 14-3-3 protein, with *NUTM2B*. The resulting fusion protein is oncogenic, driving the development of these specific aggressive sarcomas.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the *YWHAE-NUTM2B* fusion and the diagnosis of high-grade ESS and a subset of CCSK is strong. It is considered a defining molecular feature for these tumor types.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   t(10;17)(q22;p13) creating *YWHAE-NUTM2B* fusion → High-grade endometrial stromal sarcoma.
+    *   t(10;17)(q22;p13) creating *YWHAE-NUTM2B/E* fusion → Clear cell sarcoma of the kidney.
+    *   *YWHAE-NUTM2B* fusions are also found in some infantile soft tissue undifferentiated round cell sarcomas.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Characterized Pathogenic Variants:** Pathogenicity is defined by somatic fusion events, not germline rsIDs. ClinVar does not list specific pathogenic variants for NUTM2B itself but for related entities.
+    *   **Variant:** *YWHAE-NUTM2B* gene fusion (from t(10;17)(q22;p13)).
+    *   **Significance:** Pathogenic (Somatic).
+    *   **Reported Phenotypes:** High-grade endometrial stromal sarcoma, Clear cell sarcoma of kidney, Infantile soft tissue undifferentiated round cell sarcoma.
+    *   **AF:** Not applicable (somatic variant).
+*   **Variants with Strongest Phenotype Evidence:** The *YWHAE-NUTM2B* fusion transcript is the variant with the most robust evidence, serving as a diagnostic and prognostic marker for specific sarcomas. It is mutually exclusive with *BCOR* internal tandem duplications in CCSK, indicating distinct molecular pathways.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** NUTM2B shows broad but generally low levels of expression across many tissues. Tissues with notable expression include nerve, testis, and thyroid. There is no standout expression pattern that directly explains its specific involvement in kidney and uterine sarcomas.
+*   **Tissue-specific Phenotypes Expected:** The phenotypes (sarcomas) arise in the kidney and uterus, where the somatic translocation occurs, rather than being predicted by the normal expression pattern of the native gene.
+*   **Expression During Development and Age-Related Phenotypes:** While detailed developmental expression data is limited, the occurrence of CCSK in infants and young children suggests a role for the fusion oncogene in early life.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The function of the native NUTM2B protein is not well characterized.
+*   **Disease Mechanism:** The disease mechanism is a gain-of-function for the resulting fusion protein. The YWHAE-NUTM2B oncoprotein drives tumorigenesis.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The YWHAE (14-3-3) portion of the fusion protein is involved in regulating cell proliferation and differentiation. The fusion leads to aberrant signaling, resulting in uncontrolled cell growth and the development of high-grade sarcoma. The fusion has been shown to relieve repression of Ets transcription factors like *ETV1* and *ETV4*.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The fusion protein's interactions, driven by the 14-3-3 domain, are critical to its oncogenic activity.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The *YWHAE-NUTM2B* fusion is found in a significant subset of CCSK and is the defining feature of high-grade ESS. It is mutually exclusive with other key drivers like *BCOR* ITD in CCSK, making it a critical diagnostic marker.
+*   **Most Common Reasons for Testing This Gene:** Testing for the *YWHAE-NUTM2B* fusion is performed for the differential diagnosis of pediatric renal tumors and uterine sarcomas. It helps to classify tumors and distinguish high-grade ESS from other types.
+*   **Clinical Actionability and Management Implications:** Identifying the *YWHAE-NUTM2B* fusion confirms a diagnosis of a clinically aggressive sarcoma, which informs prognosis and may guide treatment decisions toward more aggressive therapies.
+*   **Genetic Counseling Considerations:** Since the pathogenic fusions are somatic events confined to the tumor, they are not heritable. Genetic counseling should focus on explaining the nature of the acquired genetic change in the tumor and the lack of risk to family members.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 26542179, 2016:** Gooskens SL, et al. This study investigated the clinical phenotype of CCSK with the *YWHAE-NUTM2B/E* fusion and found these patients were often young with low tumor volumes but did not have Stage I disease, failing to define a unique clinical phenotype distinct from other CCSKs.
+*   **PMID: 22456610, 2012:** Lee CH, et al. Landmark paper establishing that *YWHAE-FAM22* (now *YWHAE-NUTM2B*) fusions define a distinct group of high-grade, clinically aggressive endometrial stromal sarcomas.
+*   **PMID: 26627674, 2016:** Kao YC, et al. Reported recurrent *YWHAE-NUTM2B* fusions in soft tissue undifferentiated round cell sarcomas of infancy, linking the genetic signature of CCSK to a soft tissue counterpart.
+*   **PMID: 26585802, 2016:** Karlsson J, et al. Showed that *YWHAE-NUTM2B/E* fusions and *BCOR* internal tandem duplications are mutually exclusive events in CCSK, highlighting distinct pathogenetic pathways.
+*   **PMID: 36775628, 2023:** Odate S, et al. A study that links CGG repeat expansion in *NUTM2B-AS1* (the antisense transcript) to oculopharyngodistal myopathy, a separate neurological disease not involving fusions of the *NUTM2B* gene itself.
+*   **PMID: 26542179, 2015:** Gooskens SL, et al. A large descriptive study that aimed to define the clinical phenotype of t(10;17)(q22;p13) positive CCSK, noting it's the sole recurrent genetic aberration identified in these tumors.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   *YWHAE-NUTM2B* gene fusion → HP:0012119 (High grade endometrial stromal sarcoma).
+    *   *YWHAE-NUTM2B* gene fusion → HP:0002857 (Renal neoplasm) and more specifically, Clear cell sarcoma of the kidney.
+*   **Phenotype red flags:** The presence of a renal mass in a young child or a high-grade uterine sarcoma in an adult should prompt molecular testing for a *YWHAE-NUTM2B* fusion.
+*   **Differential diagnosis considerations:** In pediatric renal tumors, the primary differential for CCSK is Wilms tumor. In infantile soft tissue sarcomas, the differential includes other undifferentiated round cell sarcomas. The presence of the *YWHAE-NUTM2B* fusion distinguishes these entities from others that may have different genetic drivers, such as *BCOR* ITD.
+

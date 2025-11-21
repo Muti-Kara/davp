@@ -1,0 +1,91 @@
+SPEN Gene Biomedical Dossier
+### **Gene Dossier: SPEN**
+
+#### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 17575
+*   **OMIM Gene ID:** 613484
+*   **Primary Disease Associations:** SPEN haploinsufficiency causes a neurodevelopmental disorder, referred to as Radio-Tartaglia Syndrome (RATARS), which overlaps with proximal 1p36 deletion syndrome. The gene is also implicated in Neurodevelopmental delay-congenital heart defects-intellectual disability syndrome.
+*   **Clinical Significance Level:** Evidence for SPEN's role in neurodevelopmental disorders is strong, supported by the identification of de novo likely gene-disrupting variants in affected individuals. Haploinsufficiency of SPEN is considered a major contributor to the phenotype.
+*   **Inheritance Patterns:** The condition is inherited in an autosomal dominant manner, with many cases arising from de novo variants.
+
+#### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** SPEN is extremely intolerant to loss-of-function (LoF) variation with a pLI score of 1.00 and a LOEUF score of 0.09 (90% CI 0.05-0.15).
+*   **Clinical Interpretation of Constraint Scores:** A pLI score ≥ 0.9 and a low LOEUF score indicate that the gene is under strong selective pressure against protein-truncating variants. This strongly suggests that haploinsufficiency is a mechanism of disease.
+*   **Variant Classes Most Likely to Be Pathogenic:** Protein-truncating variants (nonsense, frameshift) distributed throughout the gene are established as pathogenic. De novo likely gene-disrupting and missense variants have also been identified in individuals with neurodevelopmental disorders.
+
+#### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:**
+    *   Global developmental delay (HP:0001263)
+    *   Intellectual disability (mild to severe) (HP:0001249)
+    *   Autism spectrum disorder (HP:0000717)
+    *   Hypotonia (HP:0001252)
+    *   Abnormal speech pattern / Absent speech (HP:0002166, HP:0001344)
+    *   Congenital heart defects (e.g., Atrial septal defect, Patent ductus arteriosus) (HP:0001627)
+    *   Feeding difficulties (HP:0011968)
+    *   Behavioral abnormalities (e.g., anxiety, aggression) (HP:0000718)
+    *   Facial dysmorphism (e.g., high/narrow palate, deep-set eyes) (HP:0001999)
+    *   Obesity / Increased BMI (HP:0001513)
+    *   Agenesis of corpus callosum (HP:0001277)
+    *   Seizures (HP:0001250)
+*   **Secondary HPO Terms:**
+    *   Scoliosis / Kyphosis (HP:0002650, HP:0002808)
+    *   Brain and spine anomalies (e.g., Chiari malformation type I) (HP:0002313)
+    *   Cryptorchidism (HP:0000028)
+    *   Strabismus (HP:0000486)
+    *   Hearing impairment (HP:0000365)
+    *   Joint hypermobility (HP:0001382)
+*   **Age of Onset Patterns:** Onset is typically in the prenatal to infantile period, with developmental delays noted in early childhood. Obesity or an elevated BMI may become more apparent after the age of four.
+*   **Phenotype Severity Spectrum:** The clinical presentation ranges from mild to severe, but there are no clear genotype-phenotype correlations to predict severity.
+
+#### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Truncating variants throughout the gene consistently lead to a neurodevelopmental disorder with features including developmental delay, intellectual disability, and behavioral issues.
+*   **Protein Domain-Specific Phenotype Patterns:** Currently, no significant genotype-phenotype correlations have been identified based on the location of the variant or the protein domain affected. Even truncating variants at the C-terminus, which spare the RRM domains but affect the SPOC domain, do not result in a less severe phenotype.
+*   **Genotype-Phenotype Correlation Strength:** Weak; there are no obvious genotype-phenotype correlations, suggesting a homogeneous effect of loss-of-function variants.
+
+#### **Clinical Variants & Phenotype Associations**
+*   The following is a representative list of pathogenic variants. Allele frequencies in gnomAD are typically zero or near-zero for pathogenic variants.
+*   **c.162dup (p.Glu55Argfs*3):** Pathogenic / Neurodevelopmental disorder.
+*   **c.456dup (p.Ala153Cysfs*27):** Pathogenic / Classical phenotype with distal weakness and sensory impairment.
+*   **c.922G>T (p.Glu308*):** Pathogenic / Classical phenotype with distal weakness and sensory impairment.
+*   **c.2053C>T (p.Arg685*):** Pathogenic / Neurodevelopmental disorder.
+*   **c.3109C>T (p.Arg1037*):** Likely Pathogenic / Neurodevelopmental disorder.
+*   **c.4837C>T (p.Arg1613*):** Pathogenic / Neurodevelopmental disorder.
+*   **c.5569_5570del (p.Ser1857Glyfs*3):** Pathogenic / Neurodevelopmental disorder.
+*   **c.6385_6388del (p.Ser2129fs):** Pathogenic / Neurodevelopmental disorder.
+*   **c.7255C>T (p.Arg2419*):** Pathogenic / Neurodevelopmental disorder.
+*   **c.8200_8201del (p.Glu2734fs):** Pathogenic / Neurodevelopmental disorder.
+
+#### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** SPEN shows broad expression, with the highest levels in the pituitary, adrenal gland, and thyroid. It also shows notable expression in various brain regions, including the cortex and cerebellum.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the developing and postnatal brain is consistent with the observed neurodevelopmental phenotype, including intellectual disability, autism, and brain anomalies.
+*   **Expression During Development and Age-Related Phenotypes:** SPEN is required for multiple developmental processes, including neuronal cell development. Its expression pattern during human neocortical development supports its critical role in brain formation.
+
+#### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SPEN encodes a large nuclear protein that acts as a transcriptional repressor, playing a key role in several signaling pathways.
+*   **Disease Mechanism:** Haploinsufficiency is the established disease mechanism, where the loss of one functional copy of the gene leads to a clinical phenotype. This is supported by the high constraint against LoF variants and the similar phenotype seen in individuals with deletions involving the gene.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Notch Signaling:** SPEN is a repressor in the Notch signaling pathway, which is critical for embryonic development, neurogenesis, and cell fate decisions.
+    *   **X-Chromosome Inactivation (XCI):** SPEN is essential for the coating of the inactive X chromosome by Xist RNA, a key step in XCI. This is linked to the finding of a specific X-chromosome DNA methylation "episignature" in affected females.
+    *   **Wnt Signaling & Other Pathways:** SPEN has also been implicated as a regulator in Wnt signaling, nuclear receptor signaling, and DNA damage response pathways. Disruption of these fundamental pathways likely contributes to the broad developmental abnormalities seen in patients.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The C-terminal SPOC domain interacts with corepressors like SMRT and NCoR and recruits histone deacetylase complexes (e.g., NuRD), which is essential for its transcriptional repression function. The N-terminal RRM domains suggest a role in RNA binding and processing.
+
+#### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** SPEN variants are identified in individuals undergoing testing for neurodevelopmental disorders, particularly those with features overlapping 1p36 deletion syndrome. It is considered a significant gene in cohorts of unsolved neurodevelopmental disorders.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with unexplained global developmental delay, intellectual disability, autism spectrum disorder, hypotonia, and congenital anomalies, especially heart defects and brain malformations.
+*   **Clinical Actionability and Management Implications:** Diagnosis allows for anticipatory guidance and surveillance for known associated features, such as obesity, behavioral issues, and congenital heart defects. Management is supportive and tailored to the individual's specific symptoms.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal dominant inheritance pattern, the high likelihood of a de novo event in the absence of affected parents, and the variable expressivity of the disorder. There is no evidence of a predictable genotype-phenotype correlation to guide prognosis.
+
+#### **Key Clinical Literature & Studies**
+*   **Radio, F. et al. (2021) PMID: 33545124:** This landmark study defined the clinical syndrome associated with SPEN haploinsufficiency in 34 individuals, establishing the core phenotypic features, confirming haploinsufficiency as the mechanism, and identifying a specific X-chromosome episignature in females.
+*   **Coe, B.P. et al. (2019) PMID: 30100085:** A meta-analysis of de novo mutations in neurodevelopmental disorders identified SPEN as a high-confidence candidate gene with an excess of likely gene-disrupting variants.
+*   **Iossifov, I. et al. (2014) PMID: 25363768:** One of the earlier large-scale studies that identified a de novo likely gene-disrupting variant in SPEN in a proband with autism spectrum disorder, highlighting it as a candidate gene.
+*   **Ariani, F. et al. (2008) PMID: 18451010:** Although not the focus, this paper on X-chromosome inactivation mechanisms provided early insights into the function of SPEN, which was later connected to the human disease phenotype.
+*   **Wieland, I. et al. (2004) PMID: 15286788:** A study that characterized the SHARP (SPEN) protein, identifying its SPOC domain and role as a potent transcriptional corepressor for nuclear receptors.
+
+#### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Any pathogenic protein-truncating variant (nonsense or frameshift) in SPEN is strongly associated with the core phenotype of global developmental delay (HP:0001263), intellectual disability (HP:0001249), hypotonia (HP:0001252), and behavioral abnormalities (HP:0000718).
+*   **Phenotype Red Flags:** The combination of a significant neurodevelopmental disorder (intellectual disability, autism) with congenital heart defects (HP:0001627), early feeding difficulties (HP:0011968), and later-onset obesity (HP:0001513) should raise strong suspicion for a pathogenic variant in SPEN.
+*   **Differential Diagnosis Considerations:** The primary differential diagnosis is 1p36 deletion syndrome, due to the significant clinical overlap. Other syndromes associated with intellectual disability, hypotonia, and heart defects should also be considered.
+
+***
+

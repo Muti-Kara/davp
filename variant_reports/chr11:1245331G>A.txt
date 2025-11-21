@@ -1,0 +1,83 @@
+=== chr11:1245331G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs200970694
+• Chromosome: 11
+• Position: 1245331
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: MUC5B
+• Databases: rs200970694, COSV71591721
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.02535
+• gnomADg Allele Frequency: 0.03935
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_GO_0036276: response to antidepressant - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an antidepressant stimulus, a mood-stimulating drug.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+GWAS_Orphanet_96346: Anorectal malformation - None
+GWAS_EFO_0004244: interstitial lung disease - A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of pulmonary alveoli that extends to the interstitium and beyond leading to diffuse pulmonary fibrosis. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features.|A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of PULMONARY ALVEOLI that extends to the interstitium and beyond leading to diffuse PULMONARY FIBROSIS. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features.
+GWAS_EFO_0000768: idiopathic pulmonary fibrosis - Idiopathic pulmonary fibrosis (IPF) is a nonneoplastic pulmonary disease that is characterized by the formation of scar tissue within the lungs in the absence of any known cause.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16132289) -> Associated GWAS: GWAS_EFO_0003761, GWAS_GO_0036276, GWAS_EFO_0007006, GWAS_Orphanet_96346
+Entity: Transcript (ID: 16202729) -> Associated GWAS: GWAS_EFO_0003761, GWAS_GO_0036276, GWAS_EFO_0007006, GWAS_Orphanet_96346
+Entity: ChromHMM State (ID: 22812239) -> Associated GWAS: GWAS_EFO_0004244, GWAS_EFO_0000768, GWAS_EFO_0003761, GWAS_GO_0036276, GWAS_EFO_0007006
+Entity: ChromHMM State (ID: 22231953) -> Associated GWAS: GWAS_Orphanet_96346
+Entity: ChromHMM State (ID: 20991586) -> Associated GWAS: GWAS_Orphanet_96346
+Entity: ChromHMM State (ID: 20389980) -> Associated GWAS: GWAS_EFO_0004244, GWAS_EFO_0000768, GWAS_EFO_0003761, GWAS_GO_0036276, GWAS_EFO_0007006, GWAS_Orphanet_96346
+Entity: ChromHMM State (ID: 19821785) -> Associated GWAS: GWAS_GO_0036276, GWAS_EFO_0007006
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 19308
+• Pathogenic/Likely Pathogenic: 340
+• Benign/Likely Benign: 6613
+• Uncertain Significance: 12355
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|not specified (n=195)
+• not specified|not provided (n=133)
+• Interstitial lung disease 2 (n=107)
+• not specified|MUC5B-related disorder (n=26)
+• MUC5B-related disorder (n=18)
+• Susceptibility to severe COVID-19 (n=16)
+• Interstitial lung disease 2|not provided (n=14)
+• not specified|Interstitial lung disease 2 (n=13)
+• Interstitial lung disease 2|not specified (n=13)
+• not provided|Interstitial lung disease 2 (n=9)
+• not specified|not provided|Interstitial lung disease 2 (n=9)
+• Pulmonary fibrosis|Interstitial lung disease 2 (n=5)
+• Lung adenocarcinoma (n=4)
+
+

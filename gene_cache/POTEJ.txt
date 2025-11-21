@@ -1,0 +1,54 @@
+POTEJ Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 37094.
+*   **OMIM Gene ID:** There is currently no OMIM entry for the POTEJ gene.
+*   **Primary Disease Associations:** No well-established disease associations for POTEJ have been documented in OMIM. GeneCards lists a possible association with Focal Segmental Glomerulosclerosis 2 (FSGS2), though this is not yet clinically established.
+*   **Clinical Significance Level:** The clinical significance of POTEJ is currently uncertain, with no definitive, strong, or moderate evidence linking it to a specific Mendelian disorder.
+*   **Inheritance Patterns:** As there are no confirmed disease associations, inheritance patterns have not been determined.
+
+### **Constraint & Variant Intolerance**
+*   **pLI:** The pLI (probability of being Loss-of-Function intolerant) score for POTEJ is not available in gnomAD v4.1.0, and in v2.1.1 it was 0.05, suggesting it is tolerant to loss-of-function variation.
+*   **LOEUF:** The LOEUF (Loss-of-function Observed/Expected Upper bound Fraction) score is also not available for POTEJ in the latest gnomAD release.
+*   **Clinical Interpretation of Constraint Scores:** Low pLI and the absence of a low LOEUF score suggest that heterozygous loss-of-function variants in POTEJ are likely tolerated and may not be sufficient to cause disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the lack of constraint, it is difficult to predict which variant classes would be pathogenic. If POTEJ were involved in disease, one might need to consider gain-of-function or dominant-negative mechanisms.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No primary HPO terms are established for POTEJ due to the lack of a confirmed disease association.
+*   **Secondary HPO terms:** No secondary HPO terms are currently documented for POTEJ.
+*   **Age of Onset Patterns:** Information on the age of onset is not available.
+*   **Phenotype Severity Spectrum:** The spectrum of phenotype severity is not known.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** There are currently no established genotype-phenotype correlations for POTEJ.
+*   **Protein Domain-Specific Phenotype Patterns:** The POTEJ protein contains ankyrin repeats, which are involved in protein-protein interactions. However, no specific phenotype patterns have been linked to variants in this or any other domain of POTEJ.
+*   **Genotype-Phenotype Correlation Strength:** The strength of any genotype-phenotype correlation is currently unknown.
+*   **Examples:** There are no available examples of specific variants leading to specific phenotypes for POTEJ.
+
+### **Clinical Variants & Phenotype Associations**
+*   There are no well-characterized pathogenic or likely pathogenic variants for POTEJ listed in ClinVar with associated phenotypes.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** According to the Genotype-Tissue Expression (GTEx) portal, POTEJ shows the highest expression in the testis. It also has notable expression in the pituitary, adrenal gland, and thyroid.
+*   **Tissue-Specific Phenotypes Expected:** Given its high expression in the testis, pathogenic variants in POTEJ could potentially lead to male infertility or other testicular abnormalities. However, this is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Information on the developmental expression of POTEJ is limited, making it difficult to predict age-related phenotypes.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The POTEJ gene encodes a protein that contains ankyrin repeats, which are known to mediate protein-protein interactions. Its precise function is not well understood.
+*   **Disease Mechanism:** The mechanism by which variants in POTEJ might cause disease is unknown. Given the lack of constraint against loss-of-function variants, haploinsufficiency is unlikely to be a common mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The specific cellular or molecular pathways that would be disrupted by pathogenic POTEJ variants have not been identified.
+*   **Protein-Protein Interactions Relevant to Phenotype:** While the ankyrin repeats suggest protein-protein interactions are important for POTEJ function, the specific interacting partners and their relevance to any potential phenotype are not known.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for POTEJ in clinical cohorts is essentially zero, as it is not currently associated with a known disease.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would not be a standard clinical practice at this time.
+*   **Clinical Actionability and Management Implications:** There are no known clinical actionability or management implications associated with variants in POTEJ.
+*   **Genetic Counseling Considerations:** Given the lack of a known disease association, genetic counseling would focus on the uncertainty of any findings in POTEJ.
+
+### **Key Clinical Literature & Studies**
+*   There are currently no key clinical publications or studies that establish a clear link between POTEJ variants and a specific human phenotype. Much of the available literature focuses on its expression in cancer.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are no high-confidence HPO-variant associations for POTEJ at this time.
+*   **Phenotype Red Flags:** There are no HPO terms that would currently be considered red flags for pathogenic variants in this gene.
+*   **Differential Diagnosis Considerations:** As there is no defined POTEJ-related phenotype, differential diagnosis considerations are not applicable.
+

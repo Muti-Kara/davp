@@ -1,0 +1,106 @@
+=== chr4:65324117C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs55784741
+• Chromosome: 4
+• Position: 65324117
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: EPHA5
+• Databases: rs55784741, COSV56636665, COSV56637652, COSV56651521
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.014350000000000002
+• gnomADg Allele Frequency: 0.010350000000000002
+• 1KG Frequency: 0.0032
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007682: response to cetuximab - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus with the epithelial growth factor inhibitor cetuximab.
+GWAS_EFO_0005842: colorectal cancer - A primary or metastatic malignant neoplasm that affects the colon or rectum. Representative examples include carcinoma, lymphoma, and sarcoma.|Editor note: some sources make distinct classes for colorectal vs large intestine. We follow NCIT and make these equivalent
+GWAS_EFO_0000701: skin disease - Any deviation from the normal structure or function of the skin or subcutaneous tissue that is manifested by a characteristic set of symptoms and signs.
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0004631: vitamin D measurement - A quantification of Vitamin D levels, typically in blood. Vitamin D includes both CHOLECALCIFEROLS and ERGOCALCIFEROLS, which have the common effect of preventing or curing RICKETS in animals. It can also be viewed as a hormone since it can be formed in SKIN by action of ULTRAVIOLET RAYS upon the precursors, 7-dehydrocholesterol and ERGOSTEROL, and acts on VITAMIN D RECEPTORS to regulate CALCIUM in opposition to PARATHYROID HORMONE (MeSH).25-hydroxyvitamin D or calcifediol, a prehormone precursor of vitamin D, is widely used as a proxy to quanitfy vitamin D levels in blood.|is about MeSH:D014807
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0008579: risk-taking behaviour - The tendency to take risks. Risk-taking behaviour is a characteristic of several psychiatric disorders such as ADHD and bipolar disorder, as well as problem behaviours such as smoking and drug abuse.
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0006319: HIV viral set point measurement - plasma HIV1 RNA levels at a specific point in time, eg before or after initiation of anti-retroviral therapy
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0008354: cognitive function measurement - quantification of some aspect of cognitive function
+GWAS_EFO_0008328: chronotype measurement - quantification of some aspect of chronotype such as ease of getting up in the morning
+GWAS_EFO_0004581: interleukin 18 measurement - An IL-18 measurement is the quantification of IL-18, typically in blood.
+GWAS_GO_1902518: response to cyclophosphamide - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cyclophosphamide stimulus.
+GWAS_EFO_0002690: systemic lupus erythematosus - An autoimmune multi-organ disease typically associated with vasculopathy and autoantibody production. Most patients have antinuclear antibodies (ANA). The presence of anti-dsDNA or anti-Smith antibodies are highly-specific.|A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+GWAS_EFO_0005761: lupus nephritis - Glomerulonephritis associated with autoimmune disease SYSTEMIC LUPUS ERYTHEMATOSUS. Lupus nephritis is histologically classified into 6 classes: class I - normal glomeruli, class II - pure mesangial alterations, class III - focal segmental glomerulonephritis, class IV - diffuse glomerulonephritis, class V - diffuse membranous glomerulonephritis, and class VI - advanced sclerosing glomerulonephritis (The World Health Organization classification 1982).|Glomerulonephritis in the context of systemic lupus erythematosus.
+GWAS_EFO_0010498: hydroxyproline measurement - Quantification of hydroxyproline levels in a sample.
+GWAS_EFO_0007167: Bell's palsy - Partial or complete paralysis of the facial muscles of one side of a person's face. It is caused by damage to the seventh cranial nerve. It is usually temporary but it may recur.|A facial paralysis resulting from dysfunction in the cranial nerve VII (facial nerve).
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16178407) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0008579, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0006319, GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0008328, GWAS_EFO_0004337
+Entity: Transcript (ID: 16376278) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0008579, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0006319, GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0008328, GWAS_EFO_0004337
+Entity: Transcript (ID: 16376285) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0008579, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0006319, GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0008328, GWAS_EFO_0004337
+Entity: Transcript (ID: 16376289) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0008579, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0006319, GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0008328, GWAS_EFO_0004337
+Entity: Transcript (ID: 16376290) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0008579, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0006319, GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0008328, GWAS_EFO_0004337
+Entity: Transcript (ID: 16376294) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0008579, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0006319, GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0008328, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 19048201) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784
+Entity: ChromHMM State (ID: 19651220) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 20203520) -> Associated GWAS: GWAS_EFO_0004875, GWAS_EFO_0004581, GWAS_GO_1902518, GWAS_EFO_0002690, GWAS_EFO_0005761, GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631
+Entity: ChromHMM State (ID: 20785286) -> Associated GWAS: GWAS_EFO_0004875, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004784, GWAS_EFO_0004784, GWAS_EFO_0004581, GWAS_EFO_0010498, GWAS_EFO_0007167, GWAS_EFO_0004875, GWAS_EFO_0004581, GWAS_GO_1902518, GWAS_EFO_0002690, GWAS_EFO_0005761, GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701
+Entity: ChromHMM State (ID: 21397308) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784, GWAS_EFO_0004631, GWAS_EFO_0004337, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 22021847) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004784, GWAS_EFO_0004581, GWAS_EFO_0010498, GWAS_EFO_0007167, GWAS_EFO_0004875, GWAS_EFO_0004581, GWAS_GO_1902518, GWAS_EFO_0002690, GWAS_EFO_0005761, GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701
+Entity: ChromHMM State (ID: 22625177) -> Associated GWAS: GWAS_EFO_0007682, GWAS_EFO_0005842, GWAS_EFO_0000701, GWAS_EFO_0004784
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1837
+• Pathogenic/Likely Pathogenic: 83
+• Benign/Likely Benign: 387
+• Uncertain Significance: 1367
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Cardiovascular phenotype (n=352)
+• Cardiovascular phenotype|not provided (n=21)
+• Catecholaminergic polymorphic ventricular tachycardia 3 (n=14)
+• not provided|Cardiovascular phenotype (n=14)
+• See cases (n=12)
+• Astrocytoma (n=9)
+• Cardiovascular phenotype|Catecholaminergic polymorphic ventricular tachycardia 3 (n=9)
+• Catecholaminergic polymorphic ventricular tachycardia 3|Cardiovascular phenotype|not specified|TECRL-related disorder (n=3)
+• Cardiovascular phenotype|not specified (n=3)
+• not specified|Cardiovascular phenotype (n=2)
+• not provided|Catecholaminergic polymorphic ventricular tachycardia 3|Cardiovascular phenotype|not specified (n=2)
+• TECRL-related disorder|Cardiovascular phenotype (n=2)
+• Catecholaminergic polymorphic ventricular tachycardia 3|Long QT syndrome (n=2)
+• Cardiovascular phenotype|TECRL-related disorder|Catecholaminergic polymorphic ventricular tachycardia 3 (n=2)
+• not provided|Cardiovascular phenotype|not specified|TECRL-related disorder (n=2)
+• Catecholaminergic polymorphic ventricular tachycardia (n=2)
+• Cardiovascular phenotype|not specified|TECRL-related disorder (n=2)
+
+

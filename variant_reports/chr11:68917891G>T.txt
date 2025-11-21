@@ -1,0 +1,241 @@
+=== chr11:68917891G>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201147313
+• Chromosome: 11
+• Position: 68917891
+• Reference Allele (REF): G
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: IGHMBP2
+• Databases: rs201147313
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance, uncertain_significance, _likely_benign, likely_benign
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.001184
+• gnomADg Allele Frequency: 0.0007549999999999999
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16170882) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341280) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341510) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341523) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341522) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341526) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341542) -> Associated GWAS: GWAS_EFO_0009270
+Entity: Transcript (ID: 16341545) -> Associated GWAS: GWAS_EFO_0009270, GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: Transcript (ID: 16341557) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0004612
+Entity: ChromHMM State (ID: 19834804) -> Associated GWAS: GWAS_EFO_0009270
+Entity: ChromHMM State (ID: 20404073) -> Associated GWAS: GWAS_EFO_0009270
+Entity: ChromHMM State (ID: 21620385) -> Associated GWAS: GWAS_EFO_0009270
+Entity: ChromHMM State (ID: 22247382) -> Associated GWAS: GWAS_EFO_0009270
+Entity: ChromHMM State (ID: 22826127) -> Associated GWAS: GWAS_EFO_0009270
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 16451
+• Pathogenic/Likely Pathogenic: 3190
+• Benign/Likely Benign: 7109
+• Uncertain Significance: 6152
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Autosomal recessive distal spinal muscular atrophy 1 (n=4981)
+• Charcot-Marie-Tooth disease axonal type 2S (n=4375)
+• Inborn genetic diseases (n=629)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases (n=475)
+• not provided|Charcot-Marie-Tooth disease axonal type 2S (n=370)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S (n=366)
+• Charcot-Marie-Tooth disease axonal type 2S|Inborn genetic diseases (n=343)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided (n=197)
+• Charcot-Marie-Tooth disease (n=191)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided (n=186)
+• not provided|Autosomal recessive distal spinal muscular atrophy 1 (n=167)
+• Distal spinal muscular atrophy (n=164)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1 (n=119)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Inborn genetic diseases (n=117)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Inborn genetic diseases (n=113)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1 (n=111)
+• Neuronopathy, distal hereditary motor, autosomal dominant (n=98)
+• Charcot-Marie-Tooth disease axonal type 2S|Neuronopathy, distal hereditary motor, autosomal dominant (n=96)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases (n=92)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|Charcot-Marie-Tooth disease axonal type 2S (n=77)
+• Charcot-Marie-Tooth disease axonal type 2S|Distal spinal muscular atrophy (n=75)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=73)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=72)
+• Inborn genetic diseases|not provided (n=70)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|not provided (n=70)
+• Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1 (n=69)
+• not specified|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=69)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1 (n=69)
+• Lower limb muscle weakness (n=62)
+• Difficulty walking (n=62)
+• Inability to walk (n=62)
+• Hammertoe (n=62)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|Neuronopathy, distal hereditary motor, autosomal dominant|Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1 (n=57)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|IGHMBP2-related disorder (n=57)
+• Progressive muscle weakness|Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1 (n=55)
+• Charcot-Marie-Tooth disease axonal type 2S|not specified (n=54)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease (n=46)
+• Neuronopathy, distal hereditary motor, autosomal dominant|Autosomal recessive distal spinal muscular atrophy 1 (n=44)
+• not provided|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S (n=36)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=34)
+• not provided|Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1 (n=32)
+• Distal spinal muscular atrophy|Autosomal recessive distal spinal muscular atrophy 1 (n=30)
+• not provided|Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1 (n=30)
+• Inborn genetic diseases|Charcot-Marie-Tooth disease axonal type 2S (n=25)
+• not provided|Inborn genetic diseases (n=24)
+• Autosomal recessive distal spinal muscular atrophy 1|not specified (n=24)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases (n=24)
+• Autosomal recessive distal spinal muscular atrophy 1|IGHMBP2-related disorder (n=23)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=23)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|not specified (n=22)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=22)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=22)
+• not specified|Charcot-Marie-Tooth disease axonal type 2S (n=22)
+• Charcot-Marie-Tooth disease axonal type 2S|Inborn genetic diseases|not provided (n=21)
+• Charcot-Marie-Tooth disease axonal type 2S|Neuronopathy, distal hereditary motor, autosomal dominant|Autosomal recessive distal spinal muscular atrophy 1 (n=20)
+• Neuronopathy, distal hereditary motor, autosomal dominant|not provided (n=20)
+• Neuronopathy, distal hereditary motor, autosomal dominant|Charcot-Marie-Tooth disease axonal type 2S (n=20)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease (n=18)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Distal spinal muscular atrophy|Charcot-Marie-Tooth disease axonal type 2S (n=17)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease, type I (n=16)
+• not provided|not specified|Autosomal recessive distal spinal muscular atrophy 1 (n=16)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|Inborn genetic diseases|Charcot-Marie-Tooth disease (n=16)
+• Charcot-Marie-Tooth disease axonal type 2S|Inborn genetic diseases|Charcot-Marie-Tooth disease axonal type 2S|not provided (n=16)
+• Inborn genetic diseases|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=16)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|IGHMBP2-related disorder|Inborn genetic diseases (n=16)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Distal spinal muscular atrophy|Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases (n=16)
+• not specified|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=16)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Inborn genetic diseases|Charcot-Marie-Tooth disease (n=16)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases (n=16)
+• Charcot-Marie-Tooth disease axonal type 2S|Distal spinal muscular atrophy|not provided|Inborn genetic diseases|Autosomal recessive distal spinal muscular atrophy 1 (n=16)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|Neuronopathy, distal hereditary motor, autosomal dominant|Autosomal recessive distal spinal muscular atrophy 1 (n=16)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Inborn genetic diseases|IGHMBP2-related disorder (n=16)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Charcot-Marie-Tooth disease|not specified (n=16)
+• Autosomal recessive distal spinal muscular atrophy 1|Neuronopathy, distal hereditary motor, autosomal dominant (n=14)
+• Spinal muscular atrophy (n=12)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|IGHMBP2-related disorder (n=12)
+• Inborn genetic diseases|not provided|not specified (n=12)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease axonal type 2S (n=12)
+• Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=11)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases (n=10)
+• Charcot-Marie-Tooth disease axonal type 2S|IGHMBP2-related disorder|Inborn genetic diseases (n=10)
+• not provided|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=10)
+• Spinal muscular atrophy|Autosomal recessive distal spinal muscular atrophy 1 (n=10)
+• Charcot-Marie-Tooth disease axonal type 2S|IGHMBP2-related disorder (n=10)
+• Inborn genetic diseases|Neuronopathy, distal hereditary motor, autosomal dominant|Charcot-Marie-Tooth disease axonal type 2S (n=10)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|IGHMBP2-related disorder (n=10)
+• not provided|Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease axonal type 2S (n=9)
+• IGHMBP2-related disorder (n=9)
+• not specified|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|not specified|Neuronopathy, distal hereditary motor, autosomal dominant|not provided (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Charcot-Marie-Tooth disease (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|not specified|not provided (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|Neuronopathy, distal hereditary motor, autosomal dominant 1 (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|not specified (n=8)
+• Distal spinal muscular atrophy|Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• not provided|Neuronopathy, distal hereditary motor, autosomal dominant|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|Distal spinal muscular atrophy|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Neurodevelopmental disorder (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|not specified (n=8)
+• Charcot-Marie-Tooth disease|not provided (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|Neuronopathy, distal hereditary motor, autosomal dominant|Inborn genetic diseases (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|Inborn genetic diseases|Neurodevelopmental disorder|IGHMBP2-related disorder (n=8)
+• not specified|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1|not provided|Inborn genetic diseases (n=8)
+• Charcot-Marie-Tooth disease type 4 (n=8)
+• Charcot-Marie-Tooth disease|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Inborn genetic diseases|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases|not specified (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|not provided (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Inborn genetic diseases|IGHMBP2-related disorder (n=8)
+• not specified|not provided|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|Distal spinal muscular atrophy|not provided|Inborn genetic diseases (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Distal spinal muscular atrophy|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Charcot-Marie-Tooth disease|Neuronopathy, distal hereditary motor, autosomal dominant (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|Neuronopathy, distal hereditary motor, autosomal dominant|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• not provided|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• not provided|not specified|Inborn genetic diseases|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|Peripheral neuropathy|not provided (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|not specified|not provided|Inborn genetic diseases (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Neuronopathy, distal hereditary motor, type 2C (n=8)
+• Distal spinal muscular atrophy|not specified (n=8)
+• Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases|not specified (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Distal spinal muscular atrophy|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Distal spinal muscular atrophy|Charcot-Marie-Tooth disease (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|not specified (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease axonal type 2S|not provided|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1|not provided|Inborn genetic diseases (n=8)
+• Distal spinal muscular atrophy|Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Autosomal dominant intermediate Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|not specified|Inborn genetic diseases (n=8)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Distal spinal muscular atrophy (n=8)
+• Neuronopathy, distal hereditary motor, autosomal dominant|Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• Autosomal recessive distal spinal muscular atrophy 1|See cases|Autosomal recessive distal spinal muscular atrophy 1 (n=8)
+• Distal spinal muscular atrophy|Charcot-Marie-Tooth disease axonal type 2S (n=8)
+• 7 conditions|Charcot-Marie-Tooth disease axonal type 2S (n=7)
+• Distal spinal muscular atrophy|not provided|Autosomal recessive distal spinal muscular atrophy 1 (n=7)
+• Charcot-Marie-Tooth disease axonal type 2S|IGHMBP2-related disorder|Autosomal recessive distal spinal muscular atrophy 1 (n=7)
+• Charcot-Marie-Tooth disease axonal type 2S|not provided|Autosomal recessive distal spinal muscular atrophy 1 (n=7)
+• Charcot-Marie-Tooth disease axonal type 2S|Distal spinal muscular atrophy|Autosomal recessive distal spinal muscular atrophy 1|Peripheral neuropathy|Inborn genetic diseases (n=7)
+• Charcot-Marie-Tooth disease axonal type 2S|not specified|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=7)
+• Progressive muscle weakness|Autosomal recessive distal spinal muscular atrophy 1 (n=7)
+• Autosomal recessive distal spinal muscular atrophy 1|not provided|Autosomal recessive distal spinal muscular atrophy 1 (n=7)
+• Charcot-Marie-Tooth disease|not specified (n=7)
+• Autosomal recessive distal spinal muscular atrophy 1|not specified|Charcot-Marie-Tooth disease axonal type 2S (n=7)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=7)
+• not specified|Autosomal recessive distal spinal muscular atrophy 1 (n=7)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases (n=7)
+• not provided|not specified (n=7)
+• Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|Autosomal recessive distal spinal muscular atrophy 1 (n=6)
+• Charcot-Marie-Tooth disease|Inborn genetic diseases (n=6)
+• Autosomal recessive distal spinal muscular atrophy 1|not specified|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S (n=6)
+• Charcot-Marie-Tooth disease|not provided|Autosomal recessive distal spinal muscular atrophy 1 (n=6)
+• Charcot-Marie-Tooth disease axonal type 2S|Inborn genetic diseases|Charcot-Marie-Tooth disease|not provided (n=6)
+• not specified|Autosomal recessive distal spinal muscular atrophy 1|Autosomal recessive distal spinal muscular atrophy 1 (n=6)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Inborn genetic diseases|not specified (n=6)
+• not provided|Autosomal recessive distal spinal muscular atrophy 1|Inborn genetic diseases|Autosomal recessive distal spinal muscular atrophy 1 (n=6)
+• Charcot-Marie-Tooth disease axonal type 2S|Autosomal recessive distal spinal muscular atrophy 1|not provided (n=6)
+• Charcot-Marie-Tooth disease axonal type 2S|Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease axonal type 2S (n=6)
+• Autosomal recessive distal spinal muscular atrophy 1|Distal spinal muscular atrophy|Inborn genetic diseases|Autosomal recessive distal spinal muscular atrophy 1 (n=6)
+• Autosomal recessive distal spinal muscular atrophy 1|not specified|Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease axonal type 2S|Inborn genetic diseases (n=6)
+• Autosomal recessive distal spinal muscular atrophy 1|Charcot-Marie-Tooth disease|not provided (n=6)
+
+

@@ -1,0 +1,57 @@
+PNPLA7 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 24768.
+*   **OMIM Gene ID:** 612122.
+*   **Primary Disease Associations:** While directly causative links to a specific Mendelian disease are not yet firmly established, PNPLA7 has been associated with Charcot-Marie-Tooth Disease, Axonal, Type 2P and Chanarin-Dorfman Syndrome in some databases. Studies have also investigated its association with susceptibility to menstrual disorders.
+*   **Clinical Significance Level:** The clinical significance of PNPLA7 variants is largely under investigation, with most variants in ClinVar classified as "Uncertain Significance".
+*   **Inheritance Patterns Observed in Patients:** Given the early stage of research, definitive inheritance patterns for PNPLA7-related disorders in humans are not well-defined.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** PNPLA7 has a low probability of being loss-of-function intolerant (pLI) score, suggesting it is not highly constrained against protein-truncating variants. The loss-of-function observed/expected upper bound fraction (LOEUF) score is a more continuous metric of intolerance to inactivation. Specific numeric values for pLI and LOEUF for PNPLA7 from gnomAD are needed for a full interpretation.
+*   **Clinical Interpretation of Constraint Scores:** A low pLI score (closer to 0) suggests that heterozygous loss-of-function variants in PNPLA7 may be tolerated in the general population. Genes with high pLI scores (≥ 0.9) are considered extremely intolerant to such variants.
+*   **Variant Classes Most Likely to be Pathogenic:** While data is limited, understanding the gene's function suggests that missense or LoF variants disrupting the catalytic patatin-like phospholipase domain could be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As definitive disease associations are still emerging, a ranked list of HPO terms is not yet available. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+*   **Secondary HPO terms:** Based on mouse model studies, potential phenotypes could relate to growth retardation, muscle weakness, and metabolic abnormalities.
+*   **Age of Onset Patterns:** Information on the age of onset for PNPLA7-related phenotypes in humans is not currently available.
+*   **Phenotype Severity Spectrum:** The spectrum of severity for potential PNPLA7-related phenotypes in humans has not been characterized.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific correlations between variant classes and human phenotypes are not yet established.
+*   **Protein Domain-Specific Phenotype Patterns:** Mutations within the C-terminal patatin-like phospholipase domain, which contains the catalytic site, would be most likely to lead to a loss of function and associated phenotypes. The N-terminal region is responsible for targeting the protein to the endoplasmic reticulum.
+*   **Genotype-Phenotype Correlation Strength:** The strength of genotype-phenotype correlations for PNPLA7 is currently considered weak due to a lack of established disease associations in humans.
+*   **Examples:** A polymorphism (rs11137410) in PNPLA7 has been studied for a possible association with menstrual disorders in women with type O blood.
+
+### **Clinical Variants & Phenotype Associations**
+*   Currently, there are no well-characterized pathogenic variants in PNPLA7 with established phenotype associations in ClinVar. The database primarily lists variants of uncertain significance.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** PNPLA7 shows expression in a variety of tissues. According to the Human Protein Atlas, it is expressed in skeletal muscle, adipose tissue, and testis. The Genotype-Tissue Expression (GTEx) project provides detailed data on tissue-specific gene expression.
+*   **Tissue-Specific Phenotypes Expected:** Based on high expression in metabolically active tissues, phenotypes could involve muscle weakness, metabolic syndrome-like features, or reproductive issues. Mouse models show growth retardation, kyphosis, muscle weakness, and reduced fat stores.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is limited. Mouse models show post-weaning growth retardation, suggesting a role in post-natal metabolism and growth.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PNPLA7 is a lysophospholipase that hydrolyzes lysophosphatidylcholine to generate glycerophosphocholine, a precursor for free choline, which is crucial for hepatic choline and methionine metabolism.
+*   **Disease Mechanism:** The likely disease mechanism for loss-of-function variants would be haploinsufficiency, leading to reduced enzyme activity and disruption of lipid metabolism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Deficiency in PNPLA7 impairs the mobilization of choline from membrane phospholipids, leading to a state reminiscent of methionine insufficiency. This can disrupt hepatic lipid metabolism and potentially impact epigenetic regulation. It also plays a role in macrophage activation by modulating SIRT1/NF-κB and p38 MAPK pathways.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PNPLA7 interacts with lipid droplets through its catalytic domain. In the liver, it functions in a common metabolic pathway with PNPLA8.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for PNPLA7 in clinical cohorts is currently unknown, as it is not typically included in standard gene panels for specific disorders.
+*   **Most Common Reasons for Testing This Gene:** Testing for PNPLA7 is currently performed on a research basis, often in the context of studies on lipid metabolism or in cases with undefined neurological or metabolic phenotypes where related genes are being investigated.
+*   **Clinical Actionability and Management Implications:** At present, there are no specific clinical management guidelines related to PNPLA7 variants.
+*   **Genetic Counseling Considerations:** Genetic counseling would involve discussing the uncertainty of findings, the lack of established disease correlation, and the potential for future research to clarify the role of PNPLA7 in disease.
+
+### **Key Clinical Literature & Studies**
+*   **Miyashita, et al. (2023):** PMID: 36875883. This review highlighted the role of PNPLA7 in controlling hepatic choline and methionine metabolism, with deficiency in mice leading to phenotypes resembling methionine shortage.
+*   **Heier, et al. (2017):** PMID: 28974635. This study characterized PNPLA7 as an ER-anchored lysophosphatidylcholine hydrolase and detailed the function of its different protein domains.
+*   **Li, et al. (2022):** PMID: 35914902. Showed that PNPLA7 suppresses M1 macrophage polarization by modulating SIRT1/NF-κB and p38 MAPK-dependent pathways.
+*   **Ma, et al. (2018):** PMID: 29849925. This study investigated the correlation between PNPLA7 gene polymorphisms and susceptibility to menstrual disorders.
+*   **Kaindl, et al. (2008):** While not directly on PNPLA7, research on the related gene PNPLA6 has established links to neurodegenerative diseases, suggesting a potential area of investigation for PNPLA7.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Due to the lack of established pathogenic variants and defined disease associations, there are currently no high-confidence HPO-variant associations for PNPLA7.
+*   **Phenotype red flags:** Based on mouse model data, a combination of post-weaning growth retardation (HP:0001511), muscle weakness (HP:0001324), kyphosis (HP:0002808), and lipodystrophy (HP:0009125) could be considered red flags warranting investigation of PNPLA7.
+*   **Differential diagnosis considerations:** The potential phenotypes overlap with disorders caused by mutations in other PNPLA family members, such as PNPLA6 (associated with neurodegeneration) and PNPLA8, as well as disorders of choline and methionine metabolism. The similar phenotypes of Pnpla7 and Pnpla8 knockout mice suggest a common pathway.
+

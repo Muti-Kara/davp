@@ -1,0 +1,91 @@
+=== chr12:10435982T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs28403159
+• Chromosome: 12
+• Position: 10435982
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: KLRC2
+• Databases: rs28403159, COSV67899388
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.4293
+• gnomADg Allele Frequency: 0.391
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0010128: immunoglobulin isotype switching measurement - Quantification of the switching of activated B cells from IgM biosynthesis to biosynthesis of other isotypes of immunoglobulin.
+GWAS_EFO_0004736: aspartate aminotransferase measurement - Is a quantification of aspartate aminotransferase, and is commonly used as a marker for liver function.
+GWAS_EFO_0004309: platelet count - The number of PLATELETS per unit volume in a sample of venous BLOOD.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0005091: monocyte count - quantification of monocytes in the blood
+GWAS_EFO_0007990: neutrophil percentage of leukocytes - A calculated measurement in which the number of neutrophil granulocytes is divided by the number of all white blood cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage. A neutrophil is, or is in the process of becoming, a granular leucocyte having a nucleus with three to five lobes connected by threads of chromatin, cytoplasm containing very fine granules, and which is readily stainable with neutral dyes.
+GWAS_EFO_0007989: monocyte percentage of leukocytes - A calculated measurement in which the number of monocytes in a specified sample of blood is divided by the total number of white blood cells in the sample, and the result presented as a ratio, fraction, quotient or percentage. 
+GWAS_EFO_0004735: serum alanine aminotransferase measurement - Is a quantification of serum alanine aminotransferase, most commonly found in liver, the test is used in ascertainment of liver function.
+GWAS_EFO_0007985: platelet crit - The proportion of blood volume that is occupied by platelets, expressed as a percentage. 
+GWAS_EFO_0004587: lymphocyte count - A quantification of lymphocytes in blood.
+GWAS_EFO_0007978: red blood cell density measurement - quantification of the density of a red blood cell (DRBC). DRBC is affected by the hydration level of the cell, with dehydrated cells being dense and deformed. Increased DRBC may be an indicator of disease severity in sickle cell anemia
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0010701: mean reticulocyte volume - Mean volume of reticulocyte cells
+GWAS_EFO_0000676: psoriasis - An autoimmune condition characterized by red, well-delineated plaques with silvery scales that are usually on the extensor surfaces and scalp. They can occasionally present with these manifestations: pustules; erythema and scaling in intertriginous areas, and erythroderma, that are often distributed on extensor surfaces and scalp.|A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. The lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region. Accelerated epidermopoiesis is considered to be the fundamental pathologic feature in psoriasis.
+GWAS_EFO_0007986: reticulocyte count - The number of reticulocytes per unit volume of blood. Reticulocytes are immature red blood cells and typically compose aoubt 1% of red blood cells in the human body.
+GWAS_EFO_0008218: macrophage inflammatory protein 1a measurement - quantification of the amount of macrophage inflammatory protein 1a in a sample
+GWAS_EFO_0007997: granulocyte percentage of myeloid white cells - A calculated measurement in which the number of granulocytes is divided by the number of all myeloid white cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage.
+GWAS_EFO_0010750: PHF-tau measurement - Quantification of amount of tau, in the form of paired helical filaments, in a sample
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16136885) -> Associated GWAS: GWAS_EFO_0004526, GWAS_EFO_0010128, GWAS_EFO_0004736, GWAS_EFO_0004309, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128
+Entity: Gene (ID: 16184070) -> Associated GWAS: GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128, GWAS_EFO_0007978, GWAS_EFO_0004528, GWAS_EFO_0007978, GWAS_EFO_0007937, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004526
+Entity: Transcript (ID: 16218295) -> Associated GWAS: GWAS_EFO_0004526, GWAS_EFO_0010128, GWAS_EFO_0004736, GWAS_EFO_0004309, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128
+Entity: Transcript (ID: 16403318) -> Associated GWAS: GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128, GWAS_EFO_0007978, GWAS_EFO_0004528, GWAS_EFO_0007978, GWAS_EFO_0007937, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004526
+Entity: Transcript (ID: 16403315) -> Associated GWAS: GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128
+Entity: Transcript (ID: 16403330) -> Associated GWAS: GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128
+Entity: Non Coding RNA (ID: 17092808) -> Associated GWAS: GWAS_EFO_0010128
+Entity: ChromHMM State (ID: 22266095) -> Associated GWAS: GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128
+Entity: ChromHMM State (ID: 21636946) -> Associated GWAS: GWAS_EFO_0004736, GWAS_EFO_0004309, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128, GWAS_EFO_0007978, GWAS_EFO_0004528, GWAS_EFO_0007978, GWAS_EFO_0007937, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0000676, GWAS_EFO_0007986, GWAS_EFO_0008218, GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0007986, GWAS_EFO_0005091, GWAS_EFO_0004309, GWAS_EFO_0004309, GWAS_EFO_0010750
+Entity: ChromHMM State (ID: 20421095) -> Associated GWAS: GWAS_EFO_0004526, GWAS_EFO_0010128, GWAS_EFO_0004736, GWAS_EFO_0004309, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128, GWAS_EFO_0007978, GWAS_EFO_0004528, GWAS_EFO_0007978, GWAS_EFO_0007937, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0000676, GWAS_EFO_0007986, GWAS_EFO_0008218, GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0007986
+Entity: ChromHMM State (ID: 19849212) -> Associated GWAS: GWAS_EFO_0004309, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128
+Entity: ChromHMM State (ID: 19290990) -> Associated GWAS: GWAS_EFO_0004526, GWAS_EFO_0010128, GWAS_EFO_0004736, GWAS_EFO_0004309, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0007989, GWAS_EFO_0004735, GWAS_EFO_0007990, GWAS_EFO_0004735, GWAS_EFO_0007985, GWAS_EFO_0004305, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0010128, GWAS_EFO_0007978, GWAS_EFO_0004528, GWAS_EFO_0007978, GWAS_EFO_0007937, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0000676, GWAS_EFO_0007986, GWAS_EFO_0008218, GWAS_EFO_0007997, GWAS_EFO_0005091, GWAS_EFO_0007989, GWAS_EFO_0007986
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 925
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 318
+• Uncertain Significance: 607
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=6)
+
+

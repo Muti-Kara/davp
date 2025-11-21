@@ -1,0 +1,62 @@
+ANKRD30A Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 17234.
+*   **OMIM Gene ID:** 610856.
+*   **Primary Disease Associations:** Primarily associated with breast cancer. It has also been investigated in the context of other cancers like bladder cancer and melanoma, and a potential link to myopia-related traits has been suggested.
+*   **Clinical Significance Level:** The role of ANKRD30A in Mendelian disease is not well-established. Its primary clinical relevance is in oncology, particularly as a biomarker in breast cancer.
+*   **Inheritance Patterns:** No clear inheritance pattern for a Mendelian disorder has been defined.
+
+### **Constraint & Variant Intolerance**
+*   **pLI:** 0.00.
+*   **LOEUF:** 1.29.
+*   **pRec:** Not available.
+*   **pNull:** Not available.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score of 0.00 and LOEUF score of 1.29 indicate that the gene is tolerant to loss-of-function variants. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** Currently, there is insufficient evidence to associate specific variant classes with pathogenicity for a Mendelian phenotype. In the context of cancer, altered expression levels (down-regulation) are more significant than specific variant classes.
+
+### **Phenotype Spectrum & HPO Terms**
+No definitive Mendelian phenotype or associated HPO terms have been established for ANKRD30A. Its clinical association is primarily with cancer phenotypes.
+
+*   **Primary HPO terms:** None established.
+*   **Secondary HPO terms:** None established.
+*   **Age of Onset Patterns:** Not applicable for a Mendelian disorder. In cancer, it is studied in the context of adult-onset disease.
+*   **Phenotype Severity Spectrum:** Not applicable for a Mendelian disorder.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific genotype-phenotype correlations for Mendelian disease are not described. In breast cancer, low ANKRD30A expression is associated with triple-negative breast cancer (TNBC), a more aggressive subtype, and larger tumor size.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific patterns have been established that link variants in particular protein domains to distinct phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable for Mendelian disease.
+*   **Examples: specific variants → specific phenotypes:** No specific pathogenic variants are consistently linked to a Mendelian phenotype.
+
+### **Clinical Variants & Phenotype Associations**
+There are no well-characterized pathogenic variants for ANKRD30A reported in ClinVar associated with a Mendelian disease phenotype. The database primarily lists variants of uncertain significance or those related to cancer predisposition with varying interpretations.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** ANKRD30A is highly and specifically expressed in breast mammary tissue and testis. This breast-specific expression is relevant to its role as a biomarker in breast cancer.
+*   **Tissue-Specific Phenotypes Expected:** Given its expression pattern, altered function could theoretically lead to phenotypes in the breast or testis, but this is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Expression has been noted in the developing human brain, but the significance is unclear. Its primary clinical relevance is in adult-onset cancers.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The gene encodes a DNA-binding transcription factor.
+*   **Disease Mechanism:** The primary mechanism observed in cancer is altered gene expression, specifically down-regulation. Haploinsufficiency is unlikely given the gnomAD constraint metrics. The roles of dominant-negative or gain-of-function variants have not been described for any disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In breast cancer, down-regulation of ANKRD30A is associated with the activation of cell-cycle-related signaling pathways, which can promote cell proliferation. It may also be involved in estrogen signaling pathways.
+*   **Protein-Protein Interactions Relevant to Phenotype:** ANKRD30A contains ankyrin repeats, which are known to mediate protein-protein interactions, but specific interactions linked to a disease phenotype are not well-defined.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for ANKRD30A is not standard for diagnosing Mendelian disorders.
+*   **Most Common Reasons for Testing This Gene:** Testing is primarily done in a research context, especially for breast cancer prognostication and subtyping.
+*   **Clinical Actionability and Management Implications:** In breast cancer, low expression of ANKRD30A is associated with a poorer prognosis, particularly in triple-negative breast cancer, which may guide therapeutic strategies in the future.
+*   **Genetic Counseling Considerations:** Currently, there are no established genetic counseling guidelines for this gene in the context of inherited diseases.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 32558282, Year: 2020:** Identified ANKRD30A as one of only 96 breast-specific transcripts in the human genome and showed its downregulation in triple-negative breast cancer is associated with a poorer prognosis.
+*   **PMID: 35342777, Year: 2022:** Confirmed that low ANKRD30A expression was significantly associated with larger tumor size in triple-negative breast cancer and that a four-gene panel including ANKRD30A was significantly associated with survival.
+*   **PMID: 16675566, Year: 2006:** Described the nuclear and cytoplasmic expression of the ANKRD30A protein (NY-BR-1) in primary breast cancer and lymph node metastases.
+*   **PMID: 11313741, Year: 2001:** First cloned ANKRD30A (termed NY-BR-1) and identified its expression in breast cancer and normal mammary and testis tissue.
+*   **A dissertation by Chen, C. (2020)** provided a comprehensive review of ANKRD30A's breast-specific expression, its downregulation in ER-negative breast cancer, and its role in cell cycle signaling.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** None established. The Human Phenotype Ontology (HPO) is a standardized vocabulary for human disease phenotypes, but currently, no specific HPO terms are definitively associated with variants in ANKRD30A for a Mendelian disorder.
+*   **Phenotype red flags:** There are currently no "red flag" HPO terms that would strongly suggest a pathogenic variant in ANKRD30A is the cause of a patient's primary phenotype.
+*   **Differential diagnosis considerations:** Not applicable in the context of Mendelian disease. In oncology, its expression pattern is used to help differentiate breast cancer subtypes.
+

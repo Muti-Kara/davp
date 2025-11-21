@@ -1,0 +1,81 @@
+DUOX2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 13273.
+*   **OMIM Gene ID:** 606759.
+*   **Primary Disease Associations:** Thyroid Dyshormonogenesis 6 (TDH6), characterized by congenital hypothyroidism (CH). This can be transient or permanent. Germline variants have also been potentially associated with adenomatous polyposis.
+*   **Clinical Significance Level:** The association between DUOX2 and congenital hypothyroidism is considered definitive.
+*   **Inheritance Patterns:** Autosomal recessive is the classic inheritance pattern, with biallelic (homozygous or compound heterozygous) mutations causing more severe, permanent CH. However, monoallelic (heterozygous) variants are frequently observed and can cause transient or mild CH. An autosomal dominant inheritance pattern has been suggested for an association with adenomatous polyposis.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 pLI (probability of being loss-of-function intolerant) score is 0.00, indicating tolerance to loss-of-function (LoF) variants. The LOEUF (loss-of-function observed/expected upper-bound fraction) is 1.13. The pRec score is 0.01 and pNull is 0.99.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score and high LOEUF score suggest that heterozygous loss-of-function variants are generally tolerated in the population, which is consistent with the observed autosomal recessive inheritance pattern for severe disease. The scores do not suggest that the gene is under strong constraint against heterozygous protein-truncating variants (PTVs).
+*   **Variant Classes Most Likely to be Pathogenic:** Loss-of-function variants (nonsense, frameshift, and essential splice site variants) are well-established as pathogenic, particularly in a biallelic state. Missense variants that impact functionally critical domains or protein stability are also frequently pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Congenital hypothyroidism (HP:0000853).
+    *   Thyroid dyshormonogenesis (HP:0000841).
+    *   Goiter (HP:0000859).
+    *   Elevated circulating thyrotropin concentration (HP:0000875).
+    *   Decreased circulating T4 concentration (HP:0008216).
+    *   Euthyroid hyperthyrotropinemia (HP:0000856).
+    *   Transient congenital hypothyroidism (HP:0008221).
+*   **Secondary HPO terms:**
+    *   Thyroid hypoplasia (HP:0005990).
+    *   Ectopic thyroid (HP:0000850).
+    *   Dwarfism (in mouse models) (HP:0001509).
+    *   Adenomatous polyposis (HP:0100259).
+*   **Age of Onset Patterns:** Onset is typically congenital or neonatal, identified through newborn screening for hypothyroidism. Adult-onset goiter and hypothyroidism have been reported.
+*   **Phenotype Severity Spectrum:** Severity ranges from mild or subclinical hypothyroidism (sometimes transient) to severe, permanent congenital hypothyroidism with goiter. The clinical phenotype can be variable even within families carrying the same variants.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Biallelic loss-of-function mutations (e.g., two nonsense or frameshift variants) are generally associated with permanent and more severe congenital hypothyroidism. Monoallelic (heterozygous) loss-of-function variants are often associated with milder, and sometimes transient, congenital hypothyroidism.
+*   **Protein Domain-Specific Phenotype Patterns:** While variants are found throughout the gene, including the N-terminal peroxidase-like domain and the C-terminal oxidase domains, a clear correlation between the variant location and phenotype severity has not been consistently established. Some studies suggest variants outside of key functional domains are more likely to result in transient CH.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is considered moderate to weak due to significant clinical heterogeneity. Patients with biallelic mutations can present with either transient or permanent CH, and phenotype can vary among family members with the same genotype.
+*   **Examples: Specific Variants → Specific Phenotypes:** A study proposed that a residual DUOX2 enzymatic activity of ≤22% in patients with biallelic mutations correlates with higher TSH and lower FT4 levels, suggesting a more severe phenotype. The common frameshift variant c.2895_2898del (p.Phe966SerfsTer29) is classified as pathogenic and is seen in patients with both permanent and transient THD. The missense variant p.Arg1110Gln has been identified in individuals with both transient and permanent CH.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1588A>T (p.Lys530Ter):** rs119472027 / Pathogenic / Associated with congenital hypothyroidism and potentially adenomatous polyposis. Allele frequency is low in gnomAD.
+*   **c.2895_2898del (p.Phe966SerfsTer29):** rs755325883 / Pathogenic / Associated with permanent and transient thyroid dyshormonogenesis. Reported in 1.2% of Finnish individuals in gnomAD.
+*   **c.3329G>A (p.Arg1110Gln):** rs368488511 / Pathogenic / Associated with transient and permanent congenital hypothyroidism, and adult-onset goiter. Allele frequency in gnomAD is ~0.3%.
+*   **c.1060C>T (p.Arg354Trp):** Not in dbSNP / Pathogenic / Reported in a patient with congenital hypothyroidism and goiter; functional studies show impaired H2O2 production and faster protein degradation.
+*   **c.2654G>A (p.Arg885Gln):** rs200057134 / Pathogenic / Associated with thyroid dyshormonogenesis.
+*   **c.1126C>T (p.Arg376Trp):** rs119472029 / Pathogenic / Causes congenital hypothyroidism; functional studies show it prevents translocation of DUOX2 to the cell surface.
+*   **c.130C>T (p.Gln44Ter):** rs750849321 / Pathogenic / Associated with congenital hypothyroidism.
+*   **c.2057A>T (p.Gln686Ter):** rs119472027 / Pathogenic / Associated with thyroid dyshormonogenesis 6.
+*   **c.2525G>A (p.Arg842Ter):** rs119472028 / Pathogenic / Associated with thyroid dyshormonogenesis 6.
+*   **c.4027C>T (p.Leu1343Phe):** rs762744722 / Likely Pathogenic / Identified in a patient with APC-negative adenomatous polyposis.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The highest expression of DUOX2 is in the thyroid gland. Significant expression is also found in the gastrointestinal tract (stomach, colon), salivary glands, and airways.
+*   **Tissue-Specific Phenotypes Expected:** Defective function in the thyroid gland directly causes hypothyroidism due to impaired hydrogen peroxide generation for hormone synthesis. Its role in mucosal surfaces of the digestive and respiratory tracts is related to innate immune defense by producing H2O2.
+*   **Expression During Development and Age-Related Phenotypes:** Expression is critical during fetal and neonatal development for thyroid hormone production, which is essential for normal growth and neurodevelopment. The link to congenital hypothyroidism highlights its importance from birth.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** DUOX2 is an NADPH oxidase that generates hydrogen peroxide at the apical membrane of thyroid follicular cells, which is an essential substrate for thyroid peroxidase (TPO) to iodinate thyroglobulin in the synthesis of thyroid hormones.
+*   **Disease Mechanism:** The primary disease mechanism is loss-of-function. Biallelic mutations cause a severe or complete lack of H2O2 production, leading to autosomal recessive thyroid dyshormonogenesis. Monoallelic mutations can cause a partial defect (haploinsufficiency), leading to a milder phenotype.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of DUOX2 function breaks the thyroid hormone synthesis pathway, leading to insufficient T3 and T4 production. This results in elevated TSH from the pituitary, which can cause hyperstimulation and enlargement of the thyroid gland (goiter).
+*   **Protein-Protein Interactions Relevant to Phenotype:** DUOX2 requires the maturation factor DUOXA2 for proper folding, maturation, and translocation from the endoplasmic reticulum to the plasma membrane. Mutations in DUOXA2 can cause a similar phenotype (Thyroid Dyshormonogenesis 5). DUOX2 also interacts with TPO as part of the thyroid hormone synthesis complex.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** DUOX2 is the most frequently mutated gene in patients with congenital hypothyroidism, particularly in East Asian populations, with a prevalence of up to 60% in some CH cohorts. In a Catalan cohort, DUOX2 variants explained the phenotype in ~19% of patients with thyroid dyshormonogenesis.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with a diagnosis of congenital hypothyroidism, especially with a eutopic (in-situ) thyroid gland and evidence of a dyshormonogenesis (iodide organification defect). It is often included in gene panels for CH.
+*   **Clinical Actionability and Management Implications:** Identification of pathogenic DUOX2 variants confirms a diagnosis of TDH6 and informs prognosis regarding the potential for permanent vs. transient hypothyroidism, although this correlation is not perfect. Management involves lifelong or temporary levothyroxine replacement therapy, guided by regular monitoring of thyroid function tests.
+*   **Genetic Counseling Considerations:** For biallelic pathogenic variants, counseling for an autosomal recessive pattern is appropriate, with a 25% recurrence risk for future siblings. For monoallelic variants, the inheritance and recurrence risk are more complex due to incomplete penetrance and variable expressivity; other genetic or environmental factors may be involved.
+
+### **Key Clinical Literature & Studies**
+*   **Moreno JC, et al. (2002):** First to report that inactivating mutations in DUOX2 cause partial iodide organification defects and congenital hypothyroidism, establishing the gene's role in human disease.
+*   **Ohye H, et al. (2008):** Reported a homozygous p.R1110Q variant in a patient with adult-onset goiter and hypothyroidism, expanding the phenotype.
+*   **Maruo Y, et al. (2008):** Characterized the transient nature of hypothyroidism in some patients with biallelic DUOX2 mutations, highlighting the complex genotype-phenotype correlation.
+*   **Jin HY, et al. (2014):** Noted the high frequency of DUOX2 mutations in a cohort of patients with transient or permanent congenital hypothyroidism, confirming its major role in the etiology of CH.
+*   **Sun F, et al. (2020):** Found a high prevalence of DUOX2 variants in Chinese patients with thyroid dysgenesis and gland-in-situ, suggesting a broader role for DUOX2 beyond dyshormonogenesis.
+*   **Jiang et al. (2021):** Showed that residual DUOX2 enzymatic activity correlates with the severity of hypothyroidism in patients with biallelic mutations, suggesting a 22% activity cutoff may predict phenotype.
+*   **Zheng et al. (2021):** Further explored the genotype-phenotype relationship in a Chinese cohort, noting that variants in transient CH cases were often located outside functional domains, though a clear correlation remains elusive.
+*   **Han B, et al. (2021):** Reported a possible association between a germline truncating DUOX2 variant (p.K530X) and adenomatous polyposis, suggesting a novel phenotype.
+*   **Baz-Redón N, et al. (2024):** A recent study that confirmed the high clinical heterogeneity in patients with DUOX2 variants, finding no clear genotype-phenotype correlation in a cohort with both permanent and transient CH.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Biallelic loss-of-function variants (e.g., c.1588A>T, p.K530X; c.2895_2898del, p.Phe966SerfsTer29) are strongly associated with congenital hypothyroidism (HP:0000853), goiter (HP:0000859), and elevated TSH (HP:0000875). These typically cause permanent CH.
+*   **Phenotype red flags:** The combination of congenital hypothyroidism (HP:0000853) with a normally located thyroid gland (eutopic thyroid) and goiter (HP:0000859) strongly suggests a defect in hormone synthesis, making DUOX2 a primary candidate gene.
+*   **Differential diagnosis considerations:** The phenotype of congenital hypothyroidism with dyshormonogenesis overlaps with defects in other genes in the thyroid hormone synthesis pathway, including *TPO*, *TG*, *SLC5A5* (NIS), *IYD* (DEHAL1), and *SLC26A4* (Pendrin). Variants in *DUOXA2*, the maturation factor for DUOX2, cause an identical phenotype (TDH5).
+

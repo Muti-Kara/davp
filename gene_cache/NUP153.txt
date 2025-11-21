@@ -1,0 +1,69 @@
+NUP153 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID**: 8062
+– **OMIM Gene ID**: 603948
+– **Primary Disease Associations**: While not linked to a specific Mendelian disease, NUP153 is associated with several complex conditions, including certain cancers and potentially cardiomyopathy. Increased expression has been noted in various cancers, such as gastric, colorectal, and head and neck squamous cell carcinoma. It has also been implicated in Duchenne muscular dystrophy-associated cardiomyopathy. Additionally, it has been associated with adult human height and childhood obesity in Hispanic populations.
+– **Clinical Significance Level**: The clinical significance is currently considered limited or evolving for Mendelian disorders, as no specific single-gene disorder has been definitively attributed to NUP153 variants.
+– **Inheritance Patterns Observed in Patients**: No clear inheritance pattern for a specific disease has been established. One case report identified a rare, potentially pathogenic heterozygous variant in a patient with spermatogenic failure, but the patient also had a homozygous loss-of-function variant in another gene (NUP210L).
+
+### **Constraint & Variant Intolerance**
+– **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI score of 1.00, suggesting extreme intolerance to loss-of-function (LoF) variation. The loss-of-function observed/expected upper bound fraction (LOEUF) is 0.24, which is below the recommended threshold of < 0.35, also indicating intolerance to LoF variants.
+– **Clinical Interpretation of Constraint Scores**: The high pLI and low LOEUF scores suggest that NUP153 is highly constrained against protein-truncating variants and that haploinsufficiency is a potential disease mechanism. Genes with high constraint are more likely to be associated with dominant diseases.
+– **Variant Classes Most Likely to be Pathogenic**: Given the high intolerance to LoF variation, nonsense and frameshift variants are most likely to be pathogenic. Missense variants in highly constrained regions could also be considered potentially pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+Due to the lack of a defined Mendelian disease association, a comprehensive HPO term list is not available. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities. Phenotypes are currently linked to NUP153's role in broader disease processes rather than a specific syndrome.
+– **Primary Phenotypes Implicated**:
+  – **Oncology**: Associated with increased proliferation and poor prognosis in some cancers, particularly gastric cancer.
+  – **Cardiomyopathy**: Upregulation is linked to dilated cardiomyopathy in the context of Duchenne muscular dystrophy.
+  – **Infertility**: A potential heterozygous role in male infertility has been suggested.
+– **Age of Onset Patterns**: Not applicable in the context of a specific Mendelian disorder.
+– **Phenotype Severity Spectrum**: Not applicable in the context of a specific Mendelian disorder.
+
+### **Genotype-Phenotype Correlations**
+– **Variant Classes and Their Typical Phenotypes**: There is currently insufficient data to correlate specific variant classes with distinct phenotypes.
+– **Protein Domain-Specific Phenotype Patterns**: The C-terminal FG-repeat domain is crucial for interactions with transport receptors, and its disruption could affect nucleocytoplasmic transport. The N-terminal domain is involved in binding to the nuclear pore basket. A rescue experiment for mitotic defects showed that the FG-rich region was necessary to resolve issues in late mitosis, while defects in early mitosis were independent of this domain.
+– **Genotype-phenotype Correlation Strength**: Weak, as no definitive correlations have been established.
+
+### **Clinical Variants & Phenotype Associations**
+There are no well-characterized pathogenic variants with established disease causality in ClinVar.
+– Variants of Uncertain Significance have been reported. For example:
+  – **NM_005124.4(NUP153):c.433G>A (p.Ala145Thr)**: Reported as a variant of uncertain significance.
+  – **NM_005124.4(NUP153):c.2876T>G (p.Phe959Cys)**: Reported as a variant of uncertain significance.
+– A rare heterozygous variant (**p.Pro485Leu**) was identified in a patient with severe sperm head morphology defects, but its pathogenicity is unclear as the patient also had a homozygous mutation in *NUP210L*.
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM)**: NUP153 shows broad expression across many tissues. According to the Human Protein Atlas, which utilizes GTEx data, high RNA expression is observed in lymphoid tissues like the spleen and lymph nodes, as well as in the testis, placenta, and peripheral blood mononuclear cells.
+– **Tissue-Specific Phenotypes Expected**:
+  – **Heart**: Overexpression in cardiac tissue is linked to cardiomyopathy, potentially through altered calcium channel expression and function.
+  – **Testis**: High expression in the testis may relate to its potential role in spermatogenesis.
+  – **Immune cells**: Broad expression in immune cells suggests a role in immune function.
+– **Expression During Development and Age-Related Phenotypes**: NUP153 is involved in cell cycle progression, particularly during mitosis. Its role in neurogenesis has been explored in mouse models.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function**: NUP153 is a key component of the nuclear pore complex (NPC), acting as a scaffold and playing a crucial role in regulating the transport of proteins and mRNA between the nucleus and cytoplasm.
+– **Disease Mechanism**: While not definitively established for a Mendelian disease, potential mechanisms include haploinsufficiency, given the high constraint against LoF variants. In cancer, the mechanism appears to be related to overexpression leading to increased cell proliferation and altered signaling pathways like TGF-β.
+– **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**:
+  – **Nucleocytoplasmic Transport**: Disruption affects the movement of macromolecules, which is fundamental to cellular homeostasis.
+  – **Cell Cycle Regulation**: NUP153 depletion can lead to mitotic delays, defects in spindle checkpoint activity, and the formation of multilobed nuclei, impacting cell division.
+  – **Gene Expression Regulation**: Nup153 can associate with chromatin and regulate the expression of specific genes, such as those involved in cardiac remodeling.
+– **Protein-Protein Interactions Relevant to Phenotype**: NUP153 interacts with TPR and NUP50 to form the nuclear basket. It also interacts with transport receptors and cell cycle proteins like Mad1. Its interaction with Kif1a is important for nuclear migration in brain progenitor cells.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts**: Currently, the diagnostic yield for NUP153 variants in clinical cohorts for a specific Mendelian disorder is effectively zero, as it is not yet associated with one.
+– **Most Common Reasons for Testing This Gene**: Testing is not routinely performed for Mendelian disease diagnosis. It is more commonly studied in cancer research contexts to understand its role in tumor progression and as a potential biomarker.
+– **Clinical Actionability and Management Implications**: There is no specific clinical actionability based on germline NUP153 variants at this time. In oncology, its expression level may have prognostic value in some cancers, like gastric cancer.
+– **Genetic Counseling Considerations**: Counseling would focus on the uncertain significance of any identified variants and the lack of a clear disease association. The high constraint scores could be discussed as suggestive of the gene's importance, but without a known phenotype, this information has limited clinical utility.
+
+### **Key Clinical Literature & Studies**
+– **PMID: 28513807, 2017**: Found that Nup153 is upregulated and acetylated in the hearts of Duchenne muscular dystrophy patients and mdx mice, where it acts as an epigenetic regulator of genes involved in cardiac remodeling.
+– **PMID: 19168798, 2009**: Showed that depletion of Nup153 in HeLa cells leads to distinct mitotic defects, including delays in late mitosis and the formation of multilobed nuclei, revealing separable roles for the protein in mitotic progression.
+– **PMID: 29775390, 2018**: Demonstrated that Nup153 regulates tumor cell migration and proliferation and is involved in the nuclear import of key proteins in prostate cancer cells.
+– **Front Immunol, 2025**: A pan-cancer analysis highlighted that high NUP153 expression is linked to poor prognosis in several cancers and plays a role in modulating the tumor immune microenvironment.
+– **Clin Genet, 2024**: A case study identified a rare heterozygous NUP153 variant in a patient with male infertility, suggesting a possible, though unconfirmed, link.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations**: Currently, there are no high-confidence associations between specific NUP153 variants and HPO terms.
+– **Phenotype red flags**: There are no established "red flag" HPO terms that would strongly suggest a pathogenic variant in NUP153 at this time.
+– **Differential diagnosis considerations**: Given the association with cardiomyopathy, it could be considered in the differential for dilated cardiomyopathy, though many other genes have a more established role. For nephrotic syndrome, other nucleoporin genes like *NUP93* and *NUP133* are known causes.
+

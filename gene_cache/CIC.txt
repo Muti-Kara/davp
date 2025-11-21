@@ -1,0 +1,92 @@
+CIC Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 14214.
+*   **OMIM Gene ID:** 612082.
+*   **Primary Disease Associations:** CIC-related neurodevelopmental disorder, also referred to as Intellectual Developmental Disorder, Autosomal Dominant 45 (MRD45). Somatic mutations are associated with certain cancers, including oligodendrogliomas and T-cell acute lymphoblastic lymphoma (T-ALL).
+*   **Clinical Significance Level:** The association between germline *CIC* variants and neurodevelopmental disorders is well-established, though the full phenotypic spectrum is still being defined.
+*   **Inheritance Patterns Observed in Patients:** Autosomal dominant inheritance is the typical pattern. The majority of reported pathogenic variants are de novo, but inherited cases from an affected or mosaic parent have been documented.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF:** The probability of being loss-of-function intolerant (pLI) score is 1.0. The loss-of-function observed/expected upper-bound fraction (LOEUF) is 0.25.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI and low LOEUF scores indicate that *CIC* is extremely intolerant to loss-of-function (LoF) variation. This strong constraint suggests that heterozygous LoF variants are likely to be pathogenic.
+*   **Variant Classes Most Likely to Be Pathogenic:** Protein-truncating variants (e.g., nonsense, frameshift, and splice site variants) are the most frequently reported pathogenic class. Missense variants have also been identified as pathogenic, some with functional evidence demonstrating a loss of function.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Intellectual disability (HP:0001249).
+    *   Global developmental delay (HP:0001263).
+    *   Seizures (HP:0001250).
+    *   Delayed speech and language development (HP:0000750).
+    *   Behavioral abnormality (HP:0000708).
+    *   Autism spectrum disorder (HP:0100712).
+    *   Attention deficit hyperactivity disorder (HP:0007018).
+    *   Hypotonia (HP:0001252).
+    *   MRI abnormalities (e.g., Abnormality of the cerebral white matter, HP:0002500).
+    *   Cerebral folate deficiency.
+*   **Secondary HPO terms:**
+    *   Hyperactivity (HP:0000752).
+    *   Developmental regression (HP:0002376).
+    *   Generalized myoclonic seizures (HP:0011171).
+    *   Focal-onset seizure (HP:0007359).
+    *   Spina bifida (related to neural tube defects).
+    *   Dystonia.
+*   **Age of Onset Patterns:** Onset is typically in infancy or early childhood, with presentations of developmental delay or seizures.
+*   **Phenotype Severity Spectrum:** There is significant phenotypic variability, ranging from individuals with isolated epilepsy to those with severe neurodevelopmental disorders encompassing intellectual disability, autism, and refractory epilepsy.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Both protein-truncating and missense variants lead to a spectrum of neurodevelopmental disorders. There is no clear, consistent correlation between variant type and phenotype severity.
+*   **Protein Domain-Specific Phenotype Patterns:** Pathogenic variants are distributed across various protein domains, and a clear domain-specific correlation has not yet been established. Variants within the HMG-box DNA binding domain have been implicated in both neurodevelopmental disorders and cancers.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently considered weak to moderate due to significant variable expressivity, even within families sharing the same pathogenic variant.
+*   **Examples: specific variants → specific phenotypes:**
+    *   The c.1057C>T (p.Arg353*) variant was identified in a patient with cerebral folate deficiency.
+    *   A c.1526del (p.Pro509Hisfs*14) variant was found in a father and daughter with isolated epilepsy, expanding the phenotype to include non-syndromic presentations.
+    *   A c.2694dupC (p.K899Qfs*32) variant was seen in three family members with variable neurodevelopmental impairments, including absence seizures and autism spectrum disorder.
+
+### **Clinical Variants & Phenotype Associations**
+*   **NM_015125.3:c.673C>T (p.Gln225Ter):** Pathogenic, associated with neurodevelopmental delay, intellectual disability, and seizures.
+*   **NM_015125.3:c.1057C>T (p.Arg353*):** Pathogenic, linked to cerebral folate deficiency and neurodevelopmental abnormalities.
+*   **NM_001304815.1:c.1100dup (p.Pro368AlafsTer16):** Pathogenic, found in a patient with speech delay, intellectual disability, and autism spectrum disorder; this variant is specific to the long CIC isoform.
+*   **NM_015125.4:c.1526del (p.Pro509Hisfs*14):** Likely pathogenic, associated with isolated epilepsy without other major neurodevelopmental issues.
+*   **NM_015125.3:c.683G>A (p.Arg228Gln):** A missense variant associated with speech delay and pre-B acute lymphoblastic leukemia (ALL), showing partial loss of function.
+*   **NM_015125.3:c.2694dupC (p.K899Qfs*32):** Pathogenic, reported in a family with variable neurodevelopmental impairment, including absence seizures and autism spectrum disorder.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *CIC* is widely expressed, with particularly high expression in various brain regions, including the cerebellum, hippocampus, and cerebral cortex. This high brain expression aligns with the primary neurological phenotypes observed in patients.
+*   **Tissue-Specific Phenotypes Expected:** The predominant phenotypes are neurological, consistent with high central nervous system expression. Somatic mutations in specific tissues can lead to cancers like oligodendroglioma and T-ALL.
+*   **Expression During Development and Age-Related Phenotypes:** *CIC* is highly expressed in the developing brain and plays a role in neurogenesis. This developmental role explains why pathogenic variants manifest as congenital or early-onset neurodevelopmental disorders.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function in one sentence:** CIC is a transcriptional repressor that is a key component of the ATXN1-CIC complex, which regulates genes involved in cell proliferation, neurogenesis, and development downstream of the Ras/MAPK signaling pathway.
+*   **Disease Mechanism: Haploinsufficiency, Dominant-Negative, Gain-of-Function:** The primary disease mechanism for the neurodevelopmental disorder is haploinsufficiency, resulting from loss-of-function variants. There is currently no evidence for a dominant-negative or gain-of-function mechanism in the germline context.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **RAS-MAPK Pathway:** Loss of CIC-mediated repression leads to derepression of MAPK pathway target genes (e.g., *ETV1, ETV4, ETV5*), promoting uncontrolled cell proliferation and impacting neuronal function.
+    *   **Folate Metabolism:** CIC regulates the expression of the folate receptor gene *FOLR1*; loss of CIC function can downregulate *FOLR1*, leading to cerebral folate deficiency and contributing to neurodevelopmental defects.
+    *   **ATXN1-CIC Complex:** Disruption of this complex impairs normal brain development and can lead to behavioral deficits.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interaction with ATXN1 is critical for forming the repressor complex. CIC also interacts with the SIN3-HDAC complex to mediate transcriptional repression via histone deacetylation.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** *CIC* variants are a recognized cause of monogenic neurodevelopmental disorders, including epilepsy and intellectual disability. They are identified through broad genetic testing panels, exome, and genome sequencing for these conditions.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with unexplained developmental delay, intellectual disability, autism spectrum disorder, and/or epilepsy, particularly childhood-onset forms.
+*   **Clinical Actionability and Management Implications:** A genetic diagnosis can provide prognostic information and guide management, such as the selection of anti-seizure medications and screening for associated features like cerebral folate deficiency. In some cases, it may inform decisions about weaning anti-epileptic drugs.
+*   **Genetic Counseling Considerations:** Counseling should address autosomal dominant inheritance, the high likelihood of de novo occurrence, and the significant phenotypic variability, including the possibility of milder or isolated phenotypes in affected family members.
+
+### **Key Clinical Literature & Studies**
+*   **Ruiz et al., *Genes (Basel)*, 2024 (PMID: 39611425):** Reported a novel paternally inherited truncating variant causing isolated epilepsy, expanding the known phenotype of *CIC*-related disorders beyond complex neurodevelopmental syndromes.
+*   **Sharma et al., *Hum Mutat*, 2022 (PMID: 35165976):** Described novel *CIC* variants, including one specific to the long isoform, and provided functional evidence that partial loss of CIC repressor activity is a pathogenic mechanism for neurodevelopmental phenotypes.
+*   **Kishnani et al., *Neuropediatrics*, 2021 (PMID: 34116524):** Presented a three-generation family with a pathogenic *CIC* variant showing significant intrafamilial phenotypic variability, highlighting the role of potential genetic modifiers.
+*   **Cao et al., *J Med Genet*, 2021 (PMID: 32820034):** Established a novel link between *CIC* loss-of-function variants and cerebral folate deficiency through the downregulation of *FOLR1* expression.
+*   **Weissmann et al., *Cancer Res*, 2018 (PMID: 29875149):** Elucidated the molecular mechanism of CIC as a transcriptional repressor of MAPK pathway genes via histone deacetylation, providing a link between its loss and tumorigenesis.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Heterozygous protein-truncating variants (nonsense, frameshift) are strongly associated with a core phenotype of **Intellectual disability (HP:0001249)**, **Global developmental delay (HP:0001263)**, and **Seizures (HP:0001250)**.
+    *   Loss-of-function variants, including some missense variants, can be associated with **Cerebral folate deficiency (HP:0100523)** due to the dysregulation of *FOLR1*.
+*   **Phenotype red flags:**
+    *   The combination of intellectual disability, seizures, and behavioral abnormalities (especially ADHD or autism spectrum disorder) is highly suggestive of a pathogenic *CIC* variant.
+    *   Unexplained cerebral folate deficiency should prompt consideration of *CIC* sequencing, even in the absence of variants in known CFD genes.
+    *   The presence of even isolated, unexplained epilepsy may warrant *CIC* testing, as milder phenotypes are now recognized.
+*   **Differential diagnosis considerations:**
+    *   The phenotype overlaps with numerous other syndromic and non-syndromic intellectual disability and epilepsy disorders.
+    *   Given its role in the MAPK pathway, there can be some phenotypic overlap with RASopathies, although the classic dysmorphic features of many RASopathies are not typically prominent in *CIC*-related disorders.
+    *   For patients with neural tube defects, consider other genes in the folate pathway and planar cell polarity pathway, as CIC has been shown to influence these processes.
+

@@ -1,0 +1,68 @@
+=== chr15:23363206G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1418810837
+• Chromosome: 15
+• Position: 23363206
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: GOLGA8S
+• Databases: rs1418810837
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0002149
+• gnomADg Allele Frequency: 0.0001808
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0006525: cigarettes per day measurement - the quantification of the number of cigarettes that a subject smoked on average per day
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 22329437) -> Associated GWAS: GWAS_EFO_0004747
+Entity: ChromHMM State (ID: 21086678) -> Associated GWAS: GWAS_EFO_0004747, GWAS_EFO_0006335, GWAS_EFO_0006525, GWAS_EFO_0000289, GWAS_EFO_0004340
+Entity: ChromHMM State (ID: 20480303) -> Associated GWAS: GWAS_EFO_0004747
+Entity: ChromHMM State (ID: 19353478) -> Associated GWAS: GWAS_EFO_0004747
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 119
+• Pathogenic/Likely Pathogenic: 72
+• Benign/Likely Benign: 47
+• Uncertain Significance: 0
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=67)
+• Angelman syndrome (n=4)
+
+

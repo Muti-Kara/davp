@@ -1,0 +1,324 @@
+=== chr2:73451990G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs62151609
+• Chromosome: 2
+• Position: 73451990
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: ALMS1
+• Databases: rs62151609, COSV52508012
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign, benign/likely_benign
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.007833999999999999
+• gnomADg Allele Frequency: 0.008768999999999999
+• 1KG Frequency: 0.0032
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0004215: anorexia nervosa - An eating disorder that is characterized by the lack or loss of APPETITE, known as ANOREXIA. Other features include excess fear of becoming OVERWEIGHT; BODY IMAGE disturbance; significant WEIGHT LOSS; refusal to maintain minimal normal weight; and AMENORRHEA. This disorder occurs most frequently in adolescent females. (APA, Thesaurus of Psychological Index Terms, 1994).|A disorder most often seen in adolescent females characterized by a refusal to maintain a minimally normal body weight, an intense fear of gaining weight, a disturbance in body image, and, in postmenarcheal females, the development of amenorrhea.
+GWAS_EFO_0007878: alcohol consumption measurement - quantification of some aspect of alcohol consumption such as frequency or quantity
+GWAS_EFO_0001061: cervical carcinoma - A carcinoma arising from either the exocervical squamous epithelium or the endocervical glandular epithelium. The major histologic types of cervical carcinoma are: squamous carcinoma, adenocarcinoma, adenosquamous carcinoma, adenoid cystic carcinoma and undifferentiated carcinoma.
+GWAS_EFO_0005653: serum metabolite measurement - quantification of some metabolite in serum
+GWAS_EFO_0004518: creatinine measurement - A creatinine measurement is a measure of the metabolite creatinine in a sample. For example, in the serum, where it can be used in assessment of kidney function.
+GWAS_EFO_0005664: blood metabolite measurement - quantification of some metabolite in blood
+GWAS_EFO_0005208: glomerular filtration rate - measurement of the flow rate of filtered fluid through the kidney, calculated either by comparative measurements of substances in the blood and urine, or estimated from a blood test
+GWAS_EFO_0005116: urinary metabolite measurement - quantification of some metabolite in urine
+GWAS_EFO_0003884: chronic kidney disease - Conditions in which the KIDNEYS perform below the normal level for more than three months. Chronic kidney insufficiency is classified by five stages according to the decline in GLOMERULAR FILTRATION RATE and the degree of kidney damage (as measured by the level of PROTEINURIA). The most severe form is the end-stage renal disease (CHRONIC KIDNEY FAILURE). (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002)|The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION.|Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0004617: cystatin C measurement - is a quantification of serum cystatin C C (formerly gamma trace, post-gamma-globulin or neuroendocrine basic polypeptide),[1] a protein encoded by the CST3 gene, is mainly used as a biomarker of kidney function and kidney disease.
+GWAS_EFO_0004725: metabolite measurement - This is an annotation class for metabolite measurements where the exact metabolite measurements are unknown. Do not annotate to this class.|The quantification of some metabolite.
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_GO_0006306: DNA methylation - The covalent transfer of a methyl group to either N-6 of adenine or C-5 or N-4 of cytosine
+GWAS_EFO_0004319: smoking cessation - Discontinuation of the habit of smoking, the inhaling and exhaling of tobacco smoke.
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0008354: cognitive function measurement - quantification of some aspect of cognitive function
+GWAS_EFO_0005276: hydroxy-leucine measurement - the quantification of hydroxy-leucine, a metabolite significantly associated with increased risk of heart failure
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16187560) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0004215, GWAS_EFO_0007878, GWAS_EFO_0000692, GWAS_EFO_0001061, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0005276, GWAS_EFO_0004875, GWAS_EFO_0004337, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004509
+Entity: Transcript (ID: 16422339) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0004215, GWAS_EFO_0007878, GWAS_EFO_0000692, GWAS_EFO_0001061, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422341) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0004215, GWAS_EFO_0007878, GWAS_EFO_0000692, GWAS_EFO_0001061, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422342) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0004215, GWAS_EFO_0007878, GWAS_EFO_0000692, GWAS_EFO_0001061, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116
+Entity: Transcript (ID: 16422346) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422347) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422348) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422349) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422352) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422354) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422356) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0005653, GWAS_EFO_0004725, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004319, GWAS_EFO_0005208
+Entity: Transcript (ID: 16422360) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004337, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884, GWAS_EFO_0004703, GWAS_EFO_0004617, GWAS_EFO_0004725, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0006527, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0004337, GWAS_GO_0006306, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005116
+Entity: Transcript (ID: 16422359) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 289562157) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 279314699) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 275171531) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 274605671) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 266307668) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 257835692) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 254166675) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 253396259) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 252443414) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 230801011) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 226983829) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 219662241) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 202392888) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 200015415) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 198897995) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 196247763) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 179966918) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 174395439) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 157279582) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 153584382) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 138371964) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 136130959) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 125622172) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 120869217) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 118032255) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 115428526) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 106787580) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 99318025) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 97996951) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 95249075) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 52854806) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 93271178) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 89001213) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 88679293) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 84713415) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 75794409) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 69306751) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 67082958) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 66958723) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 63248726) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 62235925) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 61259378) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 58912044) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 57486470) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 53860668) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 49532573) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 50893100) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: ChromHMM State (ID: 18965284) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: ChromHMM State (ID: 19576848) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: ChromHMM State (ID: 20126602) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: ChromHMM State (ID: 20701961) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: ChromHMM State (ID: 21320292) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: ChromHMM State (ID: 21936507) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0004215, GWAS_EFO_0007878, GWAS_EFO_0000692, GWAS_EFO_0001061, GWAS_EFO_0005653, GWAS_EFO_0005653, GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208, GWAS_EFO_0005116, GWAS_EFO_0003884
+Entity: ChromHMM State (ID: 22550712) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+Entity: chr_chain (ID: 132200) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0005664, GWAS_EFO_0005208
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 125306
+• Pathogenic/Likely Pathogenic: 23409
+• Benign/Likely Benign: 44723
+• Uncertain Significance: 57174
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Alstrom syndrome (n=42034)
+• Alstrom syndrome|Cardiovascular phenotype (n=6098)
+• Cardiovascular phenotype (n=4261)
+• ALMS1-related disorder (n=2328)
+• Cardiovascular phenotype|Alstrom syndrome (n=2288)
+• Alstrom syndrome|not provided (n=2198)
+• Alstrom syndrome|not provided|Cardiovascular phenotype (n=1604)
+• Alstrom syndrome|Cardiovascular phenotype|not provided (n=1213)
+• not provided|Alstrom syndrome|Cardiovascular phenotype (n=1156)
+• not provided|Alstrom syndrome (n=1027)
+• not specified|Alstrom syndrome (n=437)
+• not provided|Cardiovascular phenotype|Alstrom syndrome (n=436)
+• Alstrom syndrome|ALMS1-related disorder (n=417)
+• Alstrom syndrome|not specified (n=415)
+• Alstrom syndrome|not specified|Cardiovascular phenotype (n=236)
+• Retinal dystrophy (n=220)
+• not provided|Alstrom syndrome|not specified|Cardiovascular phenotype (n=220)
+• Alstrom syndrome|not specified|not provided|Cardiovascular phenotype (n=194)
+• not specified|Alstrom syndrome|Cardiovascular phenotype (n=192)
+• not provided|Cardiovascular phenotype (n=190)
+• not provided|Alstrom syndrome|Cardiovascular phenotype|not specified (n=189)
+• Cardiovascular phenotype|not provided (n=179)
+• Alstrom syndrome|Retinal dystrophy (n=178)
+• Cardiovascular phenotype|Alstrom syndrome|not provided (n=168)
+• Alstrom syndrome|Cardiovascular phenotype|not specified (n=165)
+• Alstrom syndrome|Cardiovascular phenotype|ALMS1-related disorder (n=163)
+• Alstrom syndrome|not specified|Cardiovascular phenotype|not provided (n=159)
+• Alstrom syndrome|not provided|Cardiovascular phenotype|not specified (n=158)
+• Alstrom syndrome|not specified|Monogenic diabetes|not provided|Cardiovascular phenotype (n=149)
+• Retinal dystrophy|Alstrom syndrome|Cardiovascular phenotype|not provided (n=145)
+• Alstrom syndrome|Cardiovascular phenotype|not specified|not provided (n=143)
+• Retinal dystrophy|Alstrom syndrome (n=136)
+• not specified|Alstrom syndrome|not provided|Cardiovascular phenotype (n=118)
+• not specified|not provided|Alstrom syndrome|Cardiovascular phenotype (n=118)
+• not specified|Alstrom syndrome|Cardiovascular phenotype|not provided (n=109)
+• not specified|Cardiovascular phenotype|not provided|Alstrom syndrome (n=102)
+• Alstrom syndrome|Cardiovascular phenotype|not provided|Monogenic diabetes (n=94)
+• Leber congenital amaurosis (n=82)
+• Retinal dystrophy, early-onset severe (n=79)
+• Alstrom syndrome|Hearing impairment (n=78)
+• Alstrom syndrome|Cardiovascular phenotype|not provided|not specified (n=76)
+• Cardiovascular phenotype|Alstrom syndrome|not specified (n=74)
+• not provided|not specified|Alstrom syndrome|Cardiovascular phenotype (n=74)
+• Alstrom syndrome|not provided|not specified|Cardiovascular phenotype (n=70)
+• Alstrom syndrome|not specified|not provided (n=67)
+• Cardiovascular phenotype|ALMS1-related disorder (n=63)
+• ALMS1-related disorder|Alstrom syndrome (n=56)
+• Cardiovascular phenotype|not provided|Alstrom syndrome (n=55)
+• not provided|not specified|Alstrom syndrome|Retinal dystrophy|Cardiovascular phenotype (n=53)
+• not specified|ALMS1-related disorder (n=52)
+• Retinitis pigmentosa (n=51)
+• Alstrom syndrome|not provided|Cardiovascular phenotype|Retinal dystrophy (n=48)
+• Alstrom syndrome|not provided|Cardiovascular phenotype|Retinal dystrophy, early-onset severe (n=46)
+• not specified|Cardiovascular phenotype|Alstrom syndrome (n=46)
+• Alstrom syndrome|Cardiovascular phenotype|Retinal dystrophy (n=41)
+• not specified|Alstrom syndrome|not provided|Monogenic diabetes|Cardiovascular phenotype (n=41)
+• ALMS1-related disorder|Cardiovascular phenotype (n=40)
+• Bardet-Biedl syndrome (n=40)
+• Alstrom syndrome|Monogenic diabetes|Cardiovascular phenotype (n=39)
+• See cases (n=38)
+• not provided|not specified|Cardiovascular phenotype|Alstrom syndrome (n=36)
+• not specified|Alstrom syndrome|Monogenic diabetes|not provided|Cardiovascular phenotype (n=36)
+• Monogenic diabetes|Alstrom syndrome (n=36)
+• Alstrom syndrome|not provided|Cardiovascular phenotype|ALMS1-related disorder (n=34)
+• not specified|Cardiovascular phenotype|Alstrom syndrome|not provided (n=32)
+• Monogenic diabetes|Alstrom syndrome|Cardiovascular phenotype (n=32)
+• not specified|Cardiovascular phenotype (n=31)
+• not provided|Alstrom syndrome|Cardiovascular phenotype|Retinal dystrophy (n=31)
+• Alstrom syndrome|not provided|Retinal dystrophy (n=30)
+• Cardiovascular phenotype|not specified (n=30)
+• Alstrom syndrome|Intellectual disability (n=30)
+• not specified|Alstrom syndrome|ALMS1-related disorder (n=29)
+• not provided|Alstrom syndrome|Retinal dystrophy (n=28)
+• Cardiovascular phenotype|not specified|Alstrom syndrome (n=28)
+• Monogenic diabetes|Cardiovascular phenotype (n=26)
+• not specified|Monogenic diabetes|not provided|Cardiovascular phenotype|Alstrom syndrome (n=26)
+• Monogenic diabetes|Alstrom syndrome|Cardiovascular phenotype|Retinal dystrophy (n=26)
+• Alstrom syndrome|not specified|ALMS1-related disorder|not provided (n=25)
+• not specified|Monogenic diabetes|not provided|Alstrom syndrome|Cardiovascular phenotype (n=24)
+• Alstrom syndrome|Optic atrophy|Cardiovascular phenotype (n=24)
+• not provided|Monogenic diabetes|Alstrom syndrome|Cardiovascular phenotype (n=24)
+• Alstrom syndrome|Retinal dystrophy|not provided|Retinitis pigmentosa (n=24)
+• not provided|Monogenic diabetes|Alstrom syndrome|Cardiovascular phenotype|not specified (n=24)
+• Alstrom syndrome|Nephrotic syndrome|not provided (n=24)
+• Alstrom syndrome|not provided|not specified (n=24)
+• not provided|Monogenic diabetes|Alstrom syndrome|not specified|Cardiovascular phenotype (n=23)
+• Monogenic diabetes|not specified|Cardiovascular phenotype|Alstrom syndrome|not provided (n=23)
+• Alstrom syndrome|Cardiovascular phenotype|Monogenic diabetes|not provided|not specified (n=22)
+• not specified|Alstrom syndrome|Retinal dystrophy (n=22)
+• Abnormality of the eye (n=22)
+• not provided|Alstrom syndrome|Stickler syndrome (n=22)
+• Alstrom syndrome|Cardiovascular phenotype|Intellectual disability (n=22)
+• not specified|Alstrom syndrome|not provided (n=22)
+• not provided|Alstrom syndrome|not specified (n=22)
+• Alstrom syndrome|not provided|Cardiovascular phenotype|not specified|Retinal dystrophy (n=21)
+• Alstrom syndrome|Monogenic diabetes|not provided|Cardiovascular phenotype (n=19)
+• not specified|Alstrom syndrome|Cardiovascular phenotype|ALMS1-related disorder (n=19)
+• Optic atrophy (n=19)
+• Alstrom syndrome|not provided|Monogenic diabetes|Cardiovascular phenotype (n=19)
+• not provided|Cardiovascular phenotype|Alstrom syndrome|not specified (n=19)
+• Alstrom syndrome|Retinal dystrophy|not provided (n=19)
+• Alstrom syndrome|Leber congenital amaurosis (n=18)
+• Alstrom syndrome|Cardiovascular phenotype|not provided|Retinal dystrophy (n=18)
+• Alstrom syndrome|Cardiovascular phenotype|Monogenic diabetes|not provided (n=18)
+• not specified|not provided|Alstrom syndrome|Cardiovascular phenotype|ALMS1-related disorder (n=18)
+• not provided|Alstrom syndrome|Cardiovascular phenotype|ALMS1-related disorder (n=18)
+• Alstrom syndrome|not provided|ALMS1-related disorder (n=17)
+• not provided|Alstrom syndrome|Leukodystrophy (n=16)
+• Stage 5 chronic kidney disease (n=16)
+• Visual impairment (n=16)
+• Hearing impairment|Cardiovascular phenotype (n=16)
+• not provided|Monogenic diabetes|not specified|Alstrom syndrome|Cardiovascular phenotype (n=16)
+• Monogenic diabetes|not specified|not provided|Alstrom syndrome|Cardiovascular phenotype (n=16)
+• Alstrom syndrome|not specified|Cardiovascular phenotype|ALMS1-related disorder (n=16)
+• not provided|Alstrom syndrome|Monogenic diabetes|not specified|Cardiovascular phenotype|Retinal dystrophy (n=15)
+• Myocardial infarction, susceptibility to, 1 (n=13)
+• Retinal dystrophy|not provided|Alstrom syndrome|Cardiovascular phenotype (n=12)
+• Alström Syndrom (n=12)
+• Alstrom syndrome|Down syndrome|not provided|Cardiovascular phenotype (n=12)
+• Alstrom syndrome|Retinal dystrophy|Cardiovascular phenotype (n=12)
+• Alstrom syndrome|Cardiovascular phenotype|ALMS1-related disorder|not provided|not specified (n=12)
+• Alstrom syndrome|Cardiovascular phenotype|Retinal dystrophy|not provided (n=12)
+• Alstrom syndrome|not provided|not specified|Cardiovascular phenotype|Retinal dystrophy (n=12)
+• Monogenic diabetes|Alstrom syndrome|not specified|Cardiovascular phenotype|not provided (n=12)
+• not specified|Hearing impairment|Cardiovascular phenotype|Alstrom syndrome|not provided (n=12)
+• Alstrom syndrome|Hearing impairment|Cardiovascular phenotype (n=12)
+• Monogenic diabetes|Alstrom syndrome|not provided|Cardiovascular phenotype|not specified (n=12)
+• Alstrom syndrome|Bardet-Biedl syndrome (n=12)
+• not specified|Alstrom syndrome|Cardiovascular phenotype|Monogenic diabetes|not provided (n=12)
+• Cardiovascular phenotype|Alstrom syndrome|not provided|not specified (n=12)
+• not provided|Monogenic diabetes|not specified|Cardiovascular phenotype|Alstrom syndrome (n=12)
+• Alstrom syndrome|not provided|Retinal dystrophy|Cardiovascular phenotype (n=12)
+• Leber congenital amaurosis|Alstrom syndrome (n=12)
+• not provided|not specified|Cardiovascular phenotype|Alstrom syndrome|ALMS1-related disorder (n=12)
+• Alstrom syndrome|Bardet-Biedl syndrome|Retinal dystrophy|not provided (n=12)
+• Retinal dystrophy|ALMS1-related disorder|Alstrom syndrome (n=12)
+• Alstrom syndrome|ALMS1-related disorder|Cardiovascular phenotype (n=12)
+• Monogenic diabetes|Alstrom syndrome|Cardiovascular phenotype|not provided (n=12)
+• Alstrom syndrome|not specified|not provided|Cardiovascular phenotype|Monogenic diabetes|ALMS1-related disorder (n=12)
+• Retinal dystrophy|Alstrom syndrome|not provided (n=12)
+• not specified|not provided|Cardiovascular phenotype|Alstrom syndrome (n=10)
+• Alstrom syndrome|Cone-rod dystrophy|not provided (n=10)
+• Retinitis pigmentosa|Alstrom syndrome (n=10)
+• Retinal dystrophy|Alstrom syndrome|Cardiovascular phenotype (n=10)
+• Cardiovascular phenotype|not provided|Alstrom syndrome|not specified (n=10)
+• Alstrom syndrome|Retinal dystrophy|not provided|ALMS1-related disorder|Cardiovascular phenotype (n=10)
+• Occult maculopathy|Alstrom syndrome (n=10)
+• Alstrom syndrome|Retinitis pigmentosa (n=10)
+• not specified|not provided (n=10)
+• Monogenic diabetes|not provided|Alstrom syndrome|Cardiovascular phenotype|not specified (n=10)
+• Alstrom syndrome|Retinal dystrophy|Cardiovascular phenotype|not provided (n=10)
+• Alstrom syndrome|not provided|not specified|Monogenic diabetes|Cardiovascular phenotype|Retinal dystrophy (n=10)
+• Alstrom syndrome|Cardiovascular phenotype|not specified|Retinal dystrophy (n=10)
+• Alstrom syndrome|not provided|not specified|Monogenic diabetes|Cardiovascular phenotype (n=10)
+• not specified|not provided|Alstrom syndrome (n=10)
+• Cardiovascular phenotype|Alstrom syndrome|Hearing impairment|not specified (n=10)
+• Alstrom syndrome|not specified|not provided|Cardiovascular phenotype|Retinal dystrophy (n=10)
+• not provided|Alstrom syndrome|Cardiovascular phenotype|Retinal dystrophy|not specified (n=10)
+• Premature ovarian failure (n=10)
+• not specified|Monogenic diabetes|Alstrom syndrome|Cardiovascular phenotype (n=10)
+• Monogenic diabetes (n=10)
+• Cardiovascular phenotype|ALMS1-related disorder|Alstrom syndrome (n=10)
+• not specified|Monogenic diabetes|Alstrom syndrome (n=10)
+• Cardiovascular phenotype|Alstrom syndrome|not specified|not provided (n=10)
+• not provided|Cardiovascular phenotype|Alstrom syndrome|Retinal dystrophy (n=10)
+• Monogenic diabetes|Cardiovascular phenotype|Alstrom syndrome (n=10)
+• Alstrom syndrome|Monogenic diabetes|not specified|Cardiovascular phenotype|not provided (n=9)
+• Hearing impairment (n=5)
+• not specified|Cardiovascular phenotype|Alstrom syndrome|ALMS1-related disorder (n=5)
+• not specified|ALMS1-related disorder|Alstrom syndrome (n=5)
+• not specified|not provided|Cardiovascular phenotype (n=5)
+• not provided|Retinal dystrophy|not specified (n=5)
+• not provided|Cardiovascular phenotype|ALMS1-related disorder (n=5)
+• Alstrom syndrome|ALMS1-related disorder|not provided|Cardiovascular phenotype (n=5)
+• not provided|Alstrom syndrome|not specified|Retinal dystrophy|Cardiovascular phenotype (n=5)
+• Alstrom syndrome|Cardiovascular phenotype|ALMS1-related disorder|not specified (n=5)
+• Alstrom syndrome|ALMS1-related disorder|Cardiovascular phenotype|not provided (n=5)
+
+

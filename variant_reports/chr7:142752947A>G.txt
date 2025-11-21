@@ -1,0 +1,119 @@
+=== chr7:142752947A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1355998219
+• Chromosome: 7
+• Position: 142752947
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: PRSS1
+• Databases: rs1355998219
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.00022789999999999998
+• gnomADg Allele Frequency: 0.08835000000000001
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_1002013: alcoholic pancreatitis - Acute or chronic inflammation of the pancreas due to excessive alcohol drinking. Alcoholic pancreatitis usually presents as an acute episode but it is a chronic progressive disease in alcoholics.
+GWAS_EFO_0000614: obsolete_narcolepsy with cataplexy - A condition characterized by recurrent episodes of daytime somnolence and lapses in consciousness (microsomnias) that may be associated with automatic behaviors and AMNESIA. CATAPLEXY; SLEEP PARALYSIS, and hypnagogic HALLUCINATIONS frequently accompany narcolepsy. The pathophysiology of this disorder includes sleep-onset rapid eye movement (REM) sleep, which normally follows stage III or IV sleep. (From Neurology 1998 Feb;50(2 Suppl 1):S2-S7)
+GWAS_EFO_0004847: age at onset - The age at which some process, or disease started in a human individual.
+GWAS_HP_0000545: Myopia - An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.
+GWAS_EFO_0005527: ejection fraction measurement - quantification of the volumetric fraction of blood pumped out of the left and right ventricle with each heartbeat or cardiac cycle
+GWAS_EFO_0005530: Trypanosoma cruzi seropositivity - Trypanosoma cruzi seropositivity is the result of a measurement of circulating T. cruzi specific antibodies 
+GWAS_EFO_0007878: alcohol consumption measurement - quantification of some aspect of alcohol consumption such as frequency or quantity
+GWAS_EFO_0008409: susceptibility to scarlet fever measurement - Quantification of an individual's susceptibility to scarlet fever, a syndrome of rash, sore throat and fever caused by Group A Streptococcal infection
+GWAS_EFO_0004608: cystic fibrosis associated meconium ileus - Cystic fibrosis associated meconium ileum is a thickening and congestion of the meconium in the ileum in newborns, often the first sign of cystic fibrosis. In cystic fibrosis, the meconium can form a bituminous black-green mechanical obstruction in a segment of the ileum. Beyond this there may be a few separate grey-white globular pellets. Below this level, the bowel is a narrow and empty micro-colon. Above the level of the obstruction, there are several loops of hypertrophied bowel distended with fluid. No meconium is passed, and abdominal distension and vomiting appear soon after birth. About 20% of cases of cystic fibrosis present with meconium ileus, while approximately 20% of one series of cases of meconium ileus did not have cystic fibrosis. The presence of meconium ileus is not related to the severity of the cystic fibrosis.|Cystic fibrosis associated meconium ileus is a thickening and congestion of the meconium in the ileum in newborns, often the first sign of cystic fibrosis. In cystic fibrosis, the meconium can form a bituminous black-green mechanical obstruction in a segment of the ileum. Beyond this there may be a few separate grey-white globular pellets. Below this level, the bowel is a narrow and empty micro-colon. Above the level of the obstruction, there are several loops of hypertrophied bowel distended with fluid. No meconium is passed, and abdominal distension and vomiting appear soon after birth. About 20% of cases of cystic fibrosis present with meconium ileus, while approximately 20% of one series of cases of meconium ileus did not have cystic fibrosis The presence of meconium ileus is not related to the severity of the cystic fibrosis.
+GWAS_EFO_0005611: opioid dependence - Disorders related or resulting from abuse or mis-use of opioids.|Strong dependence, both physiological and emotional, upon opioids, a class of drugs derived from opium or created to emulate opium
+GWAS_EFO_0007907: methadone dose measurement - quantification of some aspect of methadone dosage
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16151281) -> Associated GWAS: GWAS_EFO_1002013
+Entity: Transcript (ID: 16269181) -> Associated GWAS: GWAS_EFO_1002013
+Entity: Transcript (ID: 16269187) -> Associated GWAS: GWAS_EFO_1002013
+Entity: Transcript (ID: 16269193) -> Associated GWAS: GWAS_EFO_1002013
+Entity: Transcript (ID: 16269196) -> Associated GWAS: GWAS_EFO_1002013
+Entity: Transcript (ID: 16269209) -> Associated GWAS: GWAS_EFO_1002013
+Entity: Non Coding RNA (ID: 17362183) -> Associated GWAS: GWAS_EFO_0000614, GWAS_EFO_0004847, GWAS_HP_0000545, GWAS_EFO_0005527, GWAS_EFO_0005530, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0007878, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0008409, GWAS_EFO_0004608, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0005611, GWAS_EFO_0007907, GWAS_EFO_1002013, GWAS_EFO_0007937, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0004608, GWAS_EFO_1002013
+Entity: ChromHMM State (ID: 19166194) -> Associated GWAS: GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0008409, GWAS_EFO_0004608, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0005611, GWAS_EFO_0007907, GWAS_EFO_1002013, GWAS_EFO_0007937, GWAS_EFO_1002013
+Entity: ChromHMM State (ID: 19748538) -> Associated GWAS: GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0008409, GWAS_EFO_0004608, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0005611, GWAS_EFO_0007907, GWAS_EFO_1002013, GWAS_EFO_0007937, GWAS_EFO_1002013
+Entity: ChromHMM State (ID: 20310722) -> Associated GWAS: GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0005611, GWAS_EFO_0007907, GWAS_EFO_1002013, GWAS_EFO_0007937, GWAS_EFO_1002013
+Entity: ChromHMM State (ID: 20904824) -> Associated GWAS: GWAS_EFO_1002013
+Entity: ChromHMM State (ID: 21519097) -> Associated GWAS: GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0008409, GWAS_EFO_0004608, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0005611, GWAS_EFO_0007907
+Entity: ChromHMM State (ID: 22142854) -> Associated GWAS: GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0008409, GWAS_EFO_0004608, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_1002013, GWAS_EFO_0005611, GWAS_EFO_0007907, GWAS_EFO_1002013, GWAS_EFO_0007937, GWAS_EFO_1002013
+Entity: ChromHMM State (ID: 22733240) -> Associated GWAS: GWAS_EFO_1002013, GWAS_EFO_0008409, GWAS_EFO_0004608, GWAS_EFO_1002013
+Entity: chr_chain (ID: 342672) -> Associated GWAS: GWAS_EFO_1002013
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 16245
+• Pathogenic/Likely Pathogenic: 753
+• Benign/Likely Benign: 5417
+• Uncertain Significance: 10053
+• Other Classifications: 22
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Hereditary pancreatitis (n=8726)
+• Hereditary pancreatitis|not specified (n=395)
+• not specified|Hereditary pancreatitis (n=224)
+• Hereditary pancreatitis|not provided (n=109)
+• not provided|Hereditary pancreatitis|not specified (n=85)
+• Inborn genetic diseases (n=52)
+• not provided|Hereditary pancreatitis (n=48)
+• Hereditary pancreatitis|not provided|PRSS1-related disorder (n=42)
+• not specified|Hereditary pancreatitis|not provided (n=28)
+• Hereditary pancreatitis|not provided|not specified (n=15)
+• Hereditary pancreatitis|Recurrent pancreatitis|not provided (n=12)
+• Hereditary pancreatitis|Myoepithelial tumor|Vitamin D-dependent rickets type II with alopecia|Trypsinogen deficiency (n=12)
+• Hereditary pancreatitis|Hereditary pancreatitis (n=12)
+• Trypsinogen deficiency (n=12)
+• PRSS1-related disorder|Hereditary pancreatitis (n=11)
+• Hyperparathyroidism, transient neonatal (n=11)
+• Inborn genetic diseases|not provided (n=10)
+• not provided|Inborn genetic diseases (n=8)
+• Hyperparathyroidism, transient neonatal|not provided (n=5)
+• Kell blood group system (n=5)
+• See cases (n=3)
+• Pancreatitis, chronic, protection against (n=2)
+• Vein of Galen aneurysmal malformation (n=2)
+• Myoepithelial tumor (n=1)
+• Slender long bone (n=1)
+• Hyperparathyroidism (n=1)
+• Embryonic calcium dysregulation (n=1)
+• Metaphyseal fractures (n=1)
+• Hyperparathyroidism, transient neonatal|Inborn genetic diseases|not provided (n=1)
+• Inborn genetic diseases|Hyperparathyroidism, transient neonatal|not provided (n=1)
+• Keratoconus (n=1)
+• Renal Calcium Wasting Hypercalciuria (n=1)
+• not provided|not specified (n=1)
+• Kell blood group system|not specified (n=1)
+• KELL-NULL PHENOTYPE (n=1)
+
+

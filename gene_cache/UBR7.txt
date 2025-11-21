@@ -1,0 +1,76 @@
+UBR7 Gene Biomedical Dossier
+### **Gene Dossier: UBR7**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 20344.
+*   **OMIM Gene ID**: 613816.
+*   **Primary Disease Associations**: Li-Campeau syndrome (LICAS) (OMIM Phenotype: 619189). It is also associated with non-specific syndromic intellectual disability (ORPHA:528084).
+*   **Clinical Significance Level**: The association between *UBR7* and Li-Campeau syndrome is established, though based on a small number of reported individuals.
+*   **Inheritance Patterns Observed in Patients**: Autosomal recessive.
+
+**Constraint & Variant Intolerance**
+*   **gnomAD v2.1.1 Scores**: pLI = 0.00, LOEUF = 1.05.
+*   **Clinical Interpretation of Constraint Scores**: The pLI and LOEUF scores indicate that the gene is tolerant to heterozygous loss-of-function (LoF) variants in the general population. This is consistent with its established autosomal recessive mode of inheritance.
+*   **Variant Classes Most Likely to be Pathogenic**: Bi-allelic loss-of-function variants (e.g., nonsense, frameshift, canonical splice site) are the expected pathogenic variant class.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms**:
+    *   Global developmental delay.
+    *   Intellectual disability.
+    *   Seizures / Epilepsy.
+    *   Ptosis.
+    *   Hypothyroidism.
+    *   Hypotonia.
+    *   Cryptorchidism.
+*   **Secondary HPO Terms**:
+    *   Genital anomalies (e.g., small penis).
+    *   Short stature.
+    *   Cardiac anomalies (variable, e.g., atrial septal defect).
+    *   Brain imaging anomalies (e.g., cortical atrophy).
+*   **Age of Onset Patterns**: The age of onset appears to be in infancy or early childhood, with developmental delay noted early in life.
+*   **Phenotype Severity Spectrum**: The severity appears to be moderate to severe, involving significant neurodevelopmental and multi-systemic features.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Bi-allelic loss-of-function variants have been consistently associated with Li-Campeau syndrome.
+*   **Protein Domain-specific Phenotype Patterns**: Insufficient data exists to correlate variants in specific domains (e.g., UBR-box, PHD finger) with distinct phenotypes.
+*   **Genotype-Phenotype Correlation Strength**: The correlation between bi-allelic LoF variants and the core features of Li-Campeau syndrome is considered strong based on current evidence.
+
+**Clinical Variants & Phenotype Associations**
+*   **ClinVar Pathogenic Variants**:
+    *   **c.556del (p.Ile186fs)**: Frameshift / Likely pathogenic for Li-Campeau syndrome / AF (gnomAD): 0.
+    *   **c.852+1G>A**: Splice donor / Pathogenic for Li-Campeau syndrome / AF (gnomAD): 0.
+    *   **c.109C>T (p.Arg37*)**: Nonsense / Pathogenic for Li-Campeau syndrome / AF (gnomAD): 0.
+    *   **c.346_349del (p.Ser116fs)**: Frameshift / Likely pathogenic for Li-Campeau syndrome / AF (gnomAD): 0.
+    *   **c.835C>T (p.Gln279*)**: Nonsense / Pathogenic for Li-Campeau syndrome / AF (gnomAD): 0.
+    *   **Note**: Somatic variants, such as c.292C>T (p.Arg98Cys), have been reported in conditions like malignant melanoma but are not associated with the germline syndrome.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: GTEx data shows widespread expression, with higher levels in the testis, skeletal muscle, and retina. Expression is also noted in the brain and thyroid.
+*   **Tissue-specific Phenotypes Expected**: High expression in the brain is consistent with the neurodevelopmental phenotype (intellectual disability, seizures). Expression in the testis aligns with the observed male genital anomalies. Thyroid expression may relate to hypothyroidism.
+*   **Expression During Development**: The gene is expressed starting early in embryonic development, consistent with its role in a congenital disorder.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: UBR7 is an E3 ubiquitin-protein ligase, a component of the N-end rule pathway that recognizes and targets proteins for degradation.
+*   **Disease Mechanism**: The mechanism for Li-Campeau syndrome is loss-of-function resulting from bi-allelic pathogenic variants, consistent with haploinsufficiency not being the primary mechanism.
+*   **Cellular/Molecular Pathways Disrupted**: Disruption of UBR7 function impairs the Notch signaling pathway, a critical pathway for development. UBR7 also functions as a histone H2B monoubiquitin ligase and an H3 chaperone, suggesting that epigenetic dysregulation contributes to the phenotype.
+*   **Protein-protein Interactions Relevant to Phenotype**: UBR7 interacts with UBR5 in the Notch signaling pathway. It also interacts with histones and the histone chaperone NASP, linking it to chromatin regulation.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: The diagnostic yield of *UBR7* testing in specific cohorts is not yet established in the literature.
+*   **Most Common Reasons for Testing**: Testing for *UBR7* is indicated for individuals presenting with a constellation of features including intellectual disability, seizures, ptosis, and hypothyroidism.
+*   **Clinical Actionability and Management Implications**: Management is supportive and targeted at specific symptoms, such as anti-epileptic drugs for seizures and hormone replacement for hypothyroidism.
+*   **Genetic Counseling Considerations**: As an autosomal recessive condition, parents of an affected individual are obligate carriers. The recurrence risk for future pregnancies is 25%.
+
+**Key Clinical Literature & Studies**
+*   **Li, D. et al. (2021), *Am J Hum Genet*. PMID: 33340455**: This landmark paper first described the neurodevelopmental syndrome caused by bi-allelic *UBR7* variants in seven individuals, defining the core phenotype and linking the pathology to the Notch signaling pathway.
+*   **Adhikary, S. et al. (2019), *Nat Commun*. PMID: 30923303**: This study established UBR7 as a histone H2B monoubiquitin ligase that acts as a tumor suppressor in breast cancer, revealing a role in epigenetic regulation.
+*   **Hogan, A.K. et al. (2021), *EMBO J*. PMID: 34661329**: This research characterized UBR7 as a histone chaperone for post-nucleosomal histone H3, further defining its function in nuclear and chromatin biology.
+*   **Yang, H. et al. (2022), *Cell Death Discov*. PMID: 36424316**: Showed that UBR7 inhibits hepatocellular carcinoma (HCC) tumorigenesis, highlighting a role in cancer through metabolic and signaling pathways.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: Bi-allelic loss-of-function variants (nonsense, frameshift, splice site) are strongly associated with Li-Campeau syndrome, characterized by global developmental delay, epilepsy, ptosis, and hypothyroidism.
+*   **Phenotype Red Flags**: The combination of intellectual disability, ptosis, hypothyroidism, and seizures should strongly prompt consideration of *UBR7* variants.
+*   **Differential Diagnosis Considerations**:
+    *   **Johanson-Blizzard syndrome (*UBR1*)**: Overlaps with intellectual disability but is distinguished by exocrine pancreatic insufficiency and hypoplasia of nasal alae, and the absence of epilepsy.
+    *   **KAT6B-related disorders**: Show some clinical overlap, suggesting a potential shared pathway involving histone modification.
+

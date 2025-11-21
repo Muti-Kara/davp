@@ -1,0 +1,94 @@
+ZDHHC11 Gene Biomedical Dossier
+### Gene Dossier: ZDHHC11
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**
+    *   HGNC Symbol: ZDHHC11.
+    *   Full Gene Name: ZDHHC palmitoyltransferase 11.
+    *   Other Names: ZNF399.
+    *   OMIM Gene ID: Not explicitly found in search results.
+    *   Primary Associations: No definitive Mendelian disease is currently associated with ZDHHC11; however, it is implicated in oncogenesis and immune response.
+*   **Clinical significance level**
+    *   Evidence for a monogenic Mendelian disorder is not established.
+    *   Associations have been reported with progression of bladder cancer (via gain of 5p15.33), Burkitt lymphoma, and susceptibility to pancreatic cancer through GWAS.
+*   **Inheritance patterns observed in patients**
+    *   No Mendelian inheritance patterns have been described in the provided search results.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**
+    *   Specific numeric constraint scores for ZDHHC11 were not found in the provided search results.
+*   **Clinical interpretation of constraint scores**
+    *   The pLI (probability of being loss-of-function intolerant) score estimates the likelihood a gene is intolerant to heterozygous LoF variants; a score ≥ 0.9 suggests a gene is likely haploinsufficient.
+    *   The LOEUF (loss-of-function observed/expected upper-bound fraction) score is a continuous metric of a gene's intolerance to LoF variation; lower scores indicate greater intolerance.
+    *   pRec indicates the probability of being intolerant to homozygous, but not heterozygous, LoF variants.
+*   **Variant classes most likely to be pathogenic**
+    *   As no established Mendelian disease is linked to ZDHHC11, the variant classes most likely to be pathogenic are unknown.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   No specific HPO terms are currently associated with germline variants in ZDHHC11 based on the provided search results.
+*   **Secondary HPO terms**
+    *   No secondary HPO terms are associated with ZDHHC11 in the provided search results.
+*   **Age of onset patterns**
+    *   Not applicable as no Mendelian disease has been defined.
+*   **Phenotype severity spectrum**
+    *   Not applicable as no Mendelian disease has been defined.
+
+**Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**
+    *   Gain of the chromosomal region 5p15.33, which includes ZDHHC11, has been associated with disease progression in bladder cancer.
+*   **Protein domain-specific phenotype patterns**
+    *   The DHHC domain is required for palmitoyltransferase activity.
+    *   A palmitoyltransferase activity-independent function, acting as an adapter protein, is critical for its role in the innate immune response.
+*   **Genotype-phenotype correlation strength**
+    *   Correlations for a Mendelian phenotype are not established.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic germline variants in ZDHHC11 associated with a specific Mendelian phenotype were identified in the provided search results.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation**
+    *   Based on GTEx RNA-seq data, ZDHHC11 shows expression in a wide range of tissues, including the lung, uterus, spleen, liver, skin, and brain.
+    *   Expression in tissues like the spleen is consistent with its documented role in the immune system.
+*   **Tissue-specific phenotypes expected**
+    *   Given its role in NF-κB and STING signaling, altered function could lead to tissue-specific inflammatory or autoimmune phenotypes.
+    *   Aberrant expression in specific tissues may contribute to cancer development, such as Burkitt lymphoma and bladder cancer.
+*   **Expression during development and age-related phenotypes**
+    *   Information on expression during human fetal development is available but specific age-related phenotypes are not defined.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function in one sentence**
+    *   ZDHHC11 is an endoplasmic reticulum-localized enzyme that functions as a palmitoyltransferase and as an adapter protein in innate immune signaling pathways.
+*   **Disease mechanism**
+    *   In cancer, it is a target of the MYC-miR-150-MYB network, where it helps maintain high levels of the MYB oncogene, promoting proliferation in Burkitt lymphoma.
+    *   In the immune system, the mechanism appears to be related to protein-protein interactions rather than enzymatic activity.
+*   **Cellular/molecular pathways disrupted → phenotype consequences**
+    *   Functions as a positive modulator of NF-κB signaling by interacting with TRAF6, enhancing its oligomerization and E3 ligase activity, which is crucial for inflammatory responses.
+    *   Acts as an adapter to recruit IRF3 to STING1, promoting the activation of type I interferon responses against DNA viruses.
+    *   Involved in palmitoylating neurochondrin (NCDN), which regulates NCDN's association with endosome membranes.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**
+    *   Not applicable, as ZDHHC11 is not currently associated with a defined Mendelian disorder for which clinical testing is performed.
+*   **Most common reasons for testing this gene**
+    *   Testing is currently relegated to a research setting, primarily for studies on cancer biology and immunology.
+*   **Clinical actionability and management implications**
+    *   There are no current clinical management guidelines related to ZDHHC11 variants.
+*   **Genetic counseling considerations**
+    *   Not applicable until a clear disease association is established.
+
+**Key Clinical Literature & Studies**
+*   **Liu Y, et al. *Sci Rep*. 2024 (PMID: 38627588)**: Found that circular ZDHHC11 supports the growth of Burkitt lymphoma.
+*   **Hu D, et al. *Viruses*. 2023 (PMID: 36680184)**: Reported that ZDHHC11 suppresses Zika virus infections by palmitoylating the envelope protein.
+*   **Liu E, et al. *Front Cell Dev Biol*. 2021 (PMID: 34490261)**: Identified ZDHHC11 as a positive regulator of NF-κB activation by enhancing the oligomerization and activity of TRAF6.
+*   **Dzikiewicz-Krawczyk A, et al. *Leukemia*. 2017 (PMID: 28331227)**: Described ZDHHC11 as a critical component of the oncogenic MYC-miR-150-MYB network in Burkitt lymphoma.
+*   **Yamamoto Y, et al. *Oncology*. 2007 (PMID: 18025801)**: Showed that gain of chromosome 5p15.33, containing ZDHHC11, is associated with the progression of bladder cancer.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**
+    *   There are currently no known high-confidence associations between HPO terms and ZDHHC11 variants.
+*   **Phenotype red flags**
+    *   While not HPO terms, a patient presentation involving certain cancers (Burkitt lymphoma, bladder) or altered responses to viral infections could suggest a research-level interest in ZDHHC11 function.
+*   **Differential diagnosis considerations**
+    *   Not applicable without a defined, associated clinical syndrome.
+

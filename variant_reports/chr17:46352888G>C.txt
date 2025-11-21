@@ -1,0 +1,78 @@
+=== chr17:46352888G>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs35595570
+• Chromosome: 17
+• Position: 46352888
+• Reference Allele (REF): G
+• Alternative Allele (ALT): C
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: ARL17B
+• Databases: rs35595570, COSV71352011
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1067
+• gnomADg Allele Frequency: 0.09987000000000001
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0000249: obsolete_Alzheimer's disease - A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting in late middle age and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.|A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.|A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)|A dementia which is an incurable disease of unknown cause, starting in late middle age or in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, that leads in advanced cases to a profound decline in cognitive and physical functioning, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+GWAS_EFO_0009594: irritability measurement - Quantification of whether an individual feels or felt irritable.
+GWAS_EFO_0000305: breast carcinoma - A carcinoma that arises from epithelial cells of the breast
+GWAS_EFO_0009595: guilt measurement - Quantification of whether an individual feels or felt guilty.
+GWAS_EFO_0005674: white matter microstructure measurement - quantification of the microstructre of the white matter of the brain
+GWAS_EFO_0008475: mood instability measurement - Quantifiication of some aspect of mood instability.
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0005763: pulse pressure measurement - quantification of the difference between systolic blood pressure and diastolic blood pressure. Higher PP is associated with left ventricle hypertrophy and the increased intimal thickness of the carotid artery, which represent early target organ damage in cardiovascular diseases
+GWAS_EFO_0007660: neuroticism measurement - Quantification of some aspect of neuroticism or neurotic behaviour, such as severity or frequency of neurotic behaviour. This is usually assessed via a standardised questionnaire.
+GWAS_GO_0007608: sensory perception of smell - None
+GWAS_EFO_0009588: feeling "fed-up\" measurement - Quantification of whether an individual feels or felt "fed-up".
+GWAS_EFO_0004191: androgenetic alopecia - None
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0004591: obsolete_childhood onset asthma - Asthma that starts in childhood.
+GWAS_EFO_0008393: reaction time measurement - In psychology, the quantification of the interval of time between the presentation of a stimulus to a subject and the beginning of the subject's response to that stimulus. Several categories of reaction time, such as simple reaction time and choice reaction time, have been established and studied in experimental psychology to assess general alertness and motor speed.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16178314) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009594, GWAS_EFO_0000305, GWAS_EFO_0009595, GWAS_EFO_0005674, GWAS_EFO_0008475, GWAS_EFO_0006335, GWAS_EFO_0005763, GWAS_EFO_0007660, GWAS_GO_0007608, GWAS_EFO_0009588, GWAS_EFO_0004191, GWAS_EFO_0004337, GWAS_EFO_0004591, GWAS_EFO_0008393, GWAS_EFO_0004509
+Entity: Transcript (ID: 16375930) -> Associated GWAS: GWAS_EFO_0007660, GWAS_GO_0007608, GWAS_EFO_0009588, GWAS_EFO_0004191, GWAS_EFO_0004337, GWAS_EFO_0004591, GWAS_EFO_0008393, GWAS_EFO_0004509
+Entity: Transcript (ID: 16375925) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009594, GWAS_EFO_0000305, GWAS_EFO_0009595, GWAS_EFO_0005674, GWAS_EFO_0008475, GWAS_EFO_0006335, GWAS_EFO_0005763, GWAS_EFO_0007660, GWAS_GO_0007608, GWAS_EFO_0009588, GWAS_EFO_0004191, GWAS_EFO_0004337, GWAS_EFO_0004591, GWAS_EFO_0008393, GWAS_EFO_0004509
+Entity: Transcript (ID: 16375939) -> Associated GWAS: GWAS_EFO_0004509
+Entity: Transcript (ID: 16375948) -> Associated GWAS: GWAS_EFO_0004509
+Entity: Transcript (ID: 16375957) -> Associated GWAS: GWAS_EFO_0004509
+Entity: Transcript (ID: 16375961) -> Associated GWAS: GWAS_EFO_0004509
+Entity: Transcript (ID: 16375953) -> Associated GWAS: GWAS_EFO_0004509
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 604
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 122
+• Uncertain Significance: 482
+• Other Classifications: 0
+

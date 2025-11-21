@@ -1,0 +1,86 @@
+=== chr15:32168284C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs2253967
+• Chromosome: 15
+• Position: 32168284
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CHRNA7
+• Databases: rs2253967, COSV60967400
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.20470000000000002
+• gnomADg Allele Frequency: 0.1467
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005530: Trypanosoma cruzi seropositivity - Trypanosoma cruzi seropositivity is the result of a measurement of circulating T. cruzi specific antibodies 
+GWAS_EFO_0004462: PR interval - A PR interval is an  electrocardiography measurement which measures from the beginning of the P wave to the beginning of the QRS complex in the heart's electrical cycle
+GWAS_EFO_0009700: visual perception measurement - Quantification of some aspect of visual perception.
+GWAS_EFO_0009262: nicotine dependence symptom count - Quantification of symptom associated with nicotine dependence.
+GWAS_EFO_0003095: non-alcoholic fatty liver disease - A term referring to fatty replacement of the hepatic parenchyma which is not related to alcohol use.
+GWAS_HP_0001395: Hepatic fibrosis - The presence of excessive fibrous connective tissue in the liver. Fibrosis is a reparative or reactive process.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Non Coding RNA (ID: 17135989) -> Associated GWAS: GWAS_EFO_0005530, GWAS_EFO_0004462, GWAS_EFO_0009700, GWAS_EFO_0009262, GWAS_EFO_0003095, GWAS_HP_0001395
+Entity: Non Coding RNA (ID: 17419897) -> Associated GWAS: GWAS_EFO_0005530, GWAS_EFO_0004462, GWAS_EFO_0009700, GWAS_EFO_0009262, GWAS_EFO_0003095, GWAS_HP_0001395
+Entity: Non Coding RNA (ID: 17419899) -> Associated GWAS: GWAS_EFO_0009262, GWAS_EFO_0003095, GWAS_HP_0001395
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3574
+• Pathogenic/Likely Pathogenic: 380
+• Benign/Likely Benign: 1458
+• Uncertain Significance: 1673
+• Other Classifications: 63
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=508)
+• Chromosome 15q13.3 microdeletion syndrome (n=27)
+• not provided|not specified (n=27)
+• Intellectual disability (n=24)
+• Epilepsy, idiopathic generalized, susceptibility to, 7 (n=19)
+• OTUD7A-related disorder (n=14)
+• Epilepsy (n=8)
+• Autism spectrum disorder (n=8)
+• OTUD7A-related disorder|not specified (n=4)
+• Gestational diabetes mellitus uncontrolled (n=3)
+• 15q11q13 microduplication syndrome (n=2)
+• Congenital heart disease (n=2)
+• Non-syndromic intellectual disability (n=2)
+• Neurodevelopmental disorder with hypotonia and seizures (n=2)
+• Neurodevelopmental disorder (n=2)
+• Specific learning disability|Language disorder (n=2)
+• Epileptic encephalopathy (n=2)
+• Severe global developmental delay|Neurodevelopmental disorder with hypotonia and seizures (n=2)
+• not specified|not provided (n=2)
+• Familial colorectal cancer (n=2)
+
+

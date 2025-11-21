@@ -1,0 +1,60 @@
+WASHC2A Gene Biomedical Dossier
+### **Gene Dossier: WASHC2A**
+
+#### **Gene Identity & Clinical Context**
+*   **HGNC ID:** WASHC2A
+*   **OMIM Gene ID:** No OMIM phenotype or disease is currently associated with this gene.
+*   **Primary Disease Associations:** Associated with Expressive Language Disorder, though evidence is not definitive.
+*   **Clinical Significance Level:** The clinical significance is not yet fully established; there are no definitive, strong, or moderate disease associations in major clinical databases based on the available information.
+*   **Inheritance Patterns:** Inheritance patterns have not been clearly established due to the lack of a well-defined associated Mendelian disease.
+
+#### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint scores for WASHC2A were not available in the retrieved search results. General gnomAD documentation indicates that LOEUF < 0.6 is a recommended threshold for defining loss-of-function constrained genes in v4.0.
+*   **Clinical Interpretation of Constraint Scores:** Without specific scores, it is not possible to determine if WASHC2A is intolerant to loss-of-function variation. This metric is crucial for interpreting the potential pathogenicity of newly discovered variants.
+*   **Variant Classes Most Likely to be Pathogenic:** In the absence of constraint data and known pathogenic variants, the variant classes most likely to be pathogenic cannot be definitively determined. Analysis would follow standard interpretation guidelines, considering the molecular function of the protein.
+
+#### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No comprehensive list of HPO terms linked to WASHC2A variants in humans is available in the search results. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities but requires curation for specific genes.
+*   **Secondary HPO terms:** Mouse models (MGI) suggest phenotypes such as "mortality/aging" and "embryo phenotype". RNAi screens in human cells suggest roles in centriole number and viral infection.
+*   **Age of Onset Patterns:** Not established in humans.
+*   **Phenotype Severity Spectrum:** Not established in humans.
+
+#### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** There are currently no established correlations between specific WASHC2A variant classes (e.g., missense vs. truncating) and human phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific phenotype patterns have been linked to variants in different domains of the WASHC2A protein.
+*   **Genotype-Phenotype Correlation Strength:** The strength of genotype-phenotype correlation for WASHC2A is currently unknown due to a lack of reported cases with clear clinical phenotypes.
+*   **Examples: specific variants → specific phenotypes:** No examples of specific WASHC2A variants leading to defined phenotypes in humans are available in the search results.
+
+#### **Clinical Variants & Phenotype Associations**
+*   **Well-Characterized Pathogenic Variants:** There are no well-characterized pathogenic or likely pathogenic variants for WASHC2A listed in the provided ClinVar search results. UniProt notes 1,310 variants from sources including ClinVar and dbSNP, but their clinical significance is largely unknown.
+*   **Variants with Strongest Phenotype Evidence:** No variants with strong evidence for causing a specific phenotype have been documented in the search results. DECIPHER lists matching patient variants but does not provide open-access details on the associated phenotypes.
+*   **Novel Variants from Recent Case Reports:** No recent case reports detailing novel pathogenic WASHC2A variants and associated phenotypes were identified in the searches.
+
+#### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** WASHC2A shows eQTL evidence in Skin (Sun Exposed, Lower leg), Cells (Transformed fibroblasts), Muscle (Skeletal), and Artery (Tibial). The GTEx project provides a comprehensive resource for studying tissue-specific gene expression and its link to genetic variation.
+*   **Tissue-Specific Phenotypes Expected:** Given its expression pattern, variants in WASHC2A could potentially manifest in phenotypes affecting the skin, muscle, or vascular systems, but this is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Studies have noted tissue-specific changes in gene expression during human fetal development and aging, though specific data for WASHC2A was not detailed.
+
+#### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** WASHC2A is a component of the WASH core complex, which regulates actin polymerization at the surface of endosomes, playing a key role in endosomal sorting and trafficking of proteins.
+*   **Disease Mechanism:** The disease mechanism for WASHC2A variants has not been elucidated. Given its role in a protein complex, haploinsufficiency is a potential mechanism for loss-of-function variants.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is involved in endocytosis and retrograde transport from the endosome to the Golgi. Disruption could impair the recycling of critical surface proteins, such as the glucose transporter GLUT1, and other cargo handled by the SNX27-retromer pathway.
+*   **Protein-Protein Interactions Relevant to Phenotype:** WASHC2A recruits the WASH complex to endosomes by binding to phospholipids and the retromer component VPS35. It also interacts with Ku to localize to DNA double-strand break sites, suggesting a role in DNA repair.
+
+#### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for WASHC2A sequencing in clinical cohorts with developmental disorders or other phenotypes is unknown.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would likely occur as part of large gene panels or exome/genome sequencing for individuals with unexplained neurodevelopmental disorders or phenotypes overlapping with its known functions (e.g., endosomal trafficking disorders).
+*   **Clinical Actionability and Management Implications:** Currently, there are no established clinical actionability guidelines or specific management protocols related to WASHC2A variants.
+*   **Genetic Counseling Considerations:** Counseling would be challenging due to the uncertain clinical significance of variants. The lack of a defined disease association and inheritance pattern must be communicated.
+
+#### **Key Clinical Literature & Studies**
+*   **Wang T, et al. (PMID not in snippets) (2018):** Found that FAM21 (WASHC2A) interacts with Ku to promote the localization of the WASH complex to sites of DNA double-strand breaks.
+*   **Aleksic T, et al. (PMID not in snippets) (2018):** Identified FAM21A (WASHC2A) as a mediator of cell survival and IGF-induced migration in the context of cancer, suggesting a role in tumor progression.
+*   **Lee S, et al. (PMID not in snippets) (2016):** Showed that FAM21 (WASHC2A) directs SNX27-retromer cargoes to the plasma membrane, preventing their mis-sorting to the Golgi apparatus.
+*   **Simonetti B, et al. (PMID not in snippets) (2019):** Described the role of the WASH-retromer pathway, including WASHC2A, in the trafficking and recycling of the glucose transporter GLUT1.
+
+#### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** At present, there are no high-confidence associations between specific WASHC2A variants and specific HPO terms.
+*   **Phenotype Red Flags:** Given the gene's function, phenotypes related to endosomal trafficking disorders could be considered, but no specific "red flag" phenotypes have been established for WASHC2A.
+*   **Differential Diagnosis Considerations:** The differential diagnosis would be broad. It might include other genes involved in the WASH complex (WASHC1, WASHC3, WASHC4, WASHC5) or the retromer complex (VPS35, VPS26A, VPS26B, VPS29) and other disorders of intracellular trafficking.
+

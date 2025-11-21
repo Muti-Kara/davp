@@ -1,0 +1,71 @@
+MUC17 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID**: HGNC:16800.
+*   **OMIM Gene ID**: 608424.
+*   **Primary Disease Associations**: No definitive Mendelian disease has been associated with germline variants in MUC17. Polymorphisms are associated with endometriosis and related infertility. Somatic mutations and methylation changes are associated with prognosis in several cancers, including adult-type diffuse gliomas and gastric cancer.
+*   **Clinical Significance Level**: For Mendelian disease, evidence is absent/limited. For complex/multifactorial disease (endometriosis), evidence is emerging from association studies. For somatic cancer prognosis, evidence is emerging.
+*   **Inheritance Patterns**: No Mendelian inheritance patterns have been reported.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: The gnomAD constraint scores for MUC17 were not available in the provided search results. These metrics quantify a gene's tolerance to variation; a high pLI (e.g., >0.9) or low LOEUF (e.g., <0.6) suggests a gene is intolerant to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores**: The absence of a clear Mendelian disease phenotype associated with MUC17 suggests it may be tolerant of heterozygous loss-of-function variants.
+*   **Variant Classes Most Likely to be Pathogenic**: Somatic mutations and epigenetic modifications (methylation) have been associated with poor prognosis in cancers like adult diffuse glioma. Certain missense polymorphisms (SNPs) are associated with risk for complex diseases like endometriosis.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No HPO terms are definitively associated with a monogenic MUC17-related disorder. The following phenotypes are associated with MUC17 polymorphisms in the context of endometriosis:
+    *   Infertility (HP:0000789).
+    *   Dysmenorrhea (HP:0012193).
+*   **Secondary HPO terms**: No secondary HPO terms associated with a monogenic disorder have been documented.
+*   **Age of Onset Patterns**: Not applicable for a monogenic disorder. In adult diffuse gliomas, somatic MUC17 mutations occur more frequently in patients over 40 in low-grade glioma and under 60 in glioblastoma.
+*   **Phenotype Severity Spectrum**: Not applicable for a monogenic disorder. In cancer, MUC17 mutations and methylation are associated with a poorer prognosis and increased malignancy grade.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**:
+    *   **Polymorphisms (SNPs)**: Associated with endometriosis and related infertility. The 'A' allele at rs10953316 is associated with a protective effect against endometriosis, correlating with lower MUC17 protein levels.
+    *   **Somatic Mutations**: Associated with poorer prognosis in adult-type diffuse glioma and glioblastoma.
+    *   **Epigenetic (Methylation)**: Increased MUC17 promoter methylation is associated with H. pylori infection, MUC17 downregulation, and gastric cancer progression. Increased MUC17 methylation also correlates with increased malignancy in gliomas.
+*   **Protein Domain-Specific Phenotype Patterns**: The function of MUC17 in gastric cancer is dependent on its conserved epidermal growth factor (EGF) domain and downstream sequences that interact with myosin-9 (MYH9).
+*   **Genotype-Phenotype Correlation Strength**: For complex traits like endometriosis, the correlation is based on association studies (weak to moderate). For somatic mutations in cancer, the correlation with prognosis is moderate.
+
+### **Clinical Variants & Phenotype Associations**
+*   The following are risk alleles from association studies, not variants causing Mendelian disease.
+*   **rs10953316 (A-allele)**: Benign/Risk Allele / Associated with reduced risk of endometriosis / Allele frequency varies by population.
+*   **rs4729655 (T-allele)**: Benign/Risk Allele / Associated with protection against endometriosis-induced infertility but higher CA125 levels.
+*   **rs11979706 (CC genotype)**: Benign/Risk Allele / Associated with a lower risk of dysmenorrhea in endometriosis patients.
+*   **Variants with Strongest Phenotype Evidence**: The strongest evidence links specific SNPs to endometriosis susceptibility and related symptoms in certain populations. Somatic mutations are correlated with prognosis in specific cancers.
+*   **Novel Variants from Recent Case Reports**: No case reports describing pathogenic germline variants were identified.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: MUC17 is highly expressed in intestinal tissues, particularly the duodenum and transverse colon. It is also expressed in the stomach.
+*   **Tissue-Specific Phenotypes Expected**: High expression in the gastrointestinal tract aligns with its role in maintaining mucosal barrier integrity. Decreased expression is observed in inflammatory bowel disease (ulcerative colitis, ischemic colitis) and colon cancer, suggesting a protective role in the colon.
+*   **Expression During Development**: Expression has been noted in the fetal kidney.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: MUC17 is a membrane-bound mucin that plays a role in maintaining homeostasis and providing cytoprotection on mucosal surfaces, particularly by enhancing the intestinal epithelial barrier against pathogens.
+*   **Disease Mechanism**: In cancer, the mechanism appears to be a loss of MUC17's protective function, often via epigenetic downregulation or somatic mutation. This disrupts cellular signaling and barrier integrity.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**:
+    *   **Epithelial Barrier Function**: MUC17 protects against bacterial invasion (e.g., enteroinvasive E. coli) by stabilizing tight-junction proteins like occludin and ZO-1.
+    *   **NF-κB Signaling**: In gastric cancer cells, MUC17 inhibits the NF-κB pathway in response to inflammatory cytokines, a function that is lost upon MUC17 downregulation, leading to increased proliferation. This involves a regulatory loop with MYH9, p53, and RhoA.
+*   **Protein-Protein Interactions Relevant to Phenotype**: MUC17 interacts with MYH9 (myosin-9) as part of a regulatory feedback loop that influences the p53 and RhoA pathways.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: Not applicable for Mendelian disease diagnosis. There is currently no established diagnostic yield for MUC17 testing in a germline context.
+*   **Most Common Reasons for Testing**: Testing is currently performed in a research context to study susceptibility to complex diseases like endometriosis or for prognostic stratification in cancers like glioma.
+*   **Clinical Actionability and Management Implications**: MUC17 is being investigated as a therapeutic target for gastric and gastroesophageal junction cancer. A phase I clinical trial (NCT04117958) is evaluating an antibody-drug conjugate (AMG 199) that targets MUC17-positive tumors.
+*   **Genetic Counseling Considerations**: Counseling would focus on the distinction between variants causing monogenic disease and risk alleles for complex traits or somatic variants for cancer prognosis.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 37562166, 2023**: Showed for the first time that MUC17 mutations and methylation are associated with poor prognosis in adult-type diffuse glioma patients.
+*   **PMID: 37494441, 2023**: Described how MUC17 downregulation by H. pylori infection facilitates NF-κB-mediated expression of CEACAM1-3S, promoting gastric cancer.
+*   **Preprint, 2023**: Reported that somatic MUC17 mutations are frequent in adult gliomas, correlate with increased tumor grade, and predict poor prognosis in both low-grade glioma and glioblastoma.
+*   **PMID: 26287625, 2015**: A key study establishing that genetic polymorphisms in MUC17 are associated with the development of endometriosis and related infertility in a Taiwanese population.
+*   **PMID: 21357640, 2011**: Demonstrated that MUC17 protects intestinal epithelial cells from enteroinvasive E. coli infection by enhancing epithelial barrier integrity.
+*   **PMID: 17292850, 2007**: Showed that MUC17 expression is significantly decreased in inflammatory and neoplastic diseases of the colon, including ulcerative colitis and colon cancer.
+*   **PMID: 29555985, 2018**: Showed MUC17 inhibits gastric cancer progression by limiting inflammatory responses through a MYH9-p53-RhoA regulatory feedback loop.
+*   **Article, 2025 (in press)**: A study in a Central Plains Chinese population found MUC17 polymorphisms were not correlated with endometriosis susceptibility but were associated with secondary dysmenorrhea and infertility.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: There are no high-confidence associations for variants causing Mendelian disease. For complex traits, certain SNPs (e.g., rs10953316, rs4729655) are associated with endometriosis-related phenotypes like Infertility (HP:0000789) and Dysmenorrhea (HP:0012193).
+*   **Phenotype Red Flags**: There are no established phenotype red flags for a germline MUC17 disorder. In a somatic context, alterations in MUC17 are a negative prognostic factor in gastric cancer and glioma.
+*   **Differential Diagnosis Considerations**: MUC17 is not currently included in the differential diagnosis of any known Mendelian syndrome.
+

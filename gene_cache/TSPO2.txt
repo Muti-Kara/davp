@@ -1,0 +1,67 @@
+TSPO2 Gene Biomedical Dossier
+### **Gene Dossier: TSPO2**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: HGNC:12386.
+*   **OMIM Gene ID**: 619409.
+*   **Primary Disease Associations**: No definitive disease association has been established in humans. Animal models suggest a role in erythropoiesis.
+*   **Clinical Significance Level**: Evidence for a role in human disease is currently limited and based on animal models.
+*   **Inheritance Patterns Observed**: The red blood cell trait in dogs with *TSPO2* mutations is recessive, though some dominant effects on erythropoiesis were observed in mouse models.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI score of 0.00, a LOEUF of 1.13, pRec of 0.84, and pNull of 1.
+*   **Clinical Interpretation of Constraint Scores**: The very low pLI score (<0.1) and high LOEUF score (>0.35) indicate that *TSPO2* is highly tolerant to loss-of-function variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to Be Pathogenic**: Given the tolerance to heterozygous loss-of-function variants, pathogenic variants would likely need to be biallelic (homozygous or compound heterozygous) loss-of-function variants.
+
+**Phenotype Spectrum & HPO Terms**
+*(Note: The following HPO terms are inferred from canine and murine models due to the lack of a defined human phenotype).*
+*   **Primary HPO Terms**:
+    *   Compensated hemolysis (HP:0012015)
+    *   Anisocytosis (HP:0004825)
+    *   Poikilocytosis (HP:0004826)
+    *   Reticulocytosis (HP:0001923)
+    *   Abnormality of erythrocyte morphology (HP:0001893)
+    *   Binucleated normoblasts (inferred from "binucleated erythroblasts") (HP:0030230)
+    *   Ineffective erythropoiesis (HP:0005545)
+*   **Secondary HPO Terms**:
+    *   Delayed erythroid maturation (inferred) (HP:0032549)
+    *   Increased erythrocyte osmotic fragility (HP:0005546)
+*   **Age of Onset Patterns**: Not established in humans. The phenotype is present from a young age in animal models.
+*   **Phenotype Severity Spectrum**: Not established in humans. Animal models show compensated anemia, suggesting a potentially mild phenotype.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: In animal models, homozygous loss-of-function variants result in impaired erythroblast maturation and compensated anemia with abnormal red blood cell morphology.
+*   **Protein Domain-Specific Phenotype Patterns**: The cholesterol-binding CRAC domain is essential for the protein's function in cholesterol trafficking; mutations in this domain are expected to disrupt function.
+*   **Genotype-Phenotype Correlation Strength**: The correlation between biallelic loss-of-function and erythropoietic defects is strong in animal models. This correlation is not yet established in humans.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants in *TSPO2* have been classified as pathogenic or likely pathogenic for a Mendelian disease in ClinVar.
+*   There are no well-characterized pathogenic variants with established phenotype associations in humans reported in the literature.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: The highest expression is noted in cells of the hematopoietic system, specifically in late-stage erythroblasts. GTEx data also shows some expression in tissues like the stomach, small intestine, and pancreas.
+*   **Tissue-Specific Phenotypes Expected**: Based on expression patterns, phenotypes would be expected to be restricted to the hematopoietic system, particularly affecting red blood cell development and function.
+*   **Expression During Development and Age-Related Phenotypes**: *TSPO2* expression is specifically upregulated during the terminal stages of erythroid differentiation. This suggests that any associated phenotype would be related to congenital defects in erythropoiesis.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: *TSPO2* binds cholesterol and mediates its redistribution from lipid droplets to the endoplasmic reticulum, which is essential during erythrocyte maturation.
+*   **Disease Mechanism**: Based on animal models, the disease mechanism is loss-of-function, leading to impaired cholesterol homeostasis in maturing erythroblasts.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: Disruption of TSPO2 function leads to cholesterol depletion in erythroblasts, causing a G2/M phase cell-cycle arrest, impaired cytokinesis (leading to binucleated cells), and delayed terminal differentiation and hemoglobinization. This results in the production of immature and morphologically abnormal red blood cells.
+*   **Protein-Protein Interactions Relevant to Phenotype**: *TSPO2* is a paralog of *TSPO*, but has distinct functions and localization to the endoplasmic reticulum and nuclear membranes, whereas TSPO is primarily mitochondrial.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield is unknown and likely zero, as *TSPO2* is not currently recognized as a human disease gene.
+*   **Most Common Reasons for Testing This Gene**: Testing for this gene would be considered investigational in cases of unexplained congenital dyserythropoietic anemia or other inherited red blood cell disorders after more common causes have been excluded.
+*   **Clinical Actionability and Management Implications**: There is no known clinical actionability or specific management based on *TSPO2* variants.
+*   **Genetic Counseling Considerations**: Counseling would be based on the uncertain role of this gene in human disease. If biallelic loss-of-function variants were identified in a patient with a compatible phenotype, counseling could mention the animal model data and the possibility of an autosomal recessive inheritance pattern.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 24324157, 2013**: Landmark study identifying *TSPO2* mutations as the cause for an immature red cell phenotype (high-K+ trait) in dogs and describing a knockout mouse model with similar defects, establishing the gene's essential role in erythropoiesis.
+*   **PMID: 19729679, 2009**: First detailed characterization of TSPO2, identifying it as an erythroid-specific protein that binds cholesterol and is involved in its redistribution during erythrocyte maturation.
+*   **PMID: 29641571, 2018**: Analysis of genetic variants in the paralog *TSPO*, highlighting the functional divergence and providing context for understanding the TSPO protein family.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: No high-confidence associations exist for humans. In animal models, biallelic loss-of-function variants are strongly associated with phenotypes that can be mapped to HPO terms like Compensated hemolysis (HP:0012015), Binucleated normoblasts (HP:0030230), and Ineffective erythropoiesis (HP:0005545).
+*   **Phenotype Red Flags**: The presence of a congenital, non-immune hemolytic anemia combined with dyserythropoietic features, such as binucleated erythroblasts on a bone marrow smear, would be a strong indicator to consider *TSPO2* as a candidate research gene.
+*   **Differential Diagnosis Considerations**: The phenotype observed in animal models overlaps with congenital dyserythropoietic anemias (CDAs), particularly CDA Type I (CDAN1) and Type II (SEC23B), which also feature red cell membrane abnormalities and ineffective erythropoiesis.
+

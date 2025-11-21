@@ -1,0 +1,261 @@
+=== chr11:88508632A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs142032384
+• Chromosome: 11
+• Position: 88508632
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: GRM5
+• Databases: rs142032384, COSV59626606
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.000725
+• gnomADg Allele Frequency: 0.0006238
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007822: hair colour measurement - quantification of some aspect of hair colour, such as whether greying occurs, how advanced greying is or qualification to what colour family hair belongs
+GWAS_EFO_0005271: sleep duration - duration of sleep, measured either via a self-reporting questionnaire, interview or through obversation in a sleep lab
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0004723: coronary artery calcification - Calcification of the coronary artery, used as a measure of coronary atherosclerosis, a risk factor for myocardial infarction.
+GWAS_EFO_0005423: adolescent idiopathic scoliosis - A scoliosis with no known cause arising in adolescent.
+GWAS_EFO_0000180: HIV-1 infection - The type species of lentivirus and the etiologic agent of acquired immunodeficiency syndrome (AIDS). It is characterized by its cytopathic effect and affinity for the T4-lymphocyte.
+GWAS_EFO_0003959: cleft lip - Congenital defect in the upper lip where the maxillary prominence fails to merge with the merged medial nasal prominences. It is thought to be caused by faulty migration of the mesoderm in the head region.
+GWAS_EFO_0004279: suntan - An induced skin pigment ( MELANIN) darkening after exposure to SUNLIGHT or ULTRAVIOLET RAYS. The degree of tanning depends on the intensity and duration of UV exposure, and genetic factors.
+GWAS_EFO_0003958: sunburn - An inflammatory reaction from ultraviolet radiation characterized by transient redness, tenderness and occasional blistering.|An injury to the skin causing erythema, tenderness, and sometimes blistering and resulting from excessive exposure to the sun. The reaction is produced by the ultraviolet radiation in sunlight.
+GWAS_EFO_0009260: non-melanoma skin carcinoma - Any skin carcinoma that is not melanoma, with the most common types being basal cell carcinoma and squamous cell carcinoma
+GWAS_EFO_0007660: neuroticism measurement - Quantification of some aspect of neuroticism or neurotic behaviour, such as severity or frequency of neurotic behaviour. This is usually assessed via a standardised questionnaire.
+GWAS_EFO_0007869: wellbeing measurement - quantification of some aspect of wellbeing such as life satisfaction or emotional wellbeing, usually self-reported and quantified through the use of a structured questionnaire
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0000756: melanoma - A malignant, usually aggressive tumor composed of atypical, neoplastic melanocytes. Most often, melanomas arise in the skin (cutaneous melanomas) and include the following histologic subtypes: superficial spreading melanoma, nodular melanoma, acral lentiginous melanoma, and lentigo maligna melanoma. Cutaneous melanomas may arise from acquired or congenital melanocytic or dysplastic nevi. Melanomas may also arise in other anatomic sites including the gastrointestinal system, eye, urinary tract, and reproductive system. Melanomas frequently metastasize to lymph nodes, liver, lungs, and brain.
+GWAS_EFO_0009764: eye colour measurement - The quantification of some aspect of eye colour, such as hue, saturation or brightness.
+GWAS_EFO_0007009: skin pigmentation measurement - quantification of some aspect of skin pigmentation, such as saturation, darkness or skin sensitivity to sun
+GWAS_EFO_0003924: hair color - Color of hair or fur.
+GWAS_EFO_0008111: diet measurement - quantification of some aspect of diet, including diet patterns, balance of nutrient consumption and glycemic load
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0007876: insomnia measurement - quantification of insomnia such as how often it occurs and its severity
+GWAS_EFO_0010698: retinal break - Retinal breaks are full-thickness discontinuities in the retina. They can be classified into tears, such as horseshoe tears and giant retinal tears, or holes, such as operculated holes and atrophic holes.
+GWAS_EFO_0005773: retinal detachment - An eye emergency condition which may lead to blindness if left untreated. It is characterized by the separation of the inner retina layers from the underlying pigment epithelium. Causes include trauma, advanced diabetes mellitus, high myopia, and choroid tumors. Symptoms include sudden appearance of floaters, sudden light flushes, and blurred vision.|Retinal detachment is a disorder of the eye in which the retina peels away from its underlying layer of support tissue. Initial detachment may be localized or broad, but without rapid treatment the entire retina may detach, leading to vision loss and blindness.
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0000685: rheumatoid arthritis - Rheumatoid arthritis is a rheumatologic disorder described as an autoimmune disease that is usually a chronic disease and is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints.|A chronic, systemic autoimmune disorder characterized by inflammation in the synovial membranes and articular surfaces. It manifests primarily as a symmetric, erosive polyarthritis that spares the axial skeleton and is typically associated with the presence in the serum of rheumatoid factor.|A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.|An arthritis that results_from an autoimmune disease which attacks healthy cells and tissue located_in joint.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+GWAS_EFO_0004257: neurotic disorder - Disorders in which the symptoms are distressing to the individual and recognized by him or her as being unacceptable. Social relationships may be greatly affected but usually remain within acceptable limits. The disturbance is relatively enduring or recurrent without treatment.|A form of functional mental illness that manifests in distressed emotional reactions such as anxiety, obsessive thoughts, compulsive behaviors, or irrational fears.
+GWAS_EFO_0000537: hypertension - Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more.|Persistently high systemic arterial blood pressure. Based on multiple readings (blood pressure determination), hypertension is currently defined as when systolic pressure is consistently greater than 140 mm Hg or when diastolic pressure is consistently 90 mm Hg or more.
+GWAS_EFO_0003888: attention deficit hyperactivity disorder - A mental disorder characterized by inattention, easy distraction, careless mistakes and avoidance of tasks that require sustained mental focus. These behaviors can lead to maladaptive consequences in the affected individual's life.|A behavior disorder originating in childhood in which the essential features are signs of developmentally inappropriate inattention, impulsivity, and hyperactivity. Although most individuals have symptoms of both inattention and hyperactivity-impulsivity, one or the other pattern may be predominant. The disorder is more frequent in males than females. Onset is in childhood. Symptoms often attenuate during late adolescence although a minority experience the full complement of symptoms into mid-adulthood. (From DSM-IV)
+GWAS_EFO_0004627: IGF-1 measurement - Is the quantification of Insulin-like growth factor 1 (IGF-1), also called somatomedin C. IGF-1 is a hormone similar in molecular structure to insulin. It plays an important role in childhood growth and continues to have anabolic effects in adults. Levels of IGF-1 are known to increase in some cancers.
+GWAS_EFO_0004458: C-reactive protein measurement - C-reactive protein (CRP) measurement is a measurement of the level of C-reactive protein in the blood.  Levels are known to rise in response to inflammation, CRP is therefore used as a clinical measure of inflammation. The measurement is used in the process of clinical diagnosis as high levels of CRP are associated with cardiovascular disease, diabetes and hypertension and in some cancers.|is about MeSH:D002097
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0004614: apolipoprotein A 1 measurement - Is a quantification of serum lipoprotein A. Apolipoprotein A-I, encoded in humans by the APOA1 gene and  is the major protein component of high density lipoprotein (HDL) in plasma.   It is is implicated as a risk factor for atherosclerotic diseases such as coronary heart disease and stroke.
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0007614: asthma exacerbation measurement - quantification of acute asthma exacerbations in an individual, generally defined by short courses of treatment with medication such as oral steroids.
+GWAS_EFO_0001065: endometriosis - The growth of functional endometrial tissue in anatomic sites outside the uterine body. It most often occurs in the pelvic organs.
+GWAS_EFO_0007014: 3-hydroxypropylmercapturic acid measurement - quantification in a urine sample of 3-hydroxypropylmercapturic acid, one of the main metabolites of acrolein, an important constituent of cigarette smoke with well documented toxic effects
+GWAS_EFO_0004318: smoking behavior - Inhaling and exhaling the smoke of tobacco or something similar to tobacco.
+GWAS_EFO_0007015: 3-hydroxy-1-methylpropylmercapturic acid measurement - quantification in a urine sample of 3-hydroxy-1-methylpropylmercapturic acid, one of the main metabolites of crotonaldehyde, an important constituent of cigarette smoke with well documented toxic effects
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16185629) -> Associated GWAS: GWAS_EFO_0007822, GWAS_EFO_0005271, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0005423, GWAS_EFO_0000180, GWAS_EFO_0003959, GWAS_EFO_0004279, GWAS_EFO_0003958, GWAS_EFO_0007822, GWAS_EFO_0009260, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000756, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0007660, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0004279, GWAS_EFO_0007009, GWAS_EFO_0008111, GWAS_EFO_0007822, GWAS_EFO_0006527, GWAS_EFO_0007876, GWAS_EFO_0008111, GWAS_EFO_0007009, GWAS_EFO_0010698, GWAS_EFO_0005773, GWAS_EFO_0004340, GWAS_EFO_0007822, GWAS_EFO_0000685, GWAS_EFO_0004279, GWAS_EFO_0007869, GWAS_EFO_0007006, GWAS_EFO_0004257, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000537, GWAS_EFO_0003888, GWAS_EFO_0004627, GWAS_EFO_0004458, GWAS_EFO_0004612, GWAS_EFO_0004614, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0003761, GWAS_EFO_0007614, GWAS_EFO_0003958, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007006, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0001065, GWAS_EFO_0007822
+Entity: Transcript (ID: 16411748) -> Associated GWAS: GWAS_EFO_0007822, GWAS_EFO_0005271, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0005423, GWAS_EFO_0000180, GWAS_EFO_0003959, GWAS_EFO_0004279, GWAS_EFO_0003958, GWAS_EFO_0007822, GWAS_EFO_0009260, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000756, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0007660, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0004279, GWAS_EFO_0007009, GWAS_EFO_0008111, GWAS_EFO_0007822, GWAS_EFO_0006527, GWAS_EFO_0007876, GWAS_EFO_0008111, GWAS_EFO_0007009, GWAS_EFO_0010698, GWAS_EFO_0005773, GWAS_EFO_0004340, GWAS_EFO_0007822, GWAS_EFO_0000685, GWAS_EFO_0004279, GWAS_EFO_0007869, GWAS_EFO_0007006, GWAS_EFO_0004257, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000537, GWAS_EFO_0003888, GWAS_EFO_0004627, GWAS_EFO_0004458, GWAS_EFO_0004612, GWAS_EFO_0004614, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0003761, GWAS_EFO_0007614, GWAS_EFO_0003958, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007006, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0001065, GWAS_EFO_0007822
+Entity: Transcript (ID: 16411752) -> Associated GWAS: GWAS_EFO_0007822, GWAS_EFO_0005271, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0005423, GWAS_EFO_0000180, GWAS_EFO_0003959, GWAS_EFO_0004279, GWAS_EFO_0003958, GWAS_EFO_0007822, GWAS_EFO_0009260, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000756, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0007660, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0004279, GWAS_EFO_0007009, GWAS_EFO_0008111, GWAS_EFO_0007822, GWAS_EFO_0006527, GWAS_EFO_0007876, GWAS_EFO_0008111, GWAS_EFO_0007009, GWAS_EFO_0010698, GWAS_EFO_0005773, GWAS_EFO_0004340, GWAS_EFO_0007822, GWAS_EFO_0000685, GWAS_EFO_0004279, GWAS_EFO_0007869, GWAS_EFO_0007006, GWAS_EFO_0004257, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000537, GWAS_EFO_0003888, GWAS_EFO_0004627, GWAS_EFO_0004458, GWAS_EFO_0004612, GWAS_EFO_0004614, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0003761, GWAS_EFO_0007614, GWAS_EFO_0003958, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007006, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0001065, GWAS_EFO_0007822
+Entity: Transcript (ID: 16411763) -> Associated GWAS: GWAS_EFO_0007822, GWAS_EFO_0005271, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0005423, GWAS_EFO_0000180, GWAS_EFO_0003959, GWAS_EFO_0004279, GWAS_EFO_0003958, GWAS_EFO_0007822, GWAS_EFO_0009260, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000756, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0007660, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0004279, GWAS_EFO_0007009, GWAS_EFO_0008111, GWAS_EFO_0007822, GWAS_EFO_0006527, GWAS_EFO_0007876, GWAS_EFO_0008111, GWAS_EFO_0007009, GWAS_EFO_0010698, GWAS_EFO_0005773, GWAS_EFO_0004340, GWAS_EFO_0007822, GWAS_EFO_0000685, GWAS_EFO_0004279, GWAS_EFO_0007869, GWAS_EFO_0007006, GWAS_EFO_0004257, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0000537, GWAS_EFO_0003888, GWAS_EFO_0004627, GWAS_EFO_0004458, GWAS_EFO_0004612, GWAS_EFO_0004614, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0003761, GWAS_EFO_0007614, GWAS_EFO_0003958, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0007006, GWAS_EFO_0007869, GWAS_EFO_0007660, GWAS_EFO_0003761, GWAS_EFO_0001065, GWAS_EFO_0007822
+Entity: Non Coding RNA (ID: 17084585) -> Associated GWAS: GWAS_EFO_0007014, GWAS_EFO_0004318, GWAS_EFO_0007015, GWAS_EFO_0007869, GWAS_EFO_0004279, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0007822, GWAS_EFO_0005271, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0005423, GWAS_EFO_0000180, GWAS_EFO_0003959, GWAS_EFO_0004279
+Entity: Non Coding RNA (ID: 17084584) -> Associated GWAS: GWAS_EFO_0007014, GWAS_EFO_0004318, GWAS_EFO_0007015, GWAS_EFO_0007869, GWAS_EFO_0004279, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869
+Entity: ChromHMM State (ID: 21011661) -> Associated GWAS: GWAS_EFO_0004279, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 6052
+• Pathogenic/Likely Pathogenic: 1297
+• Benign/Likely Benign: 1571
+• Uncertain Significance: 3042
+• Other Classifications: 142
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Oculocutaneous albinism type 1B (n=420)
+• Oculocutaneous albinism type 1A (n=308)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=280)
+• Inborn genetic diseases (n=88)
+• not provided|Oculocutaneous albinism type 1A (n=80)
+• not provided|not specified (n=65)
+• Oculocutaneous albinism (n=60)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=56)
+• Oculocutaneous albinism type 1A|not provided (n=52)
+• Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A (n=36)
+• Oculocutaneous albinism type 1A|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=32)
+• Oculocutaneous albinism|not provided (n=32)
+• not provided|Oculocutaneous albinism (n=28)
+• not provided|Inborn genetic diseases (n=28)
+• See cases (n=26)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=24)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|not provided (n=24)
+• Ocular albinism with congenital sensorineural hearing loss (n=20)
+• not specified|not provided (n=20)
+• not provided|TYR-related disorder (n=20)
+• Nonsyndromic Oculocutaneous Albinism (n=20)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=20)
+• TYR-related disorder (n=16)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder (n=16)
+• not provided|Oculocutaneous albinism type 1B (n=16)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=16)
+• not provided|Oculocutaneous albinism type 1A|Oculocutaneous albinism type 1A (n=12)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=12)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=12)
+• not specified|Oculocutaneous albinism type 1A (n=12)
+• Autism spectrum disorder (n=8)
+• Albinism (n=8)
+• Albinism or congenital nystagmus (n=8)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=8)
+• TYR-related disorder|not provided (n=8)
+• Oculocutaneous albinism type 1B|Oculocutaneous albinism (n=8)
+• not provided|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=8)
+• not provided|TYR-related disorder|Oculocutaneous albinism type 1A (n=8)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism (n=8)
+• Oculocutaneous albinism type 1A|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=8)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism|Oculocutaneous albinism type 1A (n=8)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder (n=8)
+• Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism type 1A (n=8)
+• Oculocutaneous albinism type 1A|not provided|Nonsyndromic Oculocutaneous Albinism|Oculocutaneous albinism type 1A (n=8)
+• Oculocutaneous albinism type 1A|Oculocutaneous albinism type 1A (n=8)
+• Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=8)
+• not provided|Oculocutaneous albinism|Oculocutaneous albinism type 1A (n=8)
+• Normal pregnancy (n=5)
+• Oculocutaneous albinism type 1B|not provided|Hypopigmentation of the skin (n=4)
+• Iris transillumination defect (n=4)
+• Hypopigmentation of hair (n=4)
+• Horizontal nystagmus|Myopia (n=4)
+• Nystagmus|Oculocutaneous albinism type 1A|6 conditions|Abnormality of the skin|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|TYR-related disorder|Oculocutaneous albinism (n=4)
+• Oculocutaneous albinism type 1A|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism|TYR-related disorder|Oculocutaneous albinism type 1A (n=4)
+• Ocular albinism|Oculocutaneous albinism type 1A|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Inborn genetic diseases|not provided (n=4)
+• Oculocutaneous albinism type 1B|not provided|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|Oculocutaneous albinism type 1B|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Ocular albinism with congenital sensorineural hearing loss|Inborn genetic diseases|TYR-related disorder|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Ocular albinism with congenital sensorineural hearing loss|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1A|not provided|Nonsyndromic Oculocutaneous Albinism (n=4)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|See cases|TYR-related disorder|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism|Albinism or congenital nystagmus (n=4)
+• not provided|TYR-related disorder|not specified (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1A|not provided|Albinism|Oculocutaneous albinism|Inborn genetic diseases|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Oculocutaneous albinism type 1 (n=4)
+• Oculocutaneous albinism type 1A|not provided|8 conditions (n=4)
+• Oculocutaneous albinism type 1A|not provided|Abnormality of the skin|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|6 conditions|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Inborn genetic diseases (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism|not specified|not provided (n=4)
+• not provided|Oculocutaneous albinism|Oculocutaneous albinism type 1A|TYR-related disorder (n=4)
+• Oculocutaneous albinism|Oculocutaneous albinism type 1A|not provided (n=4)
+• not provided|TYR-related disorder|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A|not specified|not provided|Oculocutaneous albinism|Albinism or congenital nystagmus|Oculocutaneous albinism type 1B (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|not specified (n=4)
+• not provided|Oculocutaneous albinism type 1A|Albinism or congenital nystagmus|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|Oculocutaneous albinism|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1A|not provided|not specified (n=4)
+• Oculocutaneous albinism type 1A|not provided|Nonsyndromic Oculocutaneous Albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1A|Oculocutaneous albinism|Oculocutaneous albinism type 1B (n=4)
+• not provided|Oculocutaneous albinism type 1A|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1A|TYR-related disorder (n=4)
+• Oculocutaneous albinism|Oculocutaneous albinism type 1A|not specified|not provided|Oculocutaneous albinism type 1A (n=4)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism (n=4)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder (n=4)
+• Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder (n=4)
+• Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A|not provided (n=4)
+• not provided|Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|not provided|Oculocutaneous albinism type 1A|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|TYR-related disorder|Albinism or congenital nystagmus (n=4)
+• not provided|Nonsyndromic Oculocutaneous Albinism|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism|Oculocutaneous albinism type 1A|Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder (n=4)
+• not specified|TYR-related disorder|not provided (n=4)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder (n=4)
+• Oculocutaneous albinism type 1B|See cases|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism|not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Ocular albinism with congenital sensorineural hearing loss|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|not specified (n=4)
+• Oculocutaneous albinism type 1A|not provided|Inborn genetic diseases|Oculocutaneous albinism type 1A (n=4)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|Oculocutaneous albinism|not provided|TYR-related disorder (n=4)
+• Oculocutaneous albinism type 1A|not specified (n=4)
+• Abnormality of the skin|not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|Oculocutaneous albinism type 1A|Oculocutaneous albinism type 1|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|Oculocutaneous albinism type 1A|Oculocutaneous albinism|Myopia (n=4)
+• Nystagmus|Nonsyndromic Oculocutaneous Albinism|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Abnormality of the skin|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|See cases|Albinism or congenital nystagmus|Inborn genetic diseases (n=4)
+• not provided|Oculocutaneous albinism type 1A|Oculocutaneous albinism|Oculocutaneous albinism type 1A (n=4)
+• Abnormality of the eye|not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Nonsyndromic Oculocutaneous Albinism|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|Oculocutaneous albinism|not provided|Abnormality of the skin|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Albinism (n=4)
+• Congenital nystagmus|Albinism or congenital nystagmus (n=4)
+• Oculocutaneous albinism type 1A|not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B (n=4)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B (n=4)
+• Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism|TYR-related disorder|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B|TYR-related disorder|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|Ocular albinism with congenital sensorineural hearing loss (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Inborn genetic diseases|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|not provided|Oculocutaneous albinism type 1A|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A (n=4)
+• not provided|Oculocutaneous albinism type 1A|Nonsyndromic Oculocutaneous Albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Albinism or congenital nystagmus|Abnormality of the skin|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism type 1B|Temperature-sensitive oculocutaneous albinism type 1|Melanoma, cutaneous malignant, susceptibility to, 8|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Skin/hair/eye pigmentation 3, blue/green eyes|not provided|Oculocutaneous albinism type 1A|Autosomal recessive ocular albinism|not specified|Malignant tumor of breast|6 conditions|Oculocutaneous albinism type 1|Albinism or congenital nystagmus (n=4)
+• Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Oculocutaneous albinism|not provided|Inborn genetic diseases (n=4)
+• Oculocutaneous albinism type 1B|not provided|Oculocutaneous albinism|Oculocutaneous albinism type 1A|Inborn genetic diseases|Ocular albinism with congenital sensorineural hearing loss (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Hearing impairment|Abnormality of the skin|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|TYR-related disorder|Albinism or congenital nystagmus|Oculocutaneous albinism type 1A (n=4)
+• Oculocutaneous albinism type 1B|not provided (n=4)
+• Oculocutaneous albinism type 1A|not provided|Nonsyndromic Oculocutaneous Albinism|Oculocutaneous albinism type 1|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Albinism or congenital nystagmus (n=4)
+• Albinism|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A|not provided (n=4)
+• Temperature-sensitive oculocutaneous albinism type 1|not provided|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1A|TYR-related disorder|Oculocutaneous albinism type 1B (n=4)
+• - (n=4)
+• Oculocutaneous albinism type 1B|TYR-related disorder|Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• 8 conditions|Oculocutaneous albinism type 1A|not provided|Oculocutaneous albinism type 1B|Oculocutaneous albinism type 1A (n=4)
+• not provided|not specified|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN (n=4)
+• Ocular albinism with congenital sensorineural hearing loss|Oculocutaneous albinism|Oculocutaneous albinism type 1A (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1 (n=4)
+• Oculocutaneous albinism type 1B|SKIN/HAIR/EYE PIGMENTATION 3, LIGHT/DARK SKIN|Oculocutaneous albinism type 1B|TYR-related disorder|Oculocutaneous albinism (n=4)
+
+

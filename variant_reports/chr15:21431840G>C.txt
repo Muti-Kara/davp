@@ -1,0 +1,66 @@
+=== chr15:21431840G>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs4102552
+• Chromosome: 15
+• Position: 21431840
+• Reference Allele (REF): G
+• Alternative Allele (ALT): C
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: POTEB3
+• Databases: rs4102552
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1626
+• gnomADg Allele Frequency: 0.1884
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0010079: corneal endothelial cell measurement - Quantification of some aspect of corneal endothelial cells, such as their size, shape or density.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 21691947) -> Associated GWAS: GWAS_EFO_0010079
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 348
+• Pathogenic/Likely Pathogenic: 44
+• Benign/Likely Benign: 70
+• Uncertain Significance: 232
+• Other Classifications: 2
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=42)
+• Angelman syndrome (n=2)
+• Autism spectrum disorder (n=2)
+• 15q11q13 microduplication syndrome (n=2)
+• not provided|not specified (n=1)
+• Prader-Willi syndrome (n=1)
+• Chromosome 15q11.2 deletion syndrome (n=1)
+
+

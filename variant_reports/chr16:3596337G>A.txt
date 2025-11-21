@@ -1,0 +1,181 @@
+=== chr16:3596337G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs200354014
+• Chromosome: 16
+• Position: 3596337
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: SLX4
+• Databases: rs200354014
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign, uncertain_significance
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 3.2630000000000004e-05
+• gnomADg Allele Frequency: 5.2520000000000005e-05
+• 1KG Frequency: 0.0006000000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16154927) -> Associated GWAS: GWAS_EFO_0001360, GWAS_EFO_0004703, GWAS_EFO_0001360, GWAS_EFO_0001360
+Entity: Transcript (ID: 16282453) -> Associated GWAS: GWAS_EFO_0001360, GWAS_EFO_0004703, GWAS_EFO_0001360, GWAS_EFO_0001360
+Entity: Transcript (ID: 16282462) -> Associated GWAS: GWAS_EFO_0001360, GWAS_EFO_0001360
+Entity: Histone Modification Site (ID: 80778367) -> Associated GWAS: GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 19376129) -> Associated GWAS: GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 20501641) -> Associated GWAS: GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 21108309) -> Associated GWAS: GWAS_EFO_0001360, GWAS_EFO_0004703, GWAS_EFO_0001360, GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 21716635) -> Associated GWAS: GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 22352671) -> Associated GWAS: GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 22920733) -> Associated GWAS: GWAS_EFO_0001360, GWAS_EFO_0004703, GWAS_EFO_0001360
+Entity: chr_chain (ID: 548533) -> Associated GWAS: GWAS_EFO_0001360
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 24693
+• Pathogenic/Likely Pathogenic: 2516
+• Benign/Likely Benign: 8667
+• Uncertain Significance: 13403
+• Other Classifications: 107
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Fanconi anemia (n=6857)
+• Fanconi anemia|Fanconi anemia complementation group P (n=2043)
+• Fanconi anemia complementation group P (n=1607)
+• Inborn genetic diseases (n=713)
+• Fanconi anemia complementation group P|Fanconi anemia (n=616)
+• Fanconi anemia|Inborn genetic diseases (n=435)
+• Fanconi anemia|Fanconi anemia complementation group P|not provided (n=387)
+• not specified|Fanconi anemia (n=179)
+• Fanconi anemia|not specified|Fanconi anemia complementation group P|SLX4-related disorder|not provided (n=144)
+• Fanconi anemia|Fanconi anemia complementation group P|Inborn genetic diseases (n=130)
+• Fanconi anemia|not provided|Fanconi anemia complementation group P (n=127)
+• not specified|Fanconi anemia|Fanconi anemia complementation group P (n=111)
+• Fanconi anemia|not provided (n=94)
+• Fanconi anemia complementation group P|not provided|Fanconi anemia (n=69)
+• not provided|Fanconi anemia (n=66)
+• Fanconi anemia|SLX4-related disorder|Fanconi anemia complementation group P (n=65)
+• not provided|not specified (n=56)
+• Fanconi anemia|not specified|Fanconi anemia complementation group P (n=51)
+• Fanconi anemia|not specified (n=50)
+• Fanconi anemia|Fanconi anemia complementation group P|not specified (n=44)
+• Fanconi anemia complementation group P|Fanconi anemia|not provided (n=42)
+• Fanconi anemia|Fanconi anemia complementation group P|not specified|not provided (n=41)
+• Inborn genetic diseases|Fanconi anemia (n=31)
+• SLX4-related disorder (n=30)
+• Fanconi anemia complementation group P|Fanconi anemia|Inborn genetic diseases (n=27)
+• not provided|Fanconi anemia|Fanconi anemia complementation group P (n=27)
+• Fanconi anemia|Inborn genetic diseases|Fanconi anemia complementation group P (n=26)
+• Fanconi anemia|not specified|Fanconi anemia complementation group P|not provided (n=23)
+• not specified|Fanconi anemia complementation group P|Fanconi anemia (n=22)
+• Fanconi anemia|not specified|not provided|Fanconi anemia complementation group P (n=21)
+• not specified|Fanconi anemia|not provided (n=19)
+• Fanconi anemia complementation group A (n=17)
+• Fanconi anemia|SLX4-related disorder (n=17)
+• Fanconi anemia|Fanconi anemia complementation group P|not provided|not specified (n=16)
+• not specified|not provided|Fanconi anemia|Fanconi anemia complementation group P (n=15)
+• Fanconi anemia|Fanconi anemia complementation group P|not provided|SLX4-related disorder (n=13)
+• not provided|Fanconi anemia|Inborn genetic diseases (n=13)
+• Fanconi anemia complementation group A|Fanconi anemia (n=13)
+• Fanconi anemia complementation group P|Inborn genetic diseases (n=13)
+• Fanconi anemia|Fanconi anemia complementation group P|not specified|not provided|SLX4-related disorder (n=13)
+• Fanconi anemia complementation group P|not provided (n=12)
+• Fanconi anemia|Fanconi anemia complementation group P|SLX4-related disorder (n=12)
+• not provided|Fanconi anemia complementation group P|Fanconi anemia (n=12)
+• not specified|Fanconi anemia|SLX4-related disorder (n=12)
+• Fanconi anemia complementation group P|Inborn genetic diseases|Fanconi anemia (n=11)
+• Fanconi anemia|Fanconi anemia complementation group P|not specified|Inborn genetic diseases|not provided (n=11)
+• Fanconi anemia complementation group P|not specified|Fanconi anemia (n=11)
+• Fanconi anemia|Fanconi anemia complementation group P|not provided|Fanconi anemia complementation group A|not specified (n=11)
+• Fanconi anemia complementation group P|not provided|Fanconi anemia|SLX4-related disorder (n=10)
+• not specified|Fanconi anemia complementation group P|Fanconi anemia|Inborn genetic diseases (n=10)
+• not provided|Fanconi anemia complementation group P|Fanconi anemia|not specified|Hereditary cancer (n=10)
+• Fanconi anemia complementation group P|Fanconi anemia|not specified (n=9)
+• not specified|not provided|Fanconi anemia|Fanconi anemia complementation group P|SLX4-related disorder (n=9)
+• Inborn genetic diseases|Fanconi anemia|Fanconi anemia complementation group P (n=9)
+• Inborn genetic diseases|Fanconi anemia complementation group P (n=8)
+• Fanconi anemia|Inborn genetic diseases|SLX4-related disorder|Fanconi anemia complementation group P (n=8)
+• Fanconi anemia|not provided|Fanconi anemia complementation group P|not specified (n=8)
+• Fanconi anemia|not specified|not provided|SLX4-related disorder|Fanconi anemia complementation group P (n=8)
+• Hereditary cancer-predisposing syndrome (n=7)
+• Fanconi anemia|not provided|Fanconi anemia complementation group P|SLX4-related disorder|not specified (n=7)
+• Fanconi anemia|not specified|SLX4-related disorder|not provided|Fanconi anemia complementation group P (n=7)
+• not specified|Fanconi anemia|Fanconi anemia complementation group P|Inborn genetic diseases (n=7)
+• Fanconi anemia|not provided|not specified|Fanconi anemia complementation group P (n=7)
+• Microcephaly|Fanconi anemia (n=7)
+• Fanconi anemia|not provided|not specified (n=7)
+• See cases (n=6)
+• not specified|not provided (n=5)
+• Fanconi anemia complementation group P|Inborn genetic diseases|Fanconi anemia|not provided (n=5)
+• Pituitary stalk interruption syndrome (n=5)
+• Fanconi anemia complementation group P|not specified|not provided|Inborn genetic diseases|Fanconi anemia (n=5)
+• Fanconi anemia|Fanconi anemia complementation group A|Fanconi anemia complementation group P|not provided (n=5)
+• not provided|Inborn genetic diseases (n=5)
+• Fanconi anemia|not provided|not specified|Inborn genetic diseases (n=5)
+• Fanconi anemia|Fanconi anemia complementation group P|not specified|Fanconi anemia complementation group A|not provided|SLX4-related disorder (n=5)
+• Fanconi anemia|Fanconi anemia complementation group P|SLX4-related disorder|not specified (n=5)
+• Fanconi anemia complementation group P|Fanconi anemia|not specified|not provided (n=5)
+• Fanconi anemia|Inborn genetic diseases|not specified|Fanconi anemia complementation group P (n=4)
+• Fanconi anemia|Fanconi anemia complementation group P|not provided|Familial cancer of breast (n=4)
+• Fanconi anemia|not specified|Inborn genetic diseases (n=4)
+• not provided|Retinal dystrophy (n=4)
+• Fanconi anemia|Fanconi anemia complementation group P|Inborn genetic diseases|SLX4-related disorder (n=4)
+• not specified|Inborn genetic diseases (n=4)
+• Fanconi anemia complementation group P|Fanconi anemia|SLX4-related disorder (n=4)
+• not provided|Fanconi anemia|SLX4-related disorder|Fanconi anemia complementation group P (n=4)
+• Fanconi anemia|Fanconi anemia complementation group A (n=4)
+• Fanconi anemia complementation group P|Hepatoblastoma|Fanconi anemia (n=4)
+• Fanconi anemia|Olaparib response|Fanconi anemia complementation group P (n=4)
+• not specified|Fanconi anemia complementation group P|SLX4-related disorder|Fanconi anemia|not provided (n=4)
+• Malignant tumor of breast (n=4)
+• Fanconi anemia complementation group P|not specified|Inborn genetic diseases|Fanconi anemia (n=4)
+• Fanconi anemia|not provided|Fanconi anemia complementation group P|Inborn genetic diseases (n=4)
+• not specified|Fanconi anemia|not provided|Fanconi anemia complementation group P (n=4)
+• Fanconi anemia|not provided|Inborn genetic diseases|Fanconi anemia complementation group P (n=4)
+• Fanconi anemia complementation group A|Fanconi anemia complementation group P|Fanconi anemia (n=4)
+• not provided|Fanconi anemia|Fanconi anemia complementation group P|not specified (n=4)
+• Fanconi anemia complementation group A|Fanconi anemia|Fanconi anemia complementation group P (n=4)
+• Fanconi anemia|SLX4-related disorder|Inborn genetic diseases (n=4)
+• Fanconi anemia|not provided|Fanconi anemia complementation group P|not specified|SLX4-related disorder (n=4)
+• Fanconi anemia|Hereditary cancer (n=4)
+• not specified|Fanconi anemia|Inborn genetic diseases|Fanconi anemia complementation group P (n=4)
+• not specified|Fanconi anemia|Fanconi anemia complementation group P|not provided (n=4)
+• Fanconi anemia|Hereditary cancer-predisposing syndrome|Fanconi anemia complementation group P (n=4)
+• not provided|Inborn genetic diseases|Fanconi anemia (n=4)
+• Glioblastoma multiforme (n=4)
+• Inborn genetic diseases|not specified|Fanconi anemia complementation group P|Fanconi anemia (n=4)
+• not specified|Fanconi anemia complementation group P (n=4)
+• not provided|not specified|Fanconi anemia|Fanconi anemia complementation group P|SLX4-related disorder (n=4)
+• Fanconi anemia complementation group P|Fanconi anemia|not provided|not specified (n=4)
+• Fanconi anemia|Fanconi anemia complementation group A|not specified|Fanconi anemia complementation group P (n=4)
+• Fanconi anemia|Fanconi anemia complementation group P|Malignant tumor of breast|Fanconi anemia complementation group A|not specified|not provided (n=4)
+• Fanconi anemia|SLX4-related disorder|Hereditary cancer-predisposing syndrome|Fanconi anemia complementation group P (n=4)
+
+

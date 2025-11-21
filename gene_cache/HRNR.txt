@@ -1,0 +1,82 @@
+HRNR Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 20846
+*   **OMIM Gene ID:** 616293
+*   **Primary Disease Associations:** While directly causative relationships with monogenic diseases are not definitively established, HRNR variants have been associated with increased susceptibility to atopic dermatitis and ichthyosis vulgaris. Some studies have also explored its role in various cancers, such as hepatocellular carcinoma.
+*   **Clinical Significance Level:** Evidence for a direct role in monogenic disease is still emerging; however, its association with complex skin disorders is moderate.
+*   **Inheritance Patterns:** The influence of HRNR variants on disease susceptibility appears to follow a complex, multifactorial inheritance pattern, often interacting with other genetic factors, such as mutations in the *FLG* gene.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** A search for HRNR-specific constraint scores in gnomAD did not yield specific numeric values for pLI, LOEUF, pRec, or pNull in the provided search results. These metrics are used to assess a gene's tolerance to loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** Generally, a high pLI (e.g., >0.9) and a low LOEUF score suggest that a gene is intolerant to loss-of-function mutations and is more likely to be associated with a dominant disease. The absence of these scores for HRNR may suggest it does not meet the threshold for strong constraint against heterozygous loss-of-function variants.
+*   **Variant Classes Most Likely to be Pathogenic:** While definitive pathogenic variants are not well-established, studies have investigated the role of missense variants and single nucleotide polymorphisms (SNPs) in disease susceptibility. Loss-of-function variants would be of interest given the gene's role in barrier function.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Ichthyosis (HP:0000962)
+    *   Atopic dermatitis (HP:0001047)
+    *   Dry skin (HP:0000958)
+    *   Hyperkeratosis (HP:0000962)
+    *   Erythroderma (HP:0001017)
+    *   Allergic sensitization (HP:0002235)
+    *   Asthma (HP:0002099)
+*   **Secondary HPO terms:**
+    *   Photosensitivity (HP:0000992)
+    *   Ectropion (HP:0000656)
+    *   Abnormality of the auricular pavilion (HP:0000356)
+    *   Equinovarus (HP:0001762)
+    *   Flexion contracture of finger (HP:0012788)
+    *   Hyporeflexia (HP:0001265)
+    *   Dental abnormality (HP:0000164)
+    *   Cognitive deficit (HP:0100543)
+*   **Age of Onset Patterns:** Associations with atopic eczema have been studied in children from infancy (under 2 years) through childhood (up to 6 years). A case report of ichthyosis described a patient with features present from birth.
+*   **Phenotype Severity Spectrum:** The severity can range from mild, such as dry skin, to more severe manifestations of ichthyosis requiring significant medical management. In the context of atopic diseases, HRNR variants may contribute to more complex phenotypes like eczema-associated asthma.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific variants, such as the SNP rs877776[C], have been associated with atopic eczema, allergic sensitization, and susceptibility to asthma in combination with eczema.
+*   **Protein Domain-Specific Phenotype Patterns:** The search results did not contain specific information linking variants in particular HRNR protein domains to distinct phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between HRNR variants and atopic phenotypes is considered moderate and supplementary to the stronger, well-established associations with *FLG* mutations. The evidence suggests a gene-gene interaction modulating disease risk.
+*   **Examples: Specific Variants → Specific Phenotypes:** The risk variant rs877776[C] is associated with atopic eczema and, when combined with *FLG* mutations, significantly increases the risk for this condition and for eczema-associated asthma.
+
+### **Clinical Variants & Phenotype Associations**
+*   **rs877776 (G>C):**
+    *   **Significance:** Risk allele for atopic disease.
+    *   **Reported Phenotypes (HPO terms):** Atopic dermatitis (HP:0001047), Allergic sensitization (HP:0002235), Asthma (HP:0002099).
+    *   **AF:** Not specified in the search results.
+*   **Variants in a case of Ichthyosis:**
+    *   A 19-year-old male with severe ichthyosis was found to have variants in both *ABCA12* and *HRNR*, suggesting a potential combined effect or a role for the *HRNR* variant in the phenotype. Specific HGVS nomenclature for the *HRNR* variant was not provided in the abstract.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** HRNR is primarily expressed in the epidermis, specifically in the upper granular layer of keratinocytes. This localization is consistent with its role in forming the cornified cell envelope and maintaining the skin barrier.
+*   **Tissue-Specific Phenotypes Expected:** Given its high expression in the skin, variants are expected to primarily manifest as skin barrier defects, leading to conditions like ichthyosis and atopic dermatitis. Reduced HRNR expression is observed in skin lesions of patients with atopic dermatitis.
+*   **Expression During Development and Age-Related Phenotypes:** HRNR is expressed during wound healing and in regenerating skin. Its role is critical for the proper formation and maintenance of the skin from birth.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** Hornerin is a structural protein and a component of the epidermal cornified cell envelopes, essential for skin barrier integrity.
+*   **Disease Mechanism:** The primary proposed disease mechanism is loss-of-function, leading to a weakened skin barrier. Reduced HRNR expression, potentially due to genetic variants, is thought to contribute to barrier defects in atopic dermatitis.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** HRNR is part of the S100 fused-type protein family and is involved in keratinocyte differentiation and the "establishment of skin barrier" GO pathway. Its disruption leads to impaired cornification, increasing susceptibility to environmental allergens and pathogens, which manifests as atopic dermatitis and ichthyosis. It may also play a role in tumor progression through the AKT pathway in hepatocellular carcinoma.
+*   **Protein-Protein Interactions Relevant to Phenotype:** HRNR function is similar and complementary to that of filaggrin (FLG). Post-translational deimination of hornerin enhances its cross-linking by transglutaminases and its processing by calpain-1, which are critical steps for its incorporation into the cornified envelope.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for HRNR variants is not standard for a specific monogenic disease but is performed in research contexts for complex diseases like atopic dermatitis. In one study of children with atopic eczema, genotyping for the *HRNR* variant rs877776 was performed to assess risk.
+*   **Most Common Reasons for Testing This Gene:** The primary reason for investigating *HRNR* is in research studies exploring the genetic underpinnings of atopic dermatitis, ichthyosis, and other skin barrier disorders, often in conjunction with *FLG* testing.
+*   **Clinical Actionability and Management Implications:** Identifying risk variants in *HRNR* could, in the future, contribute to risk stratification for developing atopic dermatitis and related allergic diseases. This information may emphasize the importance of aggressive skin barrier protection and early management in at-risk individuals.
+*   **Genetic Counseling Considerations:** Counselors should emphasize the complex nature of inheritance, where *HRNR* variants are considered risk factors rather than direct causes of disease. The risk is often compounded by variants in other genes like *FLG* and environmental factors.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35984635, 2022:** Showed that the *HRNR* risk variant rs877776[C] was associated with atopic eczema, allergic sensitization, and eczema-associated asthma, with effects that are supplementary to *FLG* mutations.
+*   **PMID: 34006249, 2021:** A case report of a 19-year-old with severe ichthyosis who had variants in both *ABCA12* and *HRNR*, highlighting the potential contribution of *HRNR* to severe skin phenotypes.
+*   **PMID: 29999551, 2018:** Investigated the role of hornerin in hepatocellular carcinoma, finding that its overexpression was associated with tumor progression and poor prognosis via the AKT pathway.
+*   **PMID: 15507469, 2005:** First identified human hornerin and noted its expression in regenerating and psoriatic skin.
+*   **New Genotype-Phenotype Correlations Discovered:** The interaction between *HRNR* variant rs877776 and *FLG* mutations creates a significantly higher risk for atopic eczema and eczema-associated asthma than either genetic factor alone, demonstrating a synergistic effect.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   The *HRNR* variant rs877776[C] is moderately associated with Atopic dermatitis (HP:0001047). The confidence in this association increases significantly when a co-occurring loss-of-function mutation in *FLG* is present.
+*   **Phenotype red flags:**
+    *   A combination of Atopic dermatitis (HP:0001047) and Asthma (HP:0002099) in a patient, especially with a family history of atopy, should raise suspicion for susceptibility variants in genes like *HRNR* and *FLG*.
+    *   The presence of Ichthyosis (HP:0000962) from birth warrants investigation of skin barrier genes, including *HRNR*, though other genes like *ABCA12* are more commonly associated with severe forms.
+*   **Differential diagnosis considerations:**
+    *   The phenotype of atopic dermatitis associated with *HRNR* variants significantly overlaps with that caused by mutations in *FLG* (Filaggrin), which is a major gene for ichthyosis vulgaris and atopic dermatitis.
+    *   Variants in *FLG2*, another member of the filaggrin family, are also associated with atopic eczema and may have supplementary effects.
+

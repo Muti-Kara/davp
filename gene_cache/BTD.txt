@@ -1,0 +1,103 @@
+BTD Gene Biomedical Dossier
+### **Gene Dossier: BTD (biotinidase)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 1122.
+*   **OMIM Gene ID**: 609019.
+*   **Primary Disease Associations**: Biotinidase deficiency (OMIM: 253260), an autosomal recessive metabolic disorder.
+*   **Clinical Significance Level**: Definitive.
+*   **Inheritance Patterns**: Autosomal recessive inheritance is the established pattern for biotinidase deficiency.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: Specific constraint scores for the BTD gene were not available in the searched literature.
+*   **Clinical Interpretation of Constraint Scores**: While specific scores are unavailable, the nature of the disease suggests intolerance to loss-of-function variants.
+*   **Variant Classes Most Likely to be Pathogenic**: Loss-of-function variants such as deletions, insertions, and nonsense mutations are more likely to result in profound biotinidase deficiency. Missense mutations are also very common.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   Seizures (HP:0001250).
+    *   Hypotonia (HP:0001252).
+    *   Alopecia (HP:0001596).
+    *   Ataxia (HP:0001251).
+    *   Eczematous dermatitis (HP:0000970).
+    *   Hearing impairment (HP:0000365).
+    *   Developmental delay (HP:0001263).
+    *   Optic atrophy (HP:0000648).
+    *   Ketoacidosis (HP:0001946).
+    *   Lactic acidosis (HP:0003128).
+    *   Hyperammonemia (HP:0001987).
+*   **Secondary HPO terms**
+    *   Conjunctivitis (HP:0000509).
+    *   Cutaneous candidiasis (HP:0001557).
+    *   Laryngeal stridor (HP:0001607).
+    *   Apnea (HP:0002104).
+    *   Hyperventilation (HP:0002879).
+    *   Dry skin (HP:0000958).
+    *   Frontal baldness (HP:0002291).
+*   **Age of Onset Patterns**: Signs and symptoms typically appear within the first few months of life, but onset can occur later in childhood.
+*   **Phenotype Severity Spectrum**: Severity correlates with residual enzyme activity.
+    *   **Profound deficiency**: Less than 10% of normal serum biotinidase activity, leading to neurological and cutaneous symptoms if untreated.
+    *   **Partial deficiency**: Between 10% and 30% of normal activity; individuals may be asymptomatic or develop mild symptoms during times of stress, such as infection.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Biallelic loss-of-function variants (e.g., deletions, insertions, nonsense) typically cause profound biotinidase deficiency, whereas some missense variants lead to partial deficiency.
+*   **Protein Domain-Specific Phenotype Patterns**: Mutations in the C-terminus of the BTD protein are associated with a severe loss of enzyme activity and profound deficiency. Most missense mutations are located in exon 4.
+*   **Genotype-Phenotype Correlation Strength**: The correlation is moderate; while profound deficiency alleles generally lead to severe symptoms if untreated, some variability exists.
+*   **Examples: Specific Variants → Specific Phenotypes**:
+    *   The common c.1330G>C (p.D444H) variant results in a protein with variable activity and is often associated with partial deficiency or milder phenotypes, especially when in a compound heterozygous state. It is frequently found in patients with dermatological symptoms.
+    *   The c.470G>A (p.R157H) mutation is the second most common variant and is often observed in symptomatic patients, particularly those with dermatitis.
+    *   Mutations such as p.Leu40Pro and p.Cys160Tyr are considered deleterious and associated with profound deficiency.
+
+**Clinical Variants & Phenotype Associations**
+| rsID / HGVS / ClinVar Significance | Reported Phenotypes (HPO terms inferred) | Allele Freq. (gnomAD) |
+| :--- | :--- | :--- |
+| rs139366555 / c.1330G>C (p.D444H) / Conflicting | Partial Biotinidase deficiency; often asymptomatic or mild dermatitis (HP:0000964). | 0.032. |
+| rs150371306 / c.470G>A (p.R157H) / Pathogenic | Biotinidase deficiency; frequently associated with dermatitis (HP:0000964). | Not reported in results. |
+| rs80338719 / c.511G>A (p.A171T) + c.1330G>C (p.D444H) / Pathogenic | The combination in cis creates a severe allele for profound biotinidase deficiency. | Not reported in results. |
+| rs80338718 / c.98-1G>T / Pathogenic | Profound biotinidase deficiency. | Not reported in results. |
+| Not available / c.1368A>C (p.Q456H) / Pathogenic | Profound biotinidase deficiency. | Not reported in results. |
+| rs759392263 / c.755G>A (p.C252G) / Pathogenic | Severe biotinidase deficiency. | Not reported in results. |
+| rs80338722 / c.1612C>T (p.R538C) / Pathogenic | Profound biotinidase deficiency. | Not reported in results. |
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: BTD has high enzyme activity levels in the serum, liver, and kidneys. It is also expressed in the lung, skeletal muscle, pancreas, heart, brain, and placenta.
+*   **Tissue-Specific Phenotypes Expected**: High expression in the liver and kidneys is consistent with the gene's central role in systemic metabolic recycling of biotin. Expression in the brain correlates with the severe neurological phenotypes (seizures, ataxia, hypotonia) seen in untreated patients.
+*   **Expression During Development**: The appearance of symptoms in early infancy if untreated underscores the critical role of biotin recycling during early development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: The BTD gene encodes the enzyme biotinidase, which recycles the B vitamin biotin by cleaving it from biocytin and biotinyl-peptides.
+*   **Disease Mechanism**: Pathogenic variants in *BTD* cause a loss of function, leading to an inability to recycle biotin.
+*   **Cellular/Molecular Pathways Disrupted**: The resulting shortage of free biotin impairs the function of four essential biotin-dependent carboxylases.
+    *   **Phenotype Consequences**: This impairment disrupts critical metabolic pathways, including fatty acid synthesis, amino acid catabolism, and gluconeogenesis, leading to the accumulation of toxic metabolites, ketoacidosis, and the diverse neurological and cutaneous symptoms of the disease.
+*   **Protein-Protein Interactions Relevant to Phenotype**: Biotinidase acts on biocytin, the degradation product of holocarboxylases, to release biotin and lysine, which is essential for maintaining the body's free biotin pool.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: Diagnostic yield is very high, particularly in regions with newborn screening programs for biotinidase deficiency, which identify most cases before symptom onset.
+*   **Most Common Reasons for Testing**: Testing is prompted by positive newborn screening results or the presentation of clinical symptoms such as seizures, hypotonia, and skin rash in an infant.
+*   **Clinical Actionability**: The disease is highly treatable. Lifelong oral supplementation with free biotin can prevent all symptoms if started early and can improve or resolve existing symptoms.
+*   **Genetic Counseling Considerations**: Counseling should address the autosomal recessive inheritance pattern, explaining that affected individuals have two pathogenic *BTD* variants and their parents are typically asymptomatic carriers.
+
+**Key Clinical Literature & Studies**
+| PMID / Link | Year | Key Phenotype Findings |
+| :--- | :--- | :--- |
+| 34273891 | 2021 | Identified p.D444H and p.R157H as the most frequent mutations in a Turkish cohort, with dermatitis being a common finding in symptomatic patients. |
+| 35845946 | 2022 | Review summarizing that C-terminus mutations often cause profound deficiency and that genotype does not always correlate perfectly with phenotype. |
+| GeneReviews | 2023 | Differentiates between profound deficiency (often from null alleles) and partial deficiency, outlining the distinct clinical features and management strategies. |
+| 23099232 | 2011 | Description of a public database for BTD mutations, noting over 165 reported variants and defining profound vs. partial deficiency based on enzyme activity. |
+| 12359137 | 2002 | Reported 17 novel mutations that cause profound biotinidase deficiency, expanding the known pathogenic variant spectrum. |
+| 36757655 | 2023 | Overview of pathophysiology, noting that CNS findings can resemble Wernicke encephalopathy or Leigh syndrome, with widespread effects on myelin. |
+| 9654207 | 1998 | Early study on the common p.D444H variant, linking it to partial biotinidase deficiency. |
+| PMC3058810 | 2010 | Developed a database characterizing known BTD mutations and associated phenotypes to aid in interpretation and establish genotype-phenotype correlations. |
+| 36780183 | 2023 | Reviews early detection through newborn screening and lifelong biotin therapy as essential for preventing symptoms. |
+| 34273891 | 2021 | Found that p.D444H and p.R157H mutations accounted for over 66% of alleles in symptomatic patients, most of whom had dermatological findings. |
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**:
+    *   Biallelic null variants (nonsense, frameshift, splice-site, large deletions) are strongly associated with profound biotinidase deficiency and a severe phenotype if untreated, including seizures (HP:0001250), hypotonia (HP:0001252), and ataxia (HP:0001251).
+    *   Homozygous or compound heterozygous p.D444H (c.1330G>C) variants are typically associated with partial biotinidase deficiency, which may be asymptomatic or present with mild dermatitis (HP:0000970) under stress.
+    *   The p.R157H (c.470G>A) variant is strongly associated with symptomatic disease, including prominent dermatological findings.
+*   **Phenotype Red Flags**: The combination of early-onset neurological symptoms (seizures, hypotonia, ataxia) with characteristic cutaneous findings (eczematous rash, alopecia) is highly suggestive of profound biotinidase deficiency.
+*   **Differential Diagnosis Considerations**:
+    *   **Holocarboxylase Synthetase (HCS) Deficiency**: Presents with similar clinical and biochemical findings of multiple carboxylase deficiency, but onset is typically neonatal rather than in early infancy.
+    *   **Nutritional Biotin Deficiency**: Can be caused by diets high in raw eggs (which contain avidin, a biotin-binding protein) or by long-term parenteral nutrition without biotin supplementation.
+

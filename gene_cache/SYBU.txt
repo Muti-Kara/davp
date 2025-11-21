@@ -1,0 +1,62 @@
+SYBU Gene Biomedical Dossier
+### **Gene Dossier: SYBU (syntabulin)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** SYBU
+*   **OMIM Gene ID:** No OMIM gene entry or disease phenotype association was found.
+*   **Primary Disease Associations:** There is currently no established association between variants in SYBU and a Mendelian disease.
+*   **Clinical Significance Level:** Evidence for clinical significance is currently lacking.
+*   **Inheritance Patterns:** No inheritance patterns have been described in patients as no associated disease has been identified.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint metrics for SYBU from gnomAD were not returned in the search results; these values must be looked up directly in the gnomAD database.
+*   **Clinical Interpretation of Constraint Scores:** The probability of being loss-of-function intolerant (pLI) score indicates a gene's tolerance to protein-truncating variants, with a score ≥ 0.9 suggesting intolerance. The loss-of-function observed/expected upper bound fraction (LOEUF) is a continuous metric where lower values indicate greater intolerance to loss-of-function variation.
+*   **Variant Classes Most Likely to be Pathogenic:** As no pathogenic variants have been described, the variant classes most likely to be pathogenic are unknown.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are currently associated with SYBU due to the lack of a defined disease phenotype.
+*   **Secondary HPO terms:** No secondary HPO terms are associated with SYBU.
+*   **Age of Onset Patterns:** Not applicable as no disease is currently associated with this gene.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No genotype-phenotype correlations have been established for SYBU.
+*   **Protein Domain-Specific Phenotype Patterns:** There are no known protein domain-specific phenotype patterns.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+*   **Examples:** There are no reported examples of specific variants leading to specific phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   **Pathogenic Variants:** No variants in SYBU have been classified as pathogenic or likely pathogenic in ClinVar.
+*   **Variants with Strongest Phenotype Evidence:** No variants with strong phenotype evidence have been reported.
+*   **Novel Variants from Recent Case Reports:** No recent case reports describing novel pathogenic variants in SYBU were identified.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the GTEx portal, SYBU is expressed in the brain, particularly the cerebellum, as well as in the pituitary gland, pancreas, and testis.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression patterns, variants could theoretically lead to neurological or endocrine (pancreatic) phenotypes, although none have been reported.
+*   **Expression During Development and Age-Related Phenotypes:** Studies in mouse models show expression of the SYBU ortholog during brain development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SYBU is part of a kinesin motor-adapter complex essential for the anterograde axonal transport of active zone components.
+*   **Disease Mechanism:** No disease mechanism has been established; however, based on gene function, loss-of-function could potentially disrupt axonal transport.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** SYBU is required for glucose-stimulated and cAMP-potentiated insulin secretion, suggesting a role in cellular transport and secretion pathways.
+*   **Protein-Protein Interactions Relevant to Phenotype:** SYBU binds to kinesin-1 (KIF5B) and syntaxin-1, mediating the transport of cargo along microtubules.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for SYBU is effectively zero, as it is not typically included in diagnostic panels for a specific disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene is not a standard clinical practice.
+*   **Clinical Actionability and Management Implications:** There are no known clinical actionability or management guidelines related to SYBU variants.
+*   **Genetic Counseling Considerations:** Counseling would note the lack of evidence for pathogenicity for any identified variants and the uncertain clinical significance.
+
+**Key Clinical Literature & Studies**
+*   **Cai Q, et al. (2005) J Cell Biol. PMID: 16157758:** This study demonstrated that syntabulin mediates the anterograde transport of mitochondria along neuronal processes.
+*   **Cai Q, et al. (2007) J Neurosci. PMID: 17942733:** This paper showed that the syntabulin-kinesin-1-mediated axonal transport contributes to activity-dependent presynaptic assembly.
+*   **Funakoshi E, et al. (2005) Gene. PMID: 15582662:** Reported the molecular cloning and characterization of the gene for a Golgi-localized syntaphilin-related protein (GOLSYN), later named SYBU.
+*   **Cheung W, et al. (2009) Diabetes. PMID: 19188437:** Showed that syntabulin is required for glucose-stimulated and cAMP-potentiated insulin secretion.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are no known high-confidence HPO-variant associations for SYBU.
+*   **Phenotype Red Flags:** No specific HPO terms are considered red flags for pathogenic variants in this gene.
+*   **Differential Diagnosis Considerations:** Not applicable, as no primary diagnosis is associated with SYBU. Overlap would be purely speculative based on function (e.g., other genes involved in axonal transport or insulin secretion).
+
+***
+

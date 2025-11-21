@@ -1,0 +1,92 @@
+=== chr3:69193740G>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs115964883
+• Chromosome: 3
+• Position: 69193740
+• Reference Allele (REF): G
+• Alternative Allele (ALT): C
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: FRMD4B
+• Databases: rs115964883, COSV107508519
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.008149
+• gnomADg Allele Frequency: 0.005449
+• 1KG Frequency: 0.0024000000000000002
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0008418: susceptibility to rubella infection measurement - Quantification of an individual's susceptibility to shingles
+GWAS_EFO_0001060: celiac disease - A food allergy that is caused by a reaction located_in small intestine to gliadin, a prolamin (gluten protein) found in wheat, and similar proteins found in the crops of the tribe Triticeae. The disease is associated with HLA-DQ gene. It has_symptom abdominal pain, has_symptom constipation, has_symptom diarrhea, has_symptom nausea and vomiting, and has_symptom loss of appetite.|A malabsorption syndrome that is precipitated by the ingestion of GLUTEN-containing foods, such as wheat, rye, and barley. It is characterized by INFLAMMATION of the SMALL INTESTINE, loss of MICROVILLI structure, failed INTESTINAL ABSORPTION, and MALNUTRITION.|A food hypersensitivity that is caused by a reaction located_in small intestine to gliadin, a prolamin (gluten protein) found in wheat, and similar proteins found in the crops of the tribe Triticeae. The disease is associated with HLA-DQ gene. It has_symptom abdominal pain, has_symptom constipation, has_symptom diarrhea, has_symptom nausea and vomiting, and has_symptom loss of appetite.|An autoimmune genetic disorder with an unknown pattern of inheritance that primarily affects the digestive tract. It is caused by intolerance to dietary gluten. Consumption of gluten protein triggers an immune response which damages small intestinal villi and prevents adequate absorption of nutrients. Clinical signs include abdominal cramping, diarrhea or constipation and weight loss. If untreated, the clinical course may progress to malnutrition, anemia, osteoporosis and an increased risk of intestinal malignancies. However, the prognosis is favorable with successful avoidance of gluten in the diet.|A malabsorption syndrome that is precipitated by the ingestion of foods containing GLUTEN, such as wheat, rye, and barley. It is characterized by INFLAMMATION of the SMALL INTESTINE, loss of MICROVILLI structure, failed INTESTINAL ABSORPTION, and MALNUTRITION.
+GWAS_HP_0000545: Myopia - An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.
+GWAS_EFO_0005409: fat body mass - The weight of the individual's body fat.
+GWAS_EFO_0010118: sphingomyelin measurement - A quantification of sphingomyeline in a sample.
+GWAS_EFO_0004462: PR interval - A PR interval is an  electrocardiography measurement which measures from the beginning of the P wave to the beginning of the QRS complex in the heart's electrical cycle
+GWAS_EFO_0000275: atrial fibrillation - A disorder characterized by an electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregular ventricular response. (CDISC)|Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation.
+GWAS_EFO_0004351: resting heart rate - quantification of the number of times the heart beats in a given time interval, usually a minute, while the body is at rest
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0004685: hip geometry - Measurements of the hip.
+GWAS_EFO_0004357: electroencephalogram measurement - Am electroencephalogram measurement measures the wave-like oscillations of electric potential between parts of the brain.
+GWAS_EFO_0007835: alcohol dependence measurement - quantification of some aspect of alcohol dependence or misuse, eg using a cummulative symptom score to determine the severity of a case of alcohol dependence
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0007117: carotid artery intima media thickness - quantification of the thickness of tunica intima and tunica media, the innermost two layers of the wall of the carotid artery, usually by carotid ultrasound
+GWAS_EFO_0010933: response to dexamethasone - Response to the synthetic glucocorticoid with anti-inflammatory and immunomodulating properties, dexamethasone (9α-fluoro-16α-methylprednisolone).
+GWAS_EFO_0009168: response to prednisolone - Response to the synthetic glucocorticoid with anti-inflammatory and immunomodulating properties, Prednisolone (11,17-Dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydrocyclopenta[a] phenanthren-3-one).
+GWAS_EFO_0000094: B-cell acute lymphoblastic leukemia - A neoplasm of lymphoblasts committed to the B-cell lineage, typically composed of small to medium-sized blast cells. When the neoplasm involves predominantly the bone marrow and the peripheral blood, it is called B acute lymphoblastic leukemia. When it involves nodal or extranodal sites, it is called B lymphoblastic lymphoma. (WHO, 2001)
+GWAS_EFO_0600004: retinal nerve fibre layer thickness measurement - A measure of the thickness of the retinal nerve fiber layer (RNFL). It is typically measured using optical imaging methods such as optical coherence tomography (OCT). The thickness of the ganglion cell complex (GCC), the collective name for the retinal nerve fibre layer and the ganglion cell inner plexiform layer, is one of the biomarkers used in the diagnosis of primary open angle glaucoma (POAG).
+GWAS_EFO_0600002: retinal layer thickness measurement - A measure of the thickness of one or more layers of the retina. It is measured with various imaging tools including ultrasound, optical coherence tomography (OCT), confocal microscopy, and biometry. Reduced retinal layer thickness is one of the biomarkers used for the diagnosis of glaucoma.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16145050) -> Associated GWAS: GWAS_EFO_0008418, GWAS_EFO_0001060, GWAS_HP_0000545, GWAS_EFO_0005409, GWAS_EFO_0010118, GWAS_EFO_0004462, GWAS_EFO_0000275, GWAS_EFO_0004462, GWAS_EFO_0004351, GWAS_EFO_0000692, GWAS_EFO_0004685, GWAS_EFO_0004357, GWAS_EFO_0007835, GWAS_EFO_0006527, GWAS_EFO_0007117, GWAS_EFO_0010933, GWAS_EFO_0009168, GWAS_EFO_0000094, GWAS_EFO_0600004, GWAS_EFO_0600002
+Entity: Transcript (ID: 16246241) -> Associated GWAS: GWAS_EFO_0008418, GWAS_EFO_0001060, GWAS_HP_0000545, GWAS_EFO_0005409, GWAS_EFO_0010118, GWAS_EFO_0004462, GWAS_EFO_0000275, GWAS_EFO_0004462, GWAS_EFO_0004351
+Entity: ChromHMM State (ID: 21365912) -> Associated GWAS: GWAS_EFO_0008418
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1740
+• Pathogenic/Likely Pathogenic: 91
+• Benign/Likely Benign: 336
+• Uncertain Significance: 1313
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Nemaline myopathy 10 (n=341)
+• Nemaline myopathy 10|Inborn genetic diseases (n=40)
+• Inborn genetic diseases (n=21)
+• Nemaline myopathy 10|not provided (n=15)
+• not provided|Nemaline myopathy 10 (n=6)
+• See cases (n=5)
+• Nemaline myopathy 10|Inborn genetic diseases|not provided (n=4)
+• Nemaline myopathy 10|not provided|not specified (n=3)
+• Inborn genetic diseases|Nemaline myopathy 10 (n=3)
+• Nemaline myopathy 10|not specified|Joubert syndrome 24|not provided (n=3)
+• Nemaline myopathy 10|Inborn genetic diseases|LMOD3-related disorder (n=3)
+• Inborn genetic diseases|Nemaline myopathy 10|not provided (n=1)
+• not provided|Nemaline myopathy 10|LMOD3-related disorder (n=1)
+
+

@@ -1,0 +1,67 @@
+FRMD4B Gene Biomedical Dossier
+### **Gene Dossier: FRMD4B**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: HGNC:24886.
+*   **OMIM Gene ID**: 617467.
+*   **Primary Disease Associations**: Associations have been identified with complex multifactorial diseases, including advanced heart failure and celiac disease. No definitive monogenic disease has been associated with this gene.
+*   **Clinical Significance Level**: Moderate evidence for association with complex diseases (advanced heart failure, celiac disease). No evidence for a role in monogenic disease.
+*   **Inheritance Patterns Observed in Patients**: Not applicable in a Mendelian sense; common variants show association with disease risk in populations.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: Specific gnomAD constraint scores for FRMD4B were not identified in the search results.
+*   **Clinical Interpretation of Constraint Scores**: Constraint metrics like pLI (probability of being loss-of-function intolerant) and LOEUF (loss-of-function observed/expected upper bound fraction) quantify a gene's tolerance to inactivating variants. A high pLI (>0.9) or low LOEUF suggests a gene is intolerant to haploinsufficiency and is more likely to be associated with a dominant Mendelian disease.
+*   **Variant Classes Most Likely to be Pathogenic**: Based on current literature, pathogenic variants for a monogenic disorder have not been established. Disease associations are with non-coding (intronic) or regulatory variants that may alter gene expression. Exonic variants have not been significantly associated with disease phenotypes in studied cohorts.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No specific HPO terms are consistently associated with monogenic variants in *FRMD4B*. The primary clinical associations are with complex diseases, not specific, syndromic phenotypes.
+    *   Associated with advanced heart failure.
+    *   Associated with ischemic heart failure.
+    *   Associated with celiac disease.
+*   **Secondary HPO terms**: No secondary HPO terms associated with monogenic variants in *FRMD4B* were found in the search results.
+*   **Age of Onset Patterns**: The associated complex diseases (heart failure, celiac disease) typically have an adult onset.
+*   **Phenotype Severity Spectrum**: For associated heart failure, the phenotype is typically advanced/severe.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Intronic variants are associated with risk for advanced heart failure and celiac disease. A study that resequenced all coding exons failed to find any association between exonic variants and heart failure.
+*   **Protein Domain-Specific Phenotype Patterns**: No correlations between specific protein domains and phenotypes have been established.
+*   **Genotype-Phenotype Correlation Strength**: Weak. The identified associations are for common, non-coding SNPs with modest effect sizes on complex disease risk, not causative variants for a monogenic disorder.
+*   **Examples: Specific Variants → Specific Phenotypes**:
+    *   The minor allele of the intronic SNP rs6787362 is associated with a protective effect against advanced heart failure, particularly ischemic heart failure, in Caucasian populations.
+    *   The risk allele (T) of the SNP rs6806528, located near *FRMD4B*, is associated with an increased risk for celiac disease and correlates with increased *FRMD4B* gene expression.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for a monogenic disorder are reported in ClinVar. The following are common variants associated with complex disease risk.
+*   **rs6787362** / Intronic / Association / Protective for advanced heart failure / The minor allele frequency was lower in heart failure cases than in controls.
+*   **rs6806528** / Intergenic / Association / Risk factor for celiac disease / The risk allele increases *FRMD4B* expression.
+*   **rs922948** / Intergenic / Association / Celiac disease.
+*   **rs7648449** / Intergenic / Association / Celiac disease.
+*   **rs1483890** / Intronic / Association / Celiac disease.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: *FRMD4B* shows eQTLs in cells from transformed fibroblasts and the aorta. High expression in the aorta has potential clinical correlation with the observed association with ischemic heart failure.
+*   **Tissue-Specific Phenotypes Expected**: The gene is also expressed in the sural nerve, Achilles tendon, and corpus callosum, although no specific phenotypes have been linked to these tissues.
+*   **Expression During Development and Age-Related Phenotypes**: Mouse ortholog expression has been observed during preimplantation development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: *FRMD4B* encodes a scaffolding protein that is part of signaling complexes recruited in response to insulin receptor signaling and is involved in establishing epithelial cell polarity.
+*   **Disease Mechanism**: The mechanism does not appear to be haploinsufficiency. For celiac disease, the mechanism may be related to altered gene dosage, as a risk variant leads to increased *FRMD4B* expression. For heart failure, the intronic location of the associated SNP suggests a regulatory mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: The protein functions by connecting ARF6 activation with the PAR3 complex to regulate cell polarity. It interacts with CYTH3, an effector of PI-3 kinase signaling, a pathway with broad cellular impact. Disruption could affect cell adhesion and signaling, potentially contributing to cardiovascular or autoimmune pathologies.
+*   **Protein-Protein Interactions Relevant to Phenotype**: Interacts with PARD3 at adherens and tight junctions. Interacts with CYTH3 (by similarity).
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for *FRMD4B* variants as a cause of Mendelian disease is expected to be zero based on current evidence.
+*   **Most Common Reasons for Testing This Gene**: Testing is currently performed in a research context for genome-wide association studies of complex traits like heart failure and celiac disease.
+*   **Clinical Actionability and Management Implications**: There is no direct clinical actionability based on *FRMD4B* genotype alone. Associated variants may contribute to polygenic risk scores in the future.
+*   **Genetic Counseling Considerations**: Counseling would focus on the distinction between low-penetrance risk alleles for complex diseases versus high-penetrance pathogenic variants that cause Mendelian disorders.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 20124441** (Cappola TP, et al., 2010): Established the first association between an intronic SNP (rs6787362) in *FRMD4B* and advanced heart failure, particularly of ischemic etiology.
+*   **PMID: 20718813** (Matkovich SJ, et al., 2010): Confirmed the association of the intronic SNP rs6787362 with ischemic heart failure but found no association for any exonic *FRMD4B* variants after resequencing, suggesting a non-coding regulatory mechanism.
+*   **PMID: 24999842** (Garner C, et al., 2014): A genome-wide association study that confirmed *FRMD4B* as a new susceptibility locus for celiac disease.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: There are currently no known high-confidence associations between specific HPO terms and pathogenic variants in *FRMD4B* for any monogenic disease.
+*   **Phenotype Red Flags**: A clinical picture of advanced ischemic heart failure may be a "red flag" for investigating the role of common variant rs6787362 for research or risk score purposes, but not for diagnosing a monogenic condition. A diagnosis of celiac disease is associated with several common variants in or near the gene.
+*   **Differential Diagnosis Considerations**: For patients with heart failure or celiac disease, the differential diagnosis would include numerous other genetic and environmental factors that contribute to these complex conditions. *FRMD4B* variants are only a small component of the overall risk.
+

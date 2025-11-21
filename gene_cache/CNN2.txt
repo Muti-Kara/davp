@@ -1,0 +1,58 @@
+CNN2 Gene Biomedical Dossier
+### **Clinical Genetics Dossier: CNN2**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** CNN2
+*   **OMIM Gene ID:** No OMIM gene entry was found. However, GWAS studies have linked the gene to phenotypes like bone density and reticulocyte measurements.
+*   **Primary Disease Associations:** Currently, there are no established Mendelian diseases definitively associated with CNN2. It has been investigated in the context of age-related macular degeneration (AMD) and Alzheimer's disease.
+*   **Clinical Significance Level:** The clinical significance of CNN2 variants is largely unknown, with most information coming from GWAS and expression studies rather than established disease cohorts. There are no definitive or strong disease associations reported.
+*   **Inheritance Patterns:** Inheritance patterns are not well-defined due to the lack of a clear associated Mendelian disease.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Using gnomAD v2.1.1 data, the pLI (probability of being loss-of-function intolerant) score is 0.00, suggesting tolerance to haploinsufficiency. The pRec score is 0.81, and the pNull score is 0.19. The LOEUF (loss-of-function observed/expected upper bound fraction) is a more recent metric, and a low value indicates intolerance; for CNN2, specific values were not found in the search.
+*   **Clinical Interpretation of Constraint Scores:** The extremely low pLI score indicates that loss-of-function variants in CNN2 are observed at frequencies expected in the general population, making haploinsufficiency an unlikely disease mechanism. The gene is not considered constrained against protein-truncating variants.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or have a dominant-negative effect. However, no such variants have been characterized.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are directly linked to CNN2 in databases like OMIM or ClinVar as there is no established associated monogenic disorder.
+*   **Secondary HPO terms:** While no direct links exist, GWAS data suggests a potential association with skeletal and hematological phenotypes, such as 'Abnormality of bone mineral density' (HP:0004349) and 'Abnormality of reticulocyte count' (HP:0040281).
+*   **Age of Onset Patterns:** Not applicable as no specific inherited disorder is defined. Research has implicated it in age-related conditions.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Due to the absence of confirmed pathogenic variants causing a Mendelian disease, there are no established correlations between variant classes and specific phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** CNN2 contains a Calponin Homology (CH) domain, which is crucial for actin binding. Variants disrupting this domain could theoretically affect cytoskeletal functions, but specific phenotype patterns have not been documented.
+*   **Genotype-Phenotype Correlation Strength:** Weak to non-existent. Current data does not support any strong genotype-phenotype correlations.
+*   **Examples: specific variants → specific phenotypes:** A variant (p.P232H) was identified in a whole-exome sequencing study of Alzheimer's disease, but its pathogenicity was not established.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for CNN2 are listed in ClinVar. DECIPHER also holds no open-access sequence variants for this gene.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, CNN2 shows the highest expression in smooth muscle tissues, including the aorta, colon, and uterus. It is also expressed in the spleen, lung, and thyroid.
+*   **Tissue-Specific Phenotypes Expected:** Based on its high expression in smooth muscle, variants could theoretically lead to phenotypes affecting vascular, gastrointestinal, or uterine function. Its expression in immune cells like monocytes could suggest a role in inflammatory responses.
+*   **Expression During Development and Age-Related Phenotypes:** CNN2 expression is noted in growing smooth muscle tissues during embryonic development. Its potential involvement in age-related diseases like AMD and Alzheimer's suggests its function may be relevant later in life.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** CNN2 is a thin filament-associated protein that regulates and modulates smooth muscle contraction by binding to actin, calmodulin, and tropomyosin, and inhibiting actomyosin Mg-ATPase activity.
+*   **Disease Mechanism:** No clear disease mechanism has been established for CNN2-related phenotypes. Haploinsufficiency is unlikely given the gnomAD constraint data.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** CNN2 is involved in actin cytoskeleton organization and stabilization. Disruption could impact cell motility, adhesion, and morphology. It is also implicated in pathways like neutrophil degranulation and JAK-STAT signaling.
+*   **Protein-Protein Interactions Relevant to Phenotype:** CNN2 interacts with actin, calmodulin, and tropomyosin. These interactions are fundamental to its role in regulating the cytoskeleton and muscle contraction.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for CNN2 is effectively zero, as it is not typically included in clinical gene panels for specific disorders due to a lack of disease association.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would be purely for research purposes, for instance, in studies of GWAS hits for complex traits or in broad whole-exome/genome sequencing where its relevance is being explored.
+*   **Clinical Actionability and Management Implications:** There is currently no clinical actionability associated with variants in CNN2.
+*   **Genetic Counseling Considerations:** Genetic counseling would focus on the uncertainty of findings in CNN2, emphasizing the lack of evidence for its role in causing human disease and the high tolerance for variation in the general population.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 27150165, Year: 2016:** This review summarizes the structure, function, and regulation of the three calponin isoforms (CNN1, CNN2, CNN3), highlighting their roles in smooth muscle contractility and non-muscle cell motility. It notes that CNN2 is involved in cell proliferation and adhesion.
+*   **PMID: 9, Year: not specified:** Research on NCBI indicates a potential role for CNN2 in cancer progression, specifically in hepatocellular carcinoma and gastric cancer, possibly through the MEK1/2-ERK1/2 signaling pathway.
+*   **PMID: not specified, Year: not specified:** GWAS catalog results suggest associations between CNN2 and bone density, as well as reticulocyte measurements, pointing to potential roles in bone and hematopoietic systems.
+*   **PMID: not specified, Year: not specified:** A study on age-related macular degeneration (AMD) suggested a possible immunological role for the CNN2 locus, noting its colocalization with an eQTL for CNN2 in monocytes.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are no high-confidence HPO-variant associations for CNN2.
+*   **Phenotype red flags:** There are currently no "red flag" HPO terms that would strongly suggest pathogenic variants in CNN2.
+*   **Differential diagnosis considerations:** Not applicable due to the lack of a defined CNN2-related disorder.
+

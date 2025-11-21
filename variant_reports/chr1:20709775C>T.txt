@@ -1,0 +1,79 @@
+=== chr1:20709775C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs199634814
+• Chromosome: 1
+• Position: 20709775
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: KIF17
+• Databases: rs199634814, COSV99928561
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 3.42e-06
+• gnomADg Allele Frequency: 1.969e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0010940: microglial activation measurement - The quantification of the amount of activated migroglia in the brain.
+GWAS_EFO_0004533: alkaline phosphatase measurement - Alkaline phosphatase measurement is a quantification of alkaline phosphatase in blood. AP is a marker for bone and liver disease.
+GWAS_EFO_0004918: age at diagnosis - The age, measured from some defined time point e.g. birth at which a subject (e.g. a human patient) is diagnosed with some disease e.g. breast cancer.
+GWAS_EFO_0001359: obsolete_type I diabetes mellitus - A subtype of DIABETES MELLITUS that is characterized by INSULIN deficiency. It is manifested by the sudden onset of severe HYPERGLYCEMIA, rapid progression to DIABETIC KETOACIDOSIS, and DEATH unless treated with insulin. The disease may occur at any age, but is most common in childhood or adolescence.|Diabetes mellitus characterized by insulin deficiency, sudden onset, severe hyperglycemia, rapid progression to ketoacidosis, and death unless treated with insulin. The disease may occur at any age, but is most common in childhood or adolescence.|An autoimmune disease of endocrine system and is_a diabetes mellitus that results from autoimmune destruction of insulin-producing beta cells of the pancreas.
+GWAS_EFO_0004232: eosinophilic esophagitis - Eosinophilic esophagitis (EoE) is a chronic, allergic disease of the esophagus characterized clinically by symptoms of esophageal dysfunction (including vomiting, dysphagia, feeding disorders, food impaction and abdominal pain) which persist after treatment with proton pump inhibitors (PPIs).|Chronic ESOPHAGITIS characterized by esophageal mucosal EOSINOPHILIA. It is diagnosed when an increase in EOSINOPHILS are present over the entire esophagus. The reflux symptoms fail to respond to PROTON PUMP INHIBITORS treatment, unlike in GASTROESOPHAGEAL REFLUX DISEASE. The symptoms are associated with IgE-mediated hypersensitivity to food or inhalant allergens.
+GWAS_EFO_0010972: blood phosphate measurement - The amount of phosphorus, measured as inorganic phosphate, in a specified sample of blood.
+GWAS_EFO_0007845: lip morphology measurement - quantification of some aspect of lip morphology such as upper lip or lower lip thickness or lip curvature
+GWAS_EFO_0010222: ceramide measurement - A quantification of ceramides.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16186584) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Transcript (ID: 16416799) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Transcript (ID: 16416802) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Transcript (ID: 16416803) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Histone Modification Site (ID: 54427455) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 66247143) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 78823463) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 81743172) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 83647734) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 18898930) -> Associated GWAS: GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 19517160) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 20062034) -> Associated GWAS: GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845
+Entity: ChromHMM State (ID: 20633214) -> Associated GWAS: GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: ChromHMM State (ID: 21243661) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 22490615) -> Associated GWAS: GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845
+Entity: chr_chain (ID: 71859) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0010972
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1801
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 125
+• Uncertain Significance: 1676
+• Other Classifications: 0
+

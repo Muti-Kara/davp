@@ -1,0 +1,199 @@
+=== chr5:177388002C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs141770901
+• Chromosome: 5
+• Position: 177388002
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: SLC34A1
+• Databases: rs141770901, COSV100184076
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 6.094000000000001e-05
+• gnomADg Allele Frequency: 5.910000000000001e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005208: glomerular filtration rate - measurement of the flow rate of filtered fluid through the kidney, calculated either by comparative measurements of substances in the blood and urine, or estimated from a blood test
+GWAS_EFO_0004861: phosphorus measurement - Is the quantification of serum phosphorus used in the diagnosis of hyper or hypophosphatemia, and used in the diagnosis of disease.
+GWAS_EFO_0000222: acute myeloid leukemia - Acute myeloid leukemia (AML) is a group of neoplasms arising from precursor cells committed to the myeloid cell-line differentiation. All of them are characterized by clonal expansion of myeloid blasts. AML manifests by fever, pallor, anemia, hemorrhages and recurrent infections.
+GWAS_EFO_0003884: chronic kidney disease - Conditions in which the KIDNEYS perform below the normal level for more than three months. Chronic kidney insufficiency is classified by five stages according to the decline in GLOMERULAR FILTRATION RATE and the degree of kidney damage (as measured by the level of PROTEINURIA). The most severe form is the end-stage renal disease (CHRONIC KIDNEY FAILURE). (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002)|The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION.|Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+GWAS_EFO_0004518: creatinine measurement - A creatinine measurement is a measure of the metabolite creatinine in a sample. For example, in the serum, where it can be used in assessment of kidney function.
+GWAS_EFO_0004348: hematocrit - The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value.
+GWAS_EFO_0000270: obsolete_asthma - A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.|Tendency of the smooth muscle of the tracheobronchial tree to contract more intensely in response to a given stimulus than it does in the response seen in normal individuals. This condition is present in virtually all symptomatic patients with asthma. The most prominent manifestation of this smooth muscle contraction is a decrease in airway caliber that can be readily measured in the pulmonary function laboratory.|A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).|A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, excercise, stress, reflux disease, medications, foods and emotional anxiety.
+GWAS_EFO_0000400: diabetes mellitus - A metabolic disorder characterized by abnormally high blood sugar levels due to diminished production of insulin or insulin resistance/desensitization.|A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0007978: red blood cell density measurement - quantification of the density of a red blood cell (DRBC). DRBC is affected by the hydration level of the cell, with dehydrated cells being dense and deformed. Increased DRBC may be an indicator of disease severity in sickle cell anemia
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0007903: magnesium:calcium ratio - quantification of the ratio of magnesium to calcium in a sample, typically a urine sample, a proxy measure for the differential handling by the renal tubule and excretion of Ca2+ and Mg2+
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16169876) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004861, GWAS_EFO_0005208, GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0007978, GWAS_EFO_0005208, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007903
+Entity: Transcript (ID: 16337266) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400
+Entity: Transcript (ID: 16337315) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0007978, GWAS_EFO_0005208, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007903
+Entity: Transcript (ID: 16337325) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0007978, GWAS_EFO_0005208, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007903
+Entity: TF Binding Site (ID: 313660044) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 308837392) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 306616899) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 300641150) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 298800653) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 295781640) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 283070122) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 278944819) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 273961869) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 273558852) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 273412279) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 270101794) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 259796010) -> Associated GWAS: GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 256588298) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 250675909) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 242494426) -> Associated GWAS: GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 241227939) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 226215024) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 225455080) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 220997030) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 218859811) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 216346457) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 212536530) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 211331282) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 197891327) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 193348162) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 188477924) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 175632737) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 174538936) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 168779556) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 165486898) -> Associated GWAS: GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 161339097) -> Associated GWAS: GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 158698885) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 151535716) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 151321782) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 145103652) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 136003175) -> Associated GWAS: GWAS_EFO_0005208
+Entity: TF Binding Site (ID: 133531218) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 132323474) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 126216194) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 121067849) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 111388592) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 109375905) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 107057233) -> Associated GWAS: GWAS_EFO_0004518
+Entity: TF Binding Site (ID: 106117467) -> Associated GWAS: GWAS_EFO_0004518
+Entity: Histone Modification Site (ID: 52942293) -> Associated GWAS: GWAS_EFO_0004518
+Entity: Histone Modification Site (ID: 53386166) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 57855383) -> Associated GWAS: GWAS_EFO_0004518
+Entity: Histone Modification Site (ID: 61021007) -> Associated GWAS: GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 62602061) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400
+Entity: Histone Modification Site (ID: 65847775) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 72875616) -> Associated GWAS: GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208
+Entity: Histone Modification Site (ID: 76279987) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518
+Entity: Histone Modification Site (ID: 79934710) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509
+Entity: Histone Modification Site (ID: 85984429) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400, GWAS_EFO_0004509, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208
+Entity: DNase Hypersensitivity Site (ID: 30104316) -> Associated GWAS: GWAS_EFO_0004518
+Entity: ChromHMM State (ID: 19099589) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270, GWAS_EFO_0005208, GWAS_EFO_0000400
+Entity: ChromHMM State (ID: 19688830) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270
+Entity: ChromHMM State (ID: 20248414) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518
+Entity: ChromHMM State (ID: 20839230) -> Associated GWAS: GWAS_EFO_0004518
+Entity: ChromHMM State (ID: 21444260) -> Associated GWAS: GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270
+Entity: ChromHMM State (ID: 22074794) -> Associated GWAS: GWAS_EFO_0004518
+Entity: ChromHMM State (ID: 22673057) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270
+Entity: chr_chain (ID: 279129) -> Associated GWAS: GWAS_EFO_0000222, GWAS_EFO_0003884, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0004518, GWAS_EFO_0004348, GWAS_EFO_0005208, GWAS_EFO_0000270
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 6725
+• Pathogenic/Likely Pathogenic: 1389
+• Benign/Likely Benign: 2199
+• Uncertain Significance: 3131
+• Other Classifications: 6
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Hypercalcemia, infantile, 2 (n=1570)
+• Fanconi renotubular syndrome 2 (n=1449)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=1425)
+• not provided|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=310)
+• Inborn genetic diseases (n=290)
+• not provided|Inborn genetic diseases (n=218)
+• Fanconi renotubular syndrome 2|not provided (n=145)
+• Hypercalcemia, infantile, 2|not provided (n=116)
+• not provided|Hypercalcemia, infantile, 2 (n=101)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|not provided (n=88)
+• SLC34A1-related disorder (n=88)
+• Autosomal recessive infantile hypercalcemia|Fanconi renotubular syndrome 2 (n=67)
+• SLC34A1-related disorder|Hypercalcemia, infantile, 2 (n=62)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|not specified|not provided|SLC34A1-related disorder|Hypercalcemia, infantile, 2 (n=62)
+• Inborn genetic diseases|Hypercalcemia, infantile, 2 (n=52)
+• SLC34A1-related disorder|not provided (n=40)
+• not provided|Inborn genetic diseases|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=36)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|not provided|Inborn genetic diseases (n=33)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|not provided|Hypercalcemia, infantile, 2|Fanconi renotubular syndrome 2 (n=32)
+• Hypercalcemia, infantile, 2|SLC34A1-related disorder|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=32)
+• Fanconi renotubular syndrome 2|Nephrocalcinosis (n=32)
+• Nephrolithiasis|not provided (n=32)
+• Hypercalcemia, infantile, 2|Hypophosphatemic nephrolithiasis/osteoporosis 1|Fanconi renotubular syndrome 2 (n=25)
+• Hypercalcemia, infantile, 2|SLC34A1-related disorder (n=23)
+• Nephrocalcinosis|not provided|Fanconi renotubular syndrome 2 (n=22)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|Fanconi renotubular syndrome 2 (n=14)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|Hypercalcemia, infantile, 2 (n=13)
+• not provided|Fanconi renotubular syndrome 2 (n=11)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|SLC34A1-related disorder (n=10)
+• Hypercalcemia, infantile, 2|not provided|Inborn genetic diseases (n=9)
+• Inborn genetic diseases|not provided (n=9)
+• Inborn genetic diseases|Fanconi renotubular syndrome 2 (n=9)
+• Fanconi renotubular syndrome 2|Hypercalcemia, infantile, 2|not provided (n=8)
+• Hypercalcemia, infantile, 2|SLC34A1-related disorder|Hypercalcemia, infantile, 2 (n=8)
+• Prostate cancer|Inborn genetic diseases (n=7)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|not provided|Inborn genetic diseases|Hypercalcemia, infantile, 2 (n=7)
+• not provided|Hypophosphatemic nephrolithiasis/osteoporosis 1|Inborn genetic diseases|Hypercalcemia, infantile, 2 (n=7)
+• not provided|Hypophosphatemic nephrolithiasis/osteoporosis 1|Fanconi renotubular syndrome 2 (n=7)
+• Osteogenesis imperfecta type III (n=7)
+• Fanconi renotubular syndrome 2|Hypercalcemia, infantile, 2 (n=7)
+• Hypercalcemia, infantile, 2|not provided|Fanconi renotubular syndrome 2 (n=7)
+• Large for gestational age (n=6)
+• Nephrocalcinosis (n=5)
+• not provided|Inborn genetic diseases|Fanconi renotubular syndrome 2 (n=5)
+• Fanconi renotubular syndrome 2|Inborn genetic diseases (n=4)
+• Hypercalcemia, infantile, 2|not provided|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=3)
+• not provided|Hypercalcemia, infantile, 2|SLC34A1-related disorder (n=3)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|not provided|Hypercalcemia, infantile, 2 (n=3)
+• Nephrolithiasis|not provided|SLC34A1-related disorder|Fanconi renotubular syndrome 2 (n=3)
+• not provided|Hypercalcemia, infantile, 2|SLC34A1-related disorder|Fanconi renotubular syndrome 2 (n=3)
+• Hypercalcemia, infantile, 2|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=3)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|Fanconi renotubular syndrome 2|not provided (n=3)
+• Fanconi renotubular syndrome 2|not provided|not specified|Hypercalcemia, infantile, 2 (n=3)
+• not provided|Hypercalcemia, infantile, 2|Hypophosphatemic nephrolithiasis/osteoporosis 1|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=2)
+• Hypophosphatemic nephrolithiasis/osteoporosis 1|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=2)
+• Factor XII deficiency disease|Nephrolithiasis/osteoporosis, hypophosphatemic|Hereditary angioneurotic edema|Hypophosphatemic nephrolithiasis/osteoporosis 1|not provided (n=2)
+• Hypercalcemia, infantile, 2|Inborn genetic diseases (n=2)
+• Fanconi renotubular syndrome 2|not provided|Hypercalcemia, infantile, 2 (n=2)
+• not provided|SLC34A1-related disorder (n=2)
+• Nephrocalcinosis|not provided|SLC34A1-related disorder (n=2)
+• Nephrolithiasis|not provided|Hypercalcemia, infantile, 2|SLC34A1-related disorder|Fanconi renotubular syndrome 2 (n=2)
+• Nephrolithiasis/osteoporosis, hypophosphatemic|Hypophosphatemic nephrolithiasis/osteoporosis 1 (n=2)
+
+

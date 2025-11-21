@@ -1,0 +1,58 @@
+=== chr8:143866294G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1293725115
+• Chromosome: 8
+• Position: 143866294
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0/1
+• Quality Score: 253.63999939
+• Gene Names: EPPK1
+• Databases: rs1293725115, COSV73261107
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1411
+• gnomADg Allele Frequency: 0.1109
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 15
+• Allelic Depth (AD): [8, 7]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2403
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 1103
+• Uncertain Significance: 1300
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• EPPK1-related disorder (n=31)
+• EPPK1-related disorder|not specified (n=14)
+• Myoepithelial tumor|not specified (n=4)
+
+

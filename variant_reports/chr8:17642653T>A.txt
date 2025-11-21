@@ -1,0 +1,126 @@
+=== chr8:17642653T>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs35346456
+• Chromosome: 8
+• Position: 17642653
+• Reference Allele (REF): T
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: PDGFRL
+• Databases: rs35346456, COSV106333391
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.007659
+• gnomADg Allele Frequency: 0.0058909999999999995
+• 1KG Frequency: 0.0022
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005134: amino acid measurement - quantification of some amino acid in a biological assay
+GWAS_EFO_0006524: L-arginine measurement - quantification of the amount of L-arginine in a sample, eg in blood
+GWAS_EFO_0004874: memory performance - Is a quantification of a subject's activities involved in the mental information processing system that receives (registers), modifies, stores, and retrieves informational stimuli. Memory performance is typically assessed by some clinical memory test and is used in the diagnosis of diseases such as Alzheimer's disease.
+GWAS_EFO_0010118: sphingomyelin measurement - A quantification of sphingomyeline in a sample.
+GWAS_EFO_0010397: sphingomyelin 24:0 measurement - The quantification of sphingomyelin 24:0 levels in a sample.
+GWAS_EFO_0001357: sporadic amyotrophic lateral sclerosis - Sporadic amyotrophic lateral sclerosis is a amyotrophic lateral sclerosis in which there is no known cause, such as no family history.
+GWAS_EFO_0005530: Trypanosoma cruzi seropositivity - Trypanosoma cruzi seropositivity is the result of a measurement of circulating T. cruzi specific antibodies 
+GWAS_EFO_0005529: Chagas cardiomyopathy - a form of cardiomyopathy that develops as a result of Chagas disease, an infection with the protozoan parasite Trypanosoma Cruzi|A disease of the cardiac muscle developed subsequent to the initial protozoan infection by trypanosoma cruzi. After infection, less than 10% develop acute illness such as myocarditis (mostly in children). The disease then enters a latent phase without clinical symptoms until about 20 years later. Myocardial symptoms of advanced chagas disease include conduction defects (heart block) and cardiomegaly.
+GWAS_EFO_0004752: parathyroid hormone measurement - Is the quantification of parathyroid hormone, typically in blood. The protein encoded by this gene is a hormone secreted by parathyroid cells. This hormone elevates blood Ca2+ level by dissolving the salts in bone and preventing their renal excretion. Defects in this gene are a cause of familial isolated hypoparathyroidism (FIH) (RefSeq), High level s of parathyroid hormone are also used in the diagnostics for hypo and hyper calcemia, primary and secondary hyper parathyroidism. Low values are used in the diagnostics of hypoparathyroidism.
+GWAS_EFO_0005035: hippocampal volume - Measurement of the volume of the hippocampus
+GWAS_EFO_1001754: Abruptio Placentae - Premature separation of the normally implanted PLACENTA from the UTERUS. Signs of varying degree of severity include UTERINE BLEEDING, uterine MUSCLE HYPERTONIA, and FETAL DISTRESS or FETAL DEATH.|Vaginal bleeding preceding the 20th week of gestation.
+GWAS_EFO_0007753: seasonal gut microbiome measurement - quantification of some aspect of the seasonal variation in the micrbiome of the gut
+GWAS_EFO_0001071: lung carcinoma - A carcinoma that arises from epithelial cells of the lung
+GWAS_EFO_0000571: lung adenocarcinoma - A carcinoma that arises from the lung and is characterized by the presence of malignant glandular epithelial cells. There is a male predilection with a male to female ratio of 2:1. Usually lung adenocarcinoma is asymptomatic and is identified through screening studies or as an incidental radiologic finding. If clinical symptoms are present they include shortness of breath, cough, hemoptysis, chest pain, and fever. Tobacco smoke is a known risk factor.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16134814) -> Associated GWAS: GWAS_EFO_0005134, GWAS_EFO_0006524, GWAS_EFO_0004874, GWAS_EFO_0010118, GWAS_EFO_0010397, GWAS_EFO_0001357, GWAS_EFO_0005530, GWAS_EFO_0005529, GWAS_EFO_0004752, GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: Transcript (ID: 16210617) -> Associated GWAS: GWAS_EFO_0005134, GWAS_EFO_0006524, GWAS_EFO_0004874, GWAS_EFO_0010118, GWAS_EFO_0010397, GWAS_EFO_0001357, GWAS_EFO_0005530, GWAS_EFO_0005529, GWAS_EFO_0004752, GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: Transcript (ID: 16210624) -> Associated GWAS: GWAS_EFO_0005134, GWAS_EFO_0006524, GWAS_EFO_0004874, GWAS_EFO_0010118, GWAS_EFO_0010397, GWAS_EFO_0001357, GWAS_EFO_0005530, GWAS_EFO_0005529, GWAS_EFO_0004752, GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: Transcript (ID: 16210626) -> Associated GWAS: GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: Non Coding RNA (ID: 17367075) -> Associated GWAS: GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 312231423) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 303498306) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 281632212) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 250881992) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 235792433) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 222870435) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 219973879) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 212566594) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 210479255) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 199594726) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 191589980) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 185260618) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 179552040) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 178763523) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 178193624) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 177223830) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 167420394) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 160258627) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 145294913) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 143354193) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 132437495) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 103002856) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 101001332) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 98862204) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 98318895) -> Associated GWAS: GWAS_EFO_0007753
+Entity: TF Binding Site (ID: 96124586) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 72336788) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 93265880) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 92827721) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 82086343) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 79049709) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 49579572) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 51666051) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 63476280) -> Associated GWAS: GWAS_EFO_0007753
+Entity: Histone Modification Site (ID: 67263272) -> Associated GWAS: GWAS_EFO_0007753
+Entity: DNase Hypersensitivity Site (ID: 39754756) -> Associated GWAS: GWAS_EFO_0007753
+Entity: DNase Hypersensitivity Site (ID: 46639469) -> Associated GWAS: GWAS_EFO_0007753
+Entity: ChromHMM State (ID: 19174244) -> Associated GWAS: GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753, GWAS_EFO_0001071, GWAS_EFO_0000571
+Entity: ChromHMM State (ID: 19754282) -> Associated GWAS: GWAS_EFO_1001754, GWAS_EFO_0007753, GWAS_EFO_0001071, GWAS_EFO_0000571
+Entity: ChromHMM State (ID: 20316225) -> Associated GWAS: GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753, GWAS_EFO_0001071, GWAS_EFO_0000571
+Entity: ChromHMM State (ID: 20910147) -> Associated GWAS: GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: ChromHMM State (ID: 21526752) -> Associated GWAS: GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753, GWAS_EFO_0001071, GWAS_EFO_0000571
+Entity: ChromHMM State (ID: 22148471) -> Associated GWAS: GWAS_EFO_0005035, GWAS_EFO_1001754, GWAS_EFO_0007753
+Entity: ChromHMM State (ID: 22738822) -> Associated GWAS: GWAS_EFO_0007753
+Entity: chr_chain (ID: 349520) -> Associated GWAS: GWAS_EFO_1001754, GWAS_EFO_0007753
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1013
+• Pathogenic/Likely Pathogenic: 8
+• Benign/Likely Benign: 123
+• Uncertain Significance: 873
+• Other Classifications: 9
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=18)
+• Large for gestational age|Normal pregnancy (n=3)
+• Small for gestational age|Preeclampsia|Normal pregnancy (n=3)
+• Normal pregnancy|Gestational diabetes mellitus uncontrolled (n=3)
+• Carcinoma of colon (n=3)
+
+

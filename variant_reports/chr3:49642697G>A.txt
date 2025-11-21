@@ -1,0 +1,151 @@
+=== chr3:49642697G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs148125466
+• Chromosome: 3
+• Position: 49642697
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0/1
+• Quality Score: 785.64001465
+• Gene Names: BSN
+• Databases: rs148125466, COSV56513200
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign/likely_benign
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.003973
+• gnomADg Allele Frequency: 0.002796
+• 1KG Frequency: 0.001
+
+SEQUENCING DATA:
+================
+• Depth (DP): 110
+• Allelic Depth (AD): [69, 37]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004458: C-reactive protein measurement - C-reactive protein (CRP) measurement is a measurement of the level of C-reactive protein in the blood.  Levels are known to rise in response to inflammation, CRP is therefore used as a clinical measure of inflammation. The measurement is used in the process of clinical diagnosis as high levels of CRP are associated with cardiovascular disease, diabetes and hypertension and in some cancers.|is about MeSH:D002097
+GWAS_EFO_0004617: cystatin C measurement - is a quantification of serum cystatin C C (formerly gamma trace, post-gamma-globulin or neuroendocrine basic polypeptide),[1] a protein encoded by the CST3 gene, is mainly used as a biomarker of kidney function and kidney disease.
+GWAS_EFO_0004541: HbA1c measurement - A quantification of glycated A1c hemoglobin in blood used as an index for blood glucose level over several months.
+GWAS_EFO_0004518: creatinine measurement - A creatinine measurement is a measure of the metabolite creatinine in a sample. For example, in the serum, where it can be used in assessment of kidney function.
+GWAS_EFO_0005208: glomerular filtration rate - measurement of the flow rate of filtered fluid through the kidney, calculated either by comparative measurements of substances in the blood and urine, or estimated from a blood test
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0009695: household income - A demographic parameter indicating the amount of earning made by a family.
+GWAS_EFO_0007986: reticulocyte count - The number of reticulocytes per unit volume of blood. Reticulocytes are immature red blood cells and typically compose aoubt 1% of red blood cells in the human body.
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0010700: reticulocyte measurement - A quantification of some aspect of reticulocyte function, quantity, or composition.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0008354: cognitive function measurement - quantification of some aspect of cognitive function
+GWAS_EFO_0001663: prostate carcinoma - A carcinoma that arises from epithelial cells of the prostate gland.
+GWAS_EFO_0004778: self rated health - The process of questioning an individual, usually by means of a survey to determine general health.
+GWAS_EFO_0004468: glucose measurement - Is any quantification of glucose.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0008328: chronotype measurement - quantification of some aspect of chronotype such as ease of getting up in the morning
+GWAS_EFO_0004319: smoking cessation - Discontinuation of the habit of smoking, the inhaling and exhaling of tobacco smoke.
+GWAS_EFO_0007788: BMI-adjusted waist-hip ratio - waist-hip ratio that has been adjusted by subjects’ body mass index
+GWAS_EFO_0000729: ulcerative colitis - Inflammation of the COLON that is predominantly confined to the MUCOSA. Its major symptoms include DIARRHEA, rectal BLEEDING, the passage of MUCUS, and ABDOMINAL PAIN.|An inflammatory bowel disease involving the mucosal surface of the large intestine and rectum. It may present with an acute or slow onset and follows an intermittent or continuous course. Signs and symptoms include abdominal pain, diarrhea, fever, weight loss, and intestinal hemorrhage.
+GWAS_EFO_0004268: sclerosing cholangitis - A chronic, autoimmune inflammatory liver disorder characterized by narrowing and scarring of the lumen of the bile ducts. It is often seen in patients with ulcerative colitis. Signs and symptoms include jaundice, fatigue, and malabsorption. It may lead to cirrhosis and liver failure.|Chronic inflammatory disease of the BILIARY TRACT. It is characterized by fibrosis and hardening of the intrahepatic and extrahepatic biliary ductal systems leading to bile duct strictures, CHOLESTASIS, and eventual BILIARY CIRRHOSIS.
+GWAS_EFO_0000384: Crohn's disease - A chronic transmural inflammation that may involve any part of the DIGESTIVE TRACT from MOUTH to ANUS, mostly found in the ILEUM, the CECUM, and the COLON. In Crohn disease, the inflammation, extending through the intestinal wall from the MUCOSA to the serosa, is characteristically asymmetric and segmental. Epithelioid GRANULOMAS may be seen in some patients.|A gastrointestinal disorder characterized by chronic inflammation involving all layers of the intestinal wall, noncaseating granulomas affecting the intestinal wall and regional lymph nodes, and transmural fibrosis. Crohn disease most commonly involves the terminal ileum; the colon is the second most common site of involvement.
+GWAS_EFO_0000676: psoriasis - An autoimmune condition characterized by red, well-delineated plaques with silvery scales that are usually on the extensor surfaces and scalp. They can occasionally present with these manifestations: pustules; erythema and scaling in intertriginous areas, and erythroderma, that are often distributed on extensor surfaces and scalp.|A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. The lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region. Accelerated epidermopoiesis is considered to be the fundamental pathologic feature in psoriasis.
+GWAS_EFO_0003898: ankylosing spondylitis - A chronic inflammatory condition affecting the axial joints, such as the SACROILIAC JOINT and other intervertebral or costovertebral joints. It occurs predominantly in young males and is characterized by pain and stiffness of joints (ANKYLOSIS) with inflammation at tendon insertions.|An autoimmune chronic inflammatory disorder characterized by inflammation in the vertebral joints of the spine and sacroiliac joints. It predominantly affects young males. Patients present with stiffness and pain in the spine.
+GWAS_EFO_0007904: susceptibility to childhood ear infection measurement - quantification of an individual's susceptibility to childhood ear infections, generally as a count of number of infections suffered or a binary scale of presence or absence of childhood ear infections
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0007796: parental longevity - length of an individual's parents' life, either taken individually (paternal or maternal longevity) or in combination and sometimes used as an indicator of an individual longevity
+GWAS_EFO_0007789: BMI-adjusted waist circumference - waist circumference measurement that has been adjusted by subjects’ body mass index
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0001645: coronary artery disease - Thickening and loss of elasticity of the CORONARY ARTERIES, leading to progressive arterial insufficiency (CORONARY DISEASE).|Narrowing of the coronary arteries due to fatty deposits inside the arterial walls. The diagnostic criteria may include documented history of any of the following: documented coronary artery stenosis greater than or equal to 50% (by cardiac catheterization or other modality of direct imaging of the coronary arteries); previous coronary artery bypass surgery (CABG); previous percutaneous coronary intervention (PCI); previous myocardial infarction. (ACC)|Pathological processes of CORONARY ARTERIES that may derive from a congenital abnormality, atherosclerotic, or non-atherosclerotic cause.|Narrowing of the coronary arteries due to fatty deposits inside the arterial walls.|An imbalance between myocardial functional requirements and the capacity of the CORONARY VESSELS to supply sufficient blood flow. It is a form of MYOCARDIAL ISCHEMIA (insufficient blood supply to the heart muscle) caused by a decreased capacity of the coronary vessels.
+GWAS_EFO_0003767: inflammatory bowel disease - A spectrum of small and large bowel inflammatory diseases of unknown etiology. It includes Crohn's disease, ulcerative colitis, and colitis of indeterminate type.|A spectrum of small and large bowel inflammatory diseases of unknown etiology.  It includes Crohn's disease, ulcerative colitis, and colitis of indeterminate type. --2003[accessedResource: NCIt:C3138][accessDate: 05-04-2011]
+GWAS_EFO_0000685: rheumatoid arthritis - Rheumatoid arthritis is a rheumatologic disorder described as an autoimmune disease that is usually a chronic disease and is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints.|A chronic, systemic autoimmune disorder characterized by inflammation in the synovial membranes and articular surfaces. It manifests primarily as a symmetric, erosive polyarthritis that spares the axial skeleton and is typically associated with the presence in the serum of rheumatoid factor.|A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.|An arthritis that results_from an autoimmune disease which attacks healthy cells and tissue located_in joint.
+GWAS_EFO_0008154: hepatocyte growth factor-like protein measurement - quantification of the amount of hepatocyte growth factor-like protein in a sample
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16176753) -> Associated GWAS: GWAS_EFO_0004458, GWAS_EFO_0004617, GWAS_EFO_0004541, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0009695, GWAS_EFO_0007986, GWAS_EFO_0004337, GWAS_EFO_0010700, GWAS_EFO_0004747, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0001663, GWAS_EFO_0007986, GWAS_EFO_0004747, GWAS_EFO_0004778, GWAS_EFO_0004468, GWAS_EFO_0007937, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0001663, GWAS_EFO_0004784, GWAS_EFO_0004319, GWAS_EFO_0007788, GWAS_EFO_0009695, GWAS_EFO_0001663, GWAS_EFO_0000729, GWAS_EFO_0004268, GWAS_EFO_0000384, GWAS_EFO_0000676, GWAS_EFO_0003898, GWAS_EFO_0007904, GWAS_EFO_0004337, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0004340, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337, GWAS_EFO_0007937, GWAS_EFO_0007789, GWAS_EFO_0004527, GWAS_EFO_0001645, GWAS_EFO_0003767, GWAS_EFO_0000384, GWAS_EFO_0000685, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0008154, GWAS_EFO_0000729, GWAS_EFO_0000384, GWAS_EFO_0004526, GWAS_EFO_0004337, GWAS_EFO_0007788
+Entity: Transcript (ID: 16368295) -> Associated GWAS: GWAS_EFO_0004458, GWAS_EFO_0004617, GWAS_EFO_0004541, GWAS_EFO_0004518, GWAS_EFO_0005208, GWAS_EFO_0004784, GWAS_EFO_0004703, GWAS_EFO_0009695, GWAS_EFO_0007986, GWAS_EFO_0004337, GWAS_EFO_0010700, GWAS_EFO_0004747, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0001663, GWAS_EFO_0007986, GWAS_EFO_0004747, GWAS_EFO_0004778, GWAS_EFO_0004468, GWAS_EFO_0007937, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0001663, GWAS_EFO_0004784, GWAS_EFO_0004319, GWAS_EFO_0007788, GWAS_EFO_0009695, GWAS_EFO_0001663, GWAS_EFO_0000729, GWAS_EFO_0004268, GWAS_EFO_0000384, GWAS_EFO_0000676, GWAS_EFO_0003898, GWAS_EFO_0007904, GWAS_EFO_0004337, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0004340, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337, GWAS_EFO_0007937, GWAS_EFO_0007789, GWAS_EFO_0004527, GWAS_EFO_0001645, GWAS_EFO_0003767, GWAS_EFO_0000384, GWAS_EFO_0000685, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0008154, GWAS_EFO_0000729, GWAS_EFO_0000384, GWAS_EFO_0004526, GWAS_EFO_0004337, GWAS_EFO_0007788
+Entity: ChromHMM State (ID: 19007923) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 19620031) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 20167304) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0004340, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 20746105) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 21362610) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 21981952) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337
+Entity: ChromHMM State (ID: 22589626) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337, GWAS_EFO_0007937, GWAS_EFO_0007789, GWAS_EFO_0004527, GWAS_EFO_0001645, GWAS_EFO_0003767, GWAS_EFO_0000384, GWAS_EFO_0000685, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0008154, GWAS_EFO_0000729, GWAS_EFO_0000384, GWAS_EFO_0004526, GWAS_EFO_0004337, GWAS_EFO_0007788
+Entity: chr_chain (ID: 175877) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0007796, GWAS_EFO_0004337
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3879
+• Pathogenic/Likely Pathogenic: 125
+• Benign/Likely Benign: 845
+• Uncertain Significance: 2903
+• Other Classifications: 6
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Autosomal recessive limb-girdle muscular dystrophy type 2P (n=502)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9 (n=492)
+• not provided|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9 (n=94)
+• not provided|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=64)
+• Inborn genetic diseases (n=64)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|Inborn genetic diseases (n=54)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|Inborn genetic diseases (n=36)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|not provided (n=28)
+• not specified|not provided (n=27)
+• not provided|BSN-related disorder (n=25)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|not provided (n=24)
+• not provided|not specified (n=17)
+• BSN-related disorder (n=15)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|not provided|Inborn genetic diseases (n=10)
+• not specified|not provided|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9 (n=8)
+• BSN related epilepsy (n=8)
+• not provided|Inborn genetic diseases (n=6)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|DAG1-related disorder (n=6)
+• Epilepsy (n=6)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|not provided|Inborn genetic diseases (n=4)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|not specified (n=4)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|Inborn genetic diseases|not provided (n=4)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|Inborn genetic diseases|not provided (n=4)
+• BSN-related disorder|not specified (n=3)
+• Oromandibular-limb hypogenesis spectrum (n=3)
+• BSN related epilepsy|not specified (n=3)
+• not specified|BSN related epilepsy (n=3)
+• Seizure (n=3)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Elevated circulating creatine kinase concentration (n=2)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|not provided (n=2)
+• DAG1-related disorder (n=2)
+• not specified|not provided|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Myopathy|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|not specified|Inborn genetic diseases|DAG1-related disorder (n=2)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|DAG1-related disorder|Inborn genetic diseases (n=2)
+• Inborn genetic diseases|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|not provided|DAG1-related disorder (n=2)
+• Inborn genetic diseases|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9 (n=2)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|Qualitative or quantitative defects of alpha-dystroglycan (n=2)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9 (n=2)
+• not specified|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A9 (n=2)
+• Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A1|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Autosomal recessive limb-girdle muscular dystrophy type 2P|not provided|not specified (n=2)
+• not specified|Autosomal recessive limb-girdle muscular dystrophy type 2P (n=2)
+• Inborn genetic diseases|not provided (n=2)
+
+

@@ -1,0 +1,90 @@
+SPATA31A1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**
+    *   HGNC: 23394.
+    *   No OMIM gene entry or established disease association for SPATA31A1 was identified.
+    *   GeneCards lists an association with Bardet-Biedl Syndrome 15 and Foramen Magnum Meningioma, but this is not substantiated by primary literature in the search results.
+*   **Clinical significance level**
+    *   The clinical significance of variants in SPATA31A1 for Mendelian disease is currently unknown; there is no definitive evidence for a causal role in any specific monogenic disorder.
+*   **Inheritance patterns observed in patients**
+    *   No Mendelian inheritance patterns have been described.
+    *   Studies have focused on copy number variation in human populations rather than single nucleotide variants.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**
+    *   Specific gnomAD constraint scores (pLI, LOEUF) for SPATA31A1 were not found in the performed web searches.
+*   **Clinical interpretation of constraint scores**
+    *   Genes with a high pLI score (≥ 0.9) are considered intolerant to loss-of-function variation and are often associated with dominant, haploinsufficient disorders.
+    *   A low LOEUF score (e.g., < 0.35) also indicates a strong intolerance to loss-of-function variants.
+*   **Variant classes most likely to be pathogenic**
+    *   Given the lack of reported pathogenic variants, the likely pathogenic variant classes are unknown.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   No HPO terms are definitively associated with pathogenic variants in SPATA31A1 in humans.
+    *   Based on mouse knockout models, the following terms could be considered:
+        *   Male infertility (HP:0000789).
+        *   Azoospermia (HP:0000022) or Oligozoospermia (HP:0000798).
+        *   Abnormal spermatogenesis (HP:0008658).
+*   **Secondary HPO terms**
+    *   No secondary HPO terms have been documented in clinical cases.
+*   **Age of onset patterns**
+    *   Not applicable, as no associated monogenic disease has been defined.
+*   **Phenotype severity spectrum**
+    *   Not applicable, as no associated monogenic disease has been defined.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**
+    *   No correlations between specific variant classes (missense, nonsense, etc.) and human phenotypes have been established.
+*   **Protein domain-specific phenotype patterns**
+    *   The protein contains FAM75 and DUF4599 domains.
+    *   The acquisition of new protein domains in the primate lineage is suggested to be involved in UV response and DNA repair, a function distinct from the ancestral spermatogenesis role.
+*   **Genotype-phenotype correlation strength**
+    *   There is no established genotype-phenotype correlation for single nucleotide variants in SPATA31A1.
+    *   A correlation exists between gene copy number and complex traits; higher copy numbers are associated with premature cellular senescence and shorter lifespan in a cohort of long-lived individuals.
+
+### **Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic variants in SPATA31A1 are reported in ClinVar or described in the literature from the performed web searches.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues and clinical correlation**
+    *   Highest expression is reported in the testis.
+    *   This high testicular expression is consistent with the gene's proposed role in spermatogenesis, which is supported by mouse knockout models showing male infertility.
+*   **Tissue-specific phenotypes expected**
+    *   Based on tissue expression and animal models, variants impacting function would be expected to cause phenotypes related to male infertility.
+*   **Expression during development and age-related phenotypes**
+    *   Expression has been noted in human fetal tissues between 10 and 20 weeks of gestation.
+    *   Over-expression in fibroblast cells leads to premature senescence, suggesting a role in aging-related pathways.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function**
+    *   The ancestral function of SPATA31A1 appears to be involved in spermatogenesis.
+*   **Disease mechanism**
+    *   The primary mechanism discussed is not a classic Mendelian model but relates to gene dosage and antagonistic pleiotropy. Higher copy numbers may offer a fitness advantage early in life (e.g., UV protection) but negatively impact lifespan by promoting senescence.
+*   **Cellular/molecular pathways disrupted → phenotype consequences**
+    *   Over-expression of SPATA31A1 interferes with aging-related transcription pathways, leading to reduced cell growth and increased cellular senescence.
+    *   The protein may also have a function in UV damage response, as it relocalizes to the nucleus upon UV irradiation.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**
+    *   Not applicable. SPATA31A1 is not currently included in standard clinical diagnostic panels for specific disorders, and no diagnostic yield has been reported.
+*   **Most common reasons for testing this gene**
+    *   Testing for this gene is not a routine clinical practice.
+*   **Clinical actionability and management implications**
+    *   There are no known clinical management implications based on SPATA31A1 variants at this time.
+*   **Genetic counseling considerations**
+    *   There is insufficient evidence to provide specific genetic counseling regarding disease risk, prognosis, or inheritance.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 29676996, 2018:** Bekpen C, et al. This key paper demonstrates that over-expression of SPATA31A1 causes premature senescence in human fibroblasts and that lower copy numbers of SPATA31 genes are significantly associated with longer lifespan in humans, proposing a model of antagonistic pleiotropy.
+*   **A study cited in other papers (Fujihara et al., 2012)** showed that a targeted disruption of the orthologous Spata31 gene in mice causes male infertility due to defects in spermatogenesis.
+*   **The evolution of the SPATA31 gene family** in primates involved acquiring new protein domains suggested to confer a function in UV response and DNA repair.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**
+    *   None have been established. There are no known pathogenic variants to associate with specific HPO terms.
+*   **Phenotype red flags**
+    *   Based on animal models, phenotypes such as **Male infertility (HP:0000789)** and **Abnormal spermatogenesis (HP:0008658)** could be considered red flags warranting research investigation of this gene, particularly if other causes have been excluded.
+*   **Differential diagnosis considerations**
+    *   Given the lack of a defined human phenotype, this is not applicable. The potential association with Bardet-Biedl Syndrome mentioned in one database is weak and would require considering a large number of other known BBS genes.
+

@@ -1,0 +1,56 @@
+=== chr4:190026761C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs782288323
+• Chromosome: 4
+• Position: 190026761
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0/1
+• Quality Score: 100.63999939
+• Gene Names: FRG2
+• Databases: rs782288323, COSV66460192
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.4824
+• gnomADg Allele Frequency: 0.259
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 38
+• Allelic Depth (AD): [31, 7]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 248
+• Pathogenic/Likely Pathogenic: 3
+• Benign/Likely Benign: 30
+• Uncertain Significance: 215
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=17)
+
+

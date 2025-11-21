@@ -1,0 +1,58 @@
+ARL17B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID**: 32387.
+*   **OMIM Gene ID**: There is currently no OMIM entry for ARL17B.
+*   **Primary Disease Associations**: While not linked to a Mendelian disease, ARL17B is associated with risk for Progressive Supranuclear Palsy (PSP) and Parkinson's disease. It is also implicated in Koolen-De Vries Syndrome and Glass Syndrome due to its location within the 17q21.31 chromosomal region, which is associated with these syndromes. Additionally, copy number variations in this region that include ARL17B have been identified in cases of developmental dyslexia.
+*   **Clinical Significance Level**: The evidence for ARL17B's role in disease is currently associative and not definitive for a monogenic disorder.
+*   **Inheritance Patterns Observed in Patients**: Not applicable for a monogenic disease, but its association with neurodegenerative diseases is linked to risk alleles.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI of 0.00, a LOEUF of 1.18, pRec of 0.58, and pNull of 0.42.
+*   **Clinical Interpretation of Constraint Scores**: The very low pLI score (closer to 0) and a LOEUF score greater than 1 suggest that ARL17B is tolerant to loss-of-function variation. This means that variants that would normally truncate the protein are observed in the general population at a frequency that is not significantly lower than expected, indicating the gene is likely not essential for survival or critical functions in a heterozygous state.
+*   **Variant Classes Most Likely to be Pathogenic**: Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or have a dominant-negative effect. However, no definitive pathogenic variants have been established.
+
+### **Phenotype Spectrum & HPO Terms**
+As ARL17B is not definitively linked to a monogenic disorder, a comprehensive list of HPO terms is not available. Associations are primarily with complex neurodegenerative diseases.
+
+*   **Primary HPO terms**: No specific HPO terms are directly attributed to ARL17B variants in databases like ClinVar or OMIM.
+*   **Secondary HPO terms**: Not applicable.
+*   **Age of Onset Patterns**: The associated neurodegenerative diseases, like Progressive Supranuclear Palsy and Parkinson's disease, are typically adult-onset.
+*   **Phenotype Severity Spectrum**: Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Studies have associated certain SNPs (rs8070723 and rs242557) with altered ARL17B expression levels in the brain, which in turn are associated with risk for Progressive Supranuclear Palsy. Specifically, the protective rs8070723-G allele is linked to lower brain levels of ARL17B, while the risk-associated rs242557-A allele is also linked to lower brain levels.
+*   **Protein Domain-Specific Phenotype Patterns**: No specific domain-phenotype correlations have been established.
+*   **Genotype-Phenotype Correlation Strength**: The correlation is currently considered associative for complex diseases.
+*   **Examples**:
+    *   rs8070723-G allele (protective for PSP) → Lower ARL17B brain expression levels.
+    *   rs242557-A allele (risk for PSP) → Lower ARL17B brain levels.
+
+### **Clinical Variants & Phenotype Associations**
+*   No definitively pathogenic or likely pathogenic variants for ARL17B are listed in ClinVar. The database primarily contains variants of uncertain significance or those associated with complex traits.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: ARL17B shows expression in various tissues, with nervous system tissues being particularly relevant due to the association with neurodegenerative diseases. Expression in the temporal cortex has been specifically studied in relation to PSP.
+*   **Tissue-Specific Phenotypes Expected**: Altered expression in brain tissues is linked to the pathophysiology of Progressive Supranuclear Palsy.
+*   **Expression During Development and Age-Related Phenotypes**: Its potential involvement in developmental dyslexia suggests a role in neurodevelopmental processes. The link to adult-onset neurodegenerative diseases suggests its function is also important in the aging brain.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: ARL17B is a GTP-binding protein predicted to be involved in intracellular protein transport and vesicle-mediated transport within the Golgi apparatus.
+*   **Disease Mechanism**: The disease mechanism is likely not due to simple haploinsufficiency, given the gene's tolerance to loss-of-function variants. Altered regulation of gene expression, potentially influenced by risk-associated SNPs and methylation changes, appears to contribute to disease risk for conditions like PSP.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: As a GTPase involved in trafficking, altered ARL17B function could disrupt protein transport and vesicle dynamics in neurons, potentially contributing to the tau pathology seen in Progressive Supranuclear Palsy.
+*   **Protein-Protein Interactions Relevant to Phenotype**: As a member of the ARF GTPase family, it likely interacts with other proteins involved in vesicle budding and transport, but specific interactions linked to phenotype are not yet defined.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: Testing for ARL17B is not standard practice for diagnosing any monogenic disorder.
+*   **Most Common Reasons for Testing This Gene**: ARL17B is typically analyzed in research settings investigating the genetic basis of neurodegenerative diseases like PSP and Parkinson's, or in studies of the 17q21.31 chromosomal region.
+*   **Clinical Actionability and Management Implications**: There is currently no clinical actionability based on ARL17B genotype.
+*   **Genetic Counseling Considerations**: Counseling would focus on the complex, multifactorial nature of the associated neurodegenerative diseases, where ARL17B variants are considered risk factors rather than causative mutations.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 27500532, Year: 2016**: This study established a link between PSP risk SNPs and the expression of ARL17B in the brain, suggesting it as a candidate risk gene. It also correlated these genetic variants with CpG methylation levels and the severity of tau neuropathology.
+*   **Key Phenotype Findings**: The study found that PSP risk alleles at the MAPT locus were associated with altered ARL17B expression and higher levels of neuropathology (coiled bodies and tufted astrocytes).
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: There are currently no high-confidence associations between specific ARL17B variants and HPO terms for monogenic disease.
+*   **Phenotype red flags**: There are no specific "red flag" phenotypes that strongly suggest a pathogenic variant in ARL17B itself. However, phenotypes associated with the 17q21.31 microdeletion syndrome (e.g., Koolen-De Vries Syndrome) might prompt investigation of this chromosomal region, which includes ARL17B.
+*   **Differential diagnosis considerations**: For patients with neurodegenerative symptoms, particularly those overlapping with Progressive Supranuclear Palsy or Parkinson's disease, other genes with more established roles in these conditions should be considered first. For developmental phenotypes, genes within the broader 17q21.31 region, such as KANSL1, are the primary drivers of the associated syndromes.
+

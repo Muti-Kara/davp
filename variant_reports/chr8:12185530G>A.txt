@@ -1,0 +1,66 @@
+=== chr8:12185530G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs754958188
+• Chromosome: 8
+• Position: 12185530
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: FAM86B1
+• Databases: rs754958188, COSV58668099
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.3341
+• gnomADg Allele Frequency: 0.3018
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004980: appendicular lean mass - Appendicular lean mass is a measurement of skeletal strength of lower limbs and is used as a predictive measure of hip fracture.
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0007660: neuroticism measurement - Quantification of some aspect of neuroticism or neurotic behaviour, such as severity or frequency of neurotic behaviour. This is usually assessed via a standardised questionnaire.
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0004321: attempted suicide - The unsuccessful attempt to kill oneself.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Non Coding RNA (ID: 17366564) -> Associated GWAS: GWAS_EFO_0004980, GWAS_EFO_0009270, GWAS_EFO_0009270, GWAS_EFO_0009270, GWAS_EFO_0007660, GWAS_EFO_0009270, GWAS_EFO_0004875, GWAS_EFO_0000692, GWAS_EFO_0004321, GWAS_EFO_0009270
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2204
+• Pathogenic/Likely Pathogenic: 32
+• Benign/Likely Benign: 310
+• Uncertain Significance: 1861
+• Other Classifications: 1
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=33)
+• not specified|not provided (n=2)
+
+

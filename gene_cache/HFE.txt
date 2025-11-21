@@ -1,0 +1,86 @@
+HFE Gene Biomedical Dossier
+### **HFE Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HFE
+*   **OMIM Gene ID:** 613609
+*   **Primary Disease Associations:** Hemochromatosis Type 1 (HFE1) [MIM:235200], Porphyria Variegata [MIM:176200], Microvascular Complications of Diabetes 7 [MIM:612635].
+*   **Clinical Significance Level:** The association between HFE variants and hereditary hemochromatosis is considered definitive.
+*   **Inheritance Patterns:** Primarily autosomal recessive with low clinical penetrance. Pseudodominance has been observed due to the high carrier frequency of p.Cys282Tyr in European populations.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v4 constraint metrics for HFE are pLI = 1.39e-11, LOEUF = 1.05, pRec = 0, and pNull = 1.
+*   **Clinical Interpretation of Constraint Scores:** A high pLI score (typically ≥ 0.9) suggests a gene is intolerant to loss-of-function (LoF) variation. The very low pLI and high LOEUF for HFE indicate that it is not constrained against LoF variants, which aligns with the recessive nature of the disease where heterozygotes are generally unaffected.
+*   **Variant Classes Most Likely to Be Pathogenic:** Missense variants are the most common cause of HFE-related hemochromatosis. Nonsense, frameshift, and splice site variants have also been reported.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Elevated serum ferritin (HP:0003281)
+    *   Increased transferrin saturation (HP:0003155)
+    *   Hepatocellular carcinoma (HP:0001402)
+    *   Cirrhosis (HP:0001394)
+    *   Arthropathy (HP:0001369)
+    *   Hepatomegaly (HP:0002240)
+    *   Diabetes mellitus (HP:0000819)
+    *   Cardiomyopathy (HP:0001638)
+    *   Skin hyperpigmentation (HP:0000953)
+    *   Fatigue/Lethargy (HP:0012378, HP:0001947)
+    *   Abdominal pain (HP:0002027)
+*   **Secondary HPO terms:**
+    *   Hypogonadotropic hypogonadism (HP:0000044)
+    *   Alopecia (HP:0001596)
+    *   Hepatic steatosis (HP:0001397)
+    *   Fragile skin (HP:0001030)
+    *   Polycythemia vera (HP:0001897)
+    *   Intellectual disability (Rare) (HP:0001249)
+*   **Age of Onset Patterns:** Clinical manifestations typically appear between 40 and 60 years of age in males and after menopause in females. Juvenile onset is rare and usually associated with other hemochromatosis genes.
+*   **Phenotype Severity Spectrum:** The phenotypic spectrum is highly variable, ranging from non-penetrant (no clinical or biochemical signs), to biochemical (elevated iron markers without end-organ damage), to clinical HFE hemochromatosis with significant end-organ damage.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygosity for the p.Cys282Tyr missense variant is the most common genotype and is associated with the classic adult-onset hemochromatosis phenotype. Compound heterozygosity for p.Cys282Tyr and p.His63Asp can lead to a milder phenotype with elevated iron levels, but often without overt clinical disease.
+*   **Protein Domain-Specific Phenotype Patterns:** The p.Cys282Y mutation is located in the α3 domain of the HFE protein and disrupts its interaction with beta-2 microglobulin, preventing its transport to the cell surface. The p.His63Asp variant is located in the α1 domain and may have a lesser effect on protein function.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is strong for the p.Cys282Y homozygous genotype leading to biochemical iron overload, but the clinical penetrance is low and variable. Other genetic and environmental factors modify the phenotype.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   p.Cys282Tyr homozygosity is strongly associated with increased serum ferritin and transferrin saturation, with a subset of individuals developing cirrhosis, hepatocellular carcinoma, and diabetes.
+    *   p.Cys282Tyr/p.His63Asp compound heterozygosity is associated with a lower risk of hemochromatosis-related morbidity compared to p.Cys282Y homozygotes.
+
+**Clinical Variants & Phenotype Associations**
+*   **rs1800562 / c.845G>A (p.Cys282Tyr) / Pathogenic (low penetrance):** Associated with Hemochromatosis Type 1, characterized by elevated serum ferritin and transferrin saturation, with potential for liver disease, diabetes, and arthropathy. AF (gnomAD): ~3.7%
+*   **rs1799945 / c.187C>G (p.His63Asp) / VUS/Likely Benign:** When compounded with p.Cys282Y, may lead to mild hyperferritinemia. AF (gnomAD): ~8.6%.
+*   **rs146519482 / c.502G>T (p.Glu168Ter) / Pathogenic:** Causes loss of function and can lead to hemochromatosis, especially when compounded with p.Cys282Y. AF (gnomAD): Rare.
+*   **rs759524388 / c.211C>T (p.Arg71Ter) / Pathogenic:** A rare nonsense mutation associated with hemochromatosis. AF (gnomAD): Very rare.
+*   **rs573745685 / c.1006+1G>A / Pathogenic:** A splice site variant leading to loss of function and hemochromatosis. AF (gnomAD): Very rare.
+*   **rs765804978 / c.546_547del (p.Leu183fs) / Pathogenic:** A frameshift variant causing a truncated, non-functional protein. AF (gnomAD): Very rare.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** HFE is highly expressed in the liver and small intestine. This is consistent with its role in regulating iron absorption in the gut and iron storage in the liver.
+*   **Tissue-Specific Phenotypes Expected:** Liver dysfunction, including cirrhosis and hepatocellular carcinoma, is a primary phenotype due to iron accumulation. Pancreatic iron deposition can lead to diabetes.
+*   **Expression During Development and Age-Related Phenotypes:** The age-related onset of symptoms is due to the progressive accumulation of iron over decades.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The HFE protein interacts with the transferrin receptor 1 (TfR1) to regulate the uptake of iron into cells and is crucial for the normal regulation of hepcidin, the main hormone controlling iron metabolism.
+*   **Disease Mechanism:** The primary mechanism is loss-of-function due to mutations that impair the HFE protein's ability to reach the cell surface or bind to its partners. This leads to reduced hepcidin expression, causing increased intestinal iron absorption and iron overload in various organs.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the HFE-TfR1 interaction and subsequent low hepcidin levels lead to increased activity of the iron exporter ferroportin on enterocytes and macrophages. This results in excessive iron loading in the plasma and deposition in tissues like the liver, heart, and pancreas, causing oxidative damage and organ dysfunction.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interaction of HFE with beta-2 microglobulin is essential for its proper cell surface localization. The interaction with TfR1 is key to its iron-sensing function, and it is thought to modulate the BMP/SMAD signaling pathway to regulate hepcidin.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In individuals of Northern European descent with clinical signs of hemochromatosis, homozygosity for the p.Cys282Y mutation is found in about 80-90% of cases.
+*   **Most Common Reasons for Testing:** Testing for HFE mutations is typically performed in individuals with elevated serum ferritin and transferrin saturation, or with a family history of hemochromatosis.
+*   **Clinical Actionability and Management Implications:** Early diagnosis and treatment with therapeutic phlebotomy to remove excess iron can prevent organ damage and lead to a normal life expectancy.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal recessive inheritance pattern, the low and variable clinical penetrance of the p.Cys282Y homozygous genotype, and the lower risk associated with other genotypes like compound heterozygosity. Family screening can identify at-risk relatives.
+
+**Key Clinical Literature & Studies**
+*   **Feder JN, et al. (1996) Nat Genet. PMID: 8673096:** Landmark paper identifying the HFE gene as the cause of hereditary hemochromatosis.
+*   **Beutler E, et al. (2002) Lancet. PMID: 11812557:** A large population study demonstrating the low penetrance of HFE C282Y homozygosity.
+*   **Allen KJ, et al. (2008) N Engl J Med. PMID: 18184960:** A prospective study detailing the natural history and disease risk in HFE C282Y homozygotes, highlighting that severe iron-overload-related disease is relatively uncommon.
+*   **Ganz T. (2011) Blood. PMID: 21633120:** A review detailing the role of hepcidin in iron homeostasis and how its dysregulation in HFE hemochromatosis leads to disease.
+*   **Barton JC, et al. (2015) Gene. PMID: 26233261:** A comprehensive review of the HFE gene structure, function, mutations, and associated iron abnormalities.
+*   **Pietrangelo A. (2017) N Engl J Med. PMID: 29211681:** An overview of the pathogenesis, diagnosis, and management of hereditary hemochromatosis.
+*   **Geirsdottir IS, et al. (2023) Blood. Abstract 1088:** A large cohort study associating HFE p.Cys282Y homozygosity with phenotypes beyond iron overload, including polycythemia vera and lower cholesterol levels.
+*   **Powell LW, et al. (2024) Genet Med. PMID: 40034140:** A study using the All of Us research program data suggesting potential underdiagnosis and undertesting of HFE-related hemochromatosis in clinical practice.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Homozygosity for the p.Cys282Y variant (rs1800562) is strongly associated with elevated serum ferritin (HP:0003281) and increased transferrin saturation (HP:0003155).
+*   **Phenotype red flags:** The combination of elevated serum ferritin, increased transferrin saturation, and clinical features like arthropathy (especially of the metacarpophalangeal joints), liver disease, or skin hyperpigmentation strongly suggests pathogenic variants in the HFE gene.
+*   **Differential diagnosis considerations:** Phenotypes of iron overload can also be caused by mutations in other genes, leading to different types of hemochromatosis such as HFE2 (Juvenile Hemochromatosis, due to HJV or HAMP mutations), HFE3 (TFR2 mutations), and HFE4 (SLC40A1 mutations), which should be considered in HFE-negative cases.
+

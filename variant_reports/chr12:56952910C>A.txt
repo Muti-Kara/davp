@@ -1,0 +1,134 @@
+=== chr12:56952910C>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs139020643
+• Chromosome: 12
+• Position: 56952910
+• Reference Allele (REF): C
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: RDH16
+• Databases: rs139020643
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.00045559999999999996
+• gnomADg Allele Frequency: 0.0003941
+• 1KG Frequency: 0.0006000000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_1001178: shoulder impingement syndrome - Compression of the rotator cuff tendons and subacromial bursa between the humeral head and structures that make up the coracoacromial arch and the humeral tuberosities. This condition is associated with subacromial bursitis and rotator cuff (largely supraspinatus) and bicipital tendon inflammation, with or without degenerative changes in the tendon. Pain that is most severe when the arm is abducted in an arc between 40 and 120 degrees, sometimes associated with tears in the rotator cuff, is the chief symptom. (From Jablonski's Dictionary of Syndromes and Eponymic Diseases, 2d ed)
+GWAS_EFO_0007874: gut microbiome measurement - quantification of some aspect of an individual's micrbiome of the gut
+GWAS_EFO_0007707: cerebral amyloid deposition measurement - quantification by PET scan imaging or other techniques of the deposition of amyloid proteins in any part of the cerebral cortex
+GWAS_EFO_0008378: mosquito bite reaction size measurement - quantification of the size of a mosquito bite reaction, generally through the use of a standardised questionnaire
+GWAS_EFO_0008377: mosquito bite reaction itch intensity measurement - quanitifcation of the itch intensity of a mosquito bite reaction, generally through the use of a standardised questionnaire
+GWAS_EFO_0006898: airway wall thickness measurement - Quantification of the thickness of the walls of different parts of the respiratory tract, calculated from cross-sectional CT images. This measure can be used as an indicator of airway obstruction severity in COPD.
+GWAS_EFO_0003821: obsolete_migraine disorder - A class of disabling primary headache disorders, characterized by recurrent unilateral pulsatile headaches. The two major subtypes are common migraine (without aura) and classic migraine (with aura or neurological symptoms). (International Classification of Headache Disorders, 2nd ed. Cephalalgia 2004: suppl 1)
+GWAS_EFO_0000249: obsolete_Alzheimer's disease - A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting in late middle age and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.|A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.|A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)|A dementia which is an incurable disease of unknown cause, starting in late middle age or in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, that leads in advanced cases to a profound decline in cognitive and physical functioning, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+GWAS_EFO_0000714: survival time - Time of survival is an information entity which is about the length of time a material entity has survived after some adverse event, such as infection from a disease.
+GWAS_EFO_0001071: lung carcinoma - A carcinoma that arises from epithelial cells of the lung
+GWAS_EFO_0006953: family history of lung cancer - A reported family history of lung cancer in one or more family members.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+GWAS_EFO_0000684: respiratory system disease - A body system disease that occurs in different organs functioning in respiration and consisting especially of the nose, nasal passages, nasopharynx, larynx, trachea, bronchi, and lungs.|A non-neoplastic or neoplastic disorder that affects the respiratory system. Representative examples include pneumonia, chronic obstructive pulmonary disease, pulmonary failure, lung adenoma, lung carcinoma, and tracheal carcinoma.
+GWAS_EFO_0008380: perceived unattractiveness to mosquitos measurement - quantification of an individual's perceived unattractiveness to mosquitos, generally through the use of a standardised questionnaire
+GWAS_EFO_0004908: testosterone measurement - is a quantification of testosterone, typically in serum. Testosterone is a steroid hormone.Testosterone measurement is used in the diagnosis ofprecocious or delayed puberty, infertility (in men and women), ovarian tumours, adrenal tumours and pituitary disorders.
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0000270: obsolete_asthma - A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.|Tendency of the smooth muscle of the tracheobronchial tree to contract more intensely in response to a given stimulus than it does in the response seen in normal individuals. This condition is present in virtually all symptomatic patients with asthma. The most prominent manifestation of this smooth muscle contraction is a decrease in airway caliber that can be readily measured in the pulmonary function laboratory.|A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).|A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, excercise, stress, reflux disease, medications, foods and emotional anxiety.
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0004614: apolipoprotein A 1 measurement - Is a quantification of serum lipoprotein A. Apolipoprotein A-I, encoded in humans by the APOA1 gene and  is the major protein component of high density lipoprotein (HDL) in plasma.   It is is implicated as a risk factor for atherosclerotic diseases such as coronary heart disease and stroke.
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0007876: insomnia measurement - quantification of insomnia such as how often it occurs and its severity
+GWAS_EFO_0003888: attention deficit hyperactivity disorder - A mental disorder characterized by inattention, easy distraction, careless mistakes and avoidance of tasks that require sustained mental focus. These behaviors can lead to maladaptive consequences in the affected individual's life.|A behavior disorder originating in childhood in which the essential features are signs of developmentally inappropriate inattention, impulsivity, and hyperactivity. Although most individuals have symptoms of both inattention and hyperactivity-impulsivity, one or the other pattern may be predominant. The disorder is more frequent in males than females. Onset is in childhood. Symptoms often attenuate during late adolescence although a minority experience the full complement of symptoms into mid-adulthood. (From DSM-IV)
+GWAS_EFO_0004980: appendicular lean mass - Appendicular lean mass is a measurement of skeletal strength of lower limbs and is used as a predictive measure of hip fracture.
+GWAS_EFO_0009943: Antihistamine use measurement - Quantification of some aspect of the use of antihistamines.
+GWAS_EFO_1002011: adult onset asthma - Asthma that starts in adulthood
+GWAS_EFO_0004842: eosinophil count - Is a quantification of eosinphils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0004579: serum IgE measurement - A serum immunoglobulin E measurement is the measurement of the IgE antibody isotype produced by plasma cells in response to an immunogen and which function as antibodies, measured in serum. IgE's main function is immunity to parasites such as parasitic worms and it plays an essential role in the allergy disorder, and is especially associated with type I hypersensitivity.
+GWAS_EFO_0005090: basophil count - quantification of basophils in the blood|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0007996: eosinophil percentage of granulocytes - A calculated measurement in which the number of eosinophil granulocytes is divided by the number of all granulocytes in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage.
+GWAS_EFO_0007991: eosinophil percentage of leukocytes - A calculated measurement in which the number of eosinophil granulocytes is divided by the number of all white blood cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage. An eosinophil is a granular leukocyte having a nucleus with two lobes connected by a thread of chromatin, and cytoplasm containing coarse, round granules of uniform size that stain readily with eosin and other acid dyes.
+GWAS_EFO_0009941: Inhalant adrenergic use measurement - Quantification of some aspect of the use of inhalant adrenergic drugs.
+GWAS_EFO_0007994: neutrophil percentage of granulocytes - A calculated measurement in which the number of neutrophil granulocytes is divided by the number of all granulocytes in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage.
+GWAS_EFO_0003785: obsolete_allergy - An immune system disease that is an exaggerated immune response to allergens, such as insect venom, dust mites, pollen, pet dander, drugs or some foods.|Allergy is any exaggerated immune response to a foreign antigen regardless of mechanism. Thus it includes atopy.Source: Merck Manual|Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen.
+GWAS_EFO_0005324: post-operative sensory disturbance - sensory disturbance, such as hypoesthesia or dysesthesia, that occurs as a result of a surgical intervention, possibly but not necessarily due to a nerve injury
+GWAS_EFO_0005298: allergic sensitization measurement - quantification of allergic sensitization status, for example through measurement of allergen-specific IgE in the blood or skin reaction after puncture of skin through a droplet of allergen extract (skin prick test)
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Non Coding RNA (ID: 17098664) -> Associated GWAS: GWAS_EFO_1001178, GWAS_EFO_0007874, GWAS_EFO_0007707, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0006898, GWAS_EFO_0003821, GWAS_EFO_0000249, GWAS_EFO_0000714, GWAS_EFO_0001071, GWAS_EFO_0006953, GWAS_EFO_0004339, GWAS_EFO_0007006, GWAS_EFO_0000684, GWAS_EFO_0008378, GWAS_EFO_0008380, GWAS_EFO_0004908, GWAS_EFO_0003821, GWAS_EFO_0009270, GWAS_EFO_0004612, GWAS_EFO_0000270, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0009270, GWAS_EFO_0000270
+Entity: Non Coding RNA (ID: 17098665) -> Associated GWAS: GWAS_EFO_1001178, GWAS_EFO_0007874, GWAS_EFO_0007707, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0006898, GWAS_EFO_0003821, GWAS_EFO_0000249, GWAS_EFO_0000714, GWAS_EFO_0001071, GWAS_EFO_0006953, GWAS_EFO_0004339, GWAS_EFO_0007006, GWAS_EFO_0000684, GWAS_EFO_0008378, GWAS_EFO_0008380, GWAS_EFO_0004908, GWAS_EFO_0003821, GWAS_EFO_0009270, GWAS_EFO_0004612, GWAS_EFO_0000270, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0009270, GWAS_EFO_0000270
+Entity: Non Coding RNA (ID: 17098667) -> Associated GWAS: GWAS_EFO_0007707, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0006898, GWAS_EFO_0003821, GWAS_EFO_0000249, GWAS_EFO_0000714, GWAS_EFO_0001071, GWAS_EFO_0006953, GWAS_EFO_0004339, GWAS_EFO_0007006, GWAS_EFO_0000684, GWAS_EFO_0008378, GWAS_EFO_0008380, GWAS_EFO_0004908, GWAS_EFO_0003821, GWAS_EFO_0009270, GWAS_EFO_0004612, GWAS_EFO_0000270, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0009270, GWAS_EFO_0000270, GWAS_EFO_0004703, GWAS_EFO_0004614, GWAS_EFO_0000692, GWAS_EFO_0007876, GWAS_EFO_0003888, GWAS_EFO_0004980, GWAS_EFO_0009943, GWAS_EFO_1002011, GWAS_EFO_0004842, GWAS_EFO_0004579, GWAS_EFO_0005090, GWAS_EFO_0007996, GWAS_EFO_0007991, GWAS_EFO_0009941, GWAS_EFO_0007994, GWAS_EFO_0003785, GWAS_EFO_0005324, GWAS_EFO_0000270, GWAS_EFO_0005298
+Entity: Non Coding RNA (ID: 17098668) -> Associated GWAS: GWAS_EFO_0007707, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0006898, GWAS_EFO_0003821, GWAS_EFO_0000249, GWAS_EFO_0000714, GWAS_EFO_0001071, GWAS_EFO_0006953, GWAS_EFO_0004339, GWAS_EFO_0007006, GWAS_EFO_0000684, GWAS_EFO_0008378, GWAS_EFO_0008380, GWAS_EFO_0004908, GWAS_EFO_0003821, GWAS_EFO_0009270, GWAS_EFO_0004612, GWAS_EFO_0000270, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0009270, GWAS_EFO_0000270, GWAS_EFO_0004703, GWAS_EFO_0004614, GWAS_EFO_0000692, GWAS_EFO_0007876, GWAS_EFO_0003888, GWAS_EFO_0004980, GWAS_EFO_0009943, GWAS_EFO_1002011, GWAS_EFO_0004842, GWAS_EFO_0004579, GWAS_EFO_0005090, GWAS_EFO_0007996, GWAS_EFO_0007991, GWAS_EFO_0009941, GWAS_EFO_0007994, GWAS_EFO_0003785, GWAS_EFO_0005324, GWAS_EFO_0000270, GWAS_EFO_0005298
+Entity: ChromHMM State (ID: 19300816) -> Associated GWAS: GWAS_EFO_0000684, GWAS_EFO_0008378, GWAS_EFO_0008380, GWAS_EFO_0004908, GWAS_EFO_0003821, GWAS_EFO_0009270
+Entity: ChromHMM State (ID: 20430908) -> Associated GWAS: GWAS_EFO_0008380
+Entity: ChromHMM State (ID: 21647145) -> Associated GWAS: GWAS_EFO_0008380
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 4140
+• Pathogenic/Likely Pathogenic: 157
+• Benign/Likely Benign: 668
+• Uncertain Significance: 3315
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=190)
+• not specified|not provided (n=36)
+• not provided|Inborn genetic diseases (n=23)
+• not provided|not specified (n=21)
+• not specified|not provided|MYO1A-related disorder (n=12)
+• Autosomal dominant nonsyndromic hearing loss 48 (n=12)
+• Ichthyosis, congenital, autosomal recessive 13|not provided|Lamellar ichthyosis (n=8)
+• See cases (n=8)
+• Hypogonadotropic hypogonadism 10 with or without anosmia (n=8)
+• Nonsyndromic Hearing Loss, Dominant (n=8)
+• Ichthyosis, congenital, autosomal recessive 13 (n=5)
+• Congenital ichthyosis of skin|Lamellar ichthyosis|Ichthyosis, congenital, autosomal recessive 13 (n=5)
+• Lamellar ichthyosis (n=4)
+• Inborn genetic diseases|not provided (n=4)
+• Ichthyosis, congenital, autosomal recessive 13|Congenital ichthyosis of skin|not provided (n=4)
+• Ichthyosis, congenital, autosomal recessive 13|not provided|SDR9C7-related disorder|Lamellar ichthyosis (n=4)
+• Ichthyosis, congenital, autosomal recessive 13|not provided|Inborn genetic diseases (n=4)
+• Congenital ichthyosis of skin|Lamellar ichthyosis (n=4)
+• ZBTB39-related condition (n=4)
+• not provided|Hypogonadotropic hypogonadism 10 without anosmia (n=4)
+• Delayed puberty|not provided|Infertility disorder (n=4)
+• Hypogonadotropic hypogonadism 7 with or without anosmia|Delayed puberty (n=4)
+• TAC3-related disorder (n=4)
+• not provided|Hypogonadotropic hypogonadism (n=4)
+• Hypogonadotropic hypogonadism 10 with or without anosmia|not specified (n=4)
+• Prostate cancer (n=4)
+• Hypermetabolism due to Defect in Mitochondrial Coupling|Hypermetabolism due to uncoupled mitochondrial oxidative phosphorylation 2 (n=4)
+• not specified|not provided|Congenital diarrhea|Diarrhea 15, congenital (n=4)
+• Congenital diarrhea|Diarrhea 15, congenital (n=4)
+• not specified|Nonsyndromic Hearing Loss, Dominant|MYO1A-related disorder (n=4)
+• Autosomal dominant nonsyndromic hearing loss 48|not specified|not provided|MYO1A-related disorder (n=4)
+• MYO1A-related disorder (n=4)
+
+

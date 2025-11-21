@@ -1,0 +1,56 @@
+ZNF322 Gene Biomedical Dossier
+### **ZNF322 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:23640.
+*   **OMIM Gene ID:** 610847.
+*   **Primary Disease Associations:** No definitive Mendelian disease association has been established in the literature. Its role has been primarily investigated in the context of lung tumorigenesis.
+*   **Clinical Significance Level:** Evidence for a role in Mendelian disease is currently lacking; therefore, a clinical significance level is not applicable.
+*   **Inheritance Patterns:** No inheritance patterns for a germline disorder have been documented.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific gnomAD constraint metric values for ZNF322 were not retrieved from the web search.
+*   **Clinical Interpretation of Constraint Scores:** The probability of being Loss-of-function Intolerant (pLI) score indicates a gene's intolerance to protein-truncating variants, with pLI ≥ 0.9 suggesting a gene is likely haploinsufficient. The loss-of-function observed/expected upper bound fraction (LOEUF) is a continuous metric, with lower values indicating greater intolerance to inactivation.
+*   **Variant Classes Most Likely to be Pathogenic:** Without a known disease association, the variant classes likely to be pathogenic are unknown.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are currently associated with germline pathogenic variants in ZNF322.
+*   **Secondary HPO terms:** No secondary HPO terms associated with germline variants in ZNF322 have been documented in the literature.
+*   **Age of Onset Patterns:** Age of onset for a ZNF322-related germline disorder is not defined.
+*   **Phenotype Severity Spectrum:** A severity spectrum for a ZNF322-related germline disorder is not defined.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Typical Phenotypes:** No correlations between specific ZNF322 variant classes and clinical phenotypes have been established for germline disorders.
+*   **Protein Domain-Specific Phenotype Patterns:** The ZNF322 protein contains nine tandem C2H2-type zinc-finger motifs, but no domain-specific phenotype patterns have been reported.
+*   **Genotype-Phenotype Correlation Strength:** The genotype-phenotype correlation strength is not applicable, as no correlation has been established.
+*   **Examples:** There are no documented examples of specific germline variants leading to specific phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic germline variants in ZNF322 with associated clinical phenotypes have been reported in ClinVar or the medical literature based on search results.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues:** Northern blot analysis indicates that ZNF322 is expressed in all examined adult human tissues and during embryonic development (80 days to 24 weeks).
+*   **Tissue-Specific Phenotypes:** Given the widespread expression, no specific tissue-related phenotypes can be predicted for a potential germline disorder.
+*   **Expression During Development:** ZNF322 is expressed during embryonic stages, suggesting a potential role in development. It is considered important for the maintenance of pluripotency in embryonic stem cells.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ZNF322 is a transcriptional activator with multiple C2H2-type zinc-finger motifs that plays a role in gene transcription.
+*   **Disease Mechanism:** The disease mechanism for any potential germline disorder is unknown. Its dysregulation and overexpression, linked to altered transcriptional activity, have been implicated in promoting lung cancer.
+*   **Cellular/Molecular Pathways Disrupted:** ZNF322 may function as a positive regulator in gene transcription through the MAPK signaling pathways. In lung cancer, it is involved in the Kras/YY1/ZNF322A/Shh transcriptional axis and AKT signaling.
+*   **Protein-Protein Interactions:** Protein-protein interaction data suggests potential interactions with transcription factors such as JUN and FOS.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** The diagnostic yield for ZNF322 variant testing is unknown as it is not typically included in clinical testing for specific Mendelian disorders.
+*   **Most Common Reasons for Testing:** There are no common clinical indications for germline testing of this gene.
+*   **Clinical Actionability and Management Implications:** No clinical actionability or management guidelines based on germline ZNF322 status have been established.
+*   **Genetic Counseling Considerations:** Genetic counseling considerations are undefined due to the lack of an established disease association.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 15555580, 2004:** This landmark study first identified and characterized ZNF322 as a novel zinc-finger gene, describing it as a transcriptional activator expressed broadly in embryonic and adult tissues and involved in MAPK signaling pathways.
+*   **Recent Publications (Cancer Focus):** Numerous recent studies have investigated the role of ZNF322 as an oncoprotein in lung cancer, exploring mechanisms such as its regulation by micro-RNAs and its role in tumorigenesis, neo-angiogenesis, and cancer cell metabolism. These studies are focused on somatic changes, not germline genetics.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no known high-confidence associations between HPO terms and ZNF322 variants for any germline disorder.
+*   **Phenotype red flags:** No specific clinical features or HPO terms are recognized as red flags that would strongly suggest a pathogenic variant in ZNF322.
+*   **Differential Diagnosis Considerations:** While pathogenic variants in other zinc-finger protein genes like ZNF462 and ZNF292 are associated with neurodevelopmental disorders and intellectual disability, there is no evidence to include ZNF322 in the differential diagnosis for these conditions at this time.
+

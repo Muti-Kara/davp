@@ -1,0 +1,110 @@
+ALMS1 Gene Biomedical Dossier
+### **Gene Dossier: ALMS1**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: ALMS1 (HGNC:428).
+*   **OMIM Gene ID**: 606844.
+*   **Primary Disease Association**: Alström syndrome (OMIM: 203800).
+*   **Clinical Significance Level**: The gene-disease relationship for ALMS1 and Alström syndrome is classified as "Definitive" by ClinGen and G2P.
+*   **Inheritance Patterns**: Alström syndrome is inherited in an autosomal recessive manner. Heterozygous carriers are typically asymptomatic.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: ALMS1 is a large gene, and constraint metrics from gnomAD help interpret the impact of variants. The probability of being loss-of-function intolerant (pLI) score for ALMS1 is high, indicating the gene is intolerant to protein-truncating variants. The loss-of-function observed/expected upper bound fraction (LOEUF) score is low, also indicating constraint against loss-of-function variation. Specific values can be obtained from the gnomAD database.
+*   **Clinical Interpretation of Constraint Scores**: A high pLI score (typically ≥0.9) suggests that heterozygous loss-of-function (LoF) variants are not tolerated and are likely to be pathogenic. For a recessive gene like ALMS1, this indicates that biallelic LoF variants are highly likely to cause disease.
+*   **Variant Classes Most Likely to be Pathogenic**: Complete loss-of-function (cLOF) variants, such as nonsense and frameshift mutations, are the most common type of pathogenic variant in ALMS1 (accounting for about 97% of cases). These variants typically lead to nonsense-mediated decay of the mRNA transcript. While rarer, some missense variants have been confirmed as pathogenic, sometimes by demonstrating an effect on splicing.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms**:
+    *   Retinal dystrophy (HP:0000556): Present in 97.8% of patients, a hallmark of the disease.
+    *   Obesity (HP:0001513): Part of a cluster of metabolic anomalies affecting 85% of patients.
+    *   Type 2 diabetes mellitus (HP:0005978): Also part of the metabolic anomaly cluster seen in 85% of patients.
+    *   Nystagmus (HP:0000639): A key feature of the vision impairment seen in 97.8% of cases.
+    *   Blindness (HP:0000618): A common progression of the retinal dystrophy.
+    *   Sensorineural hearing impairment (HP:0000407).
+    *   Dilated cardiomyopathy (HP:0001644).
+    *   Hyperinsulinemia (HP:0000842).
+    *   Acanthosis nigricans (HP:0000953).
+    *   Short stature (in adulthood) (HP:0004322).
+    *   Male hypogonadism (HP:0000022).
+    *   Hepatic dysfunction (HP:0001392).
+    *   Renal insufficiency (HP:0000083).
+    *   Hypertriglyceridemia (HP:0002155).
+    *   Alopecia (HP:0001596).
+*   **Secondary HPO Terms**:
+    *   Pulmonary fibrosis (HP:0002206).
+    *   Portal hypertension (HP:0001409).
+    *   Cirrhosis (HP:0001394).
+    *   Cor triatriatum sinister.
+    *   Urologic dysfunction.
+    *   Thickened ears.
+    *   Female hyperandrogenism.
+*   **Age of Onset Patterns**:
+    *   Cone-rod dystrophy typically presents in infancy with nystagmus and photophobia, leading to legal blindness in adolescence.
+    *   Obesity develops in early childhood.
+    *   Cardiomyopathy can occur in infancy (often transient but severe) or develop later in adolescence/adulthood.
+    *   The number and severity of systemic features tend to increase with age.
+*   **Phenotype Severity Spectrum**:
+    *   Significant intrafamilial and interfamilial phenotypic heterogeneity is a hallmark of Alström syndrome; even siblings with identical genotypes can have different clinical courses.
+    *   Patients with residual ALMS1 protein expression, potentially from variants that escape nonsense-mediated decay, may have milder phenotypes.
+    *   Atypical cases with milder retinal phenotypes have been described.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Phenotypes**: The majority of pathogenic variants are truncating, leading to the classic multisystemic disease. A missense variant (c.9542G>A) that alters splicing was associated with an atypical and milder retinal phenotype.
+*   **Protein Domain-Specific Phenotype Patterns**:
+    *   Mutational hotspots are located in exons 8, 10, and 16, which are notable for their large size.
+    *   Variants in exon 8 are significantly associated with absent, mild, or delayed renal disease.
+    *   Variants in exon 16 have a suggestive association with retinal degeneration onset before age one, urological dysfunction, dilated cardiomyopathy, and diabetes.
+    *   Truncating variants around exon 10 are associated with a higher prevalence of liver dysfunction.
+*   **Genotype-Phenotype Correlation Strength**: Correlations are generally considered moderate to weak, with significant phenotypic variability remaining a major challenge.
+*   **Examples**: The c.10775delC variant is a recurrent mutation associated with a founder effect and the classic Alström syndrome phenotype.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.10775delC (p.Ser3592fs)**: Pathogenic; A recurrent variant associated with classic Alström syndrome features.
+*   **c.6820C>T (p.Arg2274*)**: Pathogenic; Associated with Alström syndrome.
+*   **c.4414_4415delGT (p.Val1472Nfs*26)**: Pathogenic; Novel variant found in a patient with Alström syndrome and cor triatriatum sinister.
+*   **c.9542G>A (p.Arg3181Gln)**: Pathogenic; A missense variant causing aberrant splicing, associated with an atypical, milder retinal phenotype.
+*   **c.286C>T (p.Gln96*)**: Pathogenic; Novel variant found in a patient with an unusually mild retinal phenotype.
+*   **c.1211C>G (p.Ser404*)**: Pathogenic; Novel de novo variant in the same patient as c.286C>T.
+*   **p.(Arg2722Ter)**: Pathogenic; Identified as the most frequent variant in a large meta-analysis, associated with classic Alström syndrome.
+*   **Note**: ClinVar lists over 640 pathogenic/likely pathogenic variants for Alström syndrome, the majority being frameshift and nonsense mutations.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: ALMS1 is broadly expressed at low levels in most tissues, consistent with the multisystemic nature of the disease. GTEx data indicates the highest expression is in the testis, with moderate expression in the brain, eye, and lungs.
+*   **Tissue-Specific Phenotypes**:
+    *   Expression in the retina is critical, and its disruption leads to cone-rod dystrophy.
+    *   Expression in the pancreas, heart, liver, and kidneys correlates directly with the development of diabetes, cardiomyopathy, and hepatic/renal dysfunction, respectively.
+    *   Expression in the inner ear explains the associated sensorineural hearing loss.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: ALMS1 encodes a large protein that localizes to centrosomes and the basal bodies of cilia, playing an essential role in the formation and function of primary cilia. It is involved in intracellular trafficking, cell cycle regulation, and maintenance of metabolic homeostasis.
+*   **Disease Mechanism**: The disease mechanism is a loss of function of the ALMS1 protein due to biallelic pathogenic variants. This disrupts ciliary function, leading to the classification of Alström syndrome as a ciliopathy.
+*   **Cellular/Molecular Pathways Disrupted**: Disruption of the primary cilium impairs crucial signaling pathways in numerous tissues, explaining the pleiotropic nature of the syndrome. Pathways affected include the "Regulation of PLK1 Activity at G2/M Transition" and "Centrosome maturation."
+*   **Protein-Protein Interactions**: ALMS1 is known to interact with α-actinin and proteins involved in endosomal transport.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield**: Genetic testing for ALMS1 variants has a high diagnostic yield in patients who present with the characteristic clinical features of Alström syndrome, especially early-onset retinal dystrophy combined with other systemic signs.
+*   **Most Common Reasons for Testing**: The primary indications for testing are infantile cone-rod dystrophy (presenting as nystagmus and photophobia), early childhood obesity associated with hyperinsulinemia, and unexplained cardiomyopathy in infancy or childhood.
+*   **Clinical Actionability and Management**: While there is no cure, an early diagnosis is crucial for implementing a multidisciplinary management plan. This includes surveillance for and treatment of diabetes, heart failure, thyroid dysfunction, and renal and liver complications.
+*   **Genetic Counseling Considerations**: Counseling should address the autosomal recessive inheritance pattern, the 25% recurrence risk in siblings, and the availability of carrier testing for at-risk relatives. The high degree of clinical variability, even among family members with the same variants, is a key point to communicate.
+
+**Key Clinical Literature & Studies**
+*   **Marshall JD et al. (2007) Hum Mutat. PMID: 17594715**: This landmark study defined the mutational landscape of ALMS1 in a large patient cohort, identifying exons 8, 10, and 16 as mutational hotspots and providing the first significant genotype-phenotype association data.
+*   **Marshall JD et al. (2015) Hum Mutat. PMID: 25914332**: An updated review that solidified the understanding of the ALMS1 variant spectrum and the challenges in establishing clear genotype-phenotype correlations.
+*   **Mauring L et al. (2020) Front Genet. PMID: 32903741**: This case report expanded the known clinical spectrum by describing an unusually mild retinal phenotype in a patient with two novel nonsense ALMS1 variants, including a rare de novo variant in this recessive disease.
+*   **Liao C et al. (2022) Front Genet. PMID: 35967916**: This study of a Chinese cohort identified a novel missense variant that causes disease through aberrant splicing, leading to a milder visual phenotype and highlighting a different mutational mechanism.
+*   **Bea-Mascato B et al. (2023) J Transl Med. PMID: 37322421**: A comprehensive systematic review and meta-analysis of 357 patients which provided updated frequencies of clinical features and strengthened the association between variants in exon 10 and liver disease.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**:
+    *   Biallelic truncating variants in *ALMS1* are strongly predictive of the classic Alström syndrome constellation: Retinal dystrophy (HP:0000556), Obesity (HP:0001513), Type 2 diabetes (HP:0005978), and Dilated cardiomyopathy (HP:0001644).
+    *   Variants in exon 8 are correlated with a milder renal phenotype (HP:0000083).
+    *   Variants in exon 16 are correlated with earlier onset of multiple features, including retinal dystrophy and cardiomyopathy.
+    *   Variants in exon 10 are correlated with a higher prevalence of liver dysfunction (HP:0001392).
+*   **Phenotype Red Flags**:
+    *   The combination of infantile nystagmus (HP:0000639) and progressive cone-rod dystrophy (HP:0000556) is a major red flag.
+    *   When the above vision-related phenotypes are combined with early childhood obesity (HP:0001513) and insulin resistance (HP:0000842), suspicion for Alström syndrome should be very high.
+    *   Dilated cardiomyopathy (HP:0001644) presenting in infancy is a key, and sometimes initial, manifestation.
+*   **Differential Diagnosis Considerations**:
+    *   **Bardet-Biedl syndrome (BBS)**: Shows significant overlap (retinal dystrophy, obesity, renal disease). However, polydactyly and significant cognitive impairment are characteristic of BBS and not typical of Alström syndrome.
+    *   Other ciliopathies with overlapping features should be considered.
+

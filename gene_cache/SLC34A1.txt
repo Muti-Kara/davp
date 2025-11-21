@@ -1,0 +1,105 @@
+SLC34A1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 11019
+*   **OMIM Gene ID:** 182309
+*   **Primary Disease Associations:**
+    *   Fanconi renotubular syndrome 2 (FRTS2) [MIM:613388]
+    *   Infantile hypercalcemia 2 (HCINF2) [MIM:616963]
+    *   Hypophosphatemic nephrolithiasis/osteoporosis 1 (NPHLOP1) [MIM:612286]
+*   **Clinical Significance Level:** The gene-disease relationship is rated as "Strong" for autosomal recessive Infantile hypercalcemia 2.
+*   **Inheritance Patterns:** Both autosomal recessive and autosomal dominant patterns are observed.
+    *   Biallelic loss-of-function mutations typically cause autosomal recessive disorders like infantile hypercalcemia or Fanconi renotubular syndrome.
+    *   Monoallelic (heterozygous) mutations are associated with autosomal dominant hypophosphatemic nephrolithiasis or osteoporosis.
+
+### **Constraint & Variant Intolerance**
+*   **gnomAD v2.1.1 Scores:**
+    *   **pLI:** 4.19e-10 (probability of being loss-of-function intolerant is near zero).
+    *   **LOEUF:** 1.10 (loss-of-function observed/expected upper bound fraction).
+    *   **pRec:** 0.00
+    *   **pNull:** 1.00
+*   **Clinical Interpretation:** The low pLI and high LOEUF scores indicate that *SLC34A1* is tolerant to heterozygous loss-of-function variation, which is consistent with the recessive inheritance pattern of severe disease. The dominant phenotype is not caused by simple haploinsufficiency.
+*   **Variant Classes Most Likely to be Pathogenic:** Biallelic missense, nonsense, frameshift, and splice-site mutations are associated with recessive disease. Heterozygous missense mutations are the most common cause of the dominant form.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:**
+    *   Nephrocalcinosis (HP:0000121)
+    *   Hypercalciuria (HP:0003471)
+    *   Hypophosphatemia (HP:0002148)
+    *   Nephrolithiasis (HP:0000787)
+    *   Hypercalcemia (HP:0003072)
+    *   Renal phosphate wasting / Hyperphosphaturia (HP:0003108 / HP:0002908)
+    *   Failure to thrive (HP:0001508)
+    *   Decreased bone mineral density (HP:0000938)
+    *   Osteoporosis (HP:0000939)
+    *   Proximal tubulopathy (HP:0001970)
+*   **Secondary HPO Terms:**
+    *   Vomiting (HP:0002013)
+    *   Polyuria (HP:0000103)
+    *   Metabolic acidosis (HP:0001942)
+    *   Hypophosphatemic rickets (HP:0008898)
+    *   Bone pain (HP:0002653)
+    *   Dehydration (HP:0001944)
+*   **Age of Onset:** Onset can be in infancy with severe symptoms like failure to thrive and hypercalcemia. Alternatively, presentation can be in adulthood with nephrolithiasis or osteoporosis.
+*   **Phenotype Severity Spectrum:** Severity is highly variable, even within families. Biallelic mutations are associated with a more severe, early-onset phenotype compared to monoallelic mutations. Digenic inheritance of heterozygous mutations in both *SLC34A1* and *SLC34A3* can result in a more severe phenotype than a single heterozygous mutation.
+
+### **Genotype-Phenotype Correlations**
+*   **Biallelic Variants:** Typically cause autosomal recessive infantile hypercalcemia or Fanconi-like syndrome with severe renal phosphate wasting, hypophosphatemia, and subsequent hypercalcemia.
+*   **Monoallelic Variants:** Cause a milder, autosomal dominant phenotype of hypophosphatemic nephrolithiasis and/or osteoporosis, often presenting in adulthood.
+*   **Genotype-Phenotype Correlation Strength:** Strong. There is a clear distinction between the severe, recessive phenotypes caused by biallelic mutations and the milder, dominant phenotypes caused by heterozygous mutations.
+*   **Examples:**
+    *   **p.I456N (heterozygous):** Associated with autosomal dominant renal stone disease.
+    *   **p.R512C and p.V91A97del (compound heterozygous):** Associated with an autosomal recessive Fanconi-like syndrome with metabolic acidosis and renal stones.
+    *   **p.Gly543Cys (heterozygous):** A novel variant associated with recurrent nephrolithiasis and early-onset osteopenia.
+
+### **Clinical Variants & Phenotype Associations**
+| HGVS / rsID | ClinVar Significance | Reported Phenotypes (HPO Terms) | Allele Frequency (gnomAD) |
+| :--- | :--- | :--- | :--- |
+| p.Val408Glu / rs140649226 | Pathogenic | Hypophosphatemic nephrolithiasis/osteoporosis 1, Infantile hypercalcemia 2 | 0.00011 |
+| p.Ile456Asn | Pathogenic | Hypophosphatemic nephrolithiasis | Not reported |
+| p.Arg512Cys / rs769018485 | Pathogenic | Fanconi renotubular syndrome 2 | Very rare |
+| p.V91_A97del | Pathogenic/Likely Pathogenic | Fanconi renotubular syndrome 2 | More common |
+| p.Arg512His / rs199679198 | Pathogenic | Hypophosphatemic rickets, Hypercalciuria | 0.000008 |
+| p.Gly543Cys | Uncertain Significance | Nephrolithiasis, Osteopenia | Not reported |
+| p.Thr138Met | Pathogenic | Infantile hypercalcemia 2 | Not reported |
+| p.Val147Met | Pathogenic | Infantile hypercalcemia 2 | Not reported |
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues:** The highest expression of *SLC34A1* is in the kidney cortex, according to GTEx data.
+*   **Tissue-Specific Phenotypes:** The kidney-specific expression of the NaPi-IIa protein explains why phenotypes are primarily renal, including defective phosphate reabsorption, nephrocalcinosis, and nephrolithiasis.
+*   **Expression During Development:** Clinical presentations in early infancy suggest the gene is critical for phosphate homeostasis from birth.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The *SLC34A1* gene encodes the sodium-dependent phosphate cotransporter 2A (NaPi-IIa), which is critical for reabsorbing phosphate from the glomerular filtrate in the kidney's proximal tubule.
+*   **Disease Mechanism:**
+    *   **Recessive (Loss-of-Function):** Biallelic mutations lead to a loss of NaPi-IIa transporter function, causing renal phosphate wasting. This results in hypophosphatemia, which stimulates 1,25-dihydroxyvitamin D3 production, leading to increased intestinal calcium absorption and subsequent hypercalcemia and hypercalciuria.
+    *   **Dominant:** The mechanism for dominant disease is less clear but may involve trafficking defects or a dominant-negative effect where the mutant protein interferes with the function of the wild-type protein.
+*   **Cellular/Molecular Pathways Disrupted:** The primary pathway disrupted is sodium-coupled phosphate transport in the renal brush border membrane. This dysregulation of phosphate homeostasis has downstream effects on the vitamin D metabolic pathway.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** In a cohort of patients with a history suggestive of hypersensitivity to vitamin D (hypercalcemia/hypercalciuria), mutations in *SLC34A1* were identified in 1-8% of cases, less frequently than *CYP24A1* mutations.
+*   **Most Common Reasons for Testing:** The gene is tested in cases of idiopathic infantile hypercalcemia, Fanconi syndrome, and unexplained hypophosphatemia, nephrolithiasis, or early-onset osteoporosis.
+*   **Clinical Actionability and Management:** Management is often personalized due to phenotype variability. It includes hyperhydration, dietary modifications (low sodium, appropriate calcium), and potentially phosphate supplementation, which can rapidly resolve hypercalcemia in infants with biallelic mutations.
+*   **Genetic Counseling Considerations:** Both autosomal recessive and dominant inheritance must be considered. Heterozygous carriers of a recessive allele may be asymptomatic or have mild biochemical changes. The possibility of digenic inheritance with *SLC34A3* should be considered in complex cases.
+
+### **Key Clinical Literature & Studies**
+| PMID / DOI | Year | Key Phenotype Findings |
+| :--- | :--- | :--- |
+| 26047794 | 2016 | Established that biallelic, autosomal recessive loss-of-function mutations in *SLC34A1* cause idiopathic infantile hypercalcemia (IIH), characterized by renal phosphate wasting, hypophosphatemia, and hypercalcemia. |
+| 29924459 | 2018 | Detailed cases illustrating both autosomal dominant (hypophosphatemic nephrolithiasis) and autosomal recessive (Fanconi-like syndrome) phenotypes, linking them to specific mutations and cellular trafficking defects. |
+| 28470390 | 2017 | Described a family with digenic heterozygous mutations in *SLC34A1* and *SLC34A3* causing a more severe phenotype of hypophosphatemic rickets with hypercalciuria than either heterozygous mutation alone. |
+| 12324554 | 2002 | A landmark paper that first linked heterozygous mutations in *SLC34A1* to patients with urolithiasis or osteoporosis and idiopathic hypophosphatemia. |
+| 31188746 | 2019 | Review summarizing the overlapping phenotypes caused by *CYP24A1* and *SLC34A1* defects, highlighting hypophosphatemia as a key distinguishing feature for *SLC34A1*-related disease. |
+| 38084227 | 2023 | Case report of a novel heterozygous *SLC34A1* mutation (p.Gly543Cys) causing recurrent nephrolithiasis and early-onset osteopenia, expanding the variant spectrum for the dominant phenotype. |
+| 34733333 | 2021 | Cohort study showing overlapping phenotypes between *CYP24A1*, *SLC34A1*, and *SLC34A3* mutations, suggesting broad genetic screening for patients with hypersensitivity to vitamin D. |
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:**
+    *   **Biallelic loss-of-function variants →** Severe infantile-onset phenotype including Hypercalcemia (HP:0003072), Hypophosphatemia (HP:0002148), Failure to thrive (HP:0001508), and Nephrocalcinosis (HP:0000121).
+    *   **Monoallelic missense variants →** Milder, often adult-onset phenotype dominated by Nephrolithiasis (HP:0000787) and/or Decreased bone mineral density (HP:0000938).
+*   **Phenotype Red Flags:**
+    *   The combination of **Hypophosphatemia (HP:0002148)** with **Hypercalcemia (HP:0003072)** in an infant is highly suggestive of biallelic *SLC34A1* mutations.
+    *   Idiopathic **Hypercalciuria (HP:0003471)** with **Hypophosphatemia (HP:0002148)** in an adult with kidney stones or osteoporosis points towards monoallelic *SLC34A1* mutations.
+*   **Differential Diagnosis Considerations:**
+    *   **CYP24A1:** Mutations also cause infantile hypercalcemia, but typically without the prominent hypophosphatemia seen in *SLC34A1* cases.
+    *   **SLC34A3 (NPT2c):** Mutations can cause hereditary hypophosphatemic rickets with hypercalciuria (HHRH). Phenotypes can overlap, and digenic inheritance with *SLC34A1* is possible, leading to a more severe phenotype.
+

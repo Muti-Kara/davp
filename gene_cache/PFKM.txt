@@ -1,0 +1,95 @@
+PFKM Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** PFKM (HGNC:8877)
+*   **OMIM Gene ID:** 610681
+*   **Primary Disease Associations:** Glycogen storage disease type VII (GSDVII), also known as Tarui disease (OMIM: 232800).
+*   **Clinical Significance Level:** Definitive. Biallelic pathogenic variants in PFKM are the established cause of GSDVII.
+*   **Inheritance Patterns:** GSDVII is an autosomal recessive disorder.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI (Probability of being Loss-of-function Intolerant): 0.01 (gnomAD v2.1.1)
+    *   LOEUF (Loss-of-function Observed/Expected Upper bound Fraction): 1.15 (gnomAD v2.1.1)
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score and high LOEUF score indicate that the gene is tolerant to loss-of-function variation. This is consistent with an autosomal recessive inheritance pattern, where heterozygous carriers are typically asymptomatic.
+*   **Variant Classes Most Likely to be Pathogenic:** Pathogenicity arises from biallelic variants, including missense, nonsense, frameshift, and splice-site mutations, that result in a nonfunctional or severely impaired enzyme.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0003236 Exercise intolerance
+    *   HP:0001265 Myalgia
+    *   HP:0002878 Myoglobinuria
+    *   HP:0001890 Hemolytic anemia
+    *   HP:0001541 Myopathy
+    *   HP:0003208 Hyperuricemia
+    *   HP:0003198 Rhabdomyolysis
+    *   HP:0001270 Motor delay
+    *   HP:0001324 Muscle weakness
+    *   HP:0001947 Jaundice
+    *   HP:0002240 Hepatomegaly
+    *   HP:0002616 Splenomegaly
+    *   HP:0001878 Reticulocytosis
+    *   HP:0000286 High palate
+    *   HP:0003391 Muscle cramps
+*   **Secondary HPO terms:**
+    *   HP:0001638 Cardiomyopathy
+    *   HP:0001511 Intrauterine growth retardation
+    *   HP:0001622 Premature birth
+    *   HP:0000407 Sensory axonal neuropathy
+    *   HP:0001263 Global developmental delay
+    *   HP:0002014 Diarrhea
+    *   HP:0002027 Abdominal pain
+    *   HP:0002017 Nausea and vomiting
+    *   HP:0000789 Inguinal hernia
+*   **Age of Onset Patterns:** The classic form typically presents in childhood or adolescence with exercise-induced symptoms. A severe, infantile-onset form can present with progressive weakness, hypotonia, and early death. A late-onset form with mild, fixed weakness may also occur.
+*   **Phenotype Severity Spectrum:** Severity is highly variable, ranging from mild, compensated hemolysis and exercise intolerance to severe infantile-onset myopathy leading to early death.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and their Typical Phenotypes:** Homozygosity for null mutations (e.g., frameshift, nonsense, or major rearrangements) that completely abolish enzyme activity is often associated with the severe, lethal infantile form of GSDVII. Compound heterozygotes with one null allele and one missense allele may have variable presentations.
+*   **Protein Domain-Specific Phenotype Patterns:** Mutations in the allosteric binding sites, such as the D543A variant, can disrupt the enzyme's regulation by ATP, leading to a classic GSDVII phenotype. No strong, consistent genotype-phenotype correlations have been established for most variants.
+*   **Genotype-Phenotype Correlation Strength:** Generally considered weak to moderate, as significant clinical heterogeneity is observed even within families sharing the same mutations. While biallelic null mutations often lead to a severe outcome, the phenotypic expression of missense variants is less predictable.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.2065G>A (p.Gly689Arg):** Pathogenic; associated with classic GSDVII phenotypes including exercise intolerance and hemolysis.
+*   **c.1628A>C (p.Asp543Ala) / rs121918194:** Conflicting interpretations of pathogenicity; located in an activating binding site, disrupts allosteric regulation, associated with classic GSDVII. AF (gnomAD): 0.00002.
+*   **IVS5+1G>A:** Pathogenic; a splice-site mutation common in individuals of Ashkenazi Jewish descent, results in a nonfunctional protein and classic GSDVII.
+*   **c.1416+1G>A (IVS12+1G>A):** Pathogenic; a common splice-site mutation leading to exon skipping and a severely truncated, inactive enzyme.
+*   **c.1127G>A (p.Arg376Gln) / rs187131358:** Uncertain significance; reported in GSDVII cases but functional impact is not fully defined. AF (gnomAD): 0.00001.
+*   **c.1376G>A (p.Arg459His):** Novel variant reported as pathogenic/likely pathogenic in a compound heterozygous state, associated with muscle weakness and hemolysis.
+*   **c.626G>A (p.Arg209His):** Novel variant reported as pathogenic/likely pathogenic in a compound heterozygous state, associated with muscle weakness and hemolysis.
+*   **c.926A>G (p.Asp309Gly):** Pathogenic; predicted to severely affect enzyme catalysis, leading to classic GSDVII symptoms.
+*   **c.1087C>T (p.Arg363Cys):** Pathogenic; associated with late-onset myopathy.
+*   **c.2224delG (p.Val742fs):** Pathogenic; a frameshift mutation leading to a premature stop codon and a nonfunctional protein.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** Skeletal muscle shows the highest expression of PFKM, which directly correlates with the primary phenotype of exertional myopathy and exercise intolerance.
+*   **Tissue-Specific Phenotypes Expected:**
+    *   **Muscle:** Deficiency of the M-subunit tetramer (PFK-M4) causes a block in glycolysis, leading to ATP depletion during exercise, cramps, and myoglobinuria.
+    *   **Erythrocytes:** Red blood cells express a combination of M and L (liver) subunits; deficiency of the M subunit leads to partial enzyme deficiency, cell instability, and compensated hemolytic anemia.
+*   **Expression During Development:** Expression patterns during development are critical, and defects can lead to the severe infantile-onset form of the disease with early lethality.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The PFKM gene encodes the muscle-specific isoform of phosphofructokinase-1 (PFK-1), a key enzyme that catalyzes the irreversible conversion of fructose-6-phosphate to fructose-1,6-bisphosphate in glycolysis.
+*   **Disease Mechanism:** The primary disease mechanism is a loss-of-function, consistent with its autosomal recessive inheritance. Biallelic mutations lead to deficient or absent PFK-M subunit activity.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Glycolysis Blockade:** In muscle, the inability to perform glycolysis blocks the primary pathway for ATP generation from glucose during intense exercise, causing energy deficiency, accumulation of upstream glycogen and glucose-6-phosphate, and exercise-induced rhabdomyolysis.
+    *   **Erythrocyte Metabolism:** In red blood cells, the partial enzyme defect impairs glycolysis, leading to reduced ATP and 2,3-bisphosphoglycerate levels, which increases hemoglobin's oxygen affinity and promotes hemolysis.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PFKM subunits homotetramerize to form the active enzyme in muscle (PFK-M4). In erythrocytes, PFKM and PFKL subunits form heterotetramers; the lack of functional PFKM subunits disrupts the stability and function of these complexes.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** Genetic testing via whole-exome or genome sequencing in patients with a clinical suspicion of GSDVII has a high diagnostic yield, often identifying biallelic pathogenic variants in PFKM.
+*   **Most Common Reasons for Testing:** The most common indications for testing are exercise intolerance starting in childhood, exertional myalgia, myoglobinuria, and the combination of myopathy with compensated hemolytic anemia.
+*   **Clinical Actionability and Management Implications:** Management is primarily supportive, including avoidance of strenuous exercise. A high-protein or ketogenic diet may provide alternative energy sources for muscle. Monitoring for hemolytic episodes and renal function (due to myoglobinuria risk) is crucial.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal recessive inheritance pattern. Carrier testing for at-risk family members and prenatal/preimplantation genetic diagnosis are options for families with known pathogenic variants.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 3901988 (1985):** A landmark study describing the molecular basis of the disease in Ashkenazi Jewish patients, identifying a common splicing mutation.
+*   **PMID: 8527230 (1995):** Characterized the PFKM gene structure and identified several mutations, helping to establish the genetic basis and heterogeneity of Tarui disease.
+*   **PMID: 19707255 (2009):** Described the generation of a Pfkm-deficient mouse model, which recapitulated key features of human GSDVII including exercise intolerance, hemolysis, and early death in severe cases, providing insights into the systemic nature of the disease.
+*   **PMID: 2602744 (1990):** Reported on the diversity of mutations in the PFKM gene, including deletions and single nucleotide changes, expanding the known variant spectrum.
+*   **PMID: 38830768 (2024):** A recent case report identifying two novel compound heterozygous mutations (c.1376G>A and c.626G>A) via WGS/WES in a patient with GSDVII, highlighting the ongoing discovery of new variants and the clinical utility of comprehensive genomic testing.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Biallelic null variants (frameshift, nonsense, canonical splice site) are strongly associated with a severe phenotype that can include infantile onset (HP:0003593), progressive muscle weakness (HP:0003323), and early death. The IVS5+1G>A variant is strongly associated with classic GSDVII in Ashkenazi Jewish individuals, presenting with exercise intolerance (HP:0003236), myalgia (HP:0001265), and hemolytic anemia (HP:0001890).
+*   **Phenotype red flags:** The combination of exercise-induced rhabdomyolysis (HP:0003198) or myoglobinuria (HP:0002878) with evidence of compensated hemolysis (e.g., reticulocytosis HP:0001878, elevated indirect bilirubin) is highly suggestive of pathogenic variants in PFKM.
+*   **Differential diagnosis considerations:** The myopathic features overlap with other glycogen storage diseases, particularly McArdle disease (GSDV, caused by PYGM variants), and other metabolic myopathies. The hemolytic anemia component distinguishes GSDVII from many other GSDs and should prompt consideration of red cell enzymopathies like pyruvate kinase deficiency.
+

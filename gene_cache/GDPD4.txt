@@ -1,0 +1,63 @@
+GDPD4 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+
+*   **HGNC ID:** 24849
+*   **OMIM Gene ID:** GDPD4 does not have a direct OMIM gene number, however, it is associated with diseases that have OMIM entries.
+*   **Primary Disease Associations:** While directly causative disease links are not firmly established, GDPD4 has been associated with Achromatopsia 4 and Van Maldergem Syndrome. It has also been mentioned in studies related to familial obesity and autism.
+*   **Clinical Significance Level:** The clinical significance of GDPD4 is still being investigated, and it does not currently have a definitive, strong, or moderate evidence classification from major clinical genetics bodies.
+*   **Inheritance Patterns:** The mode of inheritance for conditions potentially associated with GDPD4 has not been definitively established.
+
+### **Constraint & Variant Intolerance**
+
+*   **pLI, LOEUF, pRec, pNull:** A search for GDPD4 on gnomAD v2.1.1 shows a pLI (probability of being loss-of-function intolerant) score of 0.00, suggesting it is tolerant to loss-of-function variants. The LOEUF (loss-of-function observed/expected upper-bound fraction) score is 1.13. pRec and pNull values are not readily available.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI score and a LOEUF score greater than 1 suggest that heterozygous loss-of-function variants in GDPD4 are generally tolerated in the general population and the gene is not under strong constraint against this type of variation.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be of a different class, such as missense with a gain-of-function or dominant-negative effect, although this is speculative.
+
+### **Phenotype Spectrum & HPO Terms**
+
+*   **Primary HPO terms:** As GDPD4 is not yet linked to a well-defined syndrome, a ranked list of HPO terms is not available. However, based on its associations, relevant HPO terms would fall under broader categories.
+*   **Secondary HPO terms:** Less common but potentially relevant HPO terms are also not well-defined due to the lack of established disease correlation.
+*   **Age of Onset Patterns:** Information regarding the typical age of onset for any potential GDPD4-related phenotype is not currently available.
+*   **Phenotype Severity Spectrum:** The spectrum of severity for phenotypes associated with GDPD4 variants has not been characterized.
+
+### **Genotype-Phenotype Correlations**
+
+*   **Variant Classes and Their Typical Phenotypes:** There are currently no established correlations between specific classes of GDPD4 variants and distinct phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific phenotype patterns have been linked to variants in particular domains of the GDPD4 protein.
+*   **Genotype-Phenotype Correlation Strength:** The strength of genotype-phenotype correlation for GDPD4 is currently considered weak to non-existent due to a lack of sufficient clinical and genetic evidence.
+*   **Examples: Specific Variants → Specific Phenotypes:** No specific, well-documented examples of a GDPD4 variant leading to a defined phenotype are available in public databases like ClinVar.
+
+### **Clinical Variants & Phenotype Associations**
+
+*   A search of ClinVar did not reveal any variants in GDPD4 that are classified as pathogenic or likely pathogenic with associated clinical phenotypes and HPO terms. There are many variants of uncertain significance listed.
+
+### **Tissue Expression & Clinical Relevance**
+
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Genotype-Tissue Expression (GTEx) portal, GDPD4 shows significantly high expression in the testis. It also has some expression in the vagina, though at lower levels.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in the testis suggests a potential role in male fertility or development, as has been observed in mouse models where it may be involved in male germ cell differentiation.
+*   **Expression During Development:** Expression data from human fetal samples indicates the presence of GDPD4 during development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+
+*   **Normal Gene Function:** GDPD4 is predicted to have glycerophosphodiester phosphodiesterase activity, suggesting a role in lipid metabolism.
+*   **Disease Mechanism:** The mechanism by which GDPD4 variants might cause disease is unknown. Given its tolerance to inactivation, haploinsufficiency is an unlikely mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The GDPD protein family is involved in choline phospholipid metabolism. Disruption of this pathway could potentially alter cellular signaling and membrane composition, but specific consequences related to GDPD4 are not yet understood.
+*   **Protein-Protein Interactions Relevant to Phenotype:** GDPD4 is part of a family of glycerophosphodiester phosphodiesterases, but specific interactions relevant to human phenotypes have not been detailed.
+
+### **Diagnostic Yield & Clinical Utility**
+
+*   **Diagnostic Yield in Clinical Cohorts:** There is no reported diagnostic yield for GDPD4 in clinical cohorts, as it is not routinely tested for specific disorders.
+*   **Most Common Reasons for Testing This Gene:** Testing for GDPD4 is generally not performed for diagnostic purposes but may be included in large-scale research sequencing panels.
+*   **Clinical Actionability and Management Implications:** There are currently no known clinical management guidelines or actionable interventions related to GDPD4 variants.
+*   **Genetic Counseling Considerations:** Given the lack of confirmed disease association and the high tolerance to variation, counseling for variants of uncertain significance in GDPD4 would emphasize the current lack of evidence for pathogenicity.
+
+### **Key Clinical Literature & Studies**
+
+*   At present, there are no landmark clinical papers that have established a definitive genotype-phenotype correlation for GDPD4. Much of the available information comes from large-scale genomic studies and expression analyses rather than clinical case reports focused on this specific gene. A 2012 study on choline metabolism mentioned GDPD4's role in male germ cell differentiation in mice, which is consistent with its high expression in the testis.
+
+### **HPO-Variant Matching Summary**
+
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence associations between specific HPO terms and GDPD4 variants.
+*   **Phenotype red flags:** There are no specific HPO terms that would strongly suggest pathogenic variants in GDPD4 at this time.
+*   **Differential diagnosis considerations:** Due to the non-specific and unconfirmed nature of its disease associations, GDPD4 is not typically included in differential diagnoses for specific syndromes.
+

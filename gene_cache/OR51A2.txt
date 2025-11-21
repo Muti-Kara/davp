@@ -1,0 +1,48 @@
+OR51A2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 14764.
+*   **OMIM gene ID:** No OMIM entry is specifically associated with the OR51A2 gene itself.
+*   **Primary disease associations:** A general association with Williams-Beuren Syndrome is noted in some databases, though this is likely due to the gene's location within a commonly deleted region and not direct causality.
+*   **Clinical significance level:** The clinical significance of OR51A2 is largely undetermined, with no definitive, strong, or moderate evidence linking it to a specific Mendelian disease.
+*   **Inheritance patterns observed in patients:** No clear inheritance patterns have been established due to the lack of a defined disease phenotype.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v4.0 does not provide specific constraint metrics (pLI, LOEUF) for OR51A2. In general, a low LOEUF score (e.g., < 0.6 in gnomAD v4.0) suggests intolerance to loss-of-function (LoF) variation. A pLI score ≥ 0.9 is typically considered to indicate that a gene is intolerant to protein-truncating variants.
+*   **Clinical interpretation of constraint scores:** High constraint scores (low LOEUF, high pLI) would suggest that LoF variants are not tolerated and may be pathogenic. However, without these scores for OR51A2, interpretation is not possible.
+*   **Variant classes most likely to be pathogenic:** For genes intolerant to LoF, nonsense and frameshift variants are most likely to be pathogenic. Given OR51A2's function as a G-protein coupled receptor, missense variants that disrupt the 7-transmembrane structure could also be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   As OR51A2 has not been definitively linked to a specific disease, a comprehensive list of associated HPO terms cannot be compiled. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+*   General phenotypes associated with other olfactory receptor genes or syndromes involving the chromosomal region of OR51A2 might be considered but are not directly attributable to this gene.
+
+### **Genotype-Phenotype Correlations**
+*   No specific genotype-phenotype correlations have been established for OR51A2 in the literature. Establishing such correlations requires linking specific genetic variants to consistent clinical features, which has not been done for this gene.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists several variants in OR51A2, the majority of which are classified as "Uncertain significance". There are no variants definitively classified as "Pathogenic" or "Likely pathogenic" with a clear associated phenotype.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM):** According to some data, OR51A2 may be overexpressed in plasma. However, detailed, multi-tissue expression data from GTEx is necessary for a complete picture. Olfactory receptors are canonically expressed in the nose.
+*   **Tissue-specific phenotypes expected:** Given its primary classification, phenotypes would be expected to relate to the sense of smell (olfaction). Ectopic expression in other tissues, as suggested for other olfactory receptors, could imply other functions and potential non-olfactory phenotypes.
+*   **Expression during development and age-related phenotypes:** No specific information on the developmental expression of OR51A2 was found.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function:** OR51A2 is an odorant receptor that interacts with molecules in the nose to initiate a neuronal response leading to the perception of smell.
+*   **Disease mechanism:** For olfactory receptors, loss-of-function is a common disease mechanism. However, without a defined disease, the mechanism for OR51A2 is unknown.
+*   **Cellular/molecular pathways disrupted → phenotype consequences:** As an olfactory receptor, OR51A2 is involved in the G protein-coupled receptor (GPCR) signaling pathway and specifically the Olfactory transduction pathway. Disruption would be expected to lead to olfactory-related disorders.
+*   **Protein-protein interactions relevant to phenotype:** Olfactory receptors interact with G-proteins to transduce signals. Specific protein-protein interactions for OR51A2 that are relevant to a particular phenotype have not been described.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts:** The diagnostic yield for OR51A2 is effectively zero, as it is not currently included in diagnostic panels for any specific condition.
+*   **Most common reasons for testing this gene:** Currently, there are no common clinical reasons to specifically test the OR51A2 gene. It may be sequenced as part of a whole-exome or whole-genome analysis.
+*   **Clinical actionability and management implications:** There are no known clinical actionability or management guidelines associated with variants in OR51A2.
+*   **Genetic counseling considerations:** Genetic counseling would be challenging due to the lack of evidence for a disease association. Counseling would focus on the uncertainty of the findings.
+
+### **Key Clinical Literature & Studies**
+*   A review of publications did not yield any specific clinical studies focused on genotype-phenotype correlations in OR51A2. The literature is generally focused on the broader family of olfactory receptors.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no high-confidence HPO-variant associations for OR51A2.
+*   **Phenotype red flags:** Given its function, a complete loss of the sense of smell (anosmia) that cannot be explained by other causes could be a theoretical red flag, but this is highly speculative.
+*   **Differential diagnosis considerations:** If a patient presented with anosmia, other genetic and non-genetic causes would need to be considered first, including other genes involved in olfactory function.
+

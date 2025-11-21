@@ -1,0 +1,61 @@
+RDH16 Gene Biomedical Dossier
+### **RDH16 Clinical Genetics Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 29674.
+*   **OMIM Gene ID:** 620043.
+*   **Primary Disease Associations:** Currently, no definitive disease associations are listed in OMIM or through broad clinical genetic searches. While GeneCards mentions Gnathodiaphyseal Dysplasia, this appears to be an incorrect association, as this condition is caused by mutations in the *ANO5* gene.
+*   **Clinical Significance Level:** The clinical significance of *RDH16* variants in human Mendelian disease is not yet established. There are no definitive, strong, or moderate classifications from major clinical genetics bodies like ClinGen.
+*   **Inheritance Patterns:** No clear Mendelian inheritance pattern has been established for any disease linked to *RDH16*.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   gnomAD v2.1.1: pLI = 0.00, pRec = 0.58, pNull = 0.42.
+    *   gnomAD v4.0: LOEUF = 1.05.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score (close to 0) and high LOEUF score (greater than the recommended threshold of 0.6) indicate that the gene is tolerant to loss-of-function (LoF) variation. This suggests that haploinsufficiency is not a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF variants, pathogenic variants, if they exist, might be missense variants with dominant-negative or gain-of-function effects, rather than nonsense or frameshift variants.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As *RDH16* is not robustly linked to a Mendelian disease, there are no established, frequently reported HPO terms from clinical cases.
+*   **Secondary HPO terms:** No secondary HPO terms are consistently documented in the literature for *RDH16*-related disorders.
+*   **Age of Onset Patterns:** Not applicable due to the lack of a defined disease association.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Typical Phenotypes:** No established correlations exist between specific variant classes in *RDH16* and clinical phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** There is no information linking variants in specific domains of the RDH16 protein to distinct phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable, as no correlations have been established.
+*   **Examples:** No specific variant-to-phenotype examples are available from human clinical genetics literature.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for *RDH16* are listed in ClinVar with associated clinical phenotypes. A search of clinical databases reveals no well-characterized variants linked to a specific human disease.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** According to GeneCards, which references GTEx data, *RDH16* shows expression in tissues including the adrenal gland, placenta, thymus, and female gonad.
+*   **Tissue-Specific Phenotypes Expected:** Given its role in retinol and steroid metabolism and its expression profile, variants could theoretically impact endocrine, reproductive, or developmental processes. However, no such tissue-specific phenotypes have been clinically confirmed.
+*   **Expression During Development:** *RDH16* is involved in retinoic acid synthesis, a pathway critical for embryonic development. Perturbations could theoretically lead to developmental anomalies, though this has not been demonstrated in humans.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** RDH16 is an oxidoreductase that converts retinol (vitamin A) to retinal, a crucial step in the synthesis of retinoic acid, and also metabolizes steroids.
+*   **Disease Mechanism:** The gene's tolerance to LoF variants suggests that haploinsufficiency is an unlikely mechanism for disease. If *RDH16* variants are found to be pathogenic, mechanisms such as dominant-negative effects or gain-of-function would be more probable.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is a key component of the retinol metabolism and retinoic acid biosynthesis pathways. Disruption could alter cellular differentiation, a process highly dependent on retinoic acid signaling, but specific phenotype consequences in humans are unknown.
+*   **Protein-Protein Interactions:** RDH16 shows higher activity with retinol bound to Cellular Retinol-Binding Protein (CRBP), indicating a functional interaction critical for accessing the substrate for retinoic acid production.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *RDH16* is effectively zero, as it is not currently included in standard gene panels for specific Mendelian disorders and has no confirmed disease association.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would be purely on a research or discovery basis, likely in individuals with undiagnosed developmental or metabolic disorders where a candidate variant has been identified via exome or genome sequencing.
+*   **Clinical Actionability and Management Implications:** There is no clinical actionability associated with this gene at present.
+*   **Genetic Counseling Considerations:** Counselors should note the lack of evidence for pathogenicity for any *RDH16* variant. The gene's high tolerance to inactivation should be communicated, making a pathogenic role for LoF variants highly unlikely.
+
+**Key Clinical Literature & Studies**
+*   As there is no established disease link, there are no landmark clinical genetics papers establishing a genotype-phenotype correlation for *RDH16*. Research has focused on its biochemical function and role in cancer biology rather than Mendelian disease.
+    *   **NSPc1 promotes cancer stem cell self-renewal by repressing the synthesis of all-trans retinoic acid via targeting RDH16 in malignant glioma.** (Title from NCBI GeneRIF): This study highlights a role for RDH16 as a stemness suppressor in glioma by controlling retinoic acid synthesis.
+    *   **Differential recognition of the free versus bound retinol by human microsomal retinol/sterol dehydrogenases...** (PubMed: 12534290): This paper characterizes the enzyme's specific activity on retinol bound to CRBP, a key functional insight.
+    *   **Cloning and characterization of retinol dehydrogenase transcripts expressed in human epidermal keratinocytes.** (PubMed: 9677409): Early research identifying and characterizing the enzyme's function in human tissues.
+    *   **Expression of a retinol dehydrogenase (hRoDH-4)... in normal and neoplastic endometria.** (PubMed: 11504354): This study showed reduced expression of RDH16 in endometrial cancers, suggesting a potential role in tumor suppression.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence associations between HPO terms and *RDH16* variants.
+*   **Phenotype Red Flags:** No specific HPO terms are considered red flags for pathogenic variants in *RDH16*.
+*   **Differential Diagnosis Considerations:** Not applicable. Mouse model data shows that knockout of the homologous gene (*Rdh16*) results in an "increased circulating potassium level," but this phenotype has not been reported in humans. The related gene *RDH12* causes severe early-onset retinal degeneration, but this phenotype is not associated with *RDH16*.
+

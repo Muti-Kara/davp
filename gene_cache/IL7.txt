@@ -1,0 +1,80 @@
+IL7 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID:** 6023
+– **OMIM Gene ID:** 146660
+– **Primary Disease Associations:** Immunodeficiency 130 with HPV-related verrucosis (IMD130), Inherited epidermodysplasia verruciformis.
+– **Clinical Significance Level:** While OMIM lists a connection to an immunodeficiency, the primary role of IL7 appears more as a key cytokine in lymphocyte development and homeostasis rather than a direct cause of a well-defined monogenic disorder through pathogenic variants within the gene itself. Much of the literature points to the significance of its receptor, IL7R.
+– **Inheritance Patterns Observed in Patients:** Autosomal recessive for IMD130.
+
+### **Constraint & Variant Intolerance**
+– **pLI, LOEUF, pNull:** The gnomAD v2.1.1 constraint metrics for *IL7* show a pLI of 0.00, a pNull of 0.99, and a loss-of-function observed/expected upper bound fraction (LOEUF) of 0.81.
+– **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores indicate that *IL7* is tolerant to loss-of-function (LoF) variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene. Genes with low LOEUF scores show strong selection against predicted LoF variation, whereas higher scores suggest greater tolerance.
+– **Variant Classes Most Likely to Be Pathogenic:** Based on the tolerance to LoF variants, pathogenic variants, when they occur, would more likely be missense or other variants that do not result in a complete loss of function, though this is speculative given the rarity of associated disease.
+
+### **Phenotype Spectrum & HPO Terms**
+– **Primary HPO terms:**
+    *   HP:0002715 - Abnormality of the immune system
+    *   HP:0002829 - T-cell lymphopenia
+    *   HP:0005510 - CD4-positive, alpha-beta T-cell lymphopenia
+    *   HP:0002721 - Immunodeficiency
+    *   HP:0100521 - Verrucae
+    *   HP:0001058 - Plaque-like skin lesions
+    *   HP:0000962 - Hyperkeratosis
+    *   HP:0012432 - Susceptibility to human papillomavirus infection
+    *   HP:0002240 - Hepatomegaly
+    *   HP:0001875 - Neutropenia
+– **Secondary HPO terms:**
+    *   HP:0002843 - Susceptibility to mycobacterial infections
+    *   HP:0002841 - Recurrent herpes simplex virus infections
+    *   HP:0002835 - Recurrent fungal infections
+    *   HP:0001250 - Seizures
+    *   HP:0001634 - Atrial septal defect
+    *   HP:0001290 - Generalized hypotonia
+    *   HP:0001263 - Global developmental delay
+    *   HP:0000252 - Microcephaly
+– **Age of Onset Patterns:** The onset of immunodeficiency is typically in infancy or early childhood.
+– **Phenotype Severity Spectrum:** The severity of IMD130 can be significant, leading to persistent and widespread viral and other infections, with an increased risk of skin cancer.
+
+### **Genotype-Phenotype Correlations**
+– **Variant Classes and Their Typical Phenotypes:** Homozygous loss-of-function variants, such as nonsense and frameshift mutations, are associated with Immunodeficiency 130 with HPV-related verrucosis.
+– **Protein Domain-Specific Phenotype Patterns:** Data is limited for IL7 itself, but for its receptor, IL7R, mutations in different domains lead to varying phenotypes, from severe combined immunodeficiency (SCID) to autoimmunity.
+– **Genotype-Phenotype Correlation Strength:** The correlation between homozygous loss-of-function *IL7* variants and IMD130 appears strong based on limited case reports.
+
+### **Clinical Variants & Phenotype Associations**
+– **rs1486611027 / p.Arg69Ter (c.205C>T):** Pathogenic for Immunodeficiency 130 with HPV-related verrucosis (HPO: HP:0100521, HP:0002829). AF: Not reported in gnomAD.
+– **c.284del:** Pathogenic for Immunodeficiency 130 with HPV-related verrucosis. AF: Not reported in gnomAD.
+– **MET1?:** Pathogenic for Immunodeficiency 130 with HPV-related verrucosis. AF: Not reported in gnomAD.
+– **rs2587156:** This SNP showed a near-significant association with multiple sclerosis in one study.
+– **rs1054283:** This SNP showed a significant association with multiple sclerosis.
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas, *IL7* shows the highest expression in the lymph node and small intestine. RNA-seq data from GTEx also shows expression in the spleen, tonsil, and appendix.
+– **Tissue-Specific Phenotypes Expected:** The expression profile in lymphoid tissues is consistent with its critical role in T and B cell development and homeostasis. Dysfunction would be expected to primarily manifest as immunodeficiency. Expression in the intestine by epithelial cells suggests a role in mucosal immunity.
+– **Expression During Development and Age-Related Phenotypes:** *IL7* is crucial for early T-cell development in the thymus. Its role in B-cell development in humans appears to be more important in adulthood than in the neonatal period.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function:** IL7 is a hematopoietic growth factor essential for the development, proliferation, and survival of lymphoid progenitors, particularly T and B cells.
+– **Disease Mechanism:** For IMD130, the mechanism is loss-of-function due to biallelic pathogenic variants, leading to a deficiency of the IL-7 cytokine. This impairs T-cell development and homeostasis.
+– **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** IL-7 signals through a receptor complex that activates the JAK-STAT and PI3K-Akt pathways. Disruption of this signaling cascade due to IL-7 deficiency leads to failed T-cell development (especially CD4+ T cells), resulting in severe T-cell lymphopenia and susceptibility to infections, particularly HPV. The cytokine also plays a role in regulating the anti-apoptotic protein Bcl-2.
+– **Protein-Protein Interactions Relevant to Phenotype:** IL-7 interacts with its receptor, which consists of the IL-7Rα (IL7RA) and the common gamma chain (γc or IL2RG). This interaction is crucial for initiating the downstream signaling cascade required for lymphocyte development and survival.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts:** Testing for *IL7* variants is likely low yield and would be considered in patients with a specific phenotype of T-cell lymphopenia and severe, recalcitrant HPV infections after more common causes of immunodeficiency have been excluded.
+– **Most Common Reasons for Testing This Gene:** The primary reason for testing would be a clinical presentation consistent with IMD130, including T-cell lymphopenia and extensive verrucosis.
+– **Clinical Actionability and Management Implications:** For patients with confirmed IMD130, management would focus on aggressive treatment of infections and surveillance for skin malignancies. Hematopoietic stem cell transplantation could be a consideration, though its efficacy for this specific disorder is not well-documented in the search results.
+– **Genetic Counseling Considerations:** For families with a confirmed pathogenic variant, autosomal recessive inheritance should be discussed. This implies a 25% recurrence risk for future offspring of carrier parents. Carrier testing for at-risk family members could be considered.
+
+### **Key Clinical Literature & Studies**
+– **PMID: 23392398 (2013):** Discusses the role of IL-7R in autoimmunity and immunodeficiency, highlighting that defects in IL-7R, not typically IL7 itself, are a more common cause of human SCID.
+– **PMID: 15164028 (2004):** A comprehensive review detailing the role of IL-7 in lymphocyte development and homeostasis, outlining its signaling pathways via JAK/STAT.
+– **PMID: 20111038 (2010):** A study identifying genetic variations in the IL7RA/IL7 pathway that increase susceptibility to multiple sclerosis, pointing to a role in autoimmune disease.
+– **Not available (2025):** A 2025 review article summarizing the role of IL-7 in various autoimmune diseases, including rheumatoid arthritis and lupus, and its mechanisms of action.
+– **PMID: 21873468 (2012):** Reviews the impact of deletions, polymorphisms, and mutations in the IL-7 receptor gene, providing context for the IL-7 pathway's role in disease.
+– **PMID: 9559302 (1998):** Describes a novel role for IL-7 in mediating non-T cell, non-B cell colitis in a mouse model, suggesting broader inflammatory functions.
+– **PMID: 29892010 (2018):** Research indicating that IL-7 and its receptor are involved in the development of various cancers by mediating multiple cell signaling pathways.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations:** Homozygous loss-of-function variants (e.g., p.Arg69Ter) are strongly associated with T-cell lymphopenia (HP:0002829) and susceptibility to human papillomavirus infection leading to verrucae (HP:0100521).
+– **Phenotype red flags:** The combination of severe, disseminated verrucosis and significant T-cell lymphopenia (particularly low CD4+ counts) should raise strong suspicion for a defect in the IL-7 pathway, including potential *IL7* deficiency.
+– **Differential diagnosis considerations:** The phenotype of T-cell lymphopenia overlaps with numerous other primary immunodeficiencies, including those caused by mutations in *IL7R*, *IL2RG*, *JAK3*, *RAG1/2*, and others. Epidermodysplasia verruciformis can also be caused by mutations in *EVER1* (*TMC6*) and *EVER2* (*TMC8*).
+

@@ -1,0 +1,75 @@
+PDGFRL Gene Biomedical Dossier
+### **Gene Dossier: PDGFRL**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 8805.
+*   **OMIM Gene ID:** 604584.
+*   **Primary Disease Associations:** Primarily associated with various cancers as a tumor suppressor, including colorectal cancer, hepatocellular carcinoma, non-small cell lung cancer, and breast cancer. A polymorphism has also been associated with susceptibility to Behcet disease.
+*   **Clinical Significance Level:** The role of PDGFRL as a tumor suppressor is suggested by multiple studies, but its direct causal link to a monogenic Mendelian disorder is not established; evidence is currently at a research or associative level.
+*   **Inheritance Patterns:** Not established for a Mendelian disease; associations are primarily with somatic mutations in cancer or as a susceptibility allele for complex disease.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific numeric gnomAD constraint scores for PDGFRL were not available in the search results. Generally, pLI scores near 1.0 and low LOEUF scores indicate intolerance to loss-of-function (LoF) variants.
+*   **Clinical Interpretation of Constraint Scores:** As PDGFRL is considered a tumor suppressor, haploinsufficiency from LoF variants would be a plausible disease mechanism. However, the lack of a high pLI score may suggest that heterozygous LoF variants are not under strong negative selection in the general population or that the gene is not well-powered for this metric.
+*   **Variant Classes Most Likely to be Pathogenic:** Based on its function as a tumor suppressor, pathogenic variants are expected to be loss-of-function, including nonsense, frameshift, and disruptive missense or splice site variants, as well as deletions.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** A definitive list of HPO terms is not well-established for constitutional disorders. Inferred terms based on cancer association studies include:
+    *   Colorectal carcinoma (HP:0003003).
+    *   Hepatocellular carcinoma (HP:0001402).
+    *   Non-small cell lung carcinoma (HP:0006742).
+    *   Breast carcinoma (HP:0003002).
+*   **Secondary HPO terms:** Based on its association with Behcet disease, relevant HPO terms may include:
+    *   Recurrent oral ulcerations (HP:0000155).
+    *   Recurrent genital ulcerations (HP:0000157).
+    *   Uveitis (HP:0000554).
+    *   Skin lesions (HP:0000951).
+*   **Age of Onset Patterns:** The associated cancers are typically adult-onset.
+*   **Phenotype Severity Spectrum:** Severity would range based on the specific cancer's stage and progression.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Decreased or absent expression of PDGFRL, due to somatic mutations or deletions, is associated with the development and progression of cancers like colorectal and breast cancer.
+*   **Protein Domain-Specific Phenotype Patterns:** The protein has significant similarity to the ligand-binding domain of PDGFRB, suggesting variants in this region could impair its potential tumor-suppressing regulatory function.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is moderate for its role as a tumor suppressor in somatic cancers. A weak association exists between the rs17633132 polymorphism and susceptibility to Behcet disease.
+*   **Examples: specific variants → specific phenotypes:** A somatic variant (VAR_026052, p.His23Tyr) has been noted in colorectal cancer. The T allele of polymorphism rs17633132 is associated with increased susceptibility to Behcet disease and decreased PDGFRL expression.
+
+**Clinical Variants & Phenotype Associations**
+*   ClinVar data from the search results is sparse for pathogenic or likely pathogenic germline variants in PDGFRL.
+*   **rs17633132:C>T:**
+    *   **Significance:** Association/risk allele.
+    *   **Reported Phenotypes:** Susceptibility to Behcet disease.
+    *   **AF:** Not specified in results, but is a polymorphism.
+*   **VAR_026052 / dbSNP:rs137853148 / p.His23Tyr:**
+    *   **Significance:** Somatic variant.
+    *   **Reported Phenotypes:** Colorectal cancer.
+    *   **AF:** Not applicable (somatic).
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** Broadly expressed, with highest expression noted in adipose tissue (fat) and ovary. It is also highly expressed in cartilage.
+*   **Tissue-Specific Phenotypes Expected:** Its role as a tumor suppressor has been identified in epithelial tissues giving rise to carcinomas (colon, breast, liver). Its role in chondrocytes suggests a potential phenotype related to cartilage or bone development if germline variants were identified.
+*   **Expression During Development and Age-Related Phenotypes:** Expression in chondrocytes suggests a role during development and maintenance of cartilage. In contrast, its tumor suppressor function is primarily relevant to adult-onset cancers.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PDGFRL encodes a protein that functions as a tumor suppressor, likely by modulating platelet-derived growth factor (PDGF) receptor signaling.
+*   **Disease Mechanism:** The primary proposed mechanism is loss-of-function or haploinsufficiency, where decreased levels of the PDGFRL protein lead to unchecked cell proliferation and invasion.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of PDGFRL function inhibits the cell cycle at the G0/G1 phase and promotes cell proliferation and invasion, contributing to tumor growth. It may act within the PDGF signaling pathway, which is critical for cell growth, differentiation, and migration.
+*   **Protein-Protein Interactions:** Interacts with 3 proteins according to the Human Protein Atlas. It is believed to be part of a regulatory network involving the PDGF signaling pathway.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** There is currently no evidence from the search results to suggest that testing for germline PDGFRL variants has diagnostic yield for Mendelian disorders.
+*   **Most Common Reasons for Testing:** Testing is primarily done in a research context to investigate its role in cancer progression (somatic mutations) or for association studies in complex diseases like Behcet disease.
+*   **Clinical Actionability and Management Implications:** Currently limited. If its tumor suppressor role is further defined, it could become a prognostic marker or a therapeutic target in certain cancers.
+*   **Genetic Counseling Considerations:** For the Behcet disease-associated polymorphism, counseling would involve discussing a slightly increased risk in the context of a complex multifactorial disease.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 38851457, 2024:** Identified synonymous mutations in the PDGFRL gene in Lanping black-boned sheep that were associated with blood melanin levels, suggesting a potential role in pigmentation pathways.
+*   **PMID: 33961781, 2021:** A large-scale proteomic study identified numerous protein-protein interactions, contributing to the understanding of the cellular interactome which includes PDGFRL.
+*   **PMID: 28407304, 2017:** Found that PDGFRL is highly expressed in chondrocytes and, contrary to its effect in cancer cells, promotes their proliferation while decreasing differentiation markers, suggesting a distinct, tissue-specific function in cartilage.
+*   **PMID: 22926996, 2012:** Identified a polymorphism (rs17633132) in PDGFRL associated with susceptibility to Behcet disease, suggesting the gene may be involved in the disease by modulating its transcription.
+*   **PMID: 20333786, 2010:** Demonstrated that PDGFRL expression is lower in colorectal cancer tissues than in normal tissues and that the recombinant protein can inhibit the proliferation and invasion of colorectal cancer cells, supporting its role as a tumor suppressor.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no established high-confidence germline variant-phenotype associations for PDGFRL. Somatic loss-of-function is associated with malignancies such as colorectal carcinoma (HP:0003003) and hepatocellular carcinoma (HP:0001402).
+*   **Phenotype red flags:** A personal and/or family history of multiple cancers including colorectal, breast, or liver cancer, where tumor analysis shows loss of PDGFRL expression, might suggest a need for further investigation of the gene.
+*   **Differential diagnosis considerations:** The phenotype of cancer predisposition would overlap with numerous other genes involved in tumor suppression for colorectal cancer (e.g., APC, MLH1, MSH2), breast cancer (e.g., BRCA1, BRCA2, TP53), and hepatocellular carcinoma (e.g., TP53, CTNNB1).
+

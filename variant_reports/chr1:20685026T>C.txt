@@ -1,0 +1,115 @@
+=== chr1:20685026T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs188255115
+• Chromosome: 1
+• Position: 20685026
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: KIF17
+• Databases: rs188255115
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.00271
+• gnomADg Allele Frequency: 0.001972
+• 1KG Frequency: 0.0016
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0010940: microglial activation measurement - The quantification of the amount of activated migroglia in the brain.
+GWAS_EFO_0004533: alkaline phosphatase measurement - Alkaline phosphatase measurement is a quantification of alkaline phosphatase in blood. AP is a marker for bone and liver disease.
+GWAS_EFO_0004918: age at diagnosis - The age, measured from some defined time point e.g. birth at which a subject (e.g. a human patient) is diagnosed with some disease e.g. breast cancer.
+GWAS_EFO_0001359: obsolete_type I diabetes mellitus - A subtype of DIABETES MELLITUS that is characterized by INSULIN deficiency. It is manifested by the sudden onset of severe HYPERGLYCEMIA, rapid progression to DIABETIC KETOACIDOSIS, and DEATH unless treated with insulin. The disease may occur at any age, but is most common in childhood or adolescence.|Diabetes mellitus characterized by insulin deficiency, sudden onset, severe hyperglycemia, rapid progression to ketoacidosis, and death unless treated with insulin. The disease may occur at any age, but is most common in childhood or adolescence.|An autoimmune disease of endocrine system and is_a diabetes mellitus that results from autoimmune destruction of insulin-producing beta cells of the pancreas.
+GWAS_EFO_0004232: eosinophilic esophagitis - Eosinophilic esophagitis (EoE) is a chronic, allergic disease of the esophagus characterized clinically by symptoms of esophageal dysfunction (including vomiting, dysphagia, feeding disorders, food impaction and abdominal pain) which persist after treatment with proton pump inhibitors (PPIs).|Chronic ESOPHAGITIS characterized by esophageal mucosal EOSINOPHILIA. It is diagnosed when an increase in EOSINOPHILS are present over the entire esophagus. The reflux symptoms fail to respond to PROTON PUMP INHIBITORS treatment, unlike in GASTROESOPHAGEAL REFLUX DISEASE. The symptoms are associated with IgE-mediated hypersensitivity to food or inhalant allergens.
+GWAS_EFO_0010972: blood phosphate measurement - The amount of phosphorus, measured as inorganic phosphate, in a specified sample of blood.
+GWAS_EFO_0007845: lip morphology measurement - quantification of some aspect of lip morphology such as upper lip or lower lip thickness or lip curvature
+GWAS_EFO_0010222: ceramide measurement - A quantification of ceramides.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16186584) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Transcript (ID: 16416784) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533
+Entity: Transcript (ID: 16416786) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359
+Entity: Transcript (ID: 16416799) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Transcript (ID: 16416802) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Transcript (ID: 16416806) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533
+Entity: Transcript (ID: 16416805) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533
+Entity: Transcript (ID: 16416803) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359, GWAS_EFO_0004232, GWAS_EFO_0004533, GWAS_EFO_0010972, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0007845, GWAS_EFO_0010222
+Entity: Non Coding RNA (ID: 17024563) -> Associated GWAS: GWAS_EFO_0010940, GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 306912524) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 305324569) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 298670439) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 296105492) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 286006266) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 280461553) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 279767491) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 275415178) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 273087532) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 262672295) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 249436169) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 243059457) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 233346442) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 230483053) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 226179308) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 216088998) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 212347498) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 201880503) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 198867858) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 196965763) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 180627647) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 180569943) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 179068083) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 167513861) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 166105374) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 162797821) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 159213745) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 147355157) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 145270475) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 139182099) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 133013850) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 127808573) -> Associated GWAS: GWAS_EFO_0004533
+Entity: TF Binding Site (ID: 94623786) -> Associated GWAS: GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 80746860) -> Associated GWAS: GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 81774114) -> Associated GWAS: GWAS_EFO_0004533
+Entity: Histone Modification Site (ID: 83646969) -> Associated GWAS: GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 18898919) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359
+Entity: ChromHMM State (ID: 19517131) -> Associated GWAS: GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 20062027) -> Associated GWAS: GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 20633206) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359
+Entity: ChromHMM State (ID: 21243642) -> Associated GWAS: GWAS_EFO_0010940, GWAS_EFO_0004533
+Entity: ChromHMM State (ID: 21864790) -> Associated GWAS: GWAS_EFO_0004337, GWAS_EFO_0010940, GWAS_EFO_0004533, GWAS_EFO_0004533, GWAS_EFO_0004918, GWAS_EFO_0001359
+Entity: chr_chain (ID: 71855) -> Associated GWAS: GWAS_EFO_0004533
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2756
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 346
+• Uncertain Significance: 2410
+• Other Classifications: 0
+

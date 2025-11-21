@@ -1,0 +1,77 @@
+GPR89B Gene Biomedical Dossier
+### **Clinical Genetics Dossier: GPR89B**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 13840
+*   **OMIM Gene ID:** 612806
+*   **Primary Disease Associations:** GPR89B is located in the 1q21.1 chromosomal region and is associated with Chromosome 1q21.1 Deletion Syndrome (OMIM: 612474) and Chromosome 1q21.1 Duplication Syndrome (OMIM: 612475). These syndromes have highly variable clinical phenotypes.
+*   **Clinical Significance Level:** The association is with a contiguous gene syndrome (a copy number variation), and the contribution of GPR89B to the overall phenotype is not yet definitively established. Therefore, the evidence for a direct, single-gene-to-phenotype link is considered moderate. No single gene within the 1q21.1 CNV has been confirmed to cause the full spectrum of pathologic effects.
+*   **Inheritance Patterns:** The 1q21.1 deletion and duplication syndromes are inherited in an autosomal dominant manner, though many cases are the result of de novo events.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** GPR89B has a low probability of being loss-of-function intolerant (pLI) and is not considered highly constrained. Specific numeric values from gnomAD were not found in the search results, but the general interpretation suggests tolerance to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores:** The scores suggest that heterozygous loss-of-function variants in GPR89B are not under strong purifying selection in the general population and may not be sufficient to cause a severe Mendelian disease on their own.
+*   **Variant Classes Most Likely to be Pathogenic:** While single nucleotide variants are not well-characterized as pathogenic, the gene's involvement in copy number variations (deletions and duplications) is the primary mechanism of pathogenicity.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms (associated with 1q21.1 CNVs):**
+    *   Developmental delay
+    *   Intellectual disability
+    *   Autism spectrum disorder
+    *   Macrocephaly (typically with duplications)
+    *   Microcephaly (typically with deletions)
+    *   Craniofacial dysmorphism
+    *   Hypertelorism
+    *   Frontal bossing
+    *   Congenital heart defects
+    *   Schizophrenia
+*   **Secondary HPO terms (less common but documented in 1q21.1 CNVs):**
+    *   Genitourinary anomalies
+    *   Skeletal anomalies
+    *   Congenital hypothyroidism
+    *   Trigonocephaly
+    *   Ocular anomalies
+*   **Age of Onset Patterns:** Phenotypes can be identified prenatally, in infancy, or during childhood, particularly neurodevelopmental features. Psychiatric conditions like schizophrenia may present in adolescence or adulthood.
+*   **Phenotype Severity Spectrum:** The clinical phenotype is highly variable, ranging from mild learning difficulties to significant intellectual disability and congenital anomalies.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Microdeletion (1q21.1):** Associated with microcephaly, developmental delay, intellectual disability, and schizophrenia.
+    *   **Microduplication (1q21.1):** Associated with macrocephaly, developmental delay, intellectual disability, and autism spectrum disorder.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific correlations between protein domains and phenotypes have been established for GPR89B.
+*   **Genotype-Phenotype Correlation Strength:** Moderate for the overall CNV, but weak to non-existent for GPR89B as a single gene, as the phenotype is complex and involves multiple genes.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic single nucleotide variants in GPR89B with specific phenotype associations were found in ClinVar or the literature search results. The primary pathogenic variants are large copy number variations (deletions and duplications) of the 1q21.1 region, which includes GPR89B and other genes.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** According to GTEx data, GPR89B is expressed in various tissues, with top expression noted in the testis, duodenum, and cerebellum.
+*   **Tissue-Specific Phenotypes Expected:** Expression in the brain (cerebellum, corpus callosum) is consistent with the neurodevelopmental phenotypes, such as developmental delay and autism spectrum disorder, seen in 1q21.1 CNV carriers.
+*   **Expression During Development:** The gene is expressed in the otic vesicle and other embryonic tissues in animal models, suggesting a role in development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** GPR89B is a voltage-dependent anion channel required for the acidification and proper function of the Golgi apparatus.
+*   **Disease Mechanism:** The disease mechanism associated with GPR89B is gene dosage effect. Haploinsufficiency (in deletions) or overexpression (in duplications) of GPR89B and other genes in the 1q21.1 region likely disrupts normal cellular processes.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of Golgi acidification can impair protein transport, processing, and glycosylation, which are fundamental cellular processes. These disruptions during critical neurodevelopmental periods could contribute to the observed cognitive and structural phenotypes.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Interactome mapping suggests GPR89B may be part of networks relevant to neurodegenerative and autism spectrum disorders, but specific, clinically correlated interactions are not yet defined.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Array-CGH testing in individuals with developmental delay, intellectual disability, or congenital anomalies identifies 1q21.1 CNVs, contributing to the diagnostic yield in these cohorts.
+*   **Most Common Reasons for Testing This Gene:** Testing for GPR89B is not typically done as a single gene test but as part of a chromosomal microarray or array-CGH analysis for patients with developmental delay, autism spectrum disorder, intellectual disability, or congenital anomalies.
+*   **Clinical Actionability and Management Implications:** Identification of a 1q21.1 CNV allows for anticipatory guidance, including surveillance for known associated features like cardiac anomalies, developmental delays, and psychiatric conditions. It also informs prognosis and familial risk.
+*   **Genetic Counseling Considerations:** Counseling for 1q21.1 CNVs includes discussion of the wide phenotypic variability, incomplete penetrance, and the possibility of inheriting the CNV from a mildly affected or unaffected parent.
+
+**Key Clinical Literature & Studies**
+*   **Maeda Y, et al. (2008) PMID: 18794847:** Landmark study identifying GPR89B (then called GPHR) as a novel anion channel critical for Golgi acidification and function.
+*   **Gregory SG, et al. (2006) PMID: 16710414:** Publication of the human chromosome 1 sequence, providing the foundational genomic context for genes like GPR89B.
+*   **Brunetti-Pierri N, et al. (2008):** A key early paper describing the clinical phenotypes associated with recurrent 1q21.1 deletions and duplications.
+*   **Mehmood T, et al. (2021):** A review discussing the molecular genetic mechanisms of 1q21.1 CNVs in neuropsychiatric disorders, highlighting the complexity and lack of a single-gene explanation.
+*   **Cusmano, R., et al. (2022):** Case series expanding the known phenotype of 1q21.1 CNVs, reporting congenital hypothyroidism and trigonocephaly and confirming the extreme phenotypic variability.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   **1q21.1 deletion:** Strongly associated with Developmental delay (HP:0001263), Intellectual disability (HP:0001249), and Microcephaly (HP:0000252).
+    *   **1q21.1 duplication:** Strongly associated with Developmental delay (HP:0001263), Autism spectrum disorder (HP:0000717), and Macrocephaly (HP:0000256).
+*   **Phenotype red flags:** The co-occurrence of either microcephaly or macrocephaly with significant developmental delay or autism spectrum disorder is a strong indicator for a 1q21.1 CNV involving GPR89B.
+*   **Differential diagnosis considerations:** The phenotype of 1q21.1 CNVs overlaps with numerous other syndromes causing intellectual disability, autism, and head size abnormalities. Examples include 16p11.2 deletion/duplication syndromes, Fragile X syndrome, and other chromosomal microarray abnormalities.
+

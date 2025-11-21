@@ -1,0 +1,106 @@
+HERC2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HERC2 (HGNC:4868).
+*   **OMIM Gene ID:** 605837.
+*   **Primary Disease Associations:**
+    *   Intellectual developmental disorder, autosomal recessive 38 (MRT38), also known as Developmental Delay with Autism Spectrum Disorder and Gait Instability.
+    *   A more severe neurodevelopmental disorder with features including profound developmental delay, structural brain anomalies, seizures, and sometimes pediatric lethality, is associated with biallelic loss-of-function variants.
+    *   Polymorphisms in *HERC2* are strongly associated with iris color variation, acting as a regulator of *OCA2* expression.
+*   **Clinical Significance Level:** The association of *HERC2* with a neurodevelopmental disorder is considered definitive.
+*   **Inheritance Patterns:** The neurodevelopmental disorders associated with *HERC2* are autosomal recessive.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI: 1.00.
+    *   LOEUF: 0.08 (0.06-0.11).
+    *   pRec: 0.
+    *   pNull: 0.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI (close to 1.0) and very low LOEUF score indicate that *HERC2* is extremely intolerant to loss-of-function (LoF) variation. Genes with these scores are under strong selective pressure against heterozygous inactivating mutations, making LoF variants highly likely to be pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:** Biallelic loss-of-function variants (e.g., frameshift, nonsense, large deletions) are associated with the most severe phenotypes. Homozygous missense variants are also clearly pathogenic but may result in a comparatively less severe, though still significant, neurodevelopmental disorder.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Global developmental delay (HP:0001263).
+    *   Intellectual disability, severe (HP:0010864).
+    *   Hypotonia (HP:0001252).
+    *   Seizures (HP:0001250).
+    *   Delayed speech and language development (HP:0000750).
+    *   Gait instability / Ataxia (HP:0002141 / HP:0001251).
+    *   Autism spectrum disorder (HP:0000729).
+    *   Feeding difficulties (HP:0011968).
+    *   Microcephaly (HP:0000252).
+    *   Visual impairment (HP:0000505).
+    *   Hearing impairment (HP:0000365).
+    *   Structural brain anomalies (e.g., corpus callosum agenesis) (HP:0001277).
+*   **Secondary HPO terms:**
+    *   Plagiocephaly (HP:0001357).
+    *   Narrow palate (HP:0000189).
+    *   Prognathism (HP:0000303).
+    *   Sandal gap (HP:0001852).
+    *   Renal anomalies (HP:0000077).
+    *   Dilated cardiomyopathy (HP:0001644).
+    *   Hyperactivity (HP:0000752).
+    *   Diminished ability to concentrate (HP:0002324).
+    *   Blue irides (HP:0000632) (as a trait, not pathology).
+*   **Age of Onset Patterns:** Onset is typically in infancy, with hypotonia, feeding difficulties, and developmental delays being early signs. Seizures may also begin in the first year of life.
+*   **Phenotype Severity Spectrum:** Severity ranges from a non-lethal, Angelman-like syndrome with developmental delay and autism to a severe, sometimes lethal, neonatal disorder with profound disability and multi-system involvement, depending on the variant type. Biallelic LoF variants lead to a more severe phenotype than missense mutations.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Biallelic Loss-of-Function (frameshift, nonsense, large deletions):** These variants cause a severe neurodevelopmental disorder characterized by profound intellectual disability, structural brain anomalies, seizures, feeding problems, and sometimes perinatal lethality.
+    *   **Homozygous Missense Variants (e.g., p.Pro594Leu):** These are associated with an autosomal recessive neurodevelopmental disorder with features like global developmental delay, an unstable gait, lack of speech, and autistic features, which has been compared to Angelman syndrome. The phenotype is generally less severe than that caused by LoF variants.
+*   **Protein Domain-Specific Phenotype Patterns:** The p.Pro594Leu missense mutation, located in the first RCC1-like domain (RLD), is specifically linked to the Angelman-like syndrome found in Old Order Amish populations. Variants that lead to a complete loss of the HECT domain result in the most severe phenotypes due to the loss of E3 ubiquitin ligase activity.
+*   **Genotype-Phenotype Correlation Strength:** There is a strong correlation between the type of biallelic variant and the severity of the clinical phenotype. Complete loss-of-function is consistently associated with more severe outcomes than specific missense mutations.
+*   **Examples: specific variants → specific phenotypes:**
+    *   **c.1781C>T (p.Pro594Leu):** Homozygosity for this missense variant is associated with Intellectual Developmental Disorder, Autosomal Recessive 38 (MRT38), an Angelman-like syndrome with developmental delay, autism, and gait instability.
+    *   **Homozygous Deletion of *HERC2* and *OCA2*:** Results in severe developmental abnormalities, including profound intellectual disability and lack of motor development.
+    *   **Homozygous Frameshift Variants (leading to protein truncation):** Associated with a distinct, severe, and sometimes lethal neurodevelopmental disorder with blindness and perinatal mortality.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1781C>T (p.Pro594Leu):** rs397518474 / Pathogenic / Intellectual developmental disorder, autosomal recessive 38; autism spectrum disorder; gait instability / AF: Extremely low, primarily found in Old Order Amish and Mennonite populations.
+*   **c.12988C>T (p.Gln4330Ter):** Not specified / Pathogenic / No specific phenotype reported in ClinVar entry / AF: Not provided.
+*   **Homozygous deletion of *HERC2* and *OCA2*:** Not applicable / Pathogenic / Severe neurodevelopmental phenotype with developmental abnormalities / AF: Extremely rare.
+*   **Homozygous frameshift variant (unspecified):** Not specified / Pathogenic / Severe neurodevelopmental disorder, profound developmental delay, blindness, perinatal mortality / AF: Extremely rare.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *HERC2* is highly expressed in the brain, particularly the cerebellum and cerebral cortex, as well as in the pituitary gland, sural nerve, and testis.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in various brain regions is consistent with the primary phenotype being a severe neurodevelopmental disorder with intellectual disability, seizures, and motor deficits. Expression in the testis may relate to the sterility observed in *Herc2* mutant mice.
+*   **Expression During Development and Age-Related Phenotypes:** The gene has essential roles during embryonic development, especially for neuronal and muscular functions, which explains the early onset and profound nature of the associated neurodevelopmental disorders.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *HERC2* encodes a large E3 ubiquitin protein ligase that plays a key role in several cellular processes, including DNA damage response, cell cycle control, and protein trafficking by targeting specific proteins for ubiquitination.
+*   **Disease Mechanism:** The primary disease mechanism is loss-of-function. Biallelic pathogenic variants lead to a marked reduction or complete absence of functional HERC2 protein, disrupting its ubiquitin ligase activity and other regulatory roles.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Ubiquitin-Proteasome System:** Disruption of HERC2's E3 ligase function impairs the degradation of target proteins, leading to their accumulation and cellular dysfunction. For example, loss of HERC2 function leads to the accumulation of DNA repair proteins like XPA and BRCA1.
+    *   **DNA Damage Response:** HERC2 is involved in regulating DNA repair pathways; its absence can lead to genomic instability.
+    *   **Mitochondrial Function:** HERC2 loss has been shown to impair mitochondrial networks and function, which could contribute to the neurological and cardiac phenotypes observed.
+    *   **MAPK Signaling:** HERC2 deficiency can activate the C-RAF/MKK3/p38 signaling pathway, altering cellular responses to oxidative stress.
+*   **Protein-Protein Interactions Relevant to Phenotype:** HERC2 interacts with and activates the E3 ligase E6AP (UBE3A), the protein deficient in Angelman syndrome. This interaction likely explains the phenotypic overlap between HERC2-related disorders and Angelman syndrome.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** While not broadly quantified across large cohorts, *HERC2* variants are a known cause of autosomal recessive neurodevelopmental disorders, particularly in populations with high rates of consanguinity or in specific founder populations like the Old Order Amish.
+*   **Most Common Reasons for Testing This Gene:** Testing for *HERC2* is indicated for individuals with global developmental delay, severe intellectual disability, autistic features, gait instability, and seizures, especially if the presentation has features overlapping with Angelman syndrome but with a negative result for *UBE3A* testing. It is also considered in cases of severe, non-specific neurodevelopmental disorders with multi-organ involvement.
+*   **Clinical Actionability and Management Implications:** Management is supportive and symptomatic, including anti-seizure medications, physical and speech therapy, and management of feeding difficulties. The recent finding of dilated cardiomyopathy in one case suggests that cardiac surveillance may be warranted.
+*   **Genetic Counseling Considerations:** This is an autosomal recessive condition. Parents of an affected child are obligate carriers and have a 25% chance of having another affected child with each pregnancy. Carrier testing for at-risk relatives and prenatal/preimplantation genetic testing are possible if the pathogenic variants in the family are known.
+
+### **Key Clinical Literature & Studies**
+*   **Puffenberger EG, et al. (2012) & Harlalka GV, et al. (2013):** These foundational papers identified a homozygous missense mutation (p.Pro594Leu) in *HERC2* in Old Order Amish and Mennonite families, establishing the link to an autosomal recessive neurodevelopmental disorder with Angelman-like features, including developmental delay and autism.
+*   **Morice-Picard F, et al. (2016):** Described the first case of a complete loss of *HERC2* function due to a homozygous deletion with *OCA2*, resulting in a severe neurodevelopmental phenotype and demonstrating the critical role of the ubiquitin ligase pathway.
+*   **Elpidorou M, et al. (2021):** Reported a homozygous frameshift variant in *HERC2* causing a severe, lethal neurodevelopmental disorder, expanding the phenotypic spectrum to include perinatal mortality and highlighting that null alleles cause a more severe phenotype than missense mutations.
+*   **Vincent KM, et al. (2021):** Synthesized findings from twelve individuals with biallelic *HERC2* variants, delineating a syndromic phenotype of severe neurodevelopmental delay, brain anomalies, seizures, hypotonia, and other systemic issues, contrasting the impact of LoF versus missense variants.
+*   **García-Cazorla À, et al. (2022):** Uncovered that *HERC2* deficiency activates the C-RAF/MKK3/p38 signaling pathway, altering the cellular response to oxidative stress and suggesting potential therapeutic targets.
+*   **Isgüven P, et al. (2024):** Reported a novel *HERC2* variant in siblings with the classic neurodevelopmental phenotype but also dilated cardiomyopathy, expanding the known clinical spectrum and linking HERC2 to mitochondrial energy production in the heart.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Biallelic loss-of-function variants (frameshift, nonsense, deletions) are strongly associated with a severe phenotype including **Profound global developmental delay (HP:0011344)**, **Structural brain anomalies (HP:0001277)**, **Severe seizures (HP:0001250)**, and potential **Pediatric lethality**.
+    *   The homozygous missense variant **p.Pro594Leu** is specifically correlated with **Intellectual disability (HP:0001249)**, **Autism spectrum disorder (HP:0000729)**, and **Gait instability (HP:0002141)**, presenting as an Angelman-like syndrome.
+*   **Phenotype red flags:**
+    *   A combination of **severe global developmental delay**, **autistic features**, and an **unstable, wide-based gait with uplifted arms** should raise strong suspicion for a *HERC2*-related disorder.
+    *   The presence of Angelman-like features but with normal methylation and sequencing of the *UBE3A* gene is a significant red flag.
+    *   Profound intellectual and motor disability from birth, especially if accompanied by structural brain defects or early death, points towards biallelic LoF variants in *HERC2*.
+*   **Differential diagnosis considerations:**
+    *   **Angelman Syndrome (AS):** Due to significant phenotypic overlap, including developmental delay, seizures, ataxia, and speech impairment. AS is caused by defects in the maternally expressed *UBE3A* gene.
+    *   **Prader-Willi Syndrome (PWS):** Less overlap, but the *HERC2* gene is located in the critical 15q11-q13 region associated with both PWS and AS.
+    *   **Other syndromic forms of autism and intellectual disability:** The core features of *HERC2* disorders are common in many neurodevelopmental conditions, necessitating broad genetic testing panels.
+

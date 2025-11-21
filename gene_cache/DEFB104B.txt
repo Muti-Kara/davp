@@ -1,0 +1,92 @@
+DEFB104B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**
+    *   HGNC Symbol: DEFB104B.
+    *   Full Gene Name: defensin beta 104B.
+    *   Chromosomal Location: 8p23.1.
+    *   OMIM Gene ID: No OMIM entry is currently available for DEFB104B.
+    *   Primary Disease Associations: No specific Mendelian disease has been definitively associated with DEFB104B. It is located in a cluster of beta-defensin genes on chromosome 8p23.1, where other genes like DEFB4A/B have been associated with asthma and atopy.
+*   **Clinical significance level**
+    *   The clinical significance of variants in DEFB104B is currently unknown. There is no established evidence for a role in monogenic disease.
+*   **Inheritance patterns observed in patients**
+    *   No Mendelian inheritance patterns have been described for DEFB104B-related phenotypes.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**
+    *   Specific gnomAD constraint scores (pLI, LOEUF) for DEFB104B were not identified in the search results.
+*   **Clinical interpretation of constraint scores**
+    *   The probability of being loss-of-function intolerant (pLI) score indicates a gene's intolerance to protein-truncating variants; a pLI ≥ 0.9 suggests a gene is extremely intolerant to LoF variation and may be associated with a dominant disease.
+    *   The loss-of-function observed/expected upper bound fraction (LOEUF) is a continuous metric of a gene's intolerance to loss-of-function variation, with lower scores indicating greater intolerance.
+*   **Variant classes most likely to be pathogenic**
+    *   As DEFB104B is part of a gene cluster and may have redundant functions, the pathogenicity of specific variant classes is unknown. For many genes, predicted loss-of-function (pLoF) variants are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   No primary Human Phenotype Ontology (HPO) terms are currently associated with variants in DEFB104B.
+*   **Secondary HPO terms**
+    *   No secondary HPO terms are currently associated with DEFB104B.
+*   **Age of onset patterns**
+    *   Not applicable as no disease is currently associated with this gene.
+*   **Phenotype severity spectrum**
+    *   Not applicable as no disease is currently associated with this gene.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**
+    *   No genotype-phenotype correlations have been established for DEFB104B.
+*   **Protein domain-specific phenotype patterns**
+    *   Not applicable.
+*   **Genotype-phenotype correlation strength**
+    *   Not applicable.
+*   **Examples: specific variants → specific phenotypes**
+    *   No examples of specific variants leading to defined phenotypes have been reported for DEFB104B.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Well-characterized pathogenic variants**
+    *   No variants in DEFB104B classified as pathogenic or likely pathogenic were found in ClinVar based on the search results.
+*   **Variants with strongest phenotype evidence**
+    *   Not applicable.
+*   **Novel variants from recent case reports**
+    *   No recent case reports describing novel variants in DEFB104B with associated phenotypes were identified.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation**
+    *   Specific tissue expression data for DEFB104B from the GTEx portal was not retrieved in the searches.
+    *   The GTEx project aims to link genetic variants to gene expression across a wide range of human tissues to understand their phenotypic impact.
+*   **Tissue-specific phenotypes expected**
+    *   Based on its function as a beta-defensin, DEFB104B is likely expressed in epithelial tissues, suggesting that pathogenic variants could potentially manifest in phenotypes related to skin, respiratory, or gastrointestinal systems.
+*   **Expression during development and age-related phenotypes**
+    *   Information on the developmental expression of DEFB104B is not available from the search results.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function**
+    *   The gene product has antimicrobial activity, sometimes in synergy with other defensins and lysozyme.
+*   **Disease mechanism**
+    *   The disease mechanism is unknown; if it were involved in disease, haploinsufficiency due to loss-of-function variants could be a possible mechanism, potentially leading to impaired innate immune responses.
+*   **Cellular/molecular pathways disrupted → phenotype consequences**
+    *   DEFB104B is involved in the innate immune system and antimicrobial peptide pathways.
+    *   Disruption of this pathway could lead to increased susceptibility to infections or dysregulation of inflammatory responses, as suggested by the association of nearby defensin genes with asthma and atopy.
+*   **Protein-protein interactions relevant to phenotype**
+    *   No specific protein-protein interactions for DEFB104B relevant to a phenotype were identified.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**
+    *   The diagnostic yield is effectively zero, as DEFB104B is not currently included in routine diagnostic genetic testing for any specific phenotype.
+*   **Most common reasons for testing this gene**
+    *   This gene is generally not tested for in a clinical setting.
+*   **Clinical actionability and management implications**
+    *   There is no known clinical actionability associated with variants in this gene.
+*   **Genetic counseling considerations**
+    *   Given the lack of a known disease association, genetic counseling would focus on the uncertain significance of any identified variants and the lack of evidence to support a causal role in disease.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 33679805, 2021, Human β-Defensin 2 Mutations Are Associated With Asthma and Atopy in Children and Its Application Prevents Atopic Asthma in a Mouse Model**
+    *   This study did not analyze DEFB104B directly but found that the genes DEFB4A and DEFB4B, which are in the same chromosomal cluster as DEFB104B, are associated with asthma and atopy in children.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**
+    *   There are no high-confidence HPO-variant associations for DEFB104B.
+*   **Phenotype red flags**
+    *   Given its function in the innate immune system, potential (but unconfirmed) red flags could include recurrent bacterial or viral infections, chronic inflammatory conditions of epithelial surfaces, or atopic diseases.
+*   **Differential diagnosis considerations**
+    *   For phenotypes involving immune dysregulation, other genes in the beta-defensin cluster on chromosome 8p23.1 (e.g., DEFB4A, DEFB4B, DEFB103) should be considered.
+

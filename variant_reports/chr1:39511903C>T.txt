@@ -1,0 +1,80 @@
+=== chr1:39511903C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs6526
+• Chromosome: 1
+• Position: 39511903
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: BMP8A
+• Databases: rs6526, COSV59032693
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.6822
+• gnomADg Allele Frequency: 0.6459
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004765: visceral adipose tissue measurement - Is a quantification of a particular location of adipose tissue.
+GWAS_EFO_0004533: alkaline phosphatase measurement - Alkaline phosphatase measurement is a quantification of alkaline phosphatase in blood. AP is a marker for bone and liver disease.
+GWAS_EFO_0004696: sex hormone-binding globulin measurement - Is a quantification of sex hormone binding globulin. In men the test is used in when investigating testosterone deficiency.  The SHBG glycoprotein binds to circulating estradiol and testosterone, low levels of SHBG may be implicated in breast cancer etiology.
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0004874: memory performance - Is a quantification of a subject's activities involved in the mental information processing system that receives (registers), modifies, stores, and retrieves informational stimuli. Memory performance is typically assessed by some clinical memory test and is used in the diagnosis of diseases such as Alzheimer's disease.
+GWAS_EFO_0004908: testosterone measurement - is a quantification of testosterone, typically in serum. Testosterone is a steroid hormone.Testosterone measurement is used in the diagnosis ofprecocious or delayed puberty, infertility (in men and women), ovarian tumours, adrenal tumours and pituitary disorders.
+GWAS_EFO_0007908: traffic air pollution measurement - quantification of some aspect of air pollution through traffic, such as annual average NO2 exposure estimates derived using land use regression modeling
+GWAS_EFO_0004265: peripheral arterial disease - A disorder of the arteries supplying the upper and lower extremity and the visceral organs. This includes the mesenteric arteries, the renal arteries and the aorta and excludes cerebrovascular arterial disease. Patients experience cramping and pain usually in the calves and thighs while walking. The symptoms subside with rest.|Lack of perfusion in the EXTREMITIES resulting from atherosclerosis. It is characterized by INTERMITTENT CLAUDICATION, and an ANKLE BRACHIAL INDEX of 0.9 or less.
+GWAS_EFO_0000341: chronic obstructive pulmonary disease - A group of disorders affecting the bronchi and the lung parenchyma. It is characterized by chronic and irreversible obstruction of the airflow. It includes chronic bronchitis and pulmonary emphysema.|A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA.|A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema.
+GWAS_EFO_0004351: resting heart rate - quantification of the number of times the heart beats in a given time interval, usually a minute, while the body is at rest
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0004314: forced expiratory volume - Measure of the maximum amount of air that can be expelled in a given number of seconds during aÂ FORCED VITAL CAPACITYÂ determination . It is usually given asÂ FEVÂ followed by a subscript indicating the number of seconds over which the measurement is made, although it is sometimes given as a percentage of forced vital capacity.
+GWAS_EFO_0009718: peak expiratory flow - The maximum rate of gas flow, beginning at the point of peak inspiratory capacity, that can be sustained during forced exhalation for a defined period of time.|The maximum rate of gas flow, beginning at the point of peak inspiratory capacity, that can be sustained during forced exhalation for a defined period of time. This test is most often used in combination with other studies of lung function to diagnose and monitor obstructive and restrictive lung disease(s). [ NCI ]
+GWAS_EFO_0004713: FEV/FEC ratio - None
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16186102) -> Associated GWAS: GWAS_EFO_0004765, GWAS_EFO_0004533, GWAS_EFO_0004696, GWAS_EFO_0001360, GWAS_EFO_0004874, GWAS_EFO_0004908, GWAS_EFO_0004533, GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000341, GWAS_EFO_0004351, GWAS_EFO_0005192, GWAS_EFO_0004314, GWAS_EFO_0007908, GWAS_EFO_0009718, GWAS_EFO_0004265, GWAS_EFO_0004713
+Entity: Transcript (ID: 16414227) -> Associated GWAS: GWAS_EFO_0004765, GWAS_EFO_0004533, GWAS_EFO_0004696, GWAS_EFO_0001360, GWAS_EFO_0004874, GWAS_EFO_0004908, GWAS_EFO_0004533, GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000341, GWAS_EFO_0004351, GWAS_EFO_0005192, GWAS_EFO_0004314, GWAS_EFO_0007908, GWAS_EFO_0009718, GWAS_EFO_0004265, GWAS_EFO_0004713
+Entity: Enhancer (ID: 24680735) -> Associated GWAS: GWAS_EFO_0004874
+Entity: Enhancer (ID: 23734626) -> Associated GWAS: GWAS_EFO_0004874
+Entity: ChromHMM State (ID: 22496638) -> Associated GWAS: GWAS_EFO_0004696, GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 21872292) -> Associated GWAS: GWAS_EFO_0004533, GWAS_EFO_0004696, GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 20639964) -> Associated GWAS: GWAS_EFO_0004696, GWAS_EFO_0001360
+Entity: chr_chain (ID: 75620) -> Associated GWAS: GWAS_EFO_0004696, GWAS_EFO_0001360
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 242
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 18
+• Uncertain Significance: 224
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not specified|not provided (n=8)
+
+

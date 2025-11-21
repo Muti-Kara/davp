@@ -1,0 +1,76 @@
+SPATA16 Gene Biomedical Dossier
+### **Gene Dossier: SPATA16**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** SPATA16 (HGNC:29935)
+*   **OMIM Gene ID:** 609856
+*   **Primary Disease Associations:** Male infertility due to globozoospermia (Orphanet: 171709) and Spermatogenic Failure 6 (SPGF6; OMIM: 102530).
+*   **Clinical Significance Level:** Definitive. It was the first gene in which a homozygous mutation was identified as a cause for a nonsyndromic, autosomal recessive male infertility condition.
+*   **Inheritance Patterns:** Autosomal recessive inheritance is the only pattern observed in patients.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint metric values for SPATA16 from the gnomAD database were not available in the provided search results. These metrics are used to assess a gene's tolerance to variation; a high pLI score (e.g., ≥ 0.9) or a low LOEUF score (e.g., < 0.35) indicates intolerance to loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** Genes that are highly intolerant to variation are more likely to be associated with disease. For SPATA16, the disease mechanism is through loss-of-function, consistent with what is seen in highly constrained recessive genes.
+*   **Variant Classes Most Likely to be Pathogenic:** Biallelic (homozygous) loss-of-function variants, including missense mutations and deletions that disrupt the protein's function in acrosome formation, are the established pathogenic variant classes.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   Globozoospermia (HP:0012869)
+    *   Male infertility (HP:0000789)
+    *   Teratozoospermia (HP:0012859)
+    *   Abnormal sperm morphology (HP:0012861)
+    *   Acrosomeless sperm (HP:0012870)
+    *   Sperm head anomaly (specifically round-headed spermatozoa)
+    *   Decreased acrosin in sperm head
+    *   Asthenozoospermia (Abnormal sperm motility) (HP:0003558)
+*   **Secondary HPO terms**
+    *   Increased sperm DNA fragmentation
+    *   Double or multiple round-headed spermatozoa
+    *   Multi-flagellated spermatozoa
+    *   Increased rate of sperm aneuploidy
+*   **Age of Onset Patterns:** Adult onset, typically identified during evaluation for infertility.
+*   **Phenotype Severity Spectrum:** The phenotype is severe, consistently leading to male infertility. Cases are often described as having total globozoospermia.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous loss-of-function variants are consistently associated with globozoospermia.
+*   **Protein Domain-Specific Phenotype Patterns:** The pathogenic missense mutation c.848G→A (p.Arg283Gln) affects the tetratricopeptide repeat (TPR) domain, which is critical for protein-protein interactions involved in acrosome biogenesis.
+*   **Genotype-Phenotype Correlation Strength:** Strong. Biallelic pathogenic variants in `SPATA16` are reliably predictive of a globozoospermia phenotype.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   Homozygous c.848G→A (p.Arg283Gln) results in classic globozoospermia with round-headed, acrosomeless sperm.
+    *   A homozygous deletion of exon 2 leads to a severe phenotype of total globozoospermia with high levels of sperm DNA fragmentation.
+    *   Defects in `SPATA16` may be associated with more complex morphological abnormalities, such as multi-headed and multi-flagellated sperm, compared to defects in `DPY19L2`.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.848G>A (p.Arg283Gln):** Pathogenic; Associated with globozoospermia and round-headed acrosomeless sperm.
+*   **Homozygous deletion of exon 2:** Pathogenic; Associated with severe total globozoospermia and significant DNA fragmentation.
+*   **Homozygous deletion of part of exon 1:** Pathogenic; Associated with globozoospermia.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues:** Expression is highest in the testis, with significantly more expression in adult versus fetal testes. This testis-specific expression profile directly explains the confined phenotype.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in testicular tissue and localization to the Golgi apparatus of spermatids is directly correlated with its role in acrosome formation, leading to an exclusive male infertility phenotype.
+*   **Expression During Development:** The protein is critical during the post-pubertal stage of spermiogenesis, the differentiation phase of sperm development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** `SPATA16` encodes a testis-specific protein that is essential for the formation of the sperm acrosome during spermiogenesis.
+*   **Disease Mechanism:** The established mechanism is loss-of-function resulting from biallelic pathogenic variants. This disrupts the formation of the acrosome, a specialized vesicle required for sperm-egg fusion.
+*   **Cellular/Molecular Pathways Disrupted:** The SPATA16 protein localizes to the Golgi apparatus and pro-acrosomal vesicles; mutations impair the proper transport and fusion of these vesicles to form the single acrosomal cap on the sperm head.
+*   **Protein-Protein Interactions:** SPATA16 is part of a protein network involved in acrosome biogenesis that includes GOPC and PICK1, mutations in which also cause globozoospermia.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** While the overall diagnostic yield in cohorts of infertile men is low, `SPATA16` is a key causative gene in the specific and rare subtype of teratozoospermia known as globozoospermia (prevalence <0.1%).
+*   **Most Common Reasons for Testing:** The primary indication for `SPATA16` gene testing is a semen analysis showing globozoospermia.
+*   **Clinical Actionability and Management Implications:** A molecular diagnosis confirms the etiology of infertility, informs genetic counseling regarding recurrence risk, and guides clinical management, typically toward intracytoplasmic sperm injection (ICSI).
+*   **Genetic Counseling Considerations:** Given the autosomal recessive inheritance, parents of an affected individual are obligate carriers. Siblings of an affected individual have a 25% chance of being affected and a 50% chance of being an asymptomatic carrier.
+
+**Key Clinical Literature & Studies**
+*   **Dam, A. H. D. M., et al. (2007), PMID: 17847006:** This landmark study first reported that a homozygous mutation in `SPATA16` causes globozoospermia, establishing the first single-gene defect for a nonsyndromic male infertility condition.
+*   **Zhu, F., et al. (2016):** Described a novel homozygous deletion of exon 2 in `SPATA16` in patients with total globozoospermia, expanding the known pathogenic mutational spectrum. [Referenced in 7, 15, 25]
+*   **Dai, C., et al. (2017), PMID: 29057134:** Utilized CRISPR/Cas9 to create mouse models, which confirmed that `Spata16` is essential for male fertility but surprisingly revealed a more severe phenotype of complete spermiogenic arrest rather than globozoospermia in mice.
+*   **Elouej, S., et al. (2020):** This comparative study found that globozoospermia caused by `SPATA16` mutations can present with more severe morphological sperm defects (e.g., multiple heads/tails) and higher aneuploidy rates than cases caused by `DPY19L2` mutations. [Referenced in 16, 17]
+*   **Xu, M., et al. (2003), PMID: 12529416:** Initially characterized the `SPATA16` gene (then called `NYD-SP12`), demonstrating its specific expression in the testis and localization to the Golgi apparatus, suggesting its role in spermatogenesis. [Referenced in 3, 16]
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Homozygous loss-of-function variants in `SPATA16` are strongly associated with the HPO term Globozoospermia (HP:0012869), which encompasses Acrosomeless sperm (HP:0012870) and Sperm head anomaly (HP:0012861).
+*   **Phenotype Red Flags:** The observation of round-headed, acrosomeless sperm (globozoospermia) on semen analysis is the single most critical phenotypic red flag that should prompt consideration of `SPATA16` variant analysis.
+*   **Differential Diagnosis Considerations:** The differential diagnosis for monogenic globozoospermia is limited but includes other genes critical for acrosome biogenesis. The most common cause is deletions or mutations in `DPY19L2`. Other causative genes include `PICK1`, `GOPC`, `AURKC`, and `CSNK2A2`.
+

@@ -1,0 +1,53 @@
+FER1L6 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 28065.
+*   **OMIM Gene ID:** 620884.
+*   **Primary Disease Associations:** While no definitive disease associations are listed in OMIM, FER1L6 is linked to Cerebellar Ataxia Type 43 and Autosomal Recessive Deafness 9 in some databases. However, these appear to be weaker associations pending further evidence.
+*   **Clinical Significance Level:** The clinical significance is currently not well-established for a specific Mendelian disorder.
+*   **Inheritance Patterns:** Given the lack of a defined disease association, definitive inheritance patterns in patients have not been described.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD data for FER1L6 shows a pLI (probability of being loss-of-function intolerant) score close to 0, and a LOEUF (loss-of-function observed/expected upper bound fraction) score that is not indicative of strong constraint against loss-of-function variants. Specific numeric values from the latest gnomAD release should be consulted for the most current data.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and higher LOEUF scores suggest that the gene is not highly intolerant to loss-of-function variation. This implies that heterozygous loss-of-function variants may not be sufficient to cause a dominant disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Without a clear disease association, it is difficult to determine which variant classes are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As FER1L6 is not definitively linked to a human disease, a ranked list of HPO terms from clinical cases is not available. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+*   **Secondary HPO terms:** No secondary HPO terms are currently documented in relation to FER1L6 variants in patients.
+*   **Age of Onset Patterns:** Information on the age of onset is not available due to the lack of a defined disease phenotype.
+*   **Phenotype Severity Spectrum:** The spectrum of phenotype severity is unknown.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Studies on genotype-phenotype correlations for FER1L6 in humans are currently lacking.
+*   **Protein Domain-Specific Phenotype Patterns:** There is no information available on phenotype patterns related to specific protein domains of FER1L6.
+*   **Genotype-Phenotype Correlation Strength:** The strength of genotype-phenotype correlation is not established.
+*   **Examples: Specific Variants → Specific Phenotypes:** No specific variant-to-phenotype examples in humans have been documented.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists a number of variants in FER1L6, with the majority classified as benign or of uncertain significance. There are very few, if any, variants classified as pathogenic or likely pathogenic with detailed phenotype information.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** FER1L6 shows the highest expression in the stomach, testis, transverse colon, and terminal ileum of the small intestine.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression data, phenotypes related to the gastrointestinal tract or male reproductive system could potentially be expected, but this is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Zebrafish studies show broad expression during early development, essential for skeletal and cardiac muscle formation. This suggests that developmental defects, particularly muscular or cardiac, could be a possibility if human loss-of-function has a similar effect.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** FER1L6 is a member of the ferlin family and is involved in membrane dynamics, such as vesicle trafficking and fusion, and appears to play a crucial role in skeletal and cardiac muscle development.
+*   **Disease Mechanism:** The disease mechanism is unknown.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In zebrafish, loss of Fer1l6 function leads to disorganized striated muscle, delayed heart development, and affects the expression of genes involved in muscle proliferation and differentiation. It colocalizes with syntaxin 4 and vinculin, and its C2 domains interact with lipid membranes, suggesting a role in membrane-related processes crucial for muscle development.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Interactions with syntaxin 4 and vinculin have been noted, which may be relevant to its function in muscle tissue.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for FER1L6 in clinical cohorts is essentially zero, as it is not currently considered a disease-causing gene for any specific disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would likely only occur in a research setting or as part of a large gene panel where its significance is under investigation.
+*   **Clinical Actionability and Management Implications:** There is no known clinical actionability or specific management related to variants in FER1L6.
+*   **Genetic Counseling Considerations:** Given the lack of evidence for a disease association, genetic counseling would focus on the uncertainty of findings in this gene.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 30705128, 2019:** This zebrafish study is a key piece of literature, demonstrating that loss of Fer1l6 function leads to severe defects in skeletal and cardiac muscle development, including disorganized striated muscle and delayed heart development.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no high-confidence HPO-variant associations for FER1L6.
+*   **Phenotype red flags:** Based on animal model data, severe congenital myopathy (HP:0003741), cardiomyopathy (HP:0001638), or spinal curvature (HP:0002650, HP:0002751) could be considered theoretical red flags if observed in a patient with a rare, potentially damaging variant in FER1L6, warranting further research.
+*   **Differential Diagnosis Considerations:** The hypothetical phenotypes could overlap with other congenital muscular dystrophies or myopathies. The other ferlin genes, such as *DYSF* (dysferlin) and *MYOF* (myoferlin), are associated with muscular dystrophies and could be part of a differential diagnosis if a muscular phenotype is present.
+

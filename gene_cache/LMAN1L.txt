@@ -1,0 +1,64 @@
+LMAN1L Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+
+*   **HGNC ID:** LMAN1L (HGNC:6632).
+*   **OMIM Gene ID:** 609548.
+*   **Primary Disease Associations:** While directly causative links to monogenic diseases are not yet firmly established, LMAN1L has been associated with Prostate Cancer and is located within the critical region for Chromosome 15q24 Deletion Syndrome. Its paralog, LMAN1, is associated with a combined deficiency of coagulation factors V and VIII.
+*   **Clinical Significance Level:** The evidence for a direct role in a specific monogenic disease is still emerging and could be considered moderate to limited.
+*   **Inheritance Patterns:** Given its potential association with a deletion syndrome, a heterozygous loss-of-function (haploinsufficiency) mechanism is plausible.
+
+### **Constraint & Variant Intolerance**
+
+*   **Variant Classes Most Likely to be Pathogenic:** Based on its function in protein transport, loss-of-function variants such as nonsense, frameshift, and splice-site variants would be most suspected to be pathogenic. Large deletions encompassing the gene, as seen in 15q24 deletion syndrome, are also clinically significant.
+
+### **Phenotype Spectrum & HPO Terms**
+
+*   **Primary HPO terms:** As LMAN1L's direct link to a Mendelian disease is not yet solidified, a definitive list of HPO terms is not available. However, based on the phenotypes observed in the 15q24 deletion syndrome, which includes the LMAN1L gene, and its paralog LMAN1, the following are relevant:
+    *   Intellectual disability
+    *   Delayed speech and language development
+    *   Growth retardation
+    *   Hypotonia
+    *   Seizures
+    *   Microcephaly
+    *   Facial dysmorphism
+    *   Congenital heart defects
+    *   Genital abnormalities
+    *   Hearing impairment
+
+*   **Secondary HPO terms:**
+    *   Behavioral problems
+    *   Skeletal abnormalities
+    *   Vision problems
+    *   Recurrent infections
+    *   Abnormal bleeding (inferred from its paralog LMAN1).
+
+*   **Age of Onset Patterns:** The features associated with the 15q24 deletion syndrome are typically congenital or manifest in early infancy and childhood.
+
+*   **Phenotype Severity Spectrum:** The severity of phenotypes associated with the 15q24 deletion syndrome can be variable.
+
+### **Genotype-Phenotype Correlations**
+
+*   **Variant Classes and Their Typical Phenotypes:** Deletions of the 15q24 region, which includes LMAN1L, are associated with the broad range of features seen in the 15q24 deletion syndrome. Specific genotype-phenotype correlations for point variants within LMAN1L are not yet well-established.
+
+### **Clinical Variants & Phenotype Associations**
+
+*   Specific pathogenic or likely pathogenic variants in LMAN1L leading to a distinct Mendelian disorder have not been extensively reported in ClinVar. The focus remains on its involvement in the contiguous gene deletion of 15q24.
+
+### **Tissue Expression & Clinical Relevance**
+
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** LMAN1L shows expression in the prostate, salivary gland, spleen, cerebral cortex, cerebellum, and spinal cord. The expression in the prostate may be relevant to its association with prostate cancer. Expression in the brain (cerebral cortex, cerebellum) could correlate with the neurological features observed in the 15q24 deletion syndrome.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression patterns, variants in LMAN1L could potentially contribute to neurological, immune, and reproductive phenotypes.
+
+### **Molecular Mechanism & Phenotype Pathways**
+
+*   **Normal Gene Function:** LMAN1L encodes a mannose-binding lectin that functions as a cargo receptor in the early secretory pathway, transporting newly synthesized glycoproteins from the endoplasmic reticulum (ER) to the ER-Golgi intermediate compartment (ERGIC).
+*   **Disease Mechanism:** For the 15q24 deletion syndrome, the likely disease mechanism is haploinsufficiency, where the loss of one copy of the gene contributes to the phenotype.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of LMAN1L function would impair glycoprotein transport. This could affect the proper folding, modification, and secretion of a wide range of proteins, leading to cellular stress and dysfunction in multiple organ systems, consistent with the multisystemic nature of the 15q24 deletion syndrome.
+*   **Protein-Protein Interactions Relevant to Phenotype:** LMAN1L is a paralog of LMAN1 (also known as ERGIC-53). LMAN1 forms a complex with MCFD2 to transport coagulation factors V and VIII, and deficiency of LMAN1 leads to a bleeding disorder. It is plausible that LMAN1L also interacts with specific cargo proteins, and disruption of these interactions could lead to disease.
+
+### **HPO-Variant Matching Summary**
+
+*   **High-confidence HPO-variant associations:** At present, the strongest association is between a deletion of the 15q24 region (which includes LMAN1L) and the constellation of phenotypes associated with the 15q24 deletion syndrome.
+*   **Phenotype red flags:** The presence of a combination of intellectual disability, growth retardation, microcephaly, and other congenital anomalies should raise suspicion for a chromosomal microdeletion, including the 15q24 region.
+*   **Differential diagnosis considerations:** The phenotype of 15q24 deletion syndrome overlaps with numerous other chromosomal microdeletion/duplication syndromes and monogenic disorders associated with intellectual disability and multiple congenital anomalies. Genetic testing, such as chromosomal microarray, is essential for diagnosis.
+

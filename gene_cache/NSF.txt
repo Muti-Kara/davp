@@ -1,0 +1,91 @@
+NSF Gene Biomedical Dossier
+### **NSF Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 8016.
+*   **OMIM Gene ID:** 601633.
+*   **Primary Disease Associations:** Developmental and Epileptic Encephalopathy 96 (DEE96). Note that "Nephrogenic Systemic Fibrosis" (NSF) is a distinct, non-genetic condition and should not be confused with this gene.
+*   **Clinical Significance Level:** The association between *NSF* variants and developmental and epileptic encephalopathy is established in the literature.
+*   **Inheritance Patterns:** Pathogenic variants are typically *de novo* and heterozygous, consistent with an autosomal dominant inheritance pattern.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for *NSF* are: pLI = 1.00, LOEUF = 0.16 (upper bound). These scores indicate extreme intolerance to loss-of-function variation. The pRec score is 0.00 and pNull is 0.00.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI and low LOEUF scores strongly suggest that *NSF* is a haploinsufficient gene, where the loss of one copy is not tolerated and is likely to cause disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Missense variants have been primarily reported as pathogenic. Given the high intolerance to loss-of-function, truncating variants (nonsense, frameshift) and splice site variants are also highly likely to be pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0001250 Seizures
+    *   HP:0002123 Epileptic encephalopathy
+    *   HP:0001263 Global developmental delay
+    *   HP:0001257 Spasticity
+    *   HP:0002069 Myoclonus
+    *   HP:0002376 Developmental regression
+    *   HP:0001249 Intellectual disability
+    *   HP:0002521 Burst-suppression pattern on EEG
+    *   HP:0000707 Hypsarrhythmia
+    *   HP:0001344 Infantile spasms
+    *   HP:0001252 Hypotonia
+    *   HP:0001270 Motor delay
+    *   HP:0011463 Atonic seizures
+    *   HP:0002187 Tonic seizures
+    *   HP:0002266 Focal-onset seizure
+*   **Secondary HPO terms:**
+    *   HP:0001251 Areflexia
+    *   HP:0001336 Myoclonus
+    *   HP:0002936 Hypocalcemia
+    *   HP:0003202 Impaired T cell function
+    *   HP:0001635 Atrial septal defect
+    *   HP:0001639 Patent foramen ovale
+    *   HP:0001511 Intrauterine growth retardation
+*   **Age of Onset Patterns:** Onset is typically in early infancy.
+*   **Phenotype Severity Spectrum:** The reported phenotype is generally severe, characterized by early-onset, intractable seizures and profound developmental impairment. However, a very mild phenotype has been associated with one specific variant.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Heterozygous missense variants are the primary reported class, leading to severe developmental and epileptic encephalopathy.
+*   **Protein Domain-Specific Phenotype Patterns:** Pathogenic variants have been identified in the D1 and D2 ATPase domains. These variants are thought to disrupt ATP hydrolysis, which is crucial for SNARE complex disassembly.
+*   **Genotype-Phenotype Correlation Strength:** Currently, the correlation is moderate. While specific variants are linked to severe DEE, one variant (E715K) has been associated with a very mild phenotype, suggesting that the phenotypic spectrum might be broader than initially reported.
+*   **Examples: specific variants → specific phenotypes:**
+    *   p.Ala459Thr: Associated with early infantile epileptic encephalopathy.
+    *   p.Pro563Leu: Linked to severe DEE with no spontaneous respiration at birth, myoclonic seizures, and a burst-suppression EEG pattern.
+    *   p.Glu715Lys: Associated with a very mild phenotype, highlighting potential allelic heterogeneity.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.1376C>T (p.Ala459Thr):** ClinVar significance: Pathogenic. Reported phenotypes: Early infantile epileptic encephalopathy (HP:0002123), seizures (HP:0001250).
+*   **c.1688C>T (p.Pro563Leu):** ClinVar significance: Pathogenic. Reported phenotypes: Severe developmental and epileptic encephalopathy, myoclonic seizures (HP:0002069), burst-suppression pattern on EEG (HP:0002521), hypocalcemia (HP:0002936).
+*   **c.2143G>A (p.Glu715Lys):** ClinVar significance: Uncertain significance. Reported phenotypes: Very mild phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *NSF* shows high expression across all tissues, with particularly high levels in the brain (all regions), pituitary, and testis.
+*   **Tissue-Specific Phenotypes Expected:** The ubiquitous expression, especially the high levels in the brain, is consistent with the severe neurological phenotype observed in patients. Disrupted neuronal function due to impaired vesicle transport is the expected primary consequence.
+*   **Expression During Development and Age-Related Phenotypes:** Given its fundamental role in vesicle trafficking, *NSF* is critical during neurogenesis and synaptic development. Pathogenic variants manifest with early infantile onset, aligning with a critical developmental window.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *NSF* encodes an ATPase that is essential for disassembling SNARE complexes, a critical step in vesicle-mediated transport and membrane fusion, including neurotransmitter release.
+*   **Disease Mechanism:** The disease mechanism is proposed to be dominant-negative. Pathogenic missense variants may interfere with the assembly or function of the entire hexameric NSF protein complex, disrupting normal vesicle fusion more severely than a simple loss of one copy (haploinsufficiency).
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of SNARE complex disassembly impairs synaptic vesicle recycling and neurotransmitter release, leading to abnormal neuronal signaling and contributing to epilepsy.
+    *   Defective vesicle transport can impact neurogenesis, neuroprotection, and autophagy, contributing to the broader neurodevelopmental phenotype and potential neurodegeneration.
+    *   Recent evidence suggests overactivation of the mTOR pathway as a downstream consequence, leading to neurodegenerative changes that can be ameliorated by mTOR inhibitors like rapamycin in cellular models.
+*   **Protein-Protein Interactions Relevant to Phenotype:** *NSF* interacts with SNAP proteins to bind to the SNARE complex. It also interacts with various receptors, such as the AMPA receptor subunit GRIA2, influencing synaptic plasticity.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** *NSF* is a rare cause of developmental and epileptic encephalopathies. The diagnostic yield is likely low but significant in individuals with a specific phenotype of early infantile onset seizures and burst-suppression EEG.
+*   **Most Common Reasons for Testing This Gene:** Testing for *NSF* is indicated in patients presenting with early infantile epileptic encephalopathy, particularly those with a burst-suppression pattern on EEG, infantile spasms, and profound developmental delay where more common genetic causes have been excluded.
+*   **Clinical Actionability and Management Implications:** A molecular diagnosis can provide prognostic information and guide management, such as the selection of anti-seizure medications. The finding of mTOR pathway overactivation suggests a potential therapeutic target, although this requires further investigation.
+*   **Genetic Counseling Considerations:** Most cases are due to *de novo* variants, meaning the recurrence risk for parents is low (typically <1%), but germline mosaicism cannot be entirely excluded. For affected individuals, the condition is autosomal dominant.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 36645398, 2023:** Reported on three patients with *NSF* variants, including one with a very mild phenotype, expanding the known clinical spectrum. This study first linked *NSF* variants to mTOR pathway overactivation and suggested rapamycin as a potential therapeutic avenue.
+*   **PMID: 31675180, 2019:** First landmark paper documenting *de novo* pathogenic variants in *NSF* as a cause of early infantile epileptic encephalopathy. The authors used a Drosophila model to demonstrate a dominant-negative effect of the mutant protein.
+*   **PMID: 25765069, 2015:** A study in Drosophila demonstrated a neuroprotective function for the *NSF* homolog, sustaining autophagy and lysosomal trafficking, providing insight into the broader neurodegenerative potential of *NSF* dysfunction.
+*   **PMID: 11389574, 2001:** Research in Drosophila showed that a lethal mutation in the *NSF* homolog resulted in reduced synapse size and branching, indicating a critical role for *NSF* in neurogenesis.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Missense variants like p.Ala459Thr and p.Pro563Leu are strongly associated with a severe phenotype characterized by Epileptic encephalopathy (HP:0002123), Infantile spasms (HP:0001344), and a Burst-suppression pattern on EEG (HP:0002521).
+*   **Phenotype red flags:**
+    *   The combination of early infantile onset seizures (within the first few months of life), a burst-suppression pattern on EEG, and profound global developmental delay should raise high suspicion for a pathogenic variant in *NSF*.
+*   **Differential diagnosis considerations:**
+    *   The phenotype overlaps with other genes causing early infantile epileptic encephalopathies, such as *STXBP1* (MUNC18-1) and *NECAP1*, which are also involved in synaptic vesicle cycling. The clinical presentation can also be similar to other genetic causes of Ohtahara syndrome or early myoclonic encephalopathy.
+

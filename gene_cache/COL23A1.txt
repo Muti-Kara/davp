@@ -1,0 +1,66 @@
+COL23A1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 22990
+*   **OMIM Gene ID:** 610043
+*   **Primary Disease Associations:** While primarily studied in the context of cancer, particularly non-small cell lung cancer, prostate cancer, and clear cell renal cell carcinoma, direct Mendelian disease associations are not well established. A recent study has implicated a variant in *COL23A1* as a risk factor for eczema herpeticum, an atopic dermatitis-associated severe herpes simplex virus infection. The GenCC database currently has no submissions for this gene. OMIM reports no specific gene-phenotype relationships.
+*   **Clinical Significance Level:** The evidence for a direct role in Mendelian disease is currently limited or emerging. Its role as a risk factor for eczema herpeticum is based on a single recent study.
+*   **Inheritance Patterns:** The inheritance pattern for its potential role as a risk factor for eczema herpeticum is suggested to be autosomal dominant with incomplete penetrance, as a heterozygous SNP was identified.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v4.0 does not provide specific values for pLI, LOEUF, pRec, or pNull for *COL23A1*. It is important to use the most recent version of gnomAD for constraint metrics and to consider the confidence intervals when interpreting these scores. The pLI score is a metric that indicates intolerance to protein-truncating variation, with a score ≥ 0.9 suggesting a gene is highly intolerant to loss-of-function (LoF) variants. The LOEUF score is a continuous metric, where lower values indicate greater intolerance to LoF variation.
+*   **Clinical Interpretation of Constraint Scores:** The absence of specific constraint scores from gnomAD for *COL23A1* means that conclusions about its tolerance to inactivation cannot be drawn from these metrics alone. This may be due to factors such as gene length or insufficient power in the dataset.
+*   **Variant Classes Most Likely to be Pathogenic:** While no definitive pathogenic variants for Mendelian disease are established in major databases like ClinVar, the research on eczema herpeticum points to a splice donor site SNP (rs2973744) that leads to increased protein expression. In cancer studies, the focus is often on expression levels rather than specific variant classes.
+
+### **Phenotype Spectrum & HPO Terms**
+As *COL23A1* has not been definitively linked to a Mendelian disorder, a comprehensive list of HPO terms is not available. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for describing phenotypic abnormalities in human disease.
+*   **Primary HPO terms:** Not applicable as no established Mendelian disease association exists.
+*   **Secondary HPO terms:** Based on the recent study on eczema herpeticum, the following terms could be considered:
+    *   *Eczema herpeticum* (related to severe HSV-1 infection in the context of atopic dermatitis).
+    *   *Atopic dermatitis* (HP:0000964)
+    *   *Recurrent herpes simplex virus infections* (HP:0009804)
+*   **Age of Onset Patterns:** In the context of eczema herpeticum, the onset would align with the typical age of atopic dermatitis and subsequent HSV-1 infection.
+*   **Phenotype Severity Spectrum:** The severity of eczema herpeticum can range from localized to disseminated and severe cutaneous infection.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A heterozygous SNP (rs2973744) at a splice donor site has been associated with an increased risk for eczema herpeticum. This variant is thought to lead to higher levels of COL23A1 protein, which in turn dampens the immune response of keratinocytes to HSV-1.
+*   **Protein Domain-Specific Phenotype Patterns:** The function of COL23A1's different domains (N-terminal cytoplasmic domain, transmembrane domain, and extracellular collagenous domains) in disease is still being elucidated. The full-length and shed forms of the protein may have different roles.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the rs2973744 variant and eczema herpeticum is currently supported by a single study, suggesting the evidence is emerging but not yet strongly established. Further research is needed to validate this finding.
+
+### **Clinical Variants & Phenotype Associations**
+There are currently no variants in ClinVar classified as pathogenic or likely pathogenic for a Mendelian disorder.
+*   **rs2973744:** A heterozygous SNP at a splice donor site between exons 10 and 11.
+    *   **Significance:** Identified as a risk factor for eczema herpeticum.
+    *   **Reported Phenotypes (HPO terms):** *Atopic dermatitis* (HP:0000964), susceptibility to *Eczema herpeticum*.
+    *   **AF:** Found in 5% of patients with atopic dermatitis and a history of eczema herpeticum (ADEH+), 1.6% of healthy controls, and 0% of patients with atopic dermatitis without a history of eczema herpeticum (ADEH-).
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *COL23A1* is expressed in various tissues, including the skin, lung, brain, kidney, and cornea. The Human Protein Atlas shows high expression in the thyroid gland and heart. Its expression in the skin (epidermis) is relevant to its potential role in eczema herpeticum.
+*   **Tissue-Specific Phenotypes Expected:** Given its expression in keratinocytes, variants affecting *COL23A1* function could lead to skin-related phenotypes. Its role in other tissues is less clear in the context of Mendelian disease but is being investigated in cancer.
+*   **Expression During Development and Age-Related Phenotypes:** *COL23A1* is expressed in developing organs. Mouse models show expression in the heart at embryonic and neonatal stages.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function in One Sentence:** COL23A1 is a type II transmembrane collagen that acts as a ligand for integrin α2β1 and is involved in cell-matrix interactions.
+*   **Disease Mechanism:** The proposed mechanism for its role in eczema herpeticum is not a classic loss-of-function or gain-of-function, but rather an upregulation of the protein leading to an altered immune response. In cancer, its overexpression is associated with tumor progression and metastasis.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Overexpression of *COL23A1* in keratinocytes leads to the downregulation of genes involved in the immune response (e.g., *IL1R1, TLR4, IRF1*) and an upregulation of genes associated with atopic dermatitis (e.g., *TNC, SPINK5*). This altered immune landscape is thought to increase susceptibility to and severity of HSV-1 infection.
+*   **Protein-Protein Interactions Relevant to Phenotype:** As a ligand for integrin α2β1, its interactions are crucial for cell adhesion. It may also interact with other extracellular matrix components.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for *COL23A1* variants is not yet standard practice for any Mendelian disorder. The diagnostic yield for eczema herpeticum is currently unknown but is likely low, given the frequency of the identified risk variant.
+*   **Most Common Reasons for Testing This Gene:** Currently, testing for this gene is primarily for research purposes, particularly in studies of cancer and, more recently, atopic dermatitis with severe viral complications.
+*   **Clinical Actionability and Management Implications:** If the association with eczema herpeticum is confirmed, identifying at-risk individuals could potentially lead to targeted antiviral prophylaxis or immunomodulatory therapies. However, this is speculative at this stage.
+*   **Genetic Counseling Considerations:** Given the limited data, counseling would focus on the uncertainty of the findings and the potential for a complex, multifactorial inheritance pattern for eczema herpeticum.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 39031206 (Preprint), Year: 2024:** Identified a SNP (rs2973744) in *COL23A1* as a novel risk factor for eczema herpeticum, showing that overexpression of the gene in keratinocytes increases susceptibility to HSV-1 by dampening immune responses.
+*   **PMID: 28852331, Year: 2017:** Demonstrated that *COL23A1* is upregulated in clear cell renal cell carcinoma (ccRCC) and its overexpression is associated with a poorer prognosis. Knockdown of the gene inhibited cancer cell proliferation, adhesion, and migration.
+*   **PMID: 22440398, Year: 2012:** Showed that collagen XXIII contributes to cancer cell metastasis through its function in cell adhesion and that its expression affects other proteins involved in cell structure and adhesion.
+*   **PMID: 20388755, Year: 2010:** Identified collagen XXIII as a potential biomarker for the detection of primary and recurrent non-small cell lung cancer.
+*   **PMID: 17878310, Year: 2007:** Described the shedding of collagen XXIII by the protease furin, a process dependent on the plasma membrane microenvironment.
+*   **PMID: 16728390, Year: 2006:** Characterized the expression of type XXIII collagen mRNA and protein, and identified it as a novel ligand for integrin α2β1 in the epidermis.
+*   **PMID: 12644459, Year: 2003:** First identified and cloned type XXIII collagen, describing it as a new member of the transmembrane collagen family.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations. The link between rs2973744 and eczema herpeticum is preliminary.
+*   **Phenotype red flags:** A patient with atopic dermatitis presenting with unusually severe or recurrent eczema herpeticum could be a candidate for further investigation of *COL23A1*, although this is not yet standard clinical practice.
+*   **Differential diagnosis considerations:** The phenotypic overlap would be with other genetic conditions predisposing to severe viral infections or immunodeficiencies affecting skin integrity.
+

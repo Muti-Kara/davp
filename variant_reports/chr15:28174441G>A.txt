@@ -1,0 +1,223 @@
+=== chr15:28174441G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs142399136
+• Chromosome: 15
+• Position: 28174441
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0/1
+• Quality Score: 907.64001465
+• Gene Names: HERC2
+• Databases: rs142399136, COSV55307518
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.026160000000000003
+• gnomADg Allele Frequency: 0.029630000000000004
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 292
+• Allelic Depth (AD): [231, 52]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007821: hair morphology measurement - quantification of some aspect of hair morphology such as hair density, colour, thickness or growth pattern
+GWAS_EFO_0004208: Vitiligo - A disorder consisting of areas of macular depigmentation, commonly on extensor aspects of extremities, on the face or neck, and in skin folds. Age of onset is often in young adulthood and the condition tends to progress gradually with lesions enlarging and extending until a quiescent state is reached.|Generalized well circumscribed patches of leukoderma that are generally distributed over symmetric body locations and is due to autoimmune destruction of melanocytes.
+GWAS_EFO_1002040: Corneal astigmatism - None
+GWAS_HP_0000483: Astigmatism - A type of astigmatism associated with abnormal curvatures on the anterior and/or posterior surface of the cornea.|The irregular curvature associated with astigmatism means that the optical system is not symmetric about the optical axis. Most commonly the cornea is affected such that the refractive power in one meridian is less than that of the perpendicular axis. Astigmatism of significant degree causes blurry vision.
+GWAS_EFO_0004279: suntan - An induced skin pigment ( MELANIN) darkening after exposure to SUNLIGHT or ULTRAVIOLET RAYS. The degree of tanning depends on the intensity and duration of UV exposure, and genetic factors.
+GWAS_EFO_0003924: hair color - Color of hair or fur.
+GWAS_EFO_0009180: rosacea severity measurement - Quantification of the severity of rosacea symptoms, based on a survey of facial, nose and ocular sympoms related to rosacea, a chronic inflammatory skin disease.
+GWAS_EFO_0007822: hair colour measurement - quantification of some aspect of hair colour, such as whether greying occurs, how advanced greying is or qualification to what colour family hair belongs
+GWAS_EFO_0003784: skin pigmentation - Coloration of the skin.
+GWAS_EFO_0000516: glaucoma - An ocular disease, occurring in many forms, having as its primary characteristics an unstable or a sustained increase in the intraocular pressure which the eye cannot withstand without damage to its structure or impairment of its function. The consequences of the increased pressure may be manifested in a variety of symptoms, depending upon type and severity, such as excavation of the optic disk, hardness of the eyeball, corneal anesthesia, reduced visual acuity, seeing of colored halos around lights, disturbed dark adaptation, visual field defects, and headaches. (Dictionary of Visual Science, 4th ed)|Increased pressure in the eyeball due to obstruction of the outflow of aqueous humor.
+GWAS_EFO_0001365: age-related macular degeneration - Degenerative changes in the RETINA usually of older adults which results in a loss of vision in the center of the visual field (the MACULA LUTEA) because of damage to the retina. It occurs in dry and wet forms.|Age-related loss of vision in the central portion of the retina (macula), secondary to retinal degeneration.|Degenerative changes in the macula lutea of the retina.
+GWAS_EFO_0004632: nevus count - A nevus count is the quantification of nevi on the skin.
+GWAS_EFO_0008460: colorectal health - The characteristics of a person’s colorectal health, assessed for example by colonoscopy.
+GWAS_EFO_0005842: colorectal cancer - A primary or metastatic malignant neoplasm that affects the colon or rectum. Representative examples include carcinoma, lymphoma, and sarcoma.|Editor note: some sources make distinct classes for colorectal vs large intestine. We follow NCIT and make these equivalent
+GWAS_EFO_0004695: intraocular pressure measurement - Is a quantification of intraocular pressure. Increased intraocular pressure is a heritable risk factor for primary open angle glaucoma.
+GWAS_EFO_0000389: cutaneous melanoma - A primary melanoma arising from atypical melanocytes in the skin. Precursor lesions include acquired and congenital melanocytic nevi, and dysplastic nevi. Several histologic variants have been recognized, including superficial spreading melanoma, acral lentiginous melanoma, nodular melanoma, and lentigo maligna melanoma.
+GWAS_EFO_0006995: response to diisocyanate - short or long term physiological response of an organism, eg in terms of deposits of particles in lung tissues, to exposure to diisocyanate, usually of occupational or environment origin
+GWAS_EFO_0003949: eye color - Color of the iris.
+GWAS_EFO_0000270: obsolete_asthma - A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.|Tendency of the smooth muscle of the tracheobronchial tree to contract more intensely in response to a given stimulus than it does in the response seen in normal individuals. This condition is present in virtually all symptomatic patients with asthma. The most prominent manifestation of this smooth muscle contraction is a decrease in airway caliber that can be readily measured in the pulmonary function laboratory.|A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).|A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, excercise, stress, reflux disease, medications, foods and emotional anxiety.
+GWAS_EFO_0009764: eye colour measurement - The quantification of some aspect of eye colour, such as hue, saturation or brightness.
+GWAS_EFO_0007009: skin pigmentation measurement - quantification of some aspect of skin pigmentation, such as saturation, darkness or skin sensitivity to sun
+GWAS_EFO_0004847: age at onset - The age at which some process, or disease started in a human individual.
+GWAS_EFO_0000249: obsolete_Alzheimer's disease - A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting in late middle age and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.|A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.|A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)|A dementia which is an incurable disease of unknown cause, starting in late middle age or in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, that leads in advanced cases to a profound decline in cognitive and physical functioning, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+GWAS_EFO_0003958: sunburn - An inflammatory reaction from ultraviolet radiation characterized by transient redness, tenderness and occasional blistering.|An injury to the skin causing erythema, tenderness, and sometimes blistering and resulting from excessive exposure to the sun. The reaction is produced by the ultraviolet radiation in sunlight.
+GWAS_EFO_0005677: puberty onset measurement - quantification of the onset of puberty in human males and females through a series of proxy measurements such as genital enlargement (males) or breast development (females). These characteristics are assessed based on pre-defined scales either through self-reporting or through assessment by a medical professional.
+GWAS_EFO_0000707: squamous cell carcinoma - A carcinoma arising from squamous epithelial cells. Morphologically, it is characterized by the proliferation of atypical, often pleomorphic squamous cells. Squamous cell carcinomas are graded by the degree of cellular differentiation as well, moderately, or poorly differentiated. Well differentiated carcinomas are usually associated with keratin production and the presence of intercellular bridges between adjacent cells. Representative examples are lung squamous cell carcinoma, skin squamous cell carcinoma, and cervical squamous cell carcinoma.
+GWAS_EFO_0010176: keratinocyte carcinoma - A skin cancer arising from the keratin-producing cells of the epidermis. The term encompasses both basal cell carcinoma and squamous cell carcinoma.
+GWAS_EFO_0004193: basal cell carcinoma - A carcinoma involving the basal cells.
+GWAS_EFO_0007906: synophrys measurement - quantification of some aspect of unibrows, such as their presence or absence, or their severity
+GWAS_EFO_0001059: obsolete_cataract - Partial or complete opacity of the crystalline lens of one or both eyes that decreases visual acuity and eventually results in blindness.  Some cataracts appear in infancy or in childhood, but most develop in older individuals. (Sternberg Diagnostic Surgical Pathology, 3rd ed.)|Partial or complete opacity of the crystalline lens of one or both eyes that decreases visual acuity and eventually results in blindness. Some cataracts appear in infancy or in childhood, but most develop in older individuals. (Sternberg Diagnostic Surgical Pathology, 3rd ed.)|Partial or complete opacity on or in the lens or capsule of one or both eyes, impairing vision or causing blindness. The many kinds of cataract are classified by their morphology (size, shape, location) or etiology (cause and time of occurrence). (Dorland, 27th ed)
+GWAS_EFO_0004795: skin sensitivity to sun - The response of human skin to sun exposure.|Editor note: TODO https://github.com/EnvironmentOntology/envo/issues/587
+GWAS_EFO_0001378: multiple myeloma - A bone marrow-based plasma cell neoplasm characterized by a serum monoclonal protein and skeletal destruction with osteolytic lesions, pathological fractures, bone pain, hypercalcemia, and anemia. Clinical variants include non-secretory myeloma, smoldering myeloma, indolent myeloma, and plasma cell leukemia. (WHO, 2001)
+GWAS_EFO_0007621: bone mineral content measurement - quantification of the form or content of one or more of the mineral components of bone
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16164680) -> Associated GWAS: GWAS_EFO_0007821, GWAS_EFO_0004208, GWAS_EFO_1002040, GWAS_HP_0000483, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0009180, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0000516, GWAS_EFO_0001365, GWAS_EFO_0007821, GWAS_EFO_0004632, GWAS_EFO_1002040, GWAS_EFO_0008460, GWAS_EFO_0005842, GWAS_EFO_0004695, GWAS_EFO_0000389, GWAS_EFO_0004279, GWAS_EFO_0006995, GWAS_EFO_0003949, GWAS_EFO_0003924, GWAS_EFO_0000270, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0007822, GWAS_EFO_0003924, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0003958, GWAS_EFO_0005677, GWAS_EFO_0009764, GWAS_EFO_0005842, GWAS_EFO_0000707, GWAS_EFO_0009764, GWAS_EFO_0010176, GWAS_EFO_0004193, GWAS_EFO_0007906, GWAS_EFO_0001059, GWAS_EFO_0004795, GWAS_EFO_0007822, GWAS_EFO_0001378, GWAS_EFO_0009764, GWAS_EFO_0009180, GWAS_EFO_0003924, GWAS_EFO_0003949, GWAS_EFO_0007621, GWAS_EFO_0004279, GWAS_EFO_0003949, GWAS_EFO_0003924, GWAS_EFO_0007821, GWAS_EFO_0004279, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0003958, GWAS_EFO_0004208, GWAS_EFO_0001360, GWAS_EFO_0003924
+Entity: Transcript (ID: 16317589) -> Associated GWAS: GWAS_EFO_0007821, GWAS_EFO_0004208, GWAS_EFO_1002040, GWAS_HP_0000483, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0009180, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0000516, GWAS_EFO_0001365, GWAS_EFO_0007821, GWAS_EFO_0004632, GWAS_EFO_1002040, GWAS_EFO_0008460, GWAS_EFO_0005842, GWAS_EFO_0004695, GWAS_EFO_0000389, GWAS_EFO_0004279, GWAS_EFO_0006995, GWAS_EFO_0003949, GWAS_EFO_0003924, GWAS_EFO_0000270, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0007822, GWAS_EFO_0003924, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0003958, GWAS_EFO_0005677, GWAS_EFO_0009764, GWAS_EFO_0005842, GWAS_EFO_0000707, GWAS_EFO_0009764, GWAS_EFO_0010176, GWAS_EFO_0004193, GWAS_EFO_0007906, GWAS_EFO_0001059
+Entity: Transcript (ID: 16317562) -> Associated GWAS: GWAS_EFO_0007821, GWAS_EFO_0004208, GWAS_EFO_1002040, GWAS_HP_0000483, GWAS_EFO_0004279, GWAS_EFO_0003924, GWAS_EFO_0009180, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0000516, GWAS_EFO_0001365, GWAS_EFO_0007821, GWAS_EFO_0004632, GWAS_EFO_1002040, GWAS_EFO_0008460, GWAS_EFO_0005842, GWAS_EFO_0004695, GWAS_EFO_0000389, GWAS_EFO_0004279, GWAS_EFO_0006995, GWAS_EFO_0003949, GWAS_EFO_0003924, GWAS_EFO_0000270, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0007822, GWAS_EFO_0003924, GWAS_EFO_0009764, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0003958, GWAS_EFO_0005677, GWAS_EFO_0009764, GWAS_EFO_0005842, GWAS_EFO_0000707, GWAS_EFO_0009764, GWAS_EFO_0010176, GWAS_EFO_0004193, GWAS_EFO_0007906, GWAS_EFO_0001059, GWAS_EFO_0004795, GWAS_EFO_0007822, GWAS_EFO_0001378, GWAS_EFO_0009764, GWAS_EFO_0009180, GWAS_EFO_0003924, GWAS_EFO_0003949, GWAS_EFO_0007621, GWAS_EFO_0004279, GWAS_EFO_0003949, GWAS_EFO_0003924, GWAS_EFO_0007821, GWAS_EFO_0004279, GWAS_EFO_0007009, GWAS_EFO_0007822, GWAS_EFO_0003784, GWAS_EFO_0003958, GWAS_EFO_0004208, GWAS_EFO_0001360, GWAS_EFO_0003924
+Entity: ChromHMM State (ID: 21693163) -> Associated GWAS: GWAS_EFO_0001059
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 5869
+• Pathogenic/Likely Pathogenic: 1044
+• Benign/Likely Benign: 2129
+• Uncertain Significance: 2685
+• Other Classifications: 11
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=940)
+• Tyrosinase-positive oculocutaneous albinism (n=199)
+• Developmental delay with autism spectrum disorder and gait instability (n=169)
+• not provided|Inborn genetic diseases (n=141)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=124)
+• Inborn genetic diseases|not provided (n=100)
+• Tyrosinase-positive oculocutaneous albinism|not provided (n=54)
+• not provided|not specified (n=44)
+• not provided|Tyrosinase-positive oculocutaneous albinism (n=42)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=27)
+• not provided|Developmental delay with autism spectrum disorder and gait instability|Inborn genetic diseases (n=24)
+• OCA2-related disorder (n=21)
+• Developmental delay with autism spectrum disorder and gait instability|Inborn genetic diseases (n=19)
+• Inborn genetic diseases|Developmental delay with autism spectrum disorder and gait instability (n=15)
+• not provided|Tyrosinase-positive oculocutaneous albinism|Tyrosinase-positive oculocutaneous albinism (n=15)
+• Developmental delay with autism spectrum disorder and gait instability|not provided (n=15)
+• not provided|Developmental delay with autism spectrum disorder and gait instability (n=14)
+• See cases (n=14)
+• Tyrosinase-positive oculocutaneous albinism|not provided|Tyrosinase-positive oculocutaneous albinism (n=13)
+• Prader-Willi syndrome (n=13)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=12)
+• not provided|OCA2-related disorder (n=12)
+• Tyrosinase-positive oculocutaneous albinism|not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=12)
+• Developmental delay with autism spectrum disorder and gait instability|not provided|Inborn genetic diseases (n=11)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|not provided (n=11)
+• not specified|not provided (n=10)
+• not provided|HERC2-related disorder (n=9)
+• Nonsyndromic Oculocutaneous Albinism (n=8)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism (n=8)
+• Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=8)
+• Inborn genetic diseases|not specified (n=7)
+• Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder (n=7)
+• HERC2-related disorder (n=7)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|OCA2-related disorder (n=7)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism|not provided (n=7)
+• Tyrosinase-positive oculocutaneous albinism|Oculocutaneous albinism|OCA2-related disorder|not provided (n=7)
+• OCA2-related disorder|Oculocutaneous albinism|not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism (n=7)
+• not provided|OCA2-related disorder|not specified (n=7)
+• Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|not provided|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=7)
+• not provided|Inborn genetic diseases|Tyrosinase-positive oculocutaneous albinism|6 conditions|not specified (n=7)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=7)
+• not provided|not specified|HERC2-related disorder|Inborn genetic diseases (n=7)
+• not provided|Oculocutaneous albinism (n=6)
+• not provided|Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=6)
+• not provided|Prader-Willi syndrome (n=5)
+• not specified|not provided|Tyrosinase-positive oculocutaneous albinism (n=5)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|OCA2-related disorder|Tyrosinase-positive oculocutaneous albinism (n=5)
+• not provided|OCA2-related disorder|Tyrosinase-positive oculocutaneous albinism (n=5)
+• Tyrosinase-positive oculocutaneous albinism|not specified|not provided (n=5)
+• not provided|Inborn genetic diseases|HERC2-related disorder|concomitant exotropia (n=4)
+• Prader-Willi syndrome|not provided (n=4)
+• not provided|HERC2-related disorder|Inborn genetic diseases|Developmental delay with autism spectrum disorder and gait instability (n=4)
+• Tyrosinase-positive oculocutaneous albinism|not provided|OCA2-related disorder (n=4)
+• not specified|Inborn genetic diseases (n=4)
+• Oculocutaneous albinism (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism (n=4)
+• not provided|Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=4)
+• not specified|not provided|OCA2-related disorder|Tyrosinase-positive oculocutaneous albinism (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=4)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism (n=4)
+• OCA2-related disorder|not provided (n=3)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Nonsyndromic Oculocutaneous Albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism (n=3)
+• Oculocutaneous albinism|OCA2-related disorder|not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism (n=3)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=3)
+• not provided|Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=3)
+• Global developmental delay|not provided|Developmental delay with autism spectrum disorder and gait instability (n=3)
+• not provided|not specified|Inborn genetic diseases (n=3)
+• See cases|Inborn genetic diseases (n=3)
+• Prader-Willi syndrome|Developmental delay with autism spectrum disorder and gait instability|Inborn genetic diseases (n=2)
+• Nonsyndromic Oculocutaneous Albinism|not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|not provided (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|not specified|OCA2-related disorder (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|not provided|Oculocutaneous albinism (n=2)
+• Albinism|Tyrosinase-positive oculocutaneous albinism (n=2)
+• 8 conditions (n=2)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism|Tyrosinase-positive oculocutaneous albinism (n=2)
+• not provided|Inborn genetic diseases|Developmental delay with autism spectrum disorder and gait instability (n=2)
+• HERC2-related disorder|Inborn genetic diseases (n=2)
+• Prader-Willi syndrome|Inborn genetic diseases (n=2)
+• Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|OCA2-related disorder (n=2)
+• Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism (n=2)
+• Nonsyndromic Oculocutaneous Albinism|Tyrosinase-positive oculocutaneous albinism|not provided|Oculocutaneous albinism (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not specified|not provided|OCA2-related disorder (n=2)
+• Tyrosinase-positive oculocutaneous albinism|Oculocutaneous albinism|not provided (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism|not provided|Oculocutaneous albinism (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|not specified (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|Inborn genetic diseases|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Tyrosinase-positive oculocutaneous albinism|See cases|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Albinism or congenital nystagmus (n=2)
+• not provided|Nonsyndromic Oculocutaneous Albinism|Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism (n=2)
+• not specified|not provided|Tyrosinase-positive oculocutaneous albinism|Inborn genetic diseases|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Tyrosinase-positive oculocutaneous albinism|Oculocutaneous albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism|not specified|Oculocutaneous albinism (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|Nonsyndromic Oculocutaneous Albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism|Tyrosinase-positive oculocutaneous albinism (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Albinism or congenital nystagmus (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Inborn genetic diseases|not provided (n=2)
+• Developmental delay with autism spectrum disorder and gait instability|not specified|Inborn genetic diseases (n=2)
+• Developmental delay with autism spectrum disorder and gait instability|Prader-Willi syndrome (n=2)
+• not specified|not provided|Inborn genetic diseases (n=2)
+• Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|not provided|Tyrosinase-positive oculocutaneous albinism (n=2)
+• not specified|Tyrosinase-positive oculocutaneous albinism|not provided|OCA2-related disorder (n=2)
+• not provided|Tyrosinase-positive oculocutaneous albinism|Inborn genetic diseases|Tyrosinase-positive oculocutaneous albinism (n=2)
+• not provided|Oculocutaneous albinism|Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• not provided|Nonsyndromic Oculocutaneous Albinism (n=2)
+• Nonsyndromic Oculocutaneous Albinism|not provided|not specified (n=2)
+• not provided|Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder (n=2)
+• not provided|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism|not specified (n=2)
+• Nonsyndromic Oculocutaneous Albinism|Tyrosinase-positive oculocutaneous albinism|not provided (n=2)
+• not specified|not provided|Developmental delay with autism spectrum disorder and gait instability (n=2)
+• Tyrosinase-positive oculocutaneous albinism|Inborn genetic diseases (n=2)
+• Albinism|not provided|Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Inborn genetic diseases|not provided|Tyrosinase-positive oculocutaneous albinism (n=2)
+• Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder|not provided|not specified|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Albinism (n=2)
+• Tyrosinase-positive oculocutaneous albinism|Brown oculocutaneous albinism (n=2)
+• SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|OCA2-related disorder|Oculocutaneous albinism (n=2)
+• Tyrosinase-positive oculocutaneous albinism|OCA2-related disorder|Inborn genetic diseases (n=2)
+• not specified|Tyrosinase-positive oculocutaneous albinism (n=2)
+• not provided|Tyrosinase-positive oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|Tyrosinase-positive oculocutaneous albinism (n=2)
+• not specified|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES|not provided (n=2)
+• not provided|Oculocutaneous albinism|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• Tyrosinase-positive oculocutaneous albinism|not provided|Hypophosphatasia (n=2)
+• not provided|Oculocutaneous albinism|OCA2-related disorder|SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES (n=2)
+• not provided|OCA2-related disorder|Inborn genetic diseases (n=2)
+
+

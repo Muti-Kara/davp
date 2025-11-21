@@ -1,0 +1,112 @@
+=== chr14:74670070C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs17101845
+• Chromosome: 14
+• Position: 74670070
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: AREL1
+• Databases: rs17101845, COSV62668314
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0042369999999999994
+• gnomADg Allele Frequency: 0.006770000000000001
+• 1KG Frequency: 0.0034000000000000002
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009597: feeling nervous measurement - Quantification of whether an individual feels or felt nervous or "suffered from nerves".
+GWAS_EFO_0005230: anxiety - Apprehension of danger and dread accompanied by restlessness, tension, tachycardia, and dyspnea unattached to a clearly identifiable stimulus.
+GWAS_EFO_0009589: worry measurement - Quantification of whether an individual feels or felt worried.
+GWAS_EFO_0007660: neuroticism measurement - Quantification of some aspect of neuroticism or neurotic behaviour, such as severity or frequency of neurotic behaviour. This is usually assessed via a standardised questionnaire.
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0007869: wellbeing measurement - quantification of some aspect of wellbeing such as life satisfaction or emotional wellbeing, usually self-reported and quantified through the use of a structured questionnaire
+GWAS_EFO_0008475: mood instability measurement - Quantifiication of some aspect of mood instability.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+GWAS_EFO_0004247: mood disorder - A cognitive disorder a disturbance in which the person's mood is hypothesized to be the main underlying feature.|Those disorders that have a disturbance in mood as their predominant feature.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16170060) -> Associated GWAS: GWAS_EFO_0009597, GWAS_EFO_0005230, GWAS_EFO_0009589, GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338120) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338215) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338218) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338230) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338225) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338234) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660
+Entity: Transcript (ID: 16338240) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338248) -> Associated GWAS: GWAS_EFO_0007869, GWAS_EFO_0005230, GWAS_EFO_0008475, GWAS_EFO_0007660, GWAS_EFO_0007006, GWAS_EFO_0007660, GWAS_EFO_0007869, GWAS_EFO_0004247, GWAS_EFO_0003761
+Entity: Transcript (ID: 16338252) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Transcript (ID: 16338257) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Histone Modification Site (ID: 93251651) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Histone Modification Site (ID: 88642353) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Histone Modification Site (ID: 50732816) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Histone Modification Site (ID: 57495434) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Histone Modification Site (ID: 62160040) -> Associated GWAS: GWAS_EFO_0007869
+Entity: Histone Modification Site (ID: 81992142) -> Associated GWAS: GWAS_EFO_0007869
+Entity: ChromHMM State (ID: 19344863) -> Associated GWAS: GWAS_EFO_0007869
+Entity: ChromHMM State (ID: 19896391) -> Associated GWAS: GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869
+Entity: ChromHMM State (ID: 20472211) -> Associated GWAS: GWAS_EFO_0007660, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0007660, GWAS_EFO_0007869
+Entity: ChromHMM State (ID: 21685438) -> Associated GWAS: GWAS_EFO_0007869
+Entity: chr_chain (ID: 520940) -> Associated GWAS: GWAS_EFO_0007869
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 4050
+• Pathogenic/Likely Pathogenic: 344
+• Benign/Likely Benign: 1561
+• Uncertain Significance: 2145
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Isolated microphthalmia 2 (n=248)
+• Inborn genetic diseases (n=128)
+• Microphthalmia (n=104)
+• Microphthalmia, isolated, with coloboma 3 (n=64)
+• Isolated microphthalmia 2|Microphthalmia, isolated, with coloboma 3 (n=48)
+• Microphthalmia, isolated, with coloboma 3|Isolated microphthalmia 2 (n=24)
+• Isolated microphthalmia 2|Microphthalmia (n=24)
+• Isolated microphthalmia 2|Isolated microphthalmia 2 (n=16)
+• Isolated microphthalmia 2|Inborn genetic diseases (n=16)
+• Isolated microphthalmia 2|Microphthalmia, isolated, with coloboma 3|Microphthalmia|VSX2-related disorder (n=16)
+• Isolated microphthalmia 6|VSX2-related Microphthalmia|not provided (n=8)
+• Anophthalmia-microphthalmia syndrome|Isolated microphthalmia 2 (n=8)
+• Isolated microphthalmia 2|Microphthalmia|not provided|Microphthalmia, isolated, with coloboma 3|VSX2-related disorder (n=8)
+• Isolated microphthalmia 2|Microphthalmia|Microphthalmia, isolated, with coloboma 3 (n=8)
+• Microphthalmia, isolated, with coloboma 3|not provided|Isolated microphthalmia 2 (n=8)
+• Inborn genetic diseases|Microphthalmia (n=8)
+• not specified|Isolated microphthalmia 2|Microphthalmia, isolated, with coloboma 3|Microphthalmia|not provided (n=8)
+• not provided|Isolated microphthalmia 2|Microphthalmia (n=8)
+• Retinitis pigmentosa (n=8)
+• VSX2-related disorder (n=8)
+• Microphthalmia, isolated, with coloboma 3|Isolated microphthalmia 2|not provided (n=8)
+• Isolated microphthalmia 2|Microphthalmia, isolated, with coloboma 3|Inborn genetic diseases (n=8)
+• Microphthalmia, isolated, with coloboma 3|Isolated microphthalmia 2|Microphthalmia (n=8)
+
+

@@ -1,0 +1,123 @@
+=== chr19:1037802A>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs78797154
+• Chromosome: 19
+• Position: 1037802
+• Reference Allele (REF): A
+• Alternative Allele (ALT): C
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CNN2, ABCA7
+• Databases: rs78797154, COSV108084093
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 6.9e-07
+• gnomADg Allele Frequency: 0.0292
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007874: gut microbiome measurement - quantification of some aspect of an individual's micrbiome of the gut
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0007991: eosinophil percentage of leukocytes - A calculated measurement in which the number of eosinophil granulocytes is divided by the number of all white blood cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage. An eosinophil is a granular leukocyte having a nucleus with two lobes connected by a thread of chromatin, and cytoplasm containing coarse, round granules of uniform size that stain readily with eosin and other acid dyes.
+GWAS_EFO_0001365: age-related macular degeneration - Degenerative changes in the RETINA usually of older adults which results in a loss of vision in the center of the visual field (the MACULA LUTEA) because of damage to the retina. It occurs in dry and wet forms.|Age-related loss of vision in the central portion of the retina (macula), secondary to retinal degeneration.|Degenerative changes in the macula lutea of the retina.
+GWAS_EFO_0004683: wet macular degeneration - A form of RETINAL degeneration in which abnormal CHOROIDAL NEOVASCULARIZATION occurs under the RETINA and MACULA LUTEA, causing bleeding and leaking of fluid. This leads to bulging and or lifting of the macula and the distortion or destruction of central vision.|A form of RETINAL DEGENERATION in which abnormal CHOROIDAL NEOVASCULARIZATION occurs under the RETINA and MACULA LUTEA, causing bleeding and leaking of fluid. This leads to bulging and or lifting of the macula and the distortion or destruction of central vision.
+GWAS_EFO_1001492: atrophic macular degeneration - Dry AMD is most common type of macular degeneration and affects 90% of the people who have the condition. In the dry form, there is a breakdown or thinning of the layer of retinal pigment epithelial cells (RPE) in the macula. No medical or surgical treatment is available for this condition.
+GWAS_EFO_0004584: mean platelet volume - A measurement of mean platelet volume is a machine-calculated measurement of the average size of platelets found in blood
+GWAS_EFO_0007985: platelet crit - The proportion of blood volume that is occupied by platelets, expressed as a percentage. 
+GWAS_EFO_0004833: neutrophil count - Is a quantification of neutrophils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0007987: granulocyte count - The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0007990: neutrophil percentage of leukocytes - A calculated measurement in which the number of neutrophil granulocytes is divided by the number of all white blood cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage. A neutrophil is, or is in the process of becoming, a granular leucocyte having a nucleus with three to five lobes connected by threads of chromatin, cytoplasm containing very fine granules, and which is readily stainable with neutral dyes.
+GWAS_EFO_0004842: eosinophil count - Is a quantification of eosinphils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0000249: obsolete_Alzheimer's disease - A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting in late middle age and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.|A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.|A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)|A dementia which is an incurable disease of unknown cause, starting in late middle age or in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, that leads in advanced cases to a profound decline in cognitive and physical functioning, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+GWAS_EFO_0009268: family history of Alzheimer’s disease - A reported family history of Alzheimer’s disease in one or more family members.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16133192) -> Associated GWAS: GWAS_EFO_0007874, GWAS_EFO_0005192, GWAS_EFO_0007991, GWAS_EFO_0001365, GWAS_EFO_0004683, GWAS_EFO_1001492, GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Transcript (ID: 16205674) -> Associated GWAS: GWAS_EFO_0007874, GWAS_EFO_0005192, GWAS_EFO_0007991, GWAS_EFO_0001365, GWAS_EFO_0004683, GWAS_EFO_1001492, GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Transcript (ID: 16205706) -> Associated GWAS: GWAS_EFO_0007874, GWAS_EFO_0005192, GWAS_EFO_0007991, GWAS_EFO_0001365, GWAS_EFO_0004683, GWAS_EFO_1001492, GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Transcript (ID: 16205712) -> Associated GWAS: GWAS_EFO_0007874, GWAS_EFO_0005192, GWAS_EFO_0007991, GWAS_EFO_0001365, GWAS_EFO_0004683, GWAS_EFO_1001492, GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Transcript (ID: 16205719) -> Associated GWAS: GWAS_EFO_0007874, GWAS_EFO_0005192, GWAS_EFO_0007991, GWAS_EFO_0001365, GWAS_EFO_0004683, GWAS_EFO_1001492, GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Transcript (ID: 16205723) -> Associated GWAS: GWAS_EFO_0007874, GWAS_EFO_0005192, GWAS_EFO_0007991, GWAS_EFO_0001365, GWAS_EFO_0004683, GWAS_EFO_1001492, GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Non Coding RNA (ID: 17186120) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 50748306) -> Associated GWAS: GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Histone Modification Site (ID: 92768828) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 89209712) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 88964161) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 88583494) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 85985381) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 84465523) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 83966202) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 81739602) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 79912374) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 79834167) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 79111106) -> Associated GWAS: GWAS_EFO_0004842, GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 78733085) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 76249331) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 74492614) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 69985866) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 68633073) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 67892001) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 67760638) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 67534363) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 66520330) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 65867343) -> Associated GWAS: GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842, GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 63220330) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 62591223) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 62063837) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 61947618) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 60993158) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 59930692) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 58566191) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 58499141) -> Associated GWAS: GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: Histone Modification Site (ID: 55779698) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 53386837) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 52076667) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 51519172) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 50859559) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 49074070) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: Histone Modification Site (ID: 49516525) -> Associated GWAS: GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842, GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: ChromHMM State (ID: 19985913) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: ChromHMM State (ID: 20558361) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: ChromHMM State (ID: 22412639) -> Associated GWAS: GWAS_EFO_0000249, GWAS_EFO_0009268
+Entity: ChromHMM State (ID: 22412638) -> Associated GWAS: GWAS_EFO_0004584, GWAS_EFO_0007985, GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842
+Entity: chr_chain (ID: 598816) -> Associated GWAS: GWAS_EFO_0004833, GWAS_EFO_0007987, GWAS_EFO_0007990, GWAS_EFO_0004842, GWAS_EFO_0000249, GWAS_EFO_0009268, GWAS_EFO_0000249, GWAS_EFO_0009268
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 4831
+• Pathogenic/Likely Pathogenic: 641
+• Benign/Likely Benign: 116
+• Uncertain Significance: 4074
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Pulmonary artery atresia (n=639)
+• Alzheimer disease 9 (n=2)
+• Amyotrophic lateral sclerosis (n=2)
+
+

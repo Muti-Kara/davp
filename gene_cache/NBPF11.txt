@@ -1,0 +1,89 @@
+NBPF11 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+
+*   **HGNC ID:** 31993.
+*   **OMIM Gene ID:** 614001.
+*   **Primary Disease Associations:** NBPF11 is associated with Chromosome 1q21.1 deletion syndrome and Chromosome 1q21.1 duplication syndrome. These conditions are characterized by variable phenotypes including developmental delay, intellectual disability, craniofacial dysmorphism, and congenital anomalies.
+*   **Clinical Significance Level:** The evidence for NBPF11's role in disease is still emerging, and it is often considered in the context of larger copy number variations (CNVs) on chromosome 1q21.
+*   **Inheritance Patterns:** The associated 1q21.1 deletion and duplication syndromes are typically inherited in an autosomal dominant pattern, though de novo occurrences are also common.
+
+### **Constraint & Variant Intolerance**
+
+*   **pLI, LOEUF, pRec, pNull:** As of the latest gnomAD release, specific constraint metrics like pLI (probability of being Loss-of-Function intolerant) and LOEUF (Loss-of-function Observed/Expected Upper-bound Fraction) for NBPF11 are not prominently reported in isolation, as it is part of a complex gene family. The gnomAD browser now favors the observed/expected (o/e) ratio for assessing constraint.
+*   **Clinical Interpretation of Constraint Scores:** Generally, a high pLI (≥0.9) or a low LOEUF score suggests a gene is intolerant to loss-of-function variation. For genes within CNVs, the interpretation is more complex and relates to gene dosage.
+*   **Variant Classes Most Likely to be Pathogenic:** For NBPF11, pathogenic variants are primarily large-scale copy number variations (deletions and duplications) rather than single nucleotide variants (SNVs).
+
+### **Phenotype Spectrum & HPO Terms**
+
+*   **Primary HPO terms:**
+    *   Delayed speech and language development (HP:0000750).
+    *   Developmental delay.
+    *   Macrocephaly (HP:0000256) (associated with duplications).
+    *   Microcephaly (HP:0000252) (associated with deletions).
+    *   Intellectual disability.
+    *   Congenital heart defects (HP:0001627).
+    *   Sensorineural hearing impairment (HP:0000407).
+    *   Craniofacial dysmorphism.
+    *   Behavioral abnormalities.
+    *   Autistic features.
+*   **Secondary HPO terms:**
+    *   Febrile seizures (HP:0002373).
+    *   Hypotonia (HP:0001252).
+    *   Scoliosis (HP:0002650).
+    *   Joint laxity (HP:0001388).
+    *   Feeding difficulties (HP:0011968).
+*   **Age of Onset Patterns:** Phenotypes associated with NBPF11 copy number variations are typically identified in the prenatal period or early childhood.
+*   **Phenotype Severity Spectrum:** The clinical presentation is highly variable, ranging from asymptomatic carriers to individuals with severe multi-systemic disease.
+
+### **Genotype-Phenotype Correlations**
+
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Deletions** of the 1q21.1 region containing NBPF11 are associated with microcephaly.
+    *   **Duplications** of the 1q21.1 region are linked to macrocephaly.
+*   **Protein Domain-Specific Phenotype Patterns:** NBPF proteins contain Olduvai domains (also known as DUF1220), and the copy number of these domains has been linked to brain size and evolution, which may underlie the head size abnormalities seen in CNV carriers.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is considered moderate due to the variable expressivity and incomplete penetrance observed in individuals with 1q21.1 CNVs.
+*   **Examples:** A child with a de novo 1q21.1-q21.2 duplication encompassing NBPF11 presented with significant language impairment, cognitive delay, and behavioral issues. In another case, a daughter with a 1q21.2 microduplication including NBPF15 and NBPF16 had developmental delay, craniofacial dysmorphism, and congenital heart disease, while her mother with a similar but smaller duplication was asymptomatic.
+
+### **Clinical Variants & Phenotype Associations**
+
+Given that the primary pathogenic events are large CNVs, a list of single variants is not as relevant. Below are examples of pathogenic CNVs involving the NBPF11 region.
+
+*   **GRCh37/hg19 1q21.1-21.2(chr1:145818702-149378266) duplication:** Associated with Delayed speech and language development; classified as Pathogenic in ClinVar.
+*   **GRCh37/hg19 1q21.1-21.2(chr1:145818702-147824207) duplication:** Associated with Mayer-Rokitansky-Kuster-Hauser syndrome; classified as Pathogenic in ClinVar.
+*   **1q21.1 duplication:** Identified in a patient with Dravet syndrome.
+
+### **Tissue Expression & Clinical Relevance**
+
+*   **Highest Expressing Tissues (GTEx TPM):** The NBPF gene family is expressed in a wide variety of tissues, including the brain. GTEx data indicates expression in the cerebellum, cerebral cortex, and frontal lobe.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in various brain regions is consistent with the neurological and developmental phenotypes observed in patients, such as developmental delay, intellectual disability, and behavioral abnormalities.
+*   **Expression During Development:** Expression has been noted in the developing human brain, suggesting a role in neurogenesis and brain development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+
+*   **Normal Gene Function:** NBPF11 belongs to the Neuroblastoma Breakpoint Family of proteins, which are thought to play a role in brain development and evolution.
+*   **Disease Mechanism:** The primary mechanism is thought to be gene dosage effect through haploinsufficiency (deletions) or increased gene product (duplications) affecting downstream pathways.
+*   **Cellular/Molecular Pathways Disrupted:** The NBPF1 protein has been shown to interact with chibby, a protein involved in the Wnt/β-catenin signaling pathway, which is crucial for development. Disruption of this or related pathways could lead to the observed developmental phenotypes.
+
+### **Diagnostic Yield & Clinical Utility**
+
+*   **Diagnostic Yield in Clinical Cohorts:** In cohorts of patients with fever-associated syndromic epilepsies, CNV analysis identified pathogenic or likely pathogenic variants in a significant minority of cases, including a 1q21.1 duplication.
+*   **Most Common Reasons for Testing This Gene:** Testing for CNVs in the 1q21.1 region, including NBPF11, is typically performed for individuals with developmental delay, intellectual disability, congenital malformations, and/or specific craniofacial features.
+*   **Clinical Actionability and Management Implications:** Identification of a 1q21.1 CNV allows for a definitive diagnosis, informs prognosis (with the caveat of variable expressivity), and guides management, which is largely symptomatic. It can also inform surveillance for associated conditions like cardiac anomalies.
+*   **Genetic Counseling Considerations:** Counseling should emphasize the high degree of phenotypic variability and incomplete penetrance. Parental testing is important to determine if the CNV is de novo or inherited, which has implications for recurrence risk in future pregnancies.
+
+### **Key Clinical Literature & Studies**
+
+*   **Vandepoele et al., 2005 (PMID: 15840721):** This historical paper first described the novel and complex NBPF gene family, noting its primate-specific evolution and potential role in genomic instability.
+*   **Brunetti-Pierri et al., 2008 (PMID: 18701889):** A landmark study that first associated recurrent reciprocal 1q21.1 deletions and duplications with microcephaly or macrocephaly and developmental and behavioral abnormalities.
+*   **Meﬀord et al., 2008 (PMID: 18802450):** Concurrently with Brunetti-Pierri et al., this study also described the recurrent 1q21.1 microdeletion and microduplication syndromes and their associated variable phenotypes.
+*   **Zhu and Su, 2021 (PMID: 34616447):** A recent case report highlighting the variable expressivity of a 1q21.2 microduplication involving NBPF genes within a family, supporting the association of this gene family with the clinical features of 1q21 CNV disorders.
+*   **A study on fever-associated syndromic epilepsies (PMID: 26033948):** This study demonstrated that CNVs, including a 1q21.1 duplication, can be an underlying cause of SCN1A-negative fever-associated epilepsy syndromes.
+
+### **HPO-Variant Matching Summary**
+
+*   **High-confidence HPO-variant associations:**
+    *   **1q21.1 duplication:** Strongly associated with macrocephaly (HP:0000256), developmental delay, and intellectual disability.
+    *   **1q21.1 deletion:** Strongly associated with microcephaly (HP:0000252), developmental delay, and intellectual disability.
+*   **Phenotype red flags:** The co-occurrence of either microcephaly or macrocephaly with developmental delay and/or congenital heart disease should raise strong suspicion for a 1q21.1 CNV involving NBPF11.
+*   **Differential diagnosis considerations:** The phenotypes associated with 1q21.1 CNVs overlap with numerous other syndromes. For instance, the fever-associated seizures can overlap with Dravet syndrome caused by SCN1A mutations. The broad developmental and dysmorphic features can be seen in many other chromosomal and single-gene disorders.
+

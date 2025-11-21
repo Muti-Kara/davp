@@ -1,0 +1,66 @@
+MRPL22 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 14480
+- **OMIM Gene ID**: 611835
+- **Primary Disease Associations**: Mutations in *MRPL22* have been associated with primary ovarian insufficiency and more severe mitochondrial disease. One report described a patient with features of Blepharophimosis, ptosis, and epicanthus inversus syndrome (BPES), soft palate cleft, and microcephaly.
+- **Clinical Significance Level**: The level of evidence for disease association is developing, with several case reports linking variants to specific phenotypes.
+- **Inheritance Patterns**: An autosomal recessive inheritance pattern has been observed in patients with primary ovarian insufficiency.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI score of 1.00, suggesting extreme intolerance to loss-of-function (LoF) variation. The loss-of-function observed/expected upper-bound fraction (LOEUF) is low, indicating strong constraint against LoF variants.
+- **Clinical Interpretation of Constraint Scores**: The high pLI and low LOEUF scores indicate that *MRPL22* is highly intolerant to protein-truncating variants, and such variants are likely to be pathogenic.
+- **Variant Classes Most Likely to be Pathogenic**: Based on constraint scores and case reports, loss-of-function variants (such as nonsense and frameshift) and deleterious missense variants are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**:
+    - Primary ovarian insufficiency (HP:0008209)
+    - Amenorrhea (HP:0000141)
+    - Microcephaly (HP:0000252)
+    - Blepharophimosis (HP:0000581)
+    - Ptosis (HP:0000508)
+    - Epicanthus inversus (HP:0000537)
+    - Cleft palate (HP:0000175)
+- **Secondary HPO terms**:
+    - Delayed skeletal maturation (HP:0002750)
+    - Intrauterine growth retardation (HP:0001511)
+    - Craniofacial dysmorphism (HP:0001999)
+    - Developmental delay (HP:0001263)
+- **Age of Onset Patterns**: Phenotypes can manifest from the pre-pubertal period to adolescence. Mouse models indicate that a complete loss of function is embryonic lethal, failing to initiate gastrulation.
+- **Phenotype Severity Spectrum**: The severity ranges from relatively mild, such as primary ovarian insufficiency, to severe multi-systemic mitochondrial disease.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**: Homozygous missense variants have been specifically linked to primary ovarian insufficiency. A homozygous mutation was also identified in a patient with a more complex syndromic presentation including craniofacial anomalies.
+- **Protein Domain-Specific Phenotype Patterns**: The identified missense mutations associated with primary ovarian insufficiency are located in highly conserved residues, suggesting their critical role in protein function.
+- **Genotype-Phenotype Correlation Strength**: There appears to be a notable genotype-phenotype correlation, where certain missense variants result in a less severe phenotype (primary ovarian insufficiency) compared to other mutations that may cause severe mitochondrial disease.
+- **Examples: specific variants → specific phenotypes**:
+    - Homozygous missense variants c.404G>A (p.R135Q) and c.605G>A (p.R202H) are associated with primary ovarian insufficiency in adolescents.
+
+### **Clinical Variants & Phenotype Associations**
+- **Up to 15 well-characterized pathogenic variants**:
+    - c.404G>A (p.Arg135Gln) / Likely pathogenic / Primary ovarian insufficiency (HP:0008209)
+    - c.605G>A (p.Arg202His) / Likely pathogenic / Primary ovarian insufficiency (HP:0008209)
+- **Variants with strongest phenotype evidence**: The homozygous missense variants p.Arg135Gln and p.Arg202His have strong evidence linking them to primary ovarian insufficiency, as they were identified in four females from two independent families.
+- **Novel variants from recent case reports**: The variants causing primary ovarian insufficiency were reported as novel genetic causes.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest expressing tissues (GTEx TPM) and clinical correlation**: *MRPL22* is broadly expressed, with higher levels observed in tissues with high metabolic activity. The Bgee database notes high expression in the heart (left ventricle, right auricle, apex), colon mucosa, and adrenal glands. This broad expression is consistent with its role in fundamental mitochondrial processes.
+- **Tissue-specific phenotypes expected**: The link to primary ovarian insufficiency suggests a tissue-specific vulnerability or a non-bioenergetic mitochondrial defect, as broader mitochondrial dysfunction was not detected in patient fibroblasts. A *Drosophila* model showed that deficiency in germ cells, but not ovarian somatic cells, caused infertility, supporting a cell-autonomous role in germ cell development.
+- **Expression during development and age-related phenotypes**: *MRPL22* is essential for early embryonic development, as homozygous knockout in mice is lethal before gastrulation. It is expressed in human fetal tissues between 10 and 20 weeks of gestation.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal gene function in one sentence**: MRPL22 is a nuclear-encoded protein that is a component of the large 39S subunit of the mitochondrial ribosome, essential for protein synthesis within the mitochondria.
+- **Disease mechanism**: The observed autosomal recessive inheritance pattern for primary ovarian insufficiency suggests a loss-of-function mechanism. The high constraint against LoF variants further supports haploinsufficiency as a likely mechanism for dominant disorders, should any be identified.
+- **Cellular/molecular pathways disrupted → phenotype consequences**: Disruption of MRPL22 impairs mitochondrial translation, which is critical for the synthesis of proteins involved in oxidative phosphorylation. This can lead to mitochondrial dysfunction, which has tissue-specific consequences, such as impacting germ cell development and leading to primary ovarian insufficiency.
+- **Protein-protein interactions relevant to phenotype**: As a component of the mitoribosome, MRPL22 interacts with other mitochondrial ribosomal proteins and rRNAs to facilitate translation.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 29566152, Year: 2018**: Established the first link between homozygous missense mutations in *MRPS22* (an alias/related gene) and primary ovarian insufficiency, highlighting a less severe phenotype than previously expected for mitochondrial ribosomal protein defects.
+- **PMID: 33227914, Year: 2020**: A review that mentions a homozygous mutation in *MRPS22* was found in a patient with Blepharophimosis, ptosis, epicanthus inversus syndrome (BPES), soft palate cleft, and microcephaly, expanding the phenotypic spectrum.
+- **PMID: 28509873, Year: 2017**: A study in mice demonstrating that homozygous knockout of *Mrpl22* results in embryonic lethality, underscoring its critical role in early development.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**:
+    - Homozygous missense variants (p.Arg135Gln, p.Arg202His) are strongly associated with primary ovarian insufficiency (HP:0008209) and amenorrhea (HP:0000141).
+- **Phenotype red flags**: The presentation of primary ovarian insufficiency in an adolescent, especially in the context of consanguinity, should raise suspicion for pathogenic variants in *MRPL22*. The combination of craniofacial abnormalities with developmental delay could also be a significant indicator.
+- **Differential diagnosis considerations**: The phenotype of primary ovarian insufficiency can be caused by mutations in various other genes involved in hormonal signaling and folliculogenesis. The more severe syndromic presentation overlaps with other mitochondrial disorders.
+

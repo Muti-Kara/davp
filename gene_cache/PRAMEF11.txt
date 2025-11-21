@@ -1,0 +1,55 @@
+PRAMEF11 Gene Biomedical Dossier
+### **PRAMEF11 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 14086
+*   **OMIM Gene ID:** Not available.
+*   **Primary Disease Associations:** There are no confirmed disease associations for PRAMEF11 in OMIM. GeneCards lists a potential association with Coats Disease, though the evidence for this is not specified.
+*   **Clinical Significance Level:** The clinical significance of PRAMEF11 is currently unknown. There is a lack of definitive or strong evidence linking this gene to a specific Mendelian disorder.
+*   **Inheritance Patterns:** No established inheritance patterns have been documented due to the absence of confirmed disease associations.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 constraint metrics are not readily available for PRAMEF11. The gnomAD browser is the primary source for these values, and a direct search did not yield specific scores for pLI, LOEUF, pRec, or pNull for this gene. Generally, a pLI score ≥ 0.9 suggests a gene is intolerant to loss-of-function variation. Low LOEUF scores also indicate intolerance to loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** Without specific scores for PRAMEF11, a clinical interpretation is not possible. High pLI and low LOEUF scores would suggest that loss-of-function variants are likely to be pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:** In the absence of known pathogenic variants, it is hypothesized that nonsense and frameshift variants would be most likely to be pathogenic if the gene is intolerant to loss-of-function, a common mechanism for many genetic disorders.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No clinically confirmed HPO terms are associated with PRAMEF11 due to the lack of a defined disease phenotype. The Human Phenotype Ontology provides a standardized vocabulary for clinical abnormalities.
+*   **Secondary HPO terms:** No secondary HPO terms have been documented.
+*   **Age of Onset Patterns:** Information on the age of onset is not available.
+*   **Phenotype Severity Spectrum:** The severity spectrum is unknown.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No established genotype-phenotype correlations currently exist for PRAMEF11.
+*   **Protein Domain-Specific Phenotype Patterns:** Information on protein domains and their specific phenotype patterns is not available.
+*   **Genotype-Phenotype Correlation Strength:** The strength of any genotype-phenotype correlation is currently undefined.
+*   **Examples: Specific Variants → Specific Phenotypes:** There are no reported examples of specific variants leading to defined phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for PRAMEF11 are listed in ClinVar with associated phenotypes. Therefore, a list of well-characterized variants cannot be provided at this time.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas, which incorporates GTEx data, RNA expression of PRAMEF11 is observed in various tissues, but specific standout tissues with high expression are not clearly delineated in the provided search results. One result mentions staining in adipose tissue. Further analysis of GTEx data is needed for a comprehensive expression profile.
+*   **Tissue-Specific Phenotypes Expected:** Without a clear understanding of tissue-specific expression and function, predicting tissue-specific phenotypes is speculative.
+*   **Expression During Development and Age-Related Phenotypes:** Information on the developmental expression of PRAMEF11 is not available.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PRAMEF11 is predicted to be involved in the ubiquitin-proteasome system, potentially acting as a substrate adaptor in a Cul2-RING ubiquitin ligase complex.
+*   **Disease Mechanism:** The disease mechanism is unknown. If variants in this gene were to cause disease, potential mechanisms could include loss-of-function (haploinsufficiency), dominant-negative effects, or gain-of-function, though no evidence for any of these exists.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** As PRAMEF11 is predicted to be involved in protein catabolism, pathogenic variants could disrupt this pathway, leading to the accumulation of specific protein substrates and subsequent cellular dysfunction. The precise downstream phenotypic consequences are unknown.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PRAMEF11 is predicted to be part of a Cul2-RING ubiquitin ligase complex. Interactions with other proteins in this complex would be relevant if a disease phenotype is established.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for PRAMEF11 is currently zero, as it is not a known disease-causing gene.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene is not a standard clinical practice. It might be included in large research-based sequencing panels.
+*   **Clinical Actionability and Management Implications:** There is no known clinical actionability or specific management related to variants in PRAMEF11.
+*   **Genetic Counseling Considerations:** Given the lack of evidence for a role in disease, genetic counseling for variants in PRAMEF11 would emphasize the uncertainty and the current classification as a variant of unknown significance.
+
+**Key Clinical Literature & Studies**
+*   A comprehensive literature search did not yield any publications directly linking PRAMEF11 to a clinical phenotype or establishing genotype-phenotype correlations. [The performed searches did not return any specific publications on PRAMEF11 and its clinical genetics.]
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are no high-confidence HPO-variant associations for PRAMEF11 at this time.
+*   **Phenotype red flags:** No "red flag" HPO terms exist that would strongly suggest pathogenic variants in PRAMEF11.
+*   **Differential diagnosis considerations:** Without a defined phenotype, it is not possible to provide differential diagnosis considerations.
+

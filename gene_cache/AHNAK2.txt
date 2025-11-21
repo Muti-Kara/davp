@@ -1,0 +1,63 @@
+AHNAK2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 20125.
+*   **OMIM Gene ID:** 608570.
+*   **Primary Disease Associations:** The primary disease association for AHNAK2 is with an autosomal recessive form of Charcot-Marie-Tooth disease (CMT). It is also implicated as an oncogene in several cancers, including pancreatic ductal adenocarcinoma, clear cell renal carcinoma, lung adenocarcinoma, gastric cancer, bladder cancer, and uveal melanoma.
+*   **Clinical Significance Level:** The evidence for its role in Charcot-Marie-Tooth disease is currently classified as "Limited" by the Gene Curation Coalition (GenCC). Its association with various cancers is established through multiple expression and prognostic studies.
+*   **Inheritance Patterns:** For Charcot-Marie-Tooth disease, the observed inheritance pattern is autosomal recessive. In the context of cancer, its role is related to somatic expression levels rather than inheritance.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, the pLI score for AHNAK2 is 0.00, suggesting it is not extremely intolerant of protein-truncating variants. The observed/expected (o/e) score for loss-of-function (LoF) variants is 1.04. The pRec score is 0.000 and the pNull score is 1.00.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and o/e close to 1.0 indicate that the gene is tolerant to heterozygous loss-of-function variants in the general population. This is consistent with a recessive inheritance pattern for its associated Mendelian disease.
+*   **Variant Classes Most Likely to be Pathogenic:** For its role in Charcot-Marie-Tooth disease, biallelic variants (homozygous or compound heterozygous), including missense and frameshift mutations, are implicated. In cancer, overexpression (gain-of-function) is the primary oncogenic mechanism.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** Limited information is available linking specific HPO terms directly to AHNAK2 variants in large cohorts. However, based on case reports for neurodevelopmental disorders, associated terms include Epilepsy (HP:0001250), Psychomotor development delay (HP:0001263), Hypotonia (HP:0001252), and congenital heart disease. For Charcot-Marie-Tooth disease, expected terms would relate to peripheral neuropathy.
+*   **Secondary HPO terms:** Additional features reported in a patient with compound heterozygous missense mutations included a cardio-facio-cutaneous-like phenotype, atopic dermatitis, and facial dysmorphism. Other reported features include abnormality of neuronal migration and skeletal deformities.
+*   **Age of Onset Patterns:** The age of onset for the reported neurodevelopmental phenotype with epilepsy was in childhood. Charcot-Marie-Tooth disease typically manifests in the first or second decade of life. Cancer is typically a disease of adulthood.
+*   **Phenotype Severity Spectrum:** The severity of phenotypes associated with AHNAK2 variants is not well established due to the limited number of reported cases. A case with a neurodevelopmental disorder was described as having a severe phenotype.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Autosomal recessive loss-of-function variants (missense, frameshift) have been associated with Charcot-Marie-Tooth disease and a cardio-facio-cutaneous-like syndrome with neurological involvement. Increased expression of AHNAK2 is associated with poor prognosis and metastasis in various cancers.
+*   **Protein Domain-Specific Phenotype Patterns:** The AHNAK2 protein has a tripartite structure with an N-terminal PDZ-like domain, a large central repeat region, and a C-terminal domain. Specific correlations between variant location and phenotype have not yet been clearly established.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently considered moderate for its association with autosomal recessive neuropathies and neurodevelopmental disorders due to the small number of reported cases. The correlation between high expression and cancer prognosis is supported by numerous studies.
+*   **Examples: Specific Variants → Specific Phenotypes:** Compound heterozygous missense mutations, c.1198G>A (p.Gly400Ser) and c.16379T>C (p.Ile5460Thr), were identified in a patient with a cardio-facio-cutaneous-like phenotype, epilepsy, and psychomotor delay.
+
+### **Clinical Variants & Phenotype Associations**
+*   No extensively characterized pathogenic variants with high-frequency reporting are available in ClinVar for Mendelian disease. The variants reported are primarily from individual case studies.
+*   **c.1198G>A (p.Gly400Ser) / missense / VUS:** Associated with a cardio-facio-cutaneous-like phenotype and epilepsy in a compound heterozygous state; allele frequency is not reported.
+*   **c.16379T>C (p.Ile5460Thr) / missense / VUS:** Found in a compound heterozygous state with the p.Gly400Ser variant in a patient with a CFC-like phenotype.
+*   A frameshift mutation has been linked to dysmorphic features and skeletal deformities.
+*   A missense variant, **c.2695G>T (p.Val899Leu) / VUS,** has been associated with an abnormality of neuronal migration.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, AHNAK2 shows the highest mRNA expression in the skin (both sun-exposed and non-sun-exposed areas). Protein expression is distinct in squamous epithelia, respiratory epithelia, smooth muscle, and neuropil.
+*   **Tissue-Specific Phenotypes Expected:** Expression in the neuropil is consistent with the neurological phenotypes observed, such as peripheral neuropathy and neurodevelopmental disorders. High expression in various epithelial tissues aligns with its role in multiple adenocarcinomas.
+*   **Expression During Development and Age-Related Phenotypes:** While specific developmental expression data is limited, its role in congenital heart disease and neurodevelopmental disorders suggests importance during embryogenesis.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The AHNAK2 gene encodes a very large nucleoprotein that may be involved in calcium signaling and the structural linkage of the muscle cell cytoskeleton to the plasma membrane.
+*   **Disease Mechanism:** For Mendelian disorders, the mechanism is likely loss-of-function in an autosomal recessive pattern. In cancer, the mechanism is gain-of-function, where overexpression promotes tumorigenesis and metastasis.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In cancer, AHNAK2 overexpression is linked to the PI3K/AKT/mTOR pathway, hypoxia-induced epithelial-mesenchymal transition (EMT), and the c-MET signaling pathway, leading to increased cell proliferation, migration, and survival. Its potential role in calcium signaling could underlie the neurological phenotypes.
+*   **Protein-Protein Interactions Relevant to Phenotype:** AHNAK2 is known to form homodimers via its PDZ-like domain. It interacts with fibroblast growth factor 1 (FGF1) in a stress-induced secretion pathway and may interact with calcium channel proteins. In cancer, it can modulate the stability of the c-MET protein.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for AHNAK2 variants in cohorts with suspected hereditary disease is low. It has been identified as a candidate gene in studies of congenital heart disease and nephrotic syndrome, but its definitive causal role in these cohorts is not yet established.
+*   **Most Common Reasons for Testing This Gene:** Testing for AHNAK2 may be considered in patients with clinical features of Charcot-Marie-Tooth disease where more common genetic causes have been excluded, or in individuals with complex neurodevelopmental syndromes.
+*   **Clinical Actionability and Management Implications:** For patients with a diagnosis related to AHNAK2, management is supportive and based on the phenotype (e.g., physical therapy for neuropathy, anti-seizure medication for epilepsy). There are currently no targeted therapies for AHNAK2-related Mendelian disorders. In cancer, high AHNAK2 expression may serve as a poor prognostic marker.
+*   **Genetic Counseling Considerations:** For families with biallelic pathogenic variants, genetic counseling would focus on the autosomal recessive inheritance pattern, with a 25% recurrence risk for future offspring.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35789128, 2022:** Reported compound heterozygous missense mutations in a patient with a cardio-facio-cutaneous-like phenotype, epilepsy, and psychomotor developmental delay, expanding the known phenotypic spectrum.
+*   **PMID: 31215093, 2019:** First identified AHNAK2 as a novel genetic cause for autosomal recessive Charcot-Marie-Tooth disease in a Malaysian family through linkage analysis and whole-exome sequencing.
+*   **PMID: 28600779, 2017:** A study on genetic diseases in Saudi Arabia identified a frameshift AHNAK2 mutation associated with dysmorphic features and skeletal deformities.
+*   **PMID: 28279935, 2017:** Demonstrated that AHNAK2 is upregulated in clear cell renal cell carcinoma, promotes tumorigenesis and progression, and is linked to the hypoxia pathway, suggesting it as a prognostic marker and oncogenic protein.
+*   **PMID: 32821425, 2020:** Showed AHNAK2 is upregulated and associated with poor prognosis and cell migration in lung adenocarcinoma.
+*   **PMID: 32968434, 2020:** A bioinformatic analysis identifying AHNAK2 as a diagnostic and prognostic biomarker for papillary thyroid carcinoma, potentially acting through immune-related pathways.
+*   **PMID: 36746884, 2023:** Found AHNAK2 promotes pancreatic ductal adenocarcinoma progression by stabilizing the c-MET protein, suggesting it as a therapeutic target.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations due to the limited number of reported cases. Existing evidence points to biallelic loss-of-function variants causing a spectrum of neurological disorders.
+*   **Phenotype red flags:** The combination of a peripheral neuropathy (consistent with Charcot-Marie-Tooth disease) or a complex neurodevelopmental disorder with features like epilepsy, developmental delay, and congenital anomalies in a patient with biallelic variants in AHNAK2 should raise suspicion.
+*   **Differential diagnosis considerations:** The phenotype of Charcot-Marie-Tooth disease caused by AHNAK2 overlaps with other forms of CMT. The reported cardio-facio-cutaneous-like syndrome overlaps with the RASopathies, though the inheritance pattern (autosomal recessive for AHNAK2) is a key differentiator.
+

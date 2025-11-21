@@ -1,0 +1,89 @@
+CHRNA7 Gene Biomedical Dossier
+### **Gene Dossier: CHRNA7**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 1960.
+*   **OMIM Gene ID:** 118511.
+*   **Primary Disease Associations:** 15q13.3 microdeletion syndrome (OMIM #612001) is the primary disease associated with alterations in *CHRNA7*. The gene is also implicated in a spectrum of neurodevelopmental and neuropsychiatric conditions including Autism Spectrum Disorder (ASD), schizophrenia, intellectual disability (ID), epilepsy, and Attention-Deficit/Hyperactivity Disorder (ADHD).
+*   **Clinical Significance Level:** The role of *CHRNA7* deletion in the 15q13.3 microdeletion syndrome phenotype is well-established. However, the pathogenicity of duplications is less certain due to variable expressivity and incomplete penetrance.
+*   **Inheritance Patterns:** The 15q13.3 microdeletion syndrome is inherited in an autosomal dominant manner, though many cases arise *de novo*. Duplications are more frequently inherited from an unaffected parent, complicating clinical interpretation.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, *CHRNA7* has a probability of being loss-of-function intolerant (pLI) score of 0.00, indicating it is tolerant to loss-of-function (LoF) variation. The loss-of-function observed/expected upper-bound fraction (LOEUF) score is 1.08. The gene is not predicted to be associated with recessive disease (pRec = 0.02).
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores suggest that heterozygous loss-of-function point mutations within the general population are tolerated and that haploinsufficiency from sequence variants is not a common disease mechanism. This contrasts with the known pathogenicity of whole-gene deletions via CNV.
+*   **Variant Classes Most Likely to be Pathogenic:** Copy number variations (CNVs), specifically microdeletions encompassing the entire gene, are the primary pathogenic variant class. The role of individual missense or nonsense variants is less clear, though rare promoter variants that reduce transcription have been noted in ASD cases.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Intellectual disability (HP:0001249).
+    *   Seizures (HP:0001250).
+    *   Delayed speech and language development (HP:0000750).
+    *   Autism spectrum disorder (HP:0100711).
+    *   Hypotonia (HP:0001252).
+    *   Attention deficit hyperactivity disorder (HP:0007018).
+    *   Schizophrenia (HP:0100753).
+    *   Developmental regression (HP:0002376).
+    *   Motor delay (HP:0001270).
+    *   Anxiety (HP:0000739).
+    *   Aggressive behavior (HP:0100718).
+    *   Short stature (HP:0004322).
+    *   Mood disorders (HP:0000708).
+*   **Secondary HPO terms:**
+    *   Obsessive-compulsive behavior (HP:0000722).
+    *   Bipolar disorder (HP:0007302).
+    *   Tourette syndrome (HP:0001282).
+    *   Abnormality of brain morphology (HP:0002011).
+    *   Dyslexia (HP:0002336).
+*   **Age of Onset Patterns:** Phenotypes are typically identified in childhood due to the presentation of developmental delay, intellectual disability, and seizures. Neuropsychiatric features like schizophrenia may manifest in adolescence or early adulthood.
+*   **Phenotype Severity Spectrum:** The clinical presentation is highly variable. Deletions generally cause more severe and highly penetrant phenotypes compared to duplications. Individuals with zero to four copies of *CHRNA7* have been reported, showing a range of clinical severity.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Deletions (Haploinsufficiency):** Heterozygous deletions are strongly associated with intellectual disability, seizures, and developmental delay (15q13.3 microdeletion syndrome).
+    *   **Duplications:** Associated with a wider, more variable spectrum of neuropsychiatric phenotypes including ASD, ADHD, schizophrenia, and mood disorders. Penetrance is incomplete and expressivity is highly variable.
+    *   **Triplications:** A three-generation family with *CHRNA7* triplication displayed various neuropsychiatric phenotypes, including anxiety, bipolar disorder, and developmental delay, providing further evidence for dosage sensitivity.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between 15q13.3 microdeletions and a core phenotype of ID, epilepsy, and developmental delay is strong. The correlation for duplications and neuropsychiatric disorders is considered moderate due to incomplete penetrance and variable expressivity.
+*   **Examples: specific variants → specific phenotypes:** The phenotype is primarily linked to copy number of the entire gene rather than specific intragenic variants. The 1.5 Mb deletion at 15q13.3 (Type 1) is the recurrent CNV encompassing *CHRNA7* that causes the associated syndrome.
+
+**Clinical Variants & Phenotype Associations**
+Given that the primary pathogenic mechanism is CNV, a list of single nucleotide variants is not the most clinically relevant representation. The critical pathogenic variant is the recurrent microdeletion at chromosome 15q13.3.
+*   **Variant:** nsv469778 (representative of the 1.5 Mb 15q13.3 microdeletion).
+*   **Type:** Copy number loss / deletion.
+*   **ClinVar Significance:** Pathogenic.
+*   **Reported Phenotypes:** Intellectual disability (HP:0001249), Seizures (HP:0001250), Delayed speech and language development (HP:0000750), Hypotonia (HP:0001252), Autism spectrum disorder (HP:0100711).
+*   **AF:** Frequency in the general population is low, but it is one of the more common pathogenic CNVs.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, *CHRNA7* shows notable expression in the brain (especially cerebellum), adrenal gland, and pituitary gland. It is also expressed in the lung, spleen, and skin.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the brain, particularly the hippocampus, aligns with the observed neurodevelopmental and neuropsychiatric phenotypes like cognitive deficits, seizures, learning, and memory problems. Expression in immune cells is relevant to its role in the cholinergic anti-inflammatory pathway.
+*   **Expression During Development and Age-Related Phenotypes:** The gene is critical during neurodevelopment, which explains the childhood onset of many associated phenotypes. Its ongoing role in synaptic plasticity and neurotransmitter release throughout life contributes to the manifestation of psychiatric disorders in adolescence and adulthood.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The *CHRNA7* gene encodes the alpha-7 subunit of the nicotinic acetylcholine receptor (α7-nAChR), a ligand-gated ion channel that, upon binding acetylcholine, opens to allow the influx of cations, including a high permeability to calcium.
+*   **Disease Mechanism:**
+    *   **Haploinsufficiency:** Deletion of one copy of *CHRNA7* leads to a reduced dosage of the α7-nAChR protein, which is the primary mechanism for 15q13.3 microdeletion syndrome.
+    *   **Gene Dosage Effect:** Both deletions and duplications/triplications result in altered gene dosage, demonstrating that the human brain is highly sensitive to the amount of *CHRNA7* product. Unexpectedly, both deletions and duplications have been shown to lead to decreased α7-nAChR-associated calcium flux in cellular models.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *CHRNA7* impacts cholinergic synaptic transmission and calcium signaling. This impairs neurotransmitter release, synaptic plasticity, and neuronal excitability, leading to cognitive deficits (learning/memory), seizures, and behavioral abnormalities. The gene is also a key component of the "cholinergic anti-inflammatory pathway," which modulates systemic inflammation.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The partially duplicated gene *CHRFAM7A* can form a hybrid transcript that acts as a dominant-negative regulator of α7-nAChR function, reducing the number of functional receptors and potentially modifying the phenotype.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Deletions of *CHRNA7* are found in approximately 1% of patients with idiopathic generalized epilepsies. The 15q13.3 microdeletion is a recurrent finding in cohorts of individuals with intellectual disability, ASD, and schizophrenia.
+*   **Most Common Reasons for Testing This Gene:** Testing for *CHRNA7* CNVs (via chromosomal microarray) is indicated for patients with unexplained intellectual disability, developmental delay, seizures, autism spectrum disorder, or schizophrenia.
+*   **Clinical Actionability and Management Implications:** Identification of a pathogenic *CHRNA7* CNV confirms a genetic diagnosis, allowing for anticipatory guidance and management of associated features like seizures and developmental delays. It can also inform prognosis and family planning.
+*   **Genetic Counseling Considerations:** Counseling should address the concepts of autosomal dominant inheritance, *de novo* occurrence, incomplete penetrance, and variable expressivity, particularly for duplications. The possibility of an unaffected carrier parent must be discussed.
+
+**Key Clinical Literature & Studies**
+*   **Sharp, A.J. et al. (2008). *Nat Genet*. PMID: 18536732.** A landmark paper that first described the 15q13.3 microdeletion syndrome as a novel recurrent genomic disorder associated with ID and epilepsy, identifying *CHRNA7* as a key candidate gene.
+*   **van Bon, B.W.M. et al. (2009). *Nat Genet*. PMID: 19802031.** This study expanded the phenotypic spectrum associated with 15q13.3 microdeletions and microduplications, highlighting the wide range of neurodevelopmental outcomes.
+*   **Soler-Alfonso, C. et al. (2014). *Eur J Hum Genet*. PMID: 24424110.** The first report of a *CHRNA7* triplication co-segregating with neuropsychiatric phenotypes in a family, reinforcing the gene's dosage sensitivity.
+*   **Gillentine, M.A. & Schaaf, C.P. (2015). *Biochem Pharmacol*. PMID: 26095975.** A comprehensive review summarizing the clinical phenotypes associated with altered *CHRNA7* copy number (from zero to four copies), clarifying genotype-phenotype correlations.
+*   **Gillentine, M.A. et al. (2017). *J Neurodev Disord*. PMID: 28932289.** This study detailed the clinical and behavioral phenotypes of 18 children with *CHRNA7* duplications, emphasizing the variable expressivity and incomplete penetrance.
+*   **Masi, A. et al. (2015). *Am J Med Genet B*. PMID: 25656121.** This was the first study to perform sequence variant analysis of *CHRNA7* in an ASD cohort, highlighting the technical challenges due to the *CHRFAM7A* fusion gene and identifying rare, functional promoter variants.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   A heterozygous microdeletion of *CHRNA7* is strongly associated with a core phenotype of Intellectual disability (HP:0001249), Seizures (HP:0001250), and Delayed speech and language development (HP:0000750).
+    *   A heterozygous microduplication of *CHRNA7* is associated with a broader, more variable phenotype that includes Autism spectrum disorder (HP:0100711), ADHD (HP:0007018), and Schizophrenia (HP:0100753), but with incomplete penetrance.
+*   **Phenotype red flags:** The combination of intellectual disability, early-onset seizures (especially idiopathic generalized epilepsy), and features of ASD should strongly suggest testing for a 15q13.3 CNV involving *CHRNA7*.
+*   **Differential diagnosis considerations:** The phenotype of 15q13.3 microdeletion syndrome overlaps with other genomic disorders and epilepsy syndromes. The broad neuropsychiatric phenotypes seen with *CHRNA7* duplications overlap with numerous other genetic and multifactorial conditions.
+

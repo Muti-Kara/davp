@@ -1,0 +1,124 @@
+IGHMBP2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 5542.
+*   **OMIM Gene ID:** 600502.
+*   **Primary Disease Associations:**
+    *   Spinal muscular atrophy with respiratory distress type 1 (SMARD1), also known as distal hereditary motor neuronopathy type 6 (HMN6).
+    *   Charcot-Marie-Tooth disease, axonal, type 2S (CMT2S).
+*   **Clinical Significance Level:** Pathogenic variants in IGHMBP2 are a well-established cause of SMARD1 and CMT2S.
+*   **Inheritance Patterns:** The mode of inheritance for IGHMBP2-related disorders is autosomal recessive.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint scores from gnomAD for IGHMBP2 were not available in the provided search results. However, LOEUF scores are used as a continuous metric to measure a gene's intolerance to loss-of-function variation, with lower scores indicating higher constraint.
+*   **Clinical Interpretation of Constraint:** Genes with high constraint scores (e.g., pLI ≥ 0.9 or low LOEUF) are often associated with dominant diseases with haploinsufficiency. The recessive nature of IGHMBP2 disorders suggests it is not haploinsufficient, but biallelic loss-of-function is pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:**
+    *   Loss-of-function variants (nonsense, frameshift, splice site) are commonly pathogenic.
+    *   Missense variants, particularly when located in the helicase domain, are frequently associated with the severe SMARD1 phenotype.
+    *   The complete loss-of-function of the IGHMBP2 gene is thought to be a primary cause of SMARD1.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0001262: Distal muscle weakness.
+    *   HP:0001270: Motor delay.
+    *   HP:0002094: Respiratory insufficiency due to muscle weakness.
+    *   HP:0003324: Diaphragmatic paralysis/paresis.
+    *   HP:0001284: Areflexia.
+    *   HP:0001265: Hyporeflexia.
+    *   HP:0003477: Distal amyotrophy.
+    *   HP:0002515: Foot deformity.
+    *   HP:0001765: Pes cavus.
+    *   HP:0007256: Axonal neuropathy.
+    *   HP:0002875: Respiratory failure.
+    *   HP:0001511: Intrauterine growth retardation.
+    *   HP:0002194: Delayed gross motor development.
+    *   HP:0001250: Seizures.
+    *   HP:0001635: Cardiomyopathy.
+*   **Secondary HPO terms:**
+    *   HP:0001263: Global developmental delay.
+    *   HP:0100521: Intellectual disability.
+    *   HP:0001643: Patent ductus arteriosus.
+    *   HP:0001629: Ventricular septal defect.
+    *   HP:0009830: Peripheral neuropathy.
+    *   HP:0003202: Sensorineural hearing impairment.
+    *   HP:0002750: Delayed skeletal maturation.
+    *   HP:0003236: Anhidrosis/Hypohidrosis.
+    *   HP:0000545: Myopia.
+*   **Age of Onset Patterns:**
+    *   **Infantile:** SMARD1 typically presents in infancy, between 6 weeks and 6 months of age, with acute respiratory distress.
+    *   **Childhood:** CMT2S usually presents in the first decade with a slowly progressive neuropathy. Later-onset SMARD1 cases have also been reported.
+*   **Phenotype Severity Spectrum:**
+    *   **Severe:** The classic SMARD1 phenotype is severe and often fatal in infancy due to respiratory failure.
+    *   **Moderate/Mild:** CMT2S follows a milder clinical course without primary respiratory involvement. A clinical spectrum exists, with some patients having atypical or intermediate phenotypes.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Mutations associated with SMARD1 are frequently missense variants located within the helicase domain. Biallelic null mutations (e.g., two truncating variants) are strongly associated with the severe SMARD1 phenotype.
+    *   The CMT2S phenotype is often caused by a combination of a nonsense or frameshift mutation in the 5' region and a truncating, missense, or homozygous frameshift mutation in the last exon.
+*   **Protein Domain-Specific Phenotype Patterns:**
+    *   Most pathogenic mutations are located in the helicase and R3H domains. Variants in the helicase domain are often linked to severe clinical phenotypes due to their impact on ATPase activity.
+*   **Genotype-Phenotype Correlation Strength:**
+    *   **Strong:** There is a strong correlation between the type and location of IGHMBP2 variants and the resulting clinical phenotype (SMARD1 vs. CMT2S). This correlation is linked to the level of residual IGHMBP2 protein function.
+    *   CMT2S patients have significantly higher residual IGHMBP2 protein levels compared to SMARD1 patients.
+*   **Examples: specific variants → specific phenotypes:**
+    *   Compound heterozygous variants c.1235+3A>G and c.1334A>C have been reported in patients with both SMARD1 and CMT2S, suggesting the influence of other genetic or environmental modifiers.
+    *   A homozygous frameshift variant c.2568_2569del (p.Gly857Alafs*27) resulted in CMT2S without respiratory distress.
+    *   Compound heterozygosity for a frameshift c.407_408del and a missense c.1737C>A (p.F579L) was identified in a patient with SMARD1.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Pathogenic Variants (Examples):**
+    *   **HGVS:** NM_002180.3:c.407_408del (p.Ala140Glnfs*1) / **Significance:** Pathogenic / **Phenotypes:** SMARD1.
+    *   **HGVS:** NM_002180.3:c.1737C>A (p.Phe579Leu) / **Significance:** Uncertain Significance, but reported in SMARD1 patients / **Phenotypes:** SMARD1.
+    *   **HGVS:** NM_002180.3:c.2568_2569del (p.Gly857Alafs*27) / **Significance:** Pathogenic (novel) / **Phenotypes:** CMT2S, progressive sensorimotor neuropathy, absent deep tendon reflexes.
+    *   **HGVS:** NM_002180.3:c.1235+3A>G / **Significance:** Pathogenic / **Phenotypes:** SMARD1, CMT2S.
+    *   **HGVS:** NM_002180.3:c.1334A>C (p.His445Pro) / **Significance:** Likely Pathogenic / **Phenotypes:** SMARD1, CMT2S.
+    *   **HGVS:** NM_002180.3:c.1574T>C (p.Leu525Pro) / **Significance:** Pathogenic (novel) / **Phenotypes:** SMARD1.
+    *   **HGVS:** NM_002180.3:c.1813C>T (p.Arg605Ter) / **Significance:** Pathogenic / **Phenotypes:** SMARD1, CMT2S.
+    *   **HGVS:** NM_002180.3:c.2623C>T (p.Arg788Ter) / **Significance:** Pathogenic / **Phenotypes:** CMT2S.
+*   **Variants with Strongest Phenotype Evidence:** Biallelic null or helicase domain missense variants are strongly associated with SMARD1. According to ClinVar, there are over 140 pathogenic/likely pathogenic variants reported in IGHMBP2.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** IGHMBP2 is ubiquitously expressed, but the highest expression levels are observed in the brain and spinal cord.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in motor neurons is consistent with the primary pathology of SMARD1 and CMT2S, which involves the degeneration of spinal cord motor neurons and peripheral nerves. Pathological symptoms are largely restricted to neural and muscle tissue.
+*   **Expression During Development:** IGHMBP2 is critical for the development and maintenance of the nervous system, particularly for the survival of motor neurons.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** IGHMBP2 encodes a 5' to 3' ATP-dependent helicase that unwinds DNA and RNA and is involved in transcription, ribosome biogenesis, and translation.
+*   **Disease Mechanism:** The primary disease mechanism is loss-of-function. The severity of the disease (SMARD1 vs. CMT2S) correlates inversely with the amount of residual IGHMBP2 protein.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of IGHMBP2's role in the translational machinery, including its physical association with tRNAs and ribosomal proteins, is thought to underlie motor neuron degeneration.
+    *   Loss of IGHMBP2 modestly reduces global translation and leads to chronic activation of the Integrated Stress Response (ISR) pathway, a cellular response implicated in neurodegenerative diseases.
+*   **Protein-Protein Interactions Relevant to Phenotype:** IGHMBP2 interacts with components of the translational machinery, including ABT1 (required for ribosome biogenesis), and transcription factor IIIC.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In patients with diseases related to IGHMBP2 mutations, SMARD1 is the more commonly identified phenotype, accounting for approximately 71% of cases.
+*   **Most Common Reasons for Testing This Gene:**
+    *   Infants presenting with acute respiratory failure, diaphragmatic paralysis, and distal muscle weakness, especially if SMN1 testing is negative.
+    *   Children with a progressive, axonal, sensorimotor neuropathy consistent with Charcot-Marie-Tooth disease.
+*   **Clinical Actionability and Management Implications:**
+    *   Diagnosis is critical for management, which includes respiratory support (often mechanical ventilation for SMARD1), physical therapy, and nutritional support.
+    *   Gene therapy approaches using AAV9 vectors to deliver functional IGHMBP2 have shown promise in mouse models, extending lifespan and improving motor function.
+*   **Genetic Counseling Considerations:** Counseling for autosomal recessive inheritance is indicated. Given the significant phenotypic variability, even between siblings with the same mutations, predicting the precise clinical course can be challenging.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 40353295 (2025):** Expands the known clinical and genetic spectrum of IGHMBP2 disorders, highlights genotype-phenotype correlations between SMARD1 and AR-CMT2S, and identifies novel variants.
+*   **PMID: 38472481 (2024):** Review describing the current understanding of the molecular mechanisms underlying IGHMBP2-related neurodegenerative diseases, emphasizing its helicase function in multiple cellular processes.
+*   **PMID: 38813354 (2024):** Case report of a novel homozygous frameshift variant (c.2568_2569del) causing CMT2S, expanding the phenotypic spectrum of IGHMBP2-related disease.
+*   **PMID: 38817757 (2024):** Reports on SMARD1 caused by compound heterozygous variants (c.407_408del and c.1737C>A), highlighting the correlation between residual protein levels and clinical severity.
+*   **PMID: 38352697 (2024):** First report of IGHMBP2 disorders in Vietnam, identifying a novel variant (p.Leu525Pro) and observing different phenotypes (SMARD1 vs. CMT2S) in patients with the same genotype, suggesting the role of genetic modifiers.
+*   **PMID: 37974917 (2023):** Systematic review finding that SMARD1 accounts for 71% of IGHMBP2-related disease and that complete loss-of-function is likely the mechanism for severe SMARD1.
+*   **PMID: 36070005 (2022):** Used a yeast model to validate the pathogenicity of IGHMBP2 missense variants, showing a correlation between in-vitro functional impairment and clinical phenotype.
+*   **PMID: 19158098 (2009):** Landmark study providing biochemical evidence for the role of IGHMBP2 in the translational machinery through its association with tRNAs and ribosome biogenesis factors.
+*   **Grohmann et al. (2001) *(not in provided search results, but historically significant)*:** First identified IGHMBP2 as the causative gene for SMARD1.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:**
+    *   Biallelic null mutations (frameshift, nonsense) or compound heterozygosity with a severe missense variant in the helicase domain strongly predicts a SMARD1 phenotype, characterized by early-onset respiratory failure (HP:0002875), diaphragmatic paralysis (HP:0003324), and distal amyotrophy (HP:0003477).
+    *   Compound heterozygous variants with predicted higher residual protein function (e.g., specific missense/splice variants or a null variant combined with a less severe allele) are associated with the milder CMT2S phenotype, primarily featuring axonal neuropathy (HP:0007256) and distal muscle weakness (HP:0001262) without significant respiratory distress.
+*   **Phenotype Red Flags:**
+    *   The combination of infantile-onset (HP:0003593) acute respiratory distress (HP:0002094) with symmetrical distal muscle weakness (HP:0001262) is highly suggestive of SMARD1 and warrants immediate IGHMBP2 testing if SMN1 is normal.
+    *   Progressive distal limb weakness and atrophy with areflexia beginning in childhood is a strong indicator for CMT2S.
+*   **Differential Diagnosis Considerations:**
+    *   **Spinal Muscular Atrophy (SMA):** Caused by SMN1 mutations. SMARD1 should be considered when SMA testing is negative in a patient with a compatible phenotype.
+    *   **Other Charcot-Marie-Tooth (CMT) subtypes:** Axonal CMT has extensive genetic heterogeneity; overlapping phenotypes require broad gene panel testing or exome sequencing.
+    *   **Congenital Myopathies, Guillain-Barré Syndrome, and Mitochondrial Myopathy:** These should be considered in the differential for infants and children with significant muscle weakness and/or respiratory failure.
+

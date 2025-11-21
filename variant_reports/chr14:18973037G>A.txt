@@ -1,0 +1,62 @@
+=== chr14:18973037G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs757757111
+• Chromosome: 14
+• Position: 18973037
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: POTEM
+• Databases: rs757757111, COSV69153721
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.2521
+• gnomADg Allele Frequency: 0.26930000000000004
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004529: lipid measurement - A measure of circulating lipid
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 22309128) -> Associated GWAS: GWAS_EFO_0004529
+Entity: ChromHMM State (ID: 21067927) -> Associated GWAS: GWAS_EFO_0004529
+Entity: ChromHMM State (ID: 19333827) -> Associated GWAS: GWAS_EFO_0004529
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 802
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 130
+• Uncertain Significance: 671
+• Other Classifications: 1
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=3)
+
+

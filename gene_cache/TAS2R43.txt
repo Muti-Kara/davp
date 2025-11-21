@@ -1,0 +1,70 @@
+TAS2R43 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 18875.
+*   **OMIM Gene ID:** 612668.
+*   **Primary Disease Associations:** No definitive monogenic disease associations have been established. Variants are primarily associated with sensory traits like taste perception.
+*   **Clinical Significance Level:** The clinical significance for disease is currently unknown or not established; it is primarily studied for its role in sensory perception and population-based traits.
+*   **Inheritance Patterns:** Not applicable for a Mendelian disease; trait associations are studied in population cohorts.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The search did not yield specific gnomAD constraint metric values for TAS2R43.
+*   **Clinical Interpretation of Constraint Scores:** A high pLI (e.g., ≥ 0.9) or a low LOEUF (e.g., < 0.35) score would indicate that a gene is intolerant to loss-of-function (LoF) variants, making such variants more likely to be pathogenic. Given the functional redundancy among bitter taste receptors, TAS2R43 is not expected to be highly constrained against LoF variation.
+*   **Variant Classes Most Likely to be Pathogenic:** For genes intolerant to LoF, pathogenic variants are typically protein-truncating (nonsense, frameshift) or critical missense variants. For TAS2R43, "pathogenicity" relates to altered function (e.g., taste perception), with missense variants being well-studied.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are consistently associated with variants in TAS2R43 in the context of clinical disease. Phenotypes are related to sensory perception rather than pathology.
+*   **Associated Traits (not HPO-coded):**
+    *   Variation in coffee liking.
+    *   Altered perception of caffeine bitterness.
+    *   Sensitivity to the bitterness of the artificial sweetener saccharin.
+    *   Potential association with susceptibility to Balkan Endemic Nephropathy (BEN).
+    *   Potential association with phantogeusia (phantom taste).
+*   **Age of Onset Patterns:** Not applicable.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Missense variants:** Function-altering missense variants are associated with significant changes in the perception of bitter compounds like caffeine.
+*   **Genotype-Phenotype Correlation Strength:** Strong correlation exists between specific missense variants and caffeine taste perception.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   **H212R (rs71443637):** This variant, which reduces in vitro protein activity, is significantly associated with coffee liking and mediates the perception of caffeine bitterness. The functional (wild-type) allele is associated with higher coffee liking.
+    *   **W35S (rs68157013):** This functional variant largely diminishes protein activity in vitro and is associated with coffee liking, but a direct link to caffeine perception was not established in one study.
+
+### **Clinical Variants & Phenotype Associations**
+*   No variants with a ClinVar significance of "pathogenic" for a Mendelian disease were identified in the search results. Variants are associated with traits and have a "benign" or "likely benign" classification in the context of disease.
+*   **Key Trait-Associated Variants:**
+    *   **rs71443637 (H212R):** Associated with coffee liking and caffeine bitterness perception.
+    *   **rs68157013 (W35S):** Associated with coffee liking; causes diminished protein function.
+    *   **rs35720106 (synonymous):** Associated with coffee liking, likely due to strong linkage disequilibrium with rs71443637.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues:** Expression has been noted in the testicle, muscle of the thigh, tonsil, and apex of the heart.
+*   **Extra-oral Expression:** Like other TAS2Rs, TAS2R43 is expressed outside the oral cavity, including in airway epithelial cells, the gastrointestinal tract, and the intestine, suggesting roles beyond taste perception.
+*   **Tissue-Specific Phenotypes:**
+    *   **Airway cells:** In airway cilia, binding of bitter compounds increases intracellular calcium and ciliary beat frequency, suggesting a role in innate immune defense.
+    *   **Intestine:** Expression in the gut suggests a role in modulating innate immune responses and metabolic regulation.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** TAS2R43 is a G protein-coupled receptor that detects bitter compounds, including caffeine and certain artificial sweeteners.
+*   **Disease Mechanism:** Not associated with a classic disease mechanism. Altered function due to genetic variants leads to changes in sensory perception and may influence dietary choices or susceptibility to environmental toxins. Loss-of-function may be compensated by other redundant bitter taste receptors.
+*   **Cellular/Molecular Pathways Disrupted:** The receptor signals through a G protein (gustducin), activating phospholipase C beta 2 (PLCB2), which leads to an increase in intracellular calcium and activation of the TRPM5 ion channel, culminating in neurotransmitter release or cellular responses like increased ciliary beat.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Zero; this gene is not currently used for the diagnosis of any Mendelian disorder.
+*   **Most Common Reasons for Testing:** Genetic testing is performed in a research context to study taste perception, food preference, and potential associations with complex traits or diseases like Balkan Endemic Nephropathy.
+*   **Clinical Actionability and Management Implications:** None at present. Understanding an individual's genotype could have future applications in personalized nutrition or pharmacogenomics.
+*   **Genetic Counseling Considerations:** Counseling would focus on the gene's role in influencing traits like taste and food preferences, not on disease risk, and would emphasize the minor contribution of this single gene to complex behaviors.
+
+### **Key Clinical Literature & Studies**
+*   **Pirastu N, et al. (2014) PLoS ONE.** Established a significant correlation between functional variants in *TAS2R43* (W35S and H212R) and coffee liking in a large cohort, linking the H212R variant specifically to caffeine bitterness perception. (PMID: not available in search, study published in PLoS ONE)
+*   **Wooding SP, et al. (2010) American Journal of Human Genetics.** Reported an association between a *TAS2R43* mutational polymorphism and susceptibility to Balkan Endemic Nephropathy (BEN), suggesting a role for toxin responses in health risks. (PMID: not available in search, mentioned in NCBI Gene summary)
+*   **Pronin AN, et al. (2007) Chemical Senses.** Showed that TAS2R43 and the related TAS2R44 function as receptors for the artificial sweeteners saccharin and acesulfame K. (PMID: not available in search, mentioned in NCBI Gene summary)
+*   **Sandel M, et al. (2010) Journal of Neurophysiology.** Demonstrated that TAS2R43 responds to a range of bitter compounds, but its responses are often redundant with other bitter taste receptors. (PMID: not available in search, reference is to Meyerhof et al., 2010)
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** No high-confidence HPO-variant associations for clinical disease exist. High-confidence *trait*-variant associations include:
+    *   **rs71443637 (H212R)** → Altered caffeine bitterness perception and coffee liking.
+    *   **rs68157013 (W35S)** → Diminished receptor function and association with coffee liking.
+*   **Phenotype Red Flags:** There are no "red flag" HPO terms. A patient report of significantly altered bitter taste perception (especially for caffeine or saccharin) could suggest investigating variants in the *TAS2R* gene family, including *TAS2R43*.
+*   **Differential Diagnosis Considerations:** Phenotypes related to altered bitter taste would involve considering variants in the other ~24 human *TAS2R* genes, as many show functional overlap and respond to multiple bitter compounds.
+

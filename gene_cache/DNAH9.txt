@@ -1,0 +1,103 @@
+DNAH9 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID:** 2953
+– **OMIM Gene ID:** 603330
+– **Primary Disease Associations:** DNAH9 is primarily associated with Primary Ciliary Dyskinesia-40 (CILD40), which often presents with laterality defects such as situs inversus totalis and heterotaxy syndrome. Biallelic mutations have also been linked to nonsyndromic severe asthenozoospermia and complex congenital heart disease.
+– **Clinical Significance Level:** The association between biallelic DNAH9 mutations and primary ciliary dyskinesia with laterality defects is considered to have high evidence ("Green List" on PanelApp).
+– **Inheritance Patterns:** The mode of inheritance is autosomal recessive.
+
+### **Constraint & Variant Intolerance**
+– **pLI, LOEUF, pRec, pNull:**
+    - The gnomAD v2.1.1 constraint scores for DNAH9 are: pLI = 1.00, LOEUF = 0.12 (90% CI: 0.10-0.15).
+    - The pRec score is 0.000 and the pNull score is 0.000.
+– **Clinical Interpretation of Constraint Scores:** The high pLI score (≥ 0.9) and low LOEUF score (< 0.35) indicate that DNAH9 is extremely intolerant to loss-of-function (LoF) variants. This suggests a strong selective pressure against heterozygous protein-truncating variants and that the gene is likely essential for normal function.
+– **Variant Classes Most Likely to Be Pathogenic:** Loss-of-function variants (e.g., frameshift, nonsense) and missense variants have been reported as pathogenic. Biallelic LoF mutations are associated with a complete loss of ciliary function.
+
+### **Phenotype Spectrum & HPO Terms**
+– **Primary HPO terms:**
+    - Situs inversus totalis (HP:0001692)
+    - Heterotaxy syndrome (HP:0001676)
+    - Recurrent respiratory infections (HP:0002205)
+    - Bronchiectasis (HP:0002110)
+    - Congenital heart defects (e.g., Atrial septal defect, Ventricular septal defect) (HP:0001627)
+    - Male infertility (HP:0000789) / Asthenozoospermia (HP:0000815)
+    - Chronic rhinosinusitis (HP:0011109)
+    - Wet cough (HP:0030635)
+    - Reduced ciliary beat frequency (HP:0012251)
+    - Abnormal ciliary motility (HP:0012250)
+– **Secondary HPO terms:**
+    - Polysplenia (HP:0001716)
+    - Obstructive ventilatory defect (HP:0002871)
+    - Low nasal nitric oxide level (HP:0030386)
+    - Morphological central nervous system abnormality (HP:0002011)
+    - Jejunal atresia (HP:0002242)
+– **Age of Onset Patterns:** Onset can be congenital, with laterality defects and heart conditions identified at birth. Respiratory symptoms may present in childhood and persist.
+– **Phenotype Severity Spectrum:** The phenotype can range from mild, with subtle respiratory symptoms, to severe, with complex congenital heart disease and significant respiratory disease. Some individuals may present only with nonsyndromic male infertility.
+
+### **Genotype-Phenotype Correlations**
+– **Variant Classes and Their Typical Phenotypes:** Biallelic loss-of-function mutations typically result in laterality defects and may have milder respiratory symptoms than classic PCD. Compound heterozygous missense and LoF mutations can lead to complex congenital heart disease. Some missense variants have been associated with nonsyndromic severe asthenozoospermia without other classic PCD symptoms.
+– **Protein Domain-Specific Phenotype Patterns:** The specific location of mutations within the DNAH9 protein domains and their correlation to phenotype is not yet well-established due to the limited number of reported cases.
+– **Genotype-Phenotype Correlation Strength:** There is a moderate to strong correlation, with biallelic LoF variants consistently leading to laterality defects. However, the severity of respiratory and cardiac phenotypes shows variability.
+– **Examples: Specific Variants → Specific Phenotypes:**
+    - c.10127dupT (p.Leu3376Phefs*57) is associated with situs inversus totalis.
+    - Compound heterozygosity for c.11176C>T (p.Arg3726Trp) and a splice site mutation c.3743+1G>T was identified in a fetus with complex congenital heart disease.
+
+### **Clinical Variants & Phenotype Associations**
+– A selection of reported variants includes:
+    - **c.760_761delTT (p.Phe254Leufs\*6):** Pathogenic, associated with Kartagener syndrome, situs inversus, bronchiectasis. AF in gnomAD is 4.779e-5.
+    - **c.4331G>A (p.Trp1444\*):** Likely pathogenic nonsense mutation associated with Kartagener syndrome. Not found in gnomAD.
+    - **c.5641A>G (p.Lys1881Glu):** Pathogenic missense variant found in a complex allele in a patient with CILD40 and situs inversus. Not found in gnomAD.
+    - **c.8894G>A (p.Arg2965His):** Pathogenic missense variant part of a complex allele in a patient with CILD40 and situs inversus. AF in gnomAD is 5.8e-5.
+    - **c.308dupT (p.Leu104Profs\*45):** Loss-of-function variant associated with laterality defects.
+    - **c.11666C>G (p.Ser3889\*):** Loss-of-function variant associated with laterality defects.
+    - **c.1997G>A (p.Trp666\*):** Loss-of-function variant associated with heterotaxy with situs inversus and polysplenia.
+    - **p.(Ala1217GlnfsTer4):** Likely pathogenic frameshift variant associated with PCD.
+    - **p.(Gly1698Asp):** Variant of Uncertain Significance, found in a compound heterozygous state with a likely pathogenic variant in a patient with PCD.
+– **Variants with Strongest Phenotype Evidence:** Biallelic truncating mutations, such as frameshift and nonsense variants, show strong evidence for causing a CILD40 phenotype with laterality defects.
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, DNAH9 is highly expressed in the testis, lung, and brain (specifically the hypothalamus, caudate, and hippocampus). Expression is also noted in respiratory epithelia.
+– **Tissue-Specific Phenotypes Expected:** High expression in the lungs correlates with the respiratory symptoms (PCD). Expression in the testis is consistent with its role in flagellar movement and the associated male infertility phenotype.
+– **Expression During Development and Age-Related Phenotypes:** Expression in embryonic nodal cells is crucial for establishing left-right body asymmetry, explaining the laterality defects when the gene is mutated.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function:** DNAH9 encodes a heavy chain of the outer dynein arm (ODA) in motile cilia and flagella, which generates force for their movement by hydrolyzing ATP.
+– **Disease Mechanism:** The primary disease mechanism is loss-of-function, arising from biallelic mutations. This leads to impaired ciliary and flagellar motility. Some research suggests that certain mutations may not cause a complete loss of function, leading to milder or different phenotypes.
+– **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    - Disruption of DNAH9 function impairs the assembly of outer dynein arms in the distal part of the cilium, leading to defective ciliary beating.
+    - In the embryonic node, this disrupted motility of monocilia prevents the normal leftward flow required for establishing body laterality, resulting in situs inversus or heterotaxy.
+    - In the respiratory tract, impaired mucociliary clearance leads to recurrent infections and bronchiectasis.
+    - In sperm, defective flagellar movement results in asthenozoospermia and male infertility.
+– **Protein-Protein Interactions Relevant to Phenotype:** DNAH9 interacts with other ODA components like DNAH5 and DNAI2, and with the ODA-docking complex component CCDC114. It also interacts with GAS8. The absence of DNAH9 leads to the loss of these other proteins from the distal axoneme.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts:** Targeted next-generation sequencing panels for PCD have a high diagnostic yield, identifying disease-causing variants in a large percentage of cases. The inclusion of DNAH9 in these panels is important for diagnosing individuals with laterality defects, who may have only subtle respiratory symptoms.
+– **Most Common Reasons for Testing This Gene:** Testing for DNAH9 is indicated in patients with clinical suspicion of PCD, especially those presenting with laterality defects (situs inversus, heterotaxy), congenital heart disease, and/or unexplained male infertility.
+– **Clinical Actionability and Management Implications:** A genetic diagnosis confirms PCD, guides monitoring for respiratory disease progression (e.g., lung function tests, imaging), and informs management strategies to prevent complications from chronic infections. It also allows for prenatal and familial genetic counseling.
+– **Genetic Counseling Considerations:** Couples with a child affected by a DNAH9-related disorder should be counseled on the autosomal recessive inheritance pattern and the 25% recurrence risk in future pregnancies. The phenotypic variability, from mild respiratory issues to severe heart defects, should be discussed.
+
+### **Key Clinical Literature & Studies**
+– **PMID: 30471718, 2018:** Landmark study establishing that recessive, loss-of-function mutations in DNAH9 cause laterality defects with subtle respiratory phenotypes, defining its role in distal ciliary axoneme assembly.
+– **PMID: 30471717, 2018:** Concurrently published paper confirming biallelic DNAH9 mutations cause motile cilia defects and situs inversus in multiple families.
+– **PMID: 33654763, 2021:** Report on novel compound heterozygous missense variants in DNAH9 leading to nonsyndromic severe asthenozoospermia, expanding the phenotype to include isolated male infertility.
+– **PMID: 35729148, 2022:** Study using Dnah9 knockdown mice and organoids that recapitulated key PCD symptoms, including impaired lung function and mucin accumulation, and demonstrated interaction with CCDC114 and GAS8.
+– **PMID: 36802875, 2023:** Case report of a patient with Kartagener syndrome and severe clinical manifestations due to novel compound heterozygous mutations (one frameshift, one nonsense), highlighting phenotypic severity.
+– **PMID: 35116053, 2022:** Report linking biallelic DNAH9 mutations to complex congenital heart disease in Chinese patients, reinforcing the gene's critical role in cardiac development.
+– **PMID: 34335198, 2021:** Review article highlighting genotype-phenotype relationships in PCD, noting that DNAH9 mutations can be associated with milder respiratory symptoms compared to mutations in other PCD genes.
+– **PMID: 35942484, 2022:** Case study demonstrating the utility of combining genetic analysis with functional tests to classify a DNAH9 variant of uncertain significance.
+– **PMID: 32664082, 2020:** Large cohort study on PCD genetics that identified DNAH9 as a cause of laterality defects.
+– **DOI: 10.1007/s00431-024-05562-x, 2024:** Recent case study identifying a novel compound heterozygous mutation in DNAH9 causing complex CHD, further expanding the mutational spectrum.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations:**
+    - Biallelic loss-of-function variants (frameshift, nonsense, essential splice site) are strongly associated with **Situs inversus totalis (HP:0001692)**, **Heterotaxy syndrome (HP:0001676)**, and often milder forms of **Primary Ciliary Dyskinesia (HP:0001678)**.
+    - Compound heterozygous variants involving at least one missense mutation may be associated with severe **Congenital heart defects (HP:0001627)**.
+    - Certain compound heterozygous missense variants are associated with isolated **Asthenozoospermia (HP:0000815)** without overt respiratory or laterality defects.
+– **Phenotype red flags:**
+    - The presence of any laterality defect (e.g., situs inversus, dextrocardia, polysplenia) is a major red flag for pathogenic DNAH9 variants, even with mild or absent respiratory symptoms.
+    - The combination of laterality defects with congenital heart disease strongly suggests considering DNAH9.
+    - Unexplained severe asthenozoospermia in males should prompt consideration of DNAH9 sequencing.
+– **Differential diagnosis considerations:**
+    - The phenotype of DNAH9-related ciliopathy overlaps with other genes causing PCD, particularly those associated with outer dynein arm defects like **DNAH5** and **DNAI1**. However, DNAH5 mutations often cause more severe, classic PCD with immotile cilia, whereas DNAH9 defects are more subtle.
+    - It also overlaps with genes causing heterotaxy and complex congenital heart disease without a primary respiratory phenotype. The presence of even mild respiratory symptoms or male infertility can help prioritize DNAH9.
+

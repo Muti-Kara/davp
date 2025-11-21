@@ -1,0 +1,444 @@
+=== chr10:50104071G>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201489423
+• Chromosome: 10
+• Position: 50104071
+• Reference Allele (REF): G
+• Alternative Allele (ALT): C
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: WASHC2A
+• Databases: rs201489423, COSV50954377
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0001426
+• gnomADg Allele Frequency: 0.0001423
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005666: thyroid peroxidase antibody measurement - quantification of the antibodies to the enzyme thyroid peroxidase in blood, usually as an indicator for autoimmune thyroid disease
+GWAS_EFO_0009896: anti-thyroglobulin antibody measurement - A quantification of antibodies against thyroglobulin, usually as an indicator of autoimmune thyroid disease.
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0003779: Hashimoto's thyroiditis - An autoimmune disorder caused by the production of autoantibodies against thyroid tissue. There is progressive destruction of the thyroid follicles leading to hypothyroidism.| an autoimmune disease in which the thyroid gland is attacked by a variety of cell- and antibody-mediated immune processes, causing primary hypothyroidism. It was the first disease to be recognized as an autoimmune disease. It was first described by the Japanese specialist Hakaru Hashimoto in a paper published in Germany in 1912.|An autoimmune disorder caused by the production of autoantibodies against thyroid tissue. There is progressive destruction of the thyroid follicles leading to hypothyroidism.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0007978: red blood cell density measurement - quantification of the density of a red blood cell (DRBC). DRBC is affected by the hydration level of the cell, with dehydrated cells being dense and deformed. Increased DRBC may be an indicator of disease severity in sickle cell anemia
+GWAS_EFO_0004614: apolipoprotein A 1 measurement - Is a quantification of serum lipoprotein A. Apolipoprotein A-I, encoded in humans by the APOA1 gene and  is the major protein component of high density lipoprotein (HDL) in plasma.   It is is implicated as a risk factor for atherosclerotic diseases such as coronary heart disease and stroke.
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0000311: cancer - A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas (adenocarcinomas or squamous cell carcinomas), Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas.
+GWAS_EFO_0004624: prostate specific antigen measurement - A PSA measurement is the quantification of prostate specific antigen typically in blood used in the diagnosis of prostate cancer.
+GWAS_EFO_0001663: prostate carcinoma - A carcinoma that arises from epithelial cells of the prostate gland.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_HP_0000964: Eczema - Eczema is a form of dermatitis. The term eczema is broadly applied to a range of persistent skin conditions and can be related to a number of underlying conditions. Manifestations of eczema can include dryness and recurring skin rashes with redness, skin edema, itching and dryness, crusting, flaking, blistering, cracking, oozing, or bleeding.|Eczema has several forms including atopic dermatitis, contact dermatitis, dyshidrotic eczema, nummular eczema, seborrheic dermatitis, and stasis dermatitis.
+GWAS_EFO_0005127: cancer biomarker measurement - cancer biomarkers, such as cancer antigen 19-9, carcinoembryonic antigen and α fetoprotein, are used as indicators for cancer screening and as predictors for therapeutic responses and prognoses in cancer patient
+GWAS_EFO_0003784: skin pigmentation - Coloration of the skin.
+GWAS_EFO_0009892: facial attractiveness measurement - Quantiication of some aspect of facial attractiveness, typically via a rating scale.
+GWAS_EFO_0009369: diffusing capacity of the lung for carbon monoxide - A measurement of carbon monoxide (CO) transfer from inspired gas to pulmonary capillary blood. During the test, the subject inspires a gas containing CO and one or more tracer gases to allow determination of the gas exchanging capability of the lungs.
+GWAS_EFO_0006333: transferrin saturation measurement - The determination of the iron bound to transferrin in a sample.
+GWAS_GO_0006306: DNA methylation - The covalent transfer of a methyl group to either N-6 of adenine or C-5 or N-4 of cytosine
+GWAS_EFO_0008378: mosquito bite reaction size measurement - quantification of the size of a mosquito bite reaction, generally through the use of a standardised questionnaire
+GWAS_EFO_0008377: mosquito bite reaction itch intensity measurement - quanitifcation of the itch intensity of a mosquito bite reaction, generally through the use of a standardised questionnaire
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0008111: diet measurement - quantification of some aspect of diet, including diet patterns, balance of nutrient consumption and glycemic load
+GWAS_EFO_0007681: triglyceride change measurement - quantification of the change in triglyceride levels in an individual over time, eg over the course of several hours after a high-fat meal 
+GWAS_EFO_0007684: response to high fat food intake - physiological response of an organism, eg in terms of blood lipid levels, to the ingestition of high fat food
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0000537: hypertension - Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more.|Persistently high systemic arterial blood pressure. Based on multiple readings (blood pressure determination), hypertension is currently defined as when systolic pressure is consistently greater than 140 mm Hg or when diastolic pressure is consistently 90 mm Hg or more.
+GWAS_EFO_0006336: diastolic blood pressure - The blood pressure after the contraction of the heart while the chambers of the heart refill with blood.
+GWAS_EFO_0006340: mean arterial pressure - The mean pressure of the blood within the arterial circulation. The arterial pressure may be directly measured by insertion of an intra-arterial catheter connected to a transducer. The mean arterial pressure (MAP) can be calculated by subsequent analysis of the waveform. MAP can be approximated without an invasive procedure using the following formula: diastolic pressure plus 1/3 of the pulse pressure, where pulse pressure is systolic pressure - diastolic pressure.
+GWAS_EFO_0004348: hematocrit - The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value.
+GWAS_EFO_0004345: corneal topography - The measurement of curvature and shape of the anterior surface of the cornea using techniques such as keratometry, keratoscopy, photokeratoscopy, profile photography, computer-assisted image processing and videokeratography. This measurement is often applied in the fitting of contact lenses and in diagnosing corneal diseases or corneal changes including keratoconus, which occur after keratotomy and keratoplasty.
+GWAS_EFO_0008375: macula measurement - quantification of some aspect of the macula
+GWAS_EFO_0009010: HSV2 virologic severity measurement - Quantification of the severity of Herpes simplex virus-2 infection, typically by assessment of viral shedding
+GWAS_EFO_0003888: attention deficit hyperactivity disorder - A mental disorder characterized by inattention, easy distraction, careless mistakes and avoidance of tasks that require sustained mental focus. These behaviors can lead to maladaptive consequences in the affected individual's life.|A behavior disorder originating in childhood in which the essential features are signs of developmentally inappropriate inattention, impulsivity, and hyperactivity. Although most individuals have symptoms of both inattention and hyperactivity-impulsivity, one or the other pattern may be predominant. The disorder is more frequent in males than females. Onset is in childhood. Symptoms often attenuate during late adolescence although a minority experience the full complement of symptoms into mid-adulthood. (From DSM-IV)
+GWAS_EFO_0007814: refractive error measurement - quantification of some aspect of refractive errors, which occur when the shape of the eye prevents light from focusing directly on the retina. The length of the eyeball (longer or shorter), changes in the shape of the cornea, or aging of the lens can cause refractive errors. Quantification of an individual's refractive error allows the establishemnt of a number of corrective parameters such as spherical equivalent, lens decentration and transposition
+GWAS_HP_0000539: Abnormality of refraction - An abnormality in the process of focusing of light by the eye in order to produce a sharp image on the retina.
+GWAS_HP_0000545: Myopia - An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.
+GWAS_EFO_0004847: age at onset - The age at which some process, or disease started in a human individual.
+GWAS_EFO_0001075: ovarian carcinoma - A malignant neoplasm originating from the surface ovarian epithelium. It accounts for the greatest number of deaths from malignancies of the female genital tract and is the fifth leading cause of cancer fatalities in women. It is predominantly a disease of older white women of northern European extraction, but it is seen in all ages and ethnic groups. Adenocarcinomas constitute the vast majority of ovarian carcinomas. The pattern of metastatic spread in ovarian carcinoma is similar regardless of the microscopic type. The most common sites of involvement are the contralateral ovary, peritoneal cavity, para-aortic and pelvic lymph nodes, and liver. Lung and pleura are the most common sites of extra-abdominal spread. The primary form of therapy is surgical. The overall prognosis of ovarian carcinoma remains poor, a direct result of its rapid growth rate and the lack of early symptoms. --2002|Editor note: unclear why this is distinct from malignant ovarian epithelial tumor in NCIT.
+GWAS_EFO_0009183: empathy measurement - Quantification of some aspect of empathy, i.e. the ability to understand and share another person's experiences and emotions
+GWAS_EFO_0007828: daytime rest measurement - quantification of some aspect of daytime rest such as duration, frequency or quality
+GWAS_EFO_0004696: sex hormone-binding globulin measurement - Is a quantification of sex hormone binding globulin. In men the test is used in when investigating testosterone deficiency.  The SHBG glycoprotein binds to circulating estradiol and testosterone, low levels of SHBG may be implicated in breast cancer etiology.
+GWAS_EFO_0003770: diabetic retinopathy - Disease of the RETINA as a complication of DIABETES MELLITUS. It is characterized by the progressive microvascular complications, such as ANEURYSM, interretinal EDEMA, and intraocular PATHOLOGIC NEOVASCULARIZATION.|A chronic, pathological complication associated with diabetes mellitus, where retinal damages are incurred due to microaneurysms in the vasculature of the retina, progressively leading to abnormal blood vessel growth, and swelling and leaking of fluid from blood vessels, resulting in vision loss or blindness.
+GWAS_EFO_0004216: conduct disorder - A repetitive and persistent pattern of behavior in which the basic rights of others or major age-appropriate societal norms or rules are violated. These behaviors include aggressive conduct that causes or threatens physical harm to other people or animals, nonaggressive conduct that causes property loss or damage, deceitfulness or theft, and serious violations of rules. The onset is before age 18. (From DSM-IV, 1994).|A disorder diagnosed in childhood or adolescence age group characterized by aggressive behavior, deceitfulness, destruction of property or violation of rules that is persistent and repetitive, and within a one year period.
+GWAS_EFO_0600004: retinal nerve fibre layer thickness measurement - A measure of the thickness of the retinal nerve fiber layer (RNFL). It is typically measured using optical imaging methods such as optical coherence tomography (OCT). The thickness of the ganglion cell complex (GCC), the collective name for the retinal nerve fibre layer and the ganglion cell inner plexiform layer, is one of the biomarkers used in the diagnosis of primary open angle glaucoma (POAG).
+GWAS_EFO_0600002: retinal layer thickness measurement - A measure of the thickness of one or more layers of the retina. It is measured with various imaging tools including ultrasound, optical coherence tomography (OCT), confocal microscopy, and biometry. Reduced retinal layer thickness is one of the biomarkers used for the diagnosis of glaucoma.
+GWAS_EFO_0011015: educational attainment - A measure of academic performance through educational benchmarks such as national exams and curriculum assessments.
+GWAS_EFO_0005241: employment status - quantification of an individual's occupation, both in terms of employment vs unemployment and in terms of nature of employment, eg self-employment
+GWAS_EFO_0000712: stroke - A sudden, nonconvulsive loss of neurologic function due to an ischemic or hemorrhagic intracranial vascular event. In general, cerebrovascular accidents are classified by anatomic location in the brain, vascular distribution, etiology, age of the affected individual, and hemorrhagic vs. nonhemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)|A group of pathological conditions characterized by sudden, non-convulsive loss of neurological function due to BRAIN ISCHEMIA or INTRACRANIAL HEMORRHAGES. Stroke is classified by the type of tissue NECROSIS, such as the anatomic location, vasculature involved, etiology, age of the affected individual, and hemorrhagic vs. non-hemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)|A sudden, nonconvulsive loss of neurologic function due to an ischemic or hemorrhagic intracranial vascular event. In general, cerebrovascular accidents are classified by anatomic location in the brain, vascular distribution, etiology, age of the affected individual, and hemorrhagic vs. nonhemorrhagic nature (MeSH).|A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.|Tissue NECROSIS in any area of the brain, including the CEREBRAL HEMISPHERES, the CEREBELLUM, and the BRAIN STEM. Brain infarction is the result of a cascade of events initiated by inadequate blood flow through the brain that is followed by HYPOXIA and HYPOGLYCEMIA in brain tissue. Damage may be temporary, permanent, selective or pan-necrosis.|Stroke includes two main types, hemorrhagic and ischemic. Both types of stroke can cause acute seizures at the time of the acute event, as well as epilepsy as a long-term complication. In the elderly, cerebrovascular disease and stroke are the most common cause of acute seizures and epilepsy.
+GWAS_EFO_0009181: growth differentiation factor 15 measurement - Quantification of growth differentiation factor 15 in a biological sample.
+GWAS_EFO_0002690: systemic lupus erythematosus - An autoimmune multi-organ disease typically associated with vasculopathy and autoantibody production. Most patients have antinuclear antibodies (ANA). The presence of anti-dsDNA or anti-Smith antibodies are highly-specific.|A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+GWAS_GO_0036276: response to antidepressant - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an antidepressant stimulus, a mood-stimulating drug.
+GWAS_EFO_0006326: response to bupropion - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a bupropion stimulus
+GWAS_EFO_0006320: antidepressant-induced side effect - any sign or symptom that is the direct result of treatment with antidepressant medication
+GWAS_EFO_0000685: rheumatoid arthritis - Rheumatoid arthritis is a rheumatologic disorder described as an autoimmune disease that is usually a chronic disease and is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints.|A chronic, systemic autoimmune disorder characterized by inflammation in the synovial membranes and articular surfaces. It manifests primarily as a symmetric, erosive polyarthritis that spares the axial skeleton and is typically associated with the presence in the serum of rheumatoid factor.|A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.|An arthritis that results_from an autoimmune disease which attacks healthy cells and tissue located_in joint.
+GWAS_EFO_0008532: clinically amyopathic dermatomyositis - Subset of dermatomyositis that lacks distinct muscle features and often manifests rapidly progressive interstitial pneumonia (RPIP).
+GWAS_EFO_0005423: adolescent idiopathic scoliosis - A scoliosis with no known cause arising in adolescent.
+GWAS_EFO_0000341: chronic obstructive pulmonary disease - A group of disorders affecting the bronchi and the lung parenchyma. It is characterized by chronic and irreversible obstruction of the airflow. It includes chronic bronchitis and pulmonary emphysema.|A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA.|A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema.
+GWAS_EFO_0006897: airway responsiveness measurement - quantification of airway responsiveness, calculated as the concentration of methacholine at which a greater than 20% decresase in FEV1 is achieved during a bronchial challenge test
+GWAS_EFO_0004859: abdominal aortic artery calcification - Calcification of the abdominal aortic artery, used as an indicator of sub clinical athrosclerosis
+GWAS_EFO_0005278: cardiovascular disease biomarker measurement - cardiovascular disease biomarkers, such as ST2 cardiac biomarker and C-reactive protein, are used as indicators for cardiovascular disease and as predictors for therapeutic responses
+GWAS_EFO_0003821: obsolete_migraine disorder - A class of disabling primary headache disorders, characterized by recurrent unilateral pulsatile headaches. The two major subtypes are common migraine (without aura) and classic migraine (with aura or neurological symptoms). (International Classification of Headache Disorders, 2nd ed. Cephalalgia 2004: suppl 1)
+GWAS_EFO_0007986: reticulocyte count - The number of reticulocytes per unit volume of blood. Reticulocytes are immature red blood cells and typically compose aoubt 1% of red blood cells in the human body.
+GWAS_EFO_0010700: reticulocyte measurement - A quantification of some aspect of reticulocyte function, quantity, or composition.
+GWAS_EFO_0004308: leukocyte count - The number of WHITE BLOOD CELLS per unit volume in venous BLOOD. A differential leukocyte count measures the relative numbers of the different types of white cells.
+GWAS_EFO_0004587: lymphocyte count - A quantification of lymphocytes in blood.
+GWAS_EFO_0004309: platelet count - The number of PLATELETS per unit volume in a sample of venous BLOOD.
+GWAS_EFO_0007985: platelet crit - The proportion of blood volume that is occupied by platelets, expressed as a percentage. 
+GWAS_EFO_0005091: monocyte count - quantification of monocytes in the blood
+GWAS_EFO_0007988: myeloid white cell count - The number of myeloid leukocytes in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0007993: lymphocyte percentage of leukocytes - A calculated measurement in which the number of lymphocytes in a specified sample of blood is divided by the total number of white blood cells in the sample, and the result presented as a ratio, fraction, quotient or percentage. 
+GWAS_EFO_0007990: neutrophil percentage of leukocytes - A calculated measurement in which the number of neutrophil granulocytes is divided by the number of all white blood cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage. A neutrophil is, or is in the process of becoming, a granular leucocyte having a nucleus with three to five lobes connected by threads of chromatin, cytoplasm containing very fine granules, and which is readily stainable with neutral dyes.
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0010736: cortical surface area measurement - Quantification of the surface area of the cerebral cortex or parts thereof.
+GWAS_EFO_0004627: IGF-1 measurement - Is the quantification of Insulin-like growth factor 1 (IGF-1), also called somatomedin C. IGF-1 is a hormone similar in molecular structure to insulin. It plays an important role in childhood growth and continues to have anabolic effects in adults. Levels of IGF-1 are known to increase in some cancers.
+GWAS_EFO_0009603: stroke outcome severity measurement - Quantification of the the degree of disability or dependence in the daily activities of people who have suffered a stroke, for example using the Modified Rankin Scale.
+GWAS_HP_0002140: Ischemic stroke - Acute ischemic stroke (AIS) is defined by the sudden loss of blood flow to an area of the brain with the resulting loss of neurologic function. It is caused by thrombosis or embolism that occludes a cerebral vessel supplying a specific area of the brain. During a vessel occlusion, there is a core area where damage to the brain is irreversible and an area of penumbra where the brain has lost function owing to decreased blood flow but is not irreversibly injured.
+GWAS_EFO_0007984: platelet component distribution width - The determination of the amount of platelet shape changes present in a sample. [ NCI ]|Measure of variation in platelet size.
+GWAS_EFO_0004464: brain measurement - None
+GWAS_EFO_0004840: cortical thickness - Is a quantification of the thickness of brain cortex, e.g. measured by MRI, used in the diagnosis of Alzheimer's disease and other neurological conditions
+GWAS_EFO_0004346: neuroimaging measurement - Non-invasive methods of visualizing and measuring the CENTRAL NERVOUS SYSTEM, especially the brain, by various imaging modalities e.g. CT scan|is about MeSH:D059906
+GWAS_EFO_0004838: calcium measurement - Is a quantification of calcium, typically in serum. Calcium (Ca2+) plays a pivotal role in the physiology and biochemistry of organisms and the cell. It plays an important role in signal transduction pathways, where it acts as a second messenger, in neurotransmitter release from neurons, contraction of all muscle cell types, and fertilization. Many enzymes require calcium ions as a cofactor, those of the blood-clotting cascade being notable examples. Extracellular calcium is also important for maintaining the potential difference across excitable cell membranes, as well as proper bone formation.
+GWAS_EFO_0005680: omega-6 polyunsaturated fatty acid measurement - The determination of the amount of omega-6 polyunsaturated fatty acids present in a sample.
+GWAS_EFO_0005110: fatty acid measurement - The determination of the amount of fatty acids present in a sample.
+GWAS_EFO_0004462: PR interval - A PR interval is an  electrocardiography measurement which measures from the beginning of the P wave to the beginning of the QRS complex in the heart's electrical cycle
+GWAS_EFO_0000249: obsolete_Alzheimer's disease - A dementia that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting in late middle age and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability.|A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.|A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)|A dementia which is an incurable disease of unknown cause, starting in late middle age or in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, that leads in advanced cases to a profound decline in cognitive and physical functioning, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+GWAS_EFO_0000180: HIV-1 infection - The type species of lentivirus and the etiologic agent of acquired immunodeficiency syndrome (AIDS). It is characterized by its cytopathic effect and affinity for the T4-lymphocyte.
+GWAS_GO_1901557: response to fenofibrate - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a fenofibrate stimulus. Fenofibrates are a class of fibrate drugs which is mainly used to reduce cholesterol levels in patients at risk of cardiovascular disease. Like other fibrates, it reduces both low-density lipoprotein (LDL) and very low density lipoprotein (VLDL) levels, as well as increasing high-density lipoprotein (HDL) levels and reducing triglycerides level. It is used alone or in conjunction with statins in the treatment of hypercholesterolemia and hypertriglyceridemia.CHEBI:5001
+GWAS_EFO_0008463: glucagon measurement - The quantification of glucagon, a hormone involved in glucose homeostasis.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0005763: pulse pressure measurement - quantification of the difference between systolic blood pressure and diastolic blood pressure. Higher PP is associated with left ventricle hypertrophy and the increased intimal thickness of the carotid artery, which represent early target organ damage in cardiovascular diseases
+GWAS_EFO_0004329: alcohol drinking - Behaviors associated with the ingesting of alcoholic beverages, including social drinking.
+GWAS_EFO_0004754: interleukin 1 receptor antagonist measurement - Is a quantification of Interleukin 1 Receptor Antagonist (IL1-RA). Inhibits the activity of interleukin-1 by binding to receptor IL1R1 and preventing its association with the coreceptor IL1RAP for signaling. Has no interleukin-1 like activity. Binds functional interleukin-1 receptor IL1R1 with greater affinity than decoy receptor IL1R2; however, the physiological relevance of the latter association is unsure
+GWAS_EFO_0004997: type 2 diabetes nephropathy - Diabetic nephropathy is a progressive kidney disease caused by angiopathy of capillaries in the kidney glomeruli. In type 2 diabetes hyperglycaemia starts after the forties, usually when the kidneys have already suffered the long‐term consequences of ageing and of other recognized promoters of chronic renal injury such as arterial hypertension, obesity, dyslipidaemia, and smoking.
+GWAS_EFO_1001506: primary angle closure glaucoma - A type of glaucoma with optic nerve damage in an eye that has evidence of angle closure and in which there is no evidence of a secondary cause. Evidence of optic nerve damage can include s optic disc abnormalities (Vertical cup:disc ratio over the 97. 5th percentile in the normal population), visual field defects. The role of increased intraocular pressure (IOP) in glaucoma is debated, but an IOP exceeding the 99. 5th percentile of the normal population may be considered to support the diagnosis.|An angle-closure glaucoma characterized by closure of the anterior chamber angle by an intrinsic defect such that aqueous outflow is blocked and the intraocular pressure becomes inappropriately elevated leading to optic nerve damage and visual field loss. Primary angle-closure glaucoma has symptom progressive peripheral vision loss, decreased vision, and pain, redness, and headache in acute cases. Primary angle closure glaucoma can be caused by anatomically narrow angle, defects in the trabecular meshwork, and iris abnormalities. Primary angle-closure glaucoma has a strong genetic component.
+GWAS_EFO_0008039: BMI-adjusted hip circumference - hip circumference measurement  that has been adjusted for subjects' body mass index
+GWAS_EFO_0005208: glomerular filtration rate - measurement of the flow rate of filtered fluid through the kidney, calculated either by comparative measurements of substances in the blood and urine, or estimated from a blood test
+GWAS_EFO_0010701: mean reticulocyte volume - Mean volume of reticulocyte cells
+GWAS_EFO_0007845: lip morphology measurement - quantification of some aspect of lip morphology such as upper lip or lower lip thickness or lip curvature
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0007858: eye morphology measurement - quantification of some aspect of eye morphology, such as the width of the eye socket
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 19804248) -> Associated GWAS: GWAS_EFO_0005666, GWAS_EFO_0009896, GWAS_EFO_0004527, GWAS_EFO_0003779, GWAS_EFO_0004509, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004305, GWAS_EFO_0004526, GWAS_EFO_0007978, GWAS_EFO_0004527, GWAS_EFO_0004614, GWAS_EFO_0004528, GWAS_EFO_0004527, GWAS_EFO_0007978, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005192, GWAS_EFO_0000311, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_HP_0000964, GWAS_EFO_0005127, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_EFO_0001663, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005192, GWAS_EFO_0001663, GWAS_EFO_0003784, GWAS_EFO_0009892, GWAS_EFO_0005192, GWAS_EFO_0009369, GWAS_EFO_0006333, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_GO_0006306, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0004339, GWAS_EFO_0008111, GWAS_EFO_0007681, GWAS_EFO_0007684, GWAS_EFO_0006335, GWAS_EFO_0000537, GWAS_EFO_0006336, GWAS_EFO_0006340, GWAS_EFO_0006335, GWAS_EFO_0006335, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007978, GWAS_EFO_0004509, GWAS_EFO_0004345, GWAS_EFO_0008375, GWAS_EFO_0009010, GWAS_EFO_0003888, GWAS_EFO_0007937, GWAS_EFO_0007814, GWAS_HP_0000539, GWAS_HP_0000545, GWAS_EFO_0004847, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0001075, GWAS_EFO_0009183, GWAS_EFO_0007828, GWAS_EFO_0004696, GWAS_EFO_0003770, GWAS_EFO_0004339, GWAS_EFO_0004216, GWAS_EFO_0008375, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0006335, GWAS_EFO_0011015, GWAS_EFO_0005241, GWAS_EFO_0000712, GWAS_EFO_0009181, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_GO_0036276, GWAS_EFO_0006326, GWAS_EFO_0006320, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0008532, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0005423, GWAS_EFO_0000685, GWAS_EFO_0002690, GWAS_EFO_0000341, GWAS_EFO_0006897, GWAS_EFO_0004859, GWAS_EFO_0005278, GWAS_EFO_0002690, GWAS_EFO_0005192, GWAS_EFO_0003821, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0004308, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0007985, GWAS_EFO_0004528, GWAS_EFO_0007988, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0004528, GWAS_EFO_0007993, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0009270, GWAS_EFO_0010736, GWAS_EFO_0004526, GWAS_EFO_0004627, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004528, GWAS_EFO_0007984, GWAS_EFO_0004464, GWAS_EFO_0004840, GWAS_EFO_0004346, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004838, GWAS_EFO_0005680, GWAS_EFO_0005110, GWAS_EFO_0004462, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0004838, GWAS_EFO_0004339, GWAS_EFO_0000180, GWAS_GO_1901557, GWAS_EFO_0008463, GWAS_EFO_0004747, GWAS_EFO_0005763, GWAS_EFO_0004329, GWAS_EFO_0004754, GWAS_EFO_0004997, GWAS_EFO_0004747, GWAS_EFO_1001506, GWAS_EFO_0008039, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007845, GWAS_EFO_0004784, GWAS_EFO_0007937, GWAS_EFO_0004784
+Entity: ChromHMM State (ID: 20971957) -> Associated GWAS: GWAS_EFO_0005666, GWAS_EFO_0009896, GWAS_EFO_0004527, GWAS_EFO_0003779, GWAS_EFO_0004509, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004305, GWAS_EFO_0004526, GWAS_EFO_0007978, GWAS_EFO_0004527, GWAS_EFO_0004614, GWAS_EFO_0004528, GWAS_EFO_0004527, GWAS_EFO_0007978, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005192, GWAS_EFO_0000311, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_HP_0000964, GWAS_EFO_0005127, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_EFO_0001663, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005192, GWAS_EFO_0001663, GWAS_EFO_0003784, GWAS_EFO_0009892, GWAS_EFO_0005192, GWAS_EFO_0009369, GWAS_EFO_0006333, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_GO_0006306, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0004339, GWAS_EFO_0008111, GWAS_EFO_0007681, GWAS_EFO_0007684, GWAS_EFO_0006335, GWAS_EFO_0000537, GWAS_EFO_0006336, GWAS_EFO_0006340, GWAS_EFO_0006335, GWAS_EFO_0006335, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007978, GWAS_EFO_0004509, GWAS_EFO_0004345, GWAS_EFO_0008375, GWAS_EFO_0009010, GWAS_EFO_0003888, GWAS_EFO_0007937, GWAS_EFO_0007814, GWAS_HP_0000539, GWAS_HP_0000545, GWAS_EFO_0004847, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0001075, GWAS_EFO_0009183, GWAS_EFO_0007828, GWAS_EFO_0004696, GWAS_EFO_0003770, GWAS_EFO_0004339, GWAS_EFO_0004216, GWAS_EFO_0008375, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0006335, GWAS_EFO_0011015, GWAS_EFO_0005241, GWAS_EFO_0000712, GWAS_EFO_0009181, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_GO_0036276, GWAS_EFO_0006326, GWAS_EFO_0006320, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0008532, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0005423, GWAS_EFO_0000685, GWAS_EFO_0002690, GWAS_EFO_0000341, GWAS_EFO_0006897, GWAS_EFO_0004859, GWAS_EFO_0005278, GWAS_EFO_0002690, GWAS_EFO_0005192, GWAS_EFO_0003821, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0004308, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0007985, GWAS_EFO_0004528, GWAS_EFO_0007988, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0004528, GWAS_EFO_0007993, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0009270, GWAS_EFO_0010736, GWAS_EFO_0004526, GWAS_EFO_0004627, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004528, GWAS_EFO_0007984, GWAS_EFO_0004464, GWAS_EFO_0004840, GWAS_EFO_0004346, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004838, GWAS_EFO_0005680, GWAS_EFO_0005110, GWAS_EFO_0004462, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0004838, GWAS_EFO_0004339, GWAS_EFO_0000180, GWAS_GO_1901557, GWAS_EFO_0008463, GWAS_EFO_0004747, GWAS_EFO_0005763, GWAS_EFO_0004329, GWAS_EFO_0004754, GWAS_EFO_0004997, GWAS_EFO_0004747, GWAS_EFO_1001506, GWAS_EFO_0008039, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007845, GWAS_EFO_0004784, GWAS_EFO_0007937, GWAS_EFO_0004784
+Entity: ChromHMM State (ID: 21585365) -> Associated GWAS: GWAS_EFO_0005666, GWAS_EFO_0009896, GWAS_EFO_0004527, GWAS_EFO_0003779, GWAS_EFO_0004509, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004305, GWAS_EFO_0004526, GWAS_EFO_0007978, GWAS_EFO_0004527, GWAS_EFO_0004614, GWAS_EFO_0004528, GWAS_EFO_0004527, GWAS_EFO_0007978, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005192, GWAS_EFO_0000311, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_HP_0000964, GWAS_EFO_0005127, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_EFO_0001663, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005192, GWAS_EFO_0001663, GWAS_EFO_0003784, GWAS_EFO_0009892, GWAS_EFO_0005192, GWAS_EFO_0009369, GWAS_EFO_0006333, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_GO_0006306, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0004339, GWAS_EFO_0008111, GWAS_EFO_0007681, GWAS_EFO_0007684, GWAS_EFO_0006335, GWAS_EFO_0000537, GWAS_EFO_0006336, GWAS_EFO_0006340, GWAS_EFO_0006335, GWAS_EFO_0006335, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007978, GWAS_EFO_0004509, GWAS_EFO_0004345, GWAS_EFO_0008375, GWAS_EFO_0009010, GWAS_EFO_0003888, GWAS_EFO_0007937, GWAS_EFO_0007814, GWAS_HP_0000539, GWAS_HP_0000545, GWAS_EFO_0004847, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0001075, GWAS_EFO_0009183, GWAS_EFO_0007828, GWAS_EFO_0004696, GWAS_EFO_0003770, GWAS_EFO_0004339, GWAS_EFO_0004216, GWAS_EFO_0008375, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0006335, GWAS_EFO_0011015, GWAS_EFO_0005241, GWAS_EFO_0000712, GWAS_EFO_0009181, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_GO_0036276, GWAS_EFO_0006326, GWAS_EFO_0006320, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0008532, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0005423, GWAS_EFO_0000685, GWAS_EFO_0002690, GWAS_EFO_0000341, GWAS_EFO_0006897, GWAS_EFO_0004859, GWAS_EFO_0005278, GWAS_EFO_0002690, GWAS_EFO_0005192, GWAS_EFO_0003821, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0004308, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0007985, GWAS_EFO_0004528, GWAS_EFO_0007988, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0004528, GWAS_EFO_0007993, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0009270, GWAS_EFO_0010736, GWAS_EFO_0004526, GWAS_EFO_0004627, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004528, GWAS_EFO_0007984, GWAS_EFO_0004464, GWAS_EFO_0004840, GWAS_EFO_0004346, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004838, GWAS_EFO_0005680, GWAS_EFO_0005110, GWAS_EFO_0004462, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0004838, GWAS_EFO_0004339, GWAS_EFO_0000180, GWAS_GO_1901557, GWAS_EFO_0008463, GWAS_EFO_0004747, GWAS_EFO_0005763, GWAS_EFO_0004329, GWAS_EFO_0004754, GWAS_EFO_0004997, GWAS_EFO_0004747, GWAS_EFO_1001506, GWAS_EFO_0008039, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007845, GWAS_EFO_0004784, GWAS_EFO_0007937, GWAS_EFO_0004784
+Entity: ChromHMM State (ID: 22211976) -> Associated GWAS: GWAS_EFO_0007858, GWAS_EFO_0005666, GWAS_EFO_0009896, GWAS_EFO_0004527, GWAS_EFO_0003779, GWAS_EFO_0004509, GWAS_EFO_0004526, GWAS_EFO_0004528, GWAS_EFO_0004305, GWAS_EFO_0004526, GWAS_EFO_0007978, GWAS_EFO_0004527, GWAS_EFO_0004614, GWAS_EFO_0004528, GWAS_EFO_0004527, GWAS_EFO_0007978, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0005192, GWAS_EFO_0000311, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_HP_0000964, GWAS_EFO_0005127, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0004624, GWAS_EFO_0001663, GWAS_EFO_0007937, GWAS_EFO_0001663, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005192, GWAS_EFO_0001663, GWAS_EFO_0003784, GWAS_EFO_0009892, GWAS_EFO_0005192, GWAS_EFO_0009369, GWAS_EFO_0006333, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_GO_0006306, GWAS_EFO_0008378, GWAS_EFO_0008377, GWAS_EFO_0004339, GWAS_EFO_0008111, GWAS_EFO_0007681, GWAS_EFO_0007684, GWAS_EFO_0006335, GWAS_EFO_0000537, GWAS_EFO_0006336, GWAS_EFO_0006340, GWAS_EFO_0006335, GWAS_EFO_0006335, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007978, GWAS_EFO_0004509, GWAS_EFO_0004345, GWAS_EFO_0008375, GWAS_EFO_0009010, GWAS_EFO_0003888, GWAS_EFO_0007937, GWAS_EFO_0007814, GWAS_HP_0000539, GWAS_HP_0000545, GWAS_EFO_0004847, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0001075, GWAS_EFO_0009183, GWAS_EFO_0007828, GWAS_EFO_0004696, GWAS_EFO_0003770, GWAS_EFO_0004339, GWAS_EFO_0004216, GWAS_EFO_0008375, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0006335, GWAS_EFO_0011015, GWAS_EFO_0005241, GWAS_EFO_0000712, GWAS_EFO_0009181, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_GO_0036276, GWAS_EFO_0006326, GWAS_EFO_0006320, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0008532, GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0005423, GWAS_EFO_0000685, GWAS_EFO_0002690, GWAS_EFO_0000341, GWAS_EFO_0006897, GWAS_EFO_0004859, GWAS_EFO_0005278, GWAS_EFO_0002690, GWAS_EFO_0005192, GWAS_EFO_0003821, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0004308, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004587, GWAS_EFO_0004309, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0007985, GWAS_EFO_0004528, GWAS_EFO_0007988, GWAS_EFO_0004308, GWAS_EFO_0005091, GWAS_EFO_0004528, GWAS_EFO_0007993, GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0007990, GWAS_EFO_0009270, GWAS_EFO_0010736, GWAS_EFO_0004526, GWAS_EFO_0004627, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004528, GWAS_EFO_0007984, GWAS_EFO_0004464, GWAS_EFO_0004840, GWAS_EFO_0004346, GWAS_EFO_0009603, GWAS_HP_0002140, GWAS_EFO_0004838, GWAS_EFO_0005680, GWAS_EFO_0005110, GWAS_EFO_0004462, GWAS_EFO_0004847, GWAS_EFO_0000249, GWAS_EFO_0004838, GWAS_EFO_0004339, GWAS_EFO_0000180, GWAS_GO_1901557, GWAS_EFO_0008463, GWAS_EFO_0004747, GWAS_EFO_0005763, GWAS_EFO_0004329, GWAS_EFO_0004754, GWAS_EFO_0004997, GWAS_EFO_0004747, GWAS_EFO_1001506, GWAS_EFO_0008039, GWAS_EFO_0005208, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007845, GWAS_EFO_0004784, GWAS_EFO_0007937, GWAS_EFO_0004784
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 38953
+• Pathogenic/Likely Pathogenic: 3747
+• Benign/Likely Benign: 13175
+• Uncertain Significance: 21979
+• Other Classifications: 52
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=1384)
+• Familial infantile myasthenia (n=1128)
+• not provided|Inborn genetic diseases (n=912)
+• Telangiectasia, hereditary hemorrhagic, type 5 (n=596)
+• Cockayne syndrome type 2 (n=508)
+• Cerebrooculofacioskeletal syndrome 1 (n=280)
+• Retinal dystrophy (n=272)
+• Retinitis pigmentosa|not provided (n=248)
+• DE SANCTIS-CACCHIONE SYNDROME (n=224)
+• not provided|Retinal dystrophy (n=216)
+• See cases (n=194)
+• Retinitis pigmentosa (n=184)
+• Familial infantile myasthenia|Inborn genetic diseases (n=180)
+• Retinitis pigmentosa 66 (n=168)
+• Cockayne syndrome type 2|not provided (n=104)
+• Cardiovascular phenotype (n=80)
+• Retinitis pigmentosa 66|not provided (n=80)
+• Inborn genetic diseases|not provided (n=72)
+• WDFY4-related disorder (n=68)
+• 7 conditions (n=68)
+• not provided|Familial infantile myasthenia (n=64)
+• Yoon-Bellen neurodevelopmental syndrome (n=60)
+• Telangiectasia, hereditary hemorrhagic, type 5|not provided (n=56)
+• not provided|Retinitis pigmentosa (n=48)
+• Retinitis pigmentosa|not provided|Inborn genetic diseases (n=48)
+• not provided|Retinal dystrophy|Inborn genetic diseases (n=40)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2 (n=40)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1 (n=40)
+• not provided|7 conditions (n=40)
+• Familial infantile myasthenia|not provided (n=40)
+• Cockayne syndrome type 2|Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1 (n=36)
+• Cockayne syndrome type 2|Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|not provided (n=36)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|Age related macular degeneration 5|not provided (n=36)
+• Telangiectasia, hereditary hemorrhagic, type 5|Cardiovascular phenotype (n=32)
+• Retinal dystrophy|not provided (n=32)
+• Retinitis pigmentosa|not provided|Retinal dystrophy (n=32)
+• not provided|Inborn genetic diseases|Retinal dystrophy (n=32)
+• WDFY4-related disorder|not specified (n=32)
+• Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5 (n=32)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|Age related macular degeneration 5 (n=28)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2 (n=28)
+• Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|not provided (n=28)
+• not provided|Cockayne syndrome type 2 (n=28)
+• Familial infantile myasthenia|Congenital myasthenic syndrome (n=28)
+• Retinitis Pigmentosa, Recessive (n=24)
+• Retinitis pigmentosa|not provided|RBP3-related disorder (n=24)
+• Retinitis pigmentosa 66|Retinitis pigmentosa|not provided (n=24)
+• Congenital myasthenic syndrome 21 (n=24)
+• Cerebrooculofacioskeletal syndrome 1|not provided (n=20)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|not provided (n=20)
+• DE SANCTIS-CACCHIONE SYNDROME|not provided (n=20)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|not provided (n=20)
+• not provided|not specified (n=20)
+• Familial infantile myasthenia|not specified (n=20)
+• Cardiovascular phenotype|Telangiectasia, hereditary hemorrhagic, type 5|not provided (n=16)
+• not specified|Telangiectasia, hereditary hemorrhagic, type 5 (n=16)
+• Telangiectasia, hereditary hemorrhagic, type 5|Cardiovascular phenotype|not provided (n=16)
+• not provided|Telangiectasia, hereditary hemorrhagic, type 5 (n=16)
+• RBP3-related disorder (n=16)
+• not provided|Retinitis pigmentosa 66|Retinal dystrophy (n=16)
+• not provided|Retinitis pigmentosa|Inborn genetic diseases|Retinal dystrophy (n=16)
+• not provided|Retinitis pigmentosa 66|Retinitis pigmentosa|Retinitis pigmentosa (n=16)
+• not specified|Retinitis pigmentosa 66|not provided|Retinitis pigmentosa|RBP3-related disorder (n=16)
+• Inborn genetic diseases|Retinal dystrophy (n=16)
+• not provided|Inborn genetic diseases|Retinitis pigmentosa 66 (n=16)
+• not provided|ERCC6-related disorder (n=16)
+• Cockayne syndrome type 2|not provided|7 conditions (n=16)
+• not specified|Familial infantile myasthenia (n=16)
+• Familial infantile myasthenia|Inborn genetic diseases|not provided (n=16)
+• Familial infantile myasthenia|not provided|Congenital myasthenic syndrome (n=16)
+• CARDIOMYOPATHY, DILATED, 1QQ (n=12)
+• Cockayne syndrome (n=12)
+• ERCC6-related disorder (n=12)
+• not provided|Cockayne syndrome (n=12)
+• Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1 (n=12)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|DE SANCTIS-CACCHIONE SYNDROME (n=12)
+• not specified|not provided|Inborn genetic diseases (n=12)
+• not specified|not provided (n=12)
+• Pulmonary arterial hypertension (n=9)
+• Prostate cancer (n=8)
+• Telangiectasia, hereditary hemorrhagic, type 5|Pulmonary arterial hypertension (n=8)
+• Telangiectasia, hereditary hemorrhagic, type 5|GDF2-related disorder|Cardiovascular phenotype (n=8)
+• GDF2-related disorder|Telangiectasia, hereditary hemorrhagic, type 5 (n=8)
+• Telangiectasia, hereditary hemorrhagic, type 5|Cardiovascular phenotype|not specified (n=8)
+• GDF2-related disorder (n=8)
+• not provided|Telangiectasia, hereditary hemorrhagic, type 5|Cardiovascular phenotype (n=8)
+• Telangiectasia, hereditary hemorrhagic, type 5|not provided|GDF2-related disorder (n=8)
+• Telangiectasia, hereditary hemorrhagic, type 5|not specified|not provided|Cardiovascular phenotype (n=8)
+• Telangiectasia, hereditary hemorrhagic, type 5|not provided|Cardiovascular phenotype (n=8)
+• not provided|Retinitis pigmentosa|not specified (n=8)
+• Retinitis pigmentosa 66|not provided|Retinal dystrophy|Retinitis pigmentosa 66 (n=8)
+• Retinitis pigmentosa 66|Retinal dystrophy (n=8)
+• Retinitis Pigmentosa, Recessive|not provided (n=8)
+• Retinitis pigmentosa 66|Inborn genetic diseases (n=8)
+• not provided|Retinitis pigmentosa 66 (n=8)
+• Retinitis pigmentosa 66|not provided|Optic atrophy (n=8)
+• Congenital stationary night blindness|not provided (n=8)
+• not specified|not provided|Retinitis pigmentosa|Retinal dystrophy (n=8)
+• not provided|Inborn genetic diseases|Retinitis pigmentosa (n=8)
+• Autosomal recessive retinitis pigmentosa|Retinitis pigmentosa 66|not provided (n=8)
+• not provided|Retinitis pigmentosa 66|Inborn genetic diseases (n=8)
+• Retinitis pigmentosa 66|not provided|RBP3-related disorder (n=8)
+• Retinitis pigmentosa|not provided|Retinal dystrophy|Inborn genetic diseases (n=8)
+• Retinitis pigmentosa 66|not provided|Retinal dystrophy (n=8)
+• Inborn genetic diseases|not provided|Retinal dystrophy (n=8)
+• not provided|Retinitis pigmentosa|Retinal dystrophy (n=8)
+• Retinitis pigmentosa 66|not provided|Retinitis pigmentosa|RBP3-related disorder|Retinal dystrophy|Retinitis pigmentosa (n=8)
+• Retinitis pigmentosa|not provided|not specified (n=8)
+• Retinal dystrophy|not provided|RBP3-related disorder (n=8)
+• Retinitis pigmentosa 66|Retinitis pigmentosa|not provided|Retinitis pigmentosa (n=8)
+• Retinitis pigmentosa|not provided|Inborn genetic diseases|Retinal dystrophy (n=8)
+• not provided|Retinitis pigmentosa 66|RBP3-related disorder|Retinal dystrophy (n=8)
+• Retinitis pigmentosa|Inborn genetic diseases (n=8)
+• Retinitis pigmentosa 66|not provided|Retinitis pigmentosa (n=8)
+• Retinitis pigmentosa|not specified|not provided (n=8)
+• not provided|Retinitis pigmentosa 66|RBP3-related disorder (n=8)
+• Cone-rod dystrophy (n=8)
+• Retinal dystrophy|Inborn genetic diseases (n=8)
+• Cockayne syndrome type 2|Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|not provided|Inborn genetic diseases (n=8)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|not provided|Inborn genetic diseases (n=8)
+• Premature ovarian failure 11 (n=8)
+• Cockayne syndrome type 2|not provided|Cerebrooculofacioskeletal syndrome 1 (n=8)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|DE SANCTIS-CACCHIONE SYNDROME (n=8)
+• Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|not provided|Inborn genetic diseases (n=8)
+• Cerebrooculofacioskeletal syndrome 1|not specified (n=8)
+• not provided|DE SANCTIS-CACCHIONE SYNDROME (n=8)
+• Cockayne syndrome type 2|not provided|Inborn genetic diseases (n=8)
+• DE SANCTIS-CACCHIONE SYNDROME|not provided|7 conditions (n=8)
+• Cockayne syndrome type 2|Cockayne syndrome type 2 (n=8)
+• Cerebrooculofacioskeletal syndrome 1|not provided|Cockayne syndrome (n=8)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|not provided (n=8)
+• Cockayne syndrome type 2|not specified (n=8)
+• Cockayne syndrome type 2|Inborn genetic diseases|not provided (n=8)
+• not specified|6 conditions (n=8)
+• not provided|Inborn genetic diseases|7 conditions (n=8)
+• 11 conditions|Familial infantile myasthenia (n=8)
+• Inborn genetic diseases|Yoon-Bellen neurodevelopmental syndrome (n=8)
+• Yoon-Bellen neurodevelopmental syndrome|Inborn genetic diseases (n=8)
+• Atherosclerosis, susceptibility to|Asthma, diminished response to antileukotriene treatment in (n=4)
+• Breast ductal adenocarcinoma (n=4)
+• Prostate cancer, hereditary, 13 (n=4)
+• Schizophrenia (n=4)
+• Gestational diabetes mellitus uncontrolled (n=4)
+• 10q11.22q11.23 microdeletion including CHAT and SLC18A3 (n=4)
+• Preeclampsia|Normal pregnancy (n=4)
+• Preeclampsia|Large for gestational age (n=4)
+• Normal pregnancy (n=4)
+• Megacolon (n=4)
+• Primary dilated cardiomyopathy (n=4)
+• Macular degeneration|Cockayne syndrome|COFS syndrome (n=4)
+• Macular degeneration|COFS syndrome|Cockayne syndrome|not provided (n=4)
+• Macular degeneration|Cockayne syndrome|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• Cockayne syndrome type 2|COFS syndrome (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|not provided|Inborn genetic diseases|6 conditions (n=4)
+• COFS syndrome|Macular degeneration|Cockayne syndrome (n=4)
+• Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|not provided|not specified|DE SANCTIS-CACCHIONE SYNDROME|ERCC6-related disorder (n=4)
+• not specified|Inborn genetic diseases|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|7 conditions|not provided (n=4)
+• not provided|Inborn genetic diseases|not specified (n=4)
+• Cockayne syndrome type 2|Cockayne syndrome type 2|not provided (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|not provided|ERCC6-related disorder (n=4)
+• not specified|not provided|7 conditions (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|7 conditions (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|Cockayne syndrome|7 conditions (n=4)
+• Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|not provided|7 conditions (n=4)
+• Cerebrooculofacioskeletal syndrome 1|not provided|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|Cockayne syndrome type 2|Inborn genetic diseases (n=4)
+• not specified|not provided|ERCC6-related disorder (n=4)
+• Cerebrooculofacioskeletal syndrome 1|ERCC6-related disorder|not provided (n=4)
+• not provided|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• Cockayne syndrome type 2|not provided|Cerebrooculofacioskeletal syndrome 1|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|7 conditions|Cockayne syndrome (n=4)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|Inborn genetic diseases|not provided|6 conditions (n=4)
+• Cockayne syndrome type 2|not specified|Cerebrooculofacioskeletal syndrome 1|not provided|Age related macular degeneration 5|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• not specified|Cockayne syndrome|Macular degeneration|Inborn genetic diseases|COFS syndrome|7 conditions|not provided|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• not provided|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|6 conditions|Cockayne syndrome type 2|ERCC6-related disorder (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|7 conditions|Age related macular degeneration 5|not provided (n=4)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|not specified|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• Inborn genetic diseases|not provided|Cockayne syndrome|ERCC6-related disorder (n=4)
+• not provided|Cockayne syndrome type 2|Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• not provided|COFS syndrome|Macular degeneration|ERCC6-related disorder|Cockayne syndrome (n=4)
+• not specified|7 conditions (n=4)
+• Cerebrooculofacioskeletal syndrome 1|not provided|Inborn genetic diseases (n=4)
+• Cockayne syndrome type 2|Cockayne syndrome type 2|7 conditions (n=4)
+• Cockayne syndrome type 2|not provided|7 conditions|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• not provided|Cockayne syndrome type 2|Cockayne syndrome (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|Age related macular degeneration 5|not provided|6 conditions|ERCC6-related disorder (n=4)
+• COFS syndrome|Cockayne syndrome|Macular degeneration|not provided (n=4)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|7 conditions|not provided (n=4)
+• Cockayne syndrome type 2|Cockayne syndrome|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• Cerebrooculofacioskeletal syndrome 1|not provided|ERCC6-related disorder|Cockayne syndrome type 2 (n=4)
+• Macular degeneration|Cockayne syndrome|COFS syndrome|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• Cockayne syndrome type 2|7 conditions (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|not specified|Cockayne syndrome type 2|not provided (n=4)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|not provided|ERCC6-related disorder (n=4)
+• not provided|Cockayne syndrome type 2|Inborn genetic diseases (n=4)
+• Inborn genetic diseases|6 conditions (n=4)
+• Cockayne syndrome type 2|Cockayne syndrome|not provided|7 conditions (n=4)
+• Cockayne syndrome type 2|7 conditions|Inborn genetic diseases|not provided (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|Cockayne syndrome type 2|ERCC6-related disorder|not provided|Cerebrooculofacioskeletal syndrome 1|7 conditions (n=4)
+• Cockayne syndrome type 2|not provided|ERCC6-related disorder|DE SANCTIS-CACCHIONE SYNDROME|7 conditions|Cockayne syndrome|Inborn genetic diseases (n=4)
+• not provided|Cockayne syndrome|Cockayne syndrome type 2 (n=4)
+• Cockayne syndrome type 2|Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|not provided|7 conditions (n=4)
+• Cockayne syndrome|Macular degeneration|not provided|COFS syndrome|ERCC6-related disorder (n=4)
+• Cerebrooculofacioskeletal syndrome 1|7 conditions|not provided|ERCC6-related disorder (n=4)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|not provided|Inborn genetic diseases|6 conditions (n=4)
+• not provided|Inborn genetic diseases|Cockayne syndrome type 2 (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|not provided (n=4)
+• not provided|Cockayne syndrome type 2|Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|6 conditions (n=4)
+• Cerebrooculofacioskeletal syndrome 1|not provided|ERCC6-related disorder|DE SANCTIS-CACCHIONE SYNDROME|7 conditions|Cockayne syndrome type 2 (n=4)
+• 7 conditions|not specified|Macular degeneration|COFS syndrome|not provided|Inborn genetic diseases|Cockayne syndrome (n=4)
+• Cockayne syndrome type 2|7 conditions|not provided (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|Cockayne syndrome|not provided (n=4)
+• Inborn genetic diseases|not provided|not specified|Cockayne syndrome type 2 (n=4)
+• not provided|Inborn genetic diseases|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• not specified|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• not provided|Inborn genetic diseases|DE SANCTIS-CACCHIONE SYNDROME|Cerebrooculofacioskeletal syndrome 1|7 conditions (n=4)
+• not provided|Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• Hereditary breast ovarian cancer syndrome|not provided (n=4)
+• - (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2 (n=4)
+• not specified|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|not provided|7 conditions|ERCC6-related disorder|6 conditions (n=4)
+• DE SANCTIS-CACCHIONE SYNDROME|not provided|not specified (n=4)
+• Cockayne syndrome|not provided|Cerebrooculofacioskeletal syndrome 1 (n=4)
+• Cockayne syndrome type 2|DE SANCTIS-CACCHIONE SYNDROME|Cockayne syndrome|not provided|7 conditions|Cockayne spectrum with or without cerebrooculofacioskeletal syndrome (n=4)
+• Genetic non-acquired premature ovarian failure (n=4)
+• Cockayne syndrome type 2|ERCC6-related disorder (n=4)
+• not provided|7 conditions|not specified (n=4)
+• not provided|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|Inborn genetic diseases (n=4)
+• Cerebrooculofacioskeletal syndrome 1|7 conditions|not provided|7 conditions (n=4)
+• Age related macular degeneration 5|Cockayne syndrome type 2|Cerebrooculofacioskeletal syndrome 1|not provided|not specified|Inborn genetic diseases (n=4)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|not specified|Cockayne syndrome type 2|not provided|ERCC6-related disorder (n=4)
+• Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|DE SANCTIS-CACCHIONE SYNDROME (n=4)
+• Cockayne syndrome type 2|not provided|Age related macular degeneration 5 (n=4)
+• Cockayne syndrome type 2|not provided|Cockayne syndrome type 2|7 conditions (n=4)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|Genetic non-acquired premature ovarian failure|not provided (n=4)
+• not specified|Cerebrooculofacioskeletal syndrome 1|Age related macular degeneration 5|Cockayne syndrome type 2|not provided|Inborn genetic diseases (n=4)
+• Premature ovarian failure 11|Cockayne syndrome type 2 (n=4)
+• Cerebrooculofacioskeletal syndrome 1|not provided|7 conditions (n=4)
+• Cockayne syndrome type 2|not provided|Inborn genetic diseases|Cockayne syndrome type 2|Cockayne syndrome (n=4)
+• Cockayne syndrome type 2|not provided|DE SANCTIS-CACCHIONE SYNDROME|6 conditions|7 conditions (n=4)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|not provided|ERCC6-related disorder (n=4)
+• not specified|Macular degeneration|COFS syndrome|Cockayne syndrome|not provided (n=4)
+• UV-sensitive syndrome 1|Cockayne syndrome type 2|not provided|Cockayne syndrome (n=4)
+• not specified|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|Age related macular degeneration 5|not provided (n=4)
+• Cockayne syndrome type 2|not provided|See cases|ERCC6-related disorder|Cockayne syndrome|7 conditions (n=4)
+• Cockayne syndrome type 2|not specified|7 conditions (n=4)
+• Cockayne syndrome|COFS syndrome|Macular degeneration (n=4)
+• Age related macular degeneration 5|Cerebrooculofacioskeletal syndrome 1|Cockayne syndrome type 2|ERCC6-related disorder (n=4)
+• not provided|Congenital myasthenic syndrome 21|SLC18A3-related disorder (n=4)
+• Congenital myasthenic syndrome 21|not provided (n=4)
+• not provided|Congenital myasthenic syndrome 21 (n=4)
+• SLC18A3-related disorder (n=4)
+• Familial infantile myasthenia|not provided|not specified (n=4)
+• Familial infantile myasthenia|Inborn genetic diseases|not provided|CHAT-related disorder (n=4)
+• 6 conditions (n=4)
+• not provided|Congenital myasthenic syndrome|Familial infantile myasthenia (n=4)
+• Congenital myasthenic syndrome|Familial infantile myasthenia|not specified (n=4)
+• not provided|Familial infantile myasthenia|Congenital myasthenic syndrome (n=4)
+• Familial infantile myasthenia|not provided|not specified|Inborn genetic diseases (n=4)
+• Familial infantile myasthenia|CHAT-related disorder|not provided (n=4)
+• Congenital myasthenic syndrome 4C|Familial infantile myasthenia (n=4)
+• Familial infantile myasthenia|CHAT-related disorder (n=4)
+• Abnormality of the musculature|Familial infantile myasthenia (n=4)
+• Familial infantile myasthenia|not provided|Inborn genetic diseases (n=4)
+• not provided|not specified|Familial infantile myasthenia (n=4)
+• Congenital myasthenic syndrome|Familial infantile myasthenia (n=4)
+• Congenital myasthenic syndrome 4C (n=4)
+• not provided|Familial infantile myasthenia|Inborn genetic diseases (n=4)
+• not provided|Familial infantile myasthenia|not specified (n=4)
+• not specified|Familial infantile myasthenia|not provided|CHAT-related disorder (n=4)
+• Inborn genetic diseases|Familial infantile myasthenia|not provided (n=4)
+• OGDHL-related disorder (n=4)
+• Abnormal brain morphology|Yoon-Bellen neurodevelopmental syndrome (n=4)
+• Depression (n=4)
+• Yoon-Bellen neurodevelopmental syndrome|not provided (n=4)
+• OGDHL-related disorder|Inborn genetic diseases (n=4)
+• not provided|Inborn genetic diseases|Yoon-Bellen neurodevelopmental syndrome (n=4)
+
+

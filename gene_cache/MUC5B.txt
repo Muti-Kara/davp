@@ -1,0 +1,84 @@
+MUC5B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** MUC5B (HGNC:7516)
+*   **OMIM Gene ID:** 600770
+*   **Primary Disease Associations:** A common promoter variant (rs35705950) is a major genetic risk factor for Idiopathic Pulmonary Fibrosis (IPF) and Familial Pulmonary Fibrosis. Biallelic loss-of-function variants are associated with a hereditary mucin deficiency causing airway disease.
+*   **Clinical Significance Level:** High evidence for association with familial pulmonary fibrosis.
+*   **Inheritance Patterns:** The risk allele for IPF susceptibility is inherited in an autosomal dominant pattern. Hereditary mucin deficiency due to biallelic loss of function follows an autosomal recessive pattern.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for MUC5B are pLI = 0.00, LOEUF = 1.07. The pLI score suggests MUC5B is tolerant to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that heterozygous loss-of-function variants are generally tolerated in the population. This is consistent with the recessive inheritance pattern of MUC5B-related airway disease.
+*   **Variant Classes Most Likely to be Pathogenic:** For IPF, a specific gain-of-function promoter variant (rs35705950) is the primary risk factor. For hereditary mucin deficiency, homozygous or compound heterozygous loss-of-function variants (e.g., frameshift, nonsense, splicing) are causative.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0031950 - Usual interstitial pneumonia
+    *   HP:0002205 - Recurrent respiratory infections
+    *   HP:0002098 - Interstitial pulmonary abnormality
+    *   HP:0006512 - Bronchiectasis
+    *   HP:0002109 - Chronic rhinosinusitis
+    *   HP:0000458 - Nasal polyposis
+    *   HP:0001250 - Seizures (Note: This term's association is less direct and may require further validation)
+*   **Secondary HPO terms:**
+    *   HP:0002879 - Chronic bronchitis
+    *   HP:0010328 - Chronic cough
+    *   HP:0030829 - Decreased forced vital capacity
+*   **Age of Onset Patterns:** Idiopathic pulmonary fibrosis typically has an adult onset. The congenital absence of MUC5B protein presents with symptoms from birth or early childhood.
+*   **Phenotype Severity Spectrum:** The severity of IPF can range from slowly progressive to rapidly fatal. In hereditary mucin deficiency, phenotypes are variable, with some individuals having repeated infections and significant lung function impairment.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Promoter variant (rs35705950):** The 'T' allele is a gain-of-function variant that leads to overexpression of MUC5B in the distal airways. This is strongly associated with an increased risk for developing idiopathic pulmonary fibrosis and other interstitial lung diseases. Carriers of the 'T' allele may also have a worse disease course in hypersensitivity pneumonitis.
+    *   **Biallelic loss-of-function variants:** Homozygous or compound heterozygous null variants result in the absence of MUC5B protein. This leads to a distinct phenotype of impaired mucociliary clearance, recurrent bacterial infections, bronchiectasis, and sinus disease.
+*   **Protein Domain-Specific Phenotype Patterns:** Most pathogenic variants are outside of specific protein domains, either in the promoter region or leading to a loss of the entire protein.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the rs35705950 promoter variant and susceptibility to IPF is strong and highly replicated across multiple studies. The link between biallelic loss-of-function variants and congenital mucin deficiency is also strong, though based on a smaller number of reported cases.
+
+### **Clinical Variants & Phenotype Associations**
+*   **rs35705950 (c.-3133G>T):** / HGVS: n.-661G>T / ClinVar Significance: Risk factor / Reported Phenotypes: Idiopathic pulmonary fibrosis (HP:0031950), Interstitial lung disease (HP:0002098) / AF (gnomAD): Highest in Ashkenazi Jewish (16.2%)
+*   **c.1938+1G>A:** / HGVS: NM_002458.2:c.1938+1G>A / ClinVar Significance: Pathogenic / Reported Phenotypes: Bronchiectasis (HP:0006512), Recurrent Staphylococcus aureus infections, Sinus disease with nasal polyps (HP:0000458) / AF: Not reported in gnomAD, novel family variant.
+*   **c.14936T>C (p.Ile4979Thr), rs201287218:** / HGVS: p.Ile4979Thr / ClinVar Significance: Uncertain significance / Reported Phenotypes: Severe respiratory disease from birth / AF (gnomAD): 0.00003
+*   **c.16738G>A (p.Gly5580Arg), rs776709402:** / HGVS: p.Gly5580Arg / ClinVar Significance: Uncertain significance / Reported Phenotypes: Severe respiratory disease from birth / AF (gnomAD): 0.000008
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** Highest expression is in the minor salivary gland, endocervix, and lung.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the lung is consistent with the primary phenotypes of pulmonary fibrosis and airway disease. Expression in salivary glands relates to its role in the properties of saliva.
+*   **Expression During Development and Age-Related Phenotypes:** The rs35705950 promoter variant leads to aberrant MUC5B expression in the distal airway epithelium of adults, contributing to the age-related onset of IPF.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MUC5B is a major gel-forming mucin essential for maintaining the protective mucus barrier and enabling mucociliary clearance in airways and other mucosal surfaces.
+*   **Disease Mechanism:**
+    *   **Gain-of-function:** The rs35705950 promoter variant causes MUC5B overexpression in small airways, leading to impaired mucociliary clearance, epithelial injury, and a pro-fibrotic environment, which predisposes individuals to IPF.
+    *   **Loss-of-function:** Biallelic null mutations cause a complete absence of MUC5B, leading to defective mucus properties, impaired clearance of pathogens, and chronic airway inflammation and infection.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Dysregulation of MUC5B disrupts mucociliary clearance, a key innate defense mechanism. This failure of clearance is a central pathogenic event leading to either progressive fibrosis (in the case of overexpression) or chronic infection and inflammation (in the case of absence).
+*   **Protein-Protein Interactions Relevant to Phenotype:** MUC5B interacts with other mucins, such as MUC5AC, and its proper glycosylation and polymerization are critical for function. Alterations in these processes are seen in various lung diseases.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Genotyping the MUC5B promoter variant (rs35705950) is relevant for assessing risk in patients with suspected or familial interstitial lung disease. Sequencing of the MUC5B gene can identify rare biallelic mutations in patients with unexplained bronchiectasis and chronic sinopulmonary infections resembling cystic fibrosis.
+*   **Most Common Reasons for Testing This Gene:** Testing is performed for risk stratification in patients with idiopathic pulmonary fibrosis and for differential diagnosis in patients with unexplained chronic airway disease.
+*   **Clinical Actionability and Management Implications:** The presence of the rs35705950 'T' allele is associated with an increased risk of IPF and may influence disease progression and response to therapy. Identifying a congenital MUC5B deficiency can provide a definitive diagnosis for a complex respiratory phenotype, guiding management of infections and airway clearance.
+*   **Genetic Counseling Considerations:** For the rs35705950 variant, counseling should focus on the concept of genetic risk, incomplete penetrance, and the interplay with environmental factors. For biallelic loss-of-function variants, counseling for an autosomal recessive condition is indicated, including discussing risks to siblings and offspring.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 21506741 (2011):** This landmark study first identified the common MUC5B promoter polymorphism (rs35705950) and established it as the strongest genetic risk factor for familial interstitial pneumonia and idiopathic pulmonary fibrosis.
+*   **PMID: 33503378 (2021):** Reported the first cases of a congenital MUC5B deficiency due to biallelic loss-of-function mutations, defining a new recessive genetic airway disease characterized by bronchiectasis and chronic infections.
+*   **PMID: 38924494 (2024):** A recent letter highlighting that the MUC5B IPF risk variant promotes a mucosecretory phenotype and a loss of small airway secretory cells.
+*   **PMID: 35078065 (2022):** A study in a Greek cohort that explored the phenotypic characteristics driven by the MUC5B rs35705950 risk allele, both alone and in combination with other monogenic causes of iIPF.
+*   **PMID: 36517178 (2022):** This study investigated how MUC5B genotype influences radiological patterns of IPF at diagnosis and over time in patients receiving antifibrotic therapy.
+*   **PMID: 32607873 (2020):** A study showing the MUC5B promoter variant is associated with specific fibrotic subtypes of interstitial lung abnormalities (ILA), suggesting a role in the early origins of pulmonary fibrosis.
+*   **PMID: 37388701 (2023):** Research indicating that the 'T' allele of rs35705950 in patients with hypersensitivity pneumonitis is associated with lower baseline forced vital capacity and a greater subsequent decline.
+*   **PMID: 33792558 (2021):** Showed that variability in MUC5B expression in IPF depends on both the rs35705950 genotype and the molecular endotype of the disease (cilium vs. non-cilium).
+*   **PMID: 33690187 (2021):** Utilized co-localization of gene expression and DNA methylation with GWAS data to provide further functional evidence for the roles of MUC5B and DSP in IPF etiology.
+*   **PMID: 31221532 (2020):** An analysis that compared effect sizes of different classes of variants implicated in IPF, including the MUC5B GWAS locus.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   **rs35705950 'T' allele:** Strongly associated with susceptibility to Idiopathic Pulmonary Fibrosis (HP:0031950) and Interstitial lung disease (HP:0002098).
+    *   **Biallelic loss-of-function variants (e.g., c.1938+1G>A):** Causative for a syndrome encompassing Bronchiectasis (HP:0006512), Recurrent respiratory infections (HP:0002205), and Nasal polyposis (HP:0000458).
+*   **Phenotype red flags:**
+    *   The presence of Usual Interstitial Pneumonia (HP:0031950) on imaging in an adult patient strongly suggests investigating the MUC5B promoter variant status.
+    *   A clinical picture of unexplained, early-onset bronchiectasis with chronic sinopulmonary infections, particularly if cystic fibrosis has been ruled out, should prompt consideration of sequencing MUC5B for biallelic loss-of-function mutations.
+*   **Differential diagnosis considerations:**
+    *   The phenotype of MUC5B-related IPF overlaps with interstitial lung disease caused by mutations in other genes, such as those related to telomere maintenance (TERT, TERC) and surfactant proteins (SFTPA1, SFTPC, ABCA3).
+    *   The phenotype of congenital MUC5B deficiency overlaps clinically with cystic fibrosis (CFTR) and primary ciliary dyskinesia (multiple genes), but is distinguished by normal CFTR function and ciliary ultrastructure/function.
+

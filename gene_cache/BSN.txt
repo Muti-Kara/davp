@@ -1,0 +1,84 @@
+BSN Gene Biomedical Dossier
+### **Gene Dossier: BSN**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 1117.
+*   **OMIM Gene ID:** 604020.
+*   **Primary Disease Associations:** Bassoon-related neurodevelopmental disorder, which can include epilepsy, developmental delay, behavioral phenotypes, and obesity. Other reported associations include epilepsy with a favorable outcome and a progressive supranuclear palsy-like syndrome.
+*   **Clinical Significance Level:** The association between BSN variants and epilepsy has been evaluated as "strong" based on the ClinGen framework.
+*   **Inheritance Patterns:** Autosomal dominant inheritance, often arising de novo, is observed for protein-truncating variants. Autosomal recessive inheritance involving compound heterozygous variants has also been reported.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint scores for BSN (transcript NM_003458.3) are pLI = 1.00, pNull = 0, pRec = 0. The LOEUF is 0.08 (90% CI 0.04-0.15).
+*   **Clinical Interpretation of Constraint Scores:** A pLI score of ≥0.9 is considered extremely intolerant of loss-of-function (LoF) variation. The BSN pLI score of 1.00 and very low LOEUF score strongly indicate that the gene is haploinsufficient and does not tolerate the loss of one functional copy.
+*   **Variant Classes Most Likely to be Pathogenic:** Protein-truncating variants (nonsense, frameshift) are a primary class of pathogenic variants, consistent with haploinsufficiency. Missense variants, both de novo and in compound heterozygous states, have also been reported as pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Seizures (HP:0001250).
+    *   Febrile seizure (HP:0002373).
+    *   Global developmental delay (HP:0001263).
+    *   Obesity (HP:0001513).
+    *   Behavioral disinhibition (p=3.39e-17 association).
+    *   Attention deficit hyperactivity disorder (HP:0007018).
+    *   Autistic behavior (HP:0000729).
+    *   Delayed speech and language development (HP:0000750).
+    *   Generalized tonic-clonic seizures (HP:0002069).
+    *   Focal-onset seizure (HP:0007359).
+*   **Secondary HPO terms:**
+    *   Adult-onset severe obesity.
+    *   Type 2 diabetes mellitus (HP:0005978).
+    *   Hepatic steatosis (HP:0001397).
+    *   Progressive supranuclear ophthalmoplegia (HP:0000641).
+    *   Postural instability (HP:0002172).
+    *   Cognitive decline (HP:0100543).
+    *   Microcephaly (HP:0000252).
+*   **Age of Onset Patterns:** Onset is typically in infancy or childhood for epilepsy and neurodevelopmental phenotypes. A distinct adult-onset phenotype including obesity and a neurodegenerative PSP-like syndrome has also been described.
+*   **Phenotype Severity Spectrum:** The phenotype is broad, ranging from individuals with mild features or favorable-outcome epilepsy to those with severe developmental and epileptic encephalopathy. Adults may present with a milder neurodevelopmental phenotype or no obvious neurodevelopmental features.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** De novo protein-truncating variants (PTVs) are associated with a neurodevelopmental disorder characterized by epilepsy, developmental delay, obesity, and behavioral issues. Biallelic missense variants have been linked to a more severe epileptic phenotype with neurodevelopmental delay.
+*   **Protein Domain-Specific Phenotype Patterns:** Pathogenic missense variants causing epilepsy with a favorable outcome have been reported to cluster at the C-terminus of the Bassoon protein, suggesting a specific subregional effect.
+*   **Genotype-Phenotype Correlation Strength:** Evidence suggests a moderate correlation, where the severity and type of phenotype can be linked to the variant type (e.g., monoallelic missense vs. biallelic missense vs. truncating variants).
+*   **Examples: specific variants → specific phenotypes:** Biallelic variants, including a deletion (p.Leu1454del) and a missense variant (p.Ala3642Val), were associated with frequent seizures, neurodevelopmental delay, and microcephaly. Monoallelic missense variants were associated with benign epilepsy.
+
+**Clinical Variants & Phenotype Associations**
+*   This section requires a comprehensive table populated from ClinVar and literature, which is beyond the scope of a static summary. Representative examples are provided below based on available search results.
+*   **c.3322G>T (p.Glu1108Ter):** De novo nonsense variant; reported in a patient with infantile-onset epilepsy with febrile seizures but normal development.
+*   **c.7351C>T (p.Gln2451Ter):** De novo nonsense variant; reported in a patient with childhood-onset epilepsy, febrile seizures, and normal development.
+*   **p.Pro3520Leu & p.Thr3658Ser:** Two separate heterozygous missense variants; associated with epilepsy with a favorable outcome.
+*   **p.Leu1454del & p.Ala3642Val:** Compound heterozygous variants; associated with frequent seizures, neurodevelopmental delay, and microcephalus.
+*   **MyGene2 Candidate 4093:** De novo variant of unknown type; listed as "Suspected pathogenic".
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** BSN is highly expressed in the brain, with highest expression levels in the cerebellum, cerebellar hemisphere, cortex, and caudate nucleus. This aligns with the provided existing data.
+*   **Tissue-Specific Phenotypes Expected:** The high and specific expression in multiple brain regions, including the cortex and hippocampus, is consistent with the observed neurological phenotypes such as epilepsy, cognitive impairment, and behavioral disorders.
+*   **Expression During Development and Age-Related Phenotypes:** BSN expression is significantly higher during infancy and decreases in adolescence and adulthood, which may correlate with the typical infancy/childhood onset of epilepsy.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** BSN encodes Bassoon, a large scaffolding protein that organizes the presynaptic cytomatrix at the active zone (CAZ) to regulate synaptic vesicle trafficking and neurotransmitter release.
+*   **Disease Mechanism:** Haploinsufficiency due to protein-truncating variants is a primary mechanism, leading to a loss of function. Some missense variants may also lead to loss of function, while others could have dominant-negative effects.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the presynaptic active zone impairs the integrity and function of both excitatory and inhibitory synapses, leading to cortical hyperexcitability and seizures. In a separate mechanism, mutated BSN has been shown to lose its ability to reduce tau protein accumulation, potentially leading to tauopathy and neurodegeneration.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Bassoon functions in a complex with other CAZ proteins like Piccolo, Munc13, and RIMs. Its interaction with P/Q-type voltage-gated calcium channels is crucial for normal neurotransmitter release.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The exact diagnostic yield is not specified in the search results, but BSN is an emerging candidate gene found in epilepsy and neurodevelopmental disorder cohorts via large-scale sequencing.
+*   **Most Common Reasons for Testing This Gene:** Testing for BSN variants is indicated in individuals with unexplained neurodevelopmental disorders, particularly those with epilepsy (especially infantile or childhood-onset), developmental delay, and behavioral abnormalities.
+*   **Clinical Actionability and Management Implications:** A genetic diagnosis can help predict the clinical course, with some genotypes suggesting a more favorable epilepsy outcome. Management is currently symptomatic, focusing on seizure control and supportive therapies for developmental delays.
+*   **Genetic Counseling Considerations:** Counseling should address the variable expressivity and wide phenotypic spectrum. Inheritance patterns can be autosomal dominant (often de novo) or recessive, impacting recurrence risk counseling for families.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 38896942 (2025):** Established that de novo disruptive BSN variants cause a synaptic disorder with a broad neurodevelopmental phenotype including epilepsy, developmental delay, obesity, and behavioral issues in a cohort of 29 individuals.
+*   **PMID: 32620603 (2020):** Identified BSN variants in eight families with epilepsy, suggesting a favorable outcome for many. It established the gene-disease relationship as "strong" and reported both de novo and recessive inheritance patterns, correlating phenotype severity with genotype.
+*   **PMID: 34168087 (2021):** Linked protein-truncating variants in BSN to severe adult-onset obesity, type 2 diabetes, and fatty liver disease, expanding the phenotype to include metabolic disorders.
+*   **PMID: 29335607 (2018):** Reported missense mutations in BSN in a family with a progressive supranuclear palsy (PSP)-like syndrome, identifying a novel tauopathy and linking BSN to neurodegenerative disease through impaired reduction of tau accumulation.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   De novo protein-truncating variants are strongly associated with a phenotype that includes Seizures (HP:0001250), Global developmental delay (HP:0001263), and Obesity (HP:0001513).
+    *   Biallelic missense variants are associated with a more severe epilepsy phenotype and Microcephaly (HP:0000252).
+*   **Phenotype red flags:** The combination of infantile/childhood-onset epilepsy (especially with febrile seizures), significant behavioral issues like disinhibition, and emerging obesity should raise strong suspicion for a pathogenic variant in BSN.
+*   **Differential Diagnosis Considerations:** The phenotype overlaps with numerous other genetic causes of developmental and epileptic encephalopathies. Genes involved in presynaptic function and other forms of genetic epilepsy should be considered.
+
+***
+

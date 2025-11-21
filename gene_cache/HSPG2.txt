@@ -1,0 +1,93 @@
+HSPG2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 5273.
+*   **OMIM Gene ID:** 142461.
+*   **Primary Disease Associations:** Schwartz-Jampel syndrome, type 1 (SJS1) (OMIM #255800) and Dyssegmental Dysplasia, Silverman-Handmaker type (DDSH) (OMIM #224410).
+*   **Clinical Significance Level:** Mutations in HSPG2 are definitively associated with SJS1 and DDSH.
+*   **Inheritance Patterns:** Both SJS1 and DDSH are autosomal recessive disorders. Compound heterozygous or homozygous mutations are required to cause a clinical phenotype.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 loss-of-function observed/expected upper bound fraction (LOEUF) score is 0.34. The probability of being loss-of-function intolerant (pLI) score is not typically high for recessive genes.
+*   **Clinical Interpretation of Constraint Scores:** The LOEUF score is near the threshold of <0.35, which suggests the gene is somewhat tolerant of loss-of-function alleles, consistent with its recessive inheritance pattern where the loss of a single copy is not lethal.
+*   **Variant Classes Most Likely to be Pathogenic:** Pathogenic variants include missense, nonsense, splice-site, and frameshift mutations. Functional null mutations that prevent perlecan secretion are associated with the most severe phenotype (DDSH).
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms (ranked by general frequency in literature):**
+    *   Short stature (HP:0004322).
+    *   Myotonia (HP:0001053).
+    *   Joint contracture (HP:0001371).
+    *   Kyphoscoliosis (HP:0002751).
+    *   Blepharophimosis (HP:0000644).
+    *   Disproportionate short-limb short stature (HP:0008873).
+    *   Flat face (HP:0012368).
+    *   Bowing of the long bones (HP:0006487).
+    *   Pectus carinatum (HP:0000916).
+    *   Micrognathia (HP:0000347).
+    *   Mask-like facies (HP:0000298).
+    *   Anisospondyly (HP:0003306).
+    *   Abnormal femoral epiphysis morphology (HP:0006499).
+    *   Encephalocele (HP:0002084).
+*   **Secondary HPO terms:**
+    *   Myopia (HP:0000545).
+    *   Low-set ears (HP:0000369).
+    *   Mental retardation (in ~25% of SJS1 cases) (HP:0001249).
+    *   Idiopathic scoliosis (potential association) (HP:0002650).
+*   **Age of Onset Patterns:** DDSH is a neonatal lethal condition. SJS1 typically manifests with myotonia-related phenotypes in early life.
+*   **Phenotype Severity Spectrum:** The phenotypic spectrum ranges from the relatively milder SJS to the perinatally lethal DDSH. The severity inversely correlates with the amount of functional perlecan secreted into the extracellular matrix.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Functional null mutations (e.g., frameshift, nonsense, or splice-site variants leading to no protein secretion) cause the severe, lethal DDSH phenotype. Hypomorphic mutations (missense or splice-site) that reduce, but do not eliminate, the secretion of functional perlecan result in the milder SJS phenotype.
+*   **Protein Domain-Specific Phenotype Patterns:** While no definitive domain-specific correlation has been established, mutations are distributed across the gene's 97 exons. The specific location and type of mutation influence the amount of functional protein produced, which dictates the severity.
+*   **Genotype-Phenotype Correlation Strength:** There is a strong correlation between the residual function of perlecan and the clinical severity. Complete loss-of-function leads to DDSH, while partial loss leads to SJS. However, within SJS, a clear genotype-phenotype correlation is not yet apparent.
+*   **Examples: specific variants → specific phenotypes:**
+    *   Homozygous 89-bp duplication in exon 34 (domain III) leads to a null phenotype, causing DDSH.
+    *   Compound heterozygous mutations c.8788G>A (p.Glu2930Lys) and c.11671+5G>A were identified in a patient with SJS1.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1125C>G (p.Cys375Trp):** Pathogenic for Schwartz-Jampel syndrome; reported to cause more neuromuscular instability and relatively mild skeletal abnormalities.
+*   **c.3888+1G>A:** Pathogenic splice variant leading to skipping of exon 31, associated with Schwartz-Jampel syndrome type 1.
+*   **c.8464G>A (p.Gly2822Ser):** Pathogenic mutation leading to skipping of exon 64, associated with Schwartz-Jampel syndrome type 1.
+*   **c.6001dupC (p.Arg2001Profs*19):** Pathogenic frameshift variant associated with Dyssegmental Dysplasia, Silverman-Handmaker type.
+*   **c.11207G>A (p.Arg3736Gln):** Pathogenic missense variant associated with Dyssegmental Dysplasia, Silverman-Handmaker type.
+*   **c.8788G>A (p.Glu2930Lys):** Novel mutation reported in a patient with Schwartz-Jampel syndrome type 1.
+*   **c.11671+5G>A:** Novel splice variant reported in a patient with Schwartz-Jampel syndrome type 1.
+*   **p.Asn786Ser:** This variant is potentially associated with idiopathic scoliosis.
+*   **Variants with Strongest Phenotype Evidence:** Null mutations (e.g., frameshifts and certain splice-site variants) are strongly correlated with the lethal DDSH phenotype.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** HSPG2 is widely expressed, particularly in cartilage, bone marrow, and skeletal muscle, which aligns with the observed musculoskeletal phenotypes. It is also a key component of all basement membranes, including those in the heart and brain. The GTEx portal shows high expression in arteries, heart, and muscle tissue.
+*   **Tissue-Specific Phenotypes Expected:** High expression in musculoskeletal tissues correlates with chondrodysplasia and myotonia. Expression in heart and brain basement membranes is critical, and its absence in null mice leads to embryonic lethality due to heart and brain defects.
+*   **Expression During Development:** Perlecan plays vital roles in the development of cardiovascular, neural, and cartilaginous tissues. Its proper expression is critical for cartilage formation and bone development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** Perlecan is a large, multi-domain heparan sulfate proteoglycan that is a critical structural component of all basement membranes and the extracellular matrix, involved in maintaining tissue integrity and regulating signaling pathways.
+*   **Disease Mechanism:** The primary mechanism is loss-of-function. Complete loss-of-function results in DDSH, while partial loss-of-function (hypomorphism) results in SJS.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Extracellular Matrix (ECM) Integrity:** Disruption of ECM assembly in cartilage and bone leads to chondrodysplasia and skeletal abnormalities. In muscle, it impairs neuromuscular function.
+    *   **Signaling Pathways:** Perlecan binds to and modulates growth factors (like FGF), which is essential for normal development and cell proliferation. Its absence disrupts endochondral ossification and chondrocyte proliferation.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Perlecan interacts with numerous ECM components like laminin, collagen type IV, and cell-surface molecules, which is essential for the stabilization of basement membranes.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** For patients presenting with the classic and severe features of DDSH or SJS, sequencing of *HSPG2* has a high diagnostic yield.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with prenatal findings of severe skeletal dysplasia (such as short and bowed limbs, anisospondyly) or postnatal presentation of myotonia combined with skeletal abnormalities (short stature, joint contractures, specific facial features).
+*   **Clinical Actionability and Management Implications:** For SJS, management is symptomatic and may include physical therapy and medications like procainamide to help with muscle function. For DDSH, there is no treatment, and the condition is lethal. Prenatal diagnosis is crucial for genetic counseling.
+*   **Genetic Counseling Considerations:** SJS and DDSH are autosomal recessive conditions. Parents of an affected child are obligate carriers, and there is a 25% recurrence risk in subsequent pregnancies.
+
+### **Key Clinical Literature & Studies**
+*   **Arikawa-Hirasawa et al., 2001 (PMID: 11101850):** A landmark study that first identified perlecan-null mutations in patients with the lethal DDSH, establishing the link between complete loss of perlecan and the severe skeletal dysplasia phenotype.
+*   **Nicole et al., 2000 (PMID: 11101850):** First reported that mutations in *HSPG2* are the cause of Schwartz-Jampel syndrome, linking partial loss of perlecan function to the SJS phenotype.
+*   **Martinez et al., 2018 (PMID: 30453535):** A comprehensive review summarizing mutations, phenotypes, and functions of perlecan, highlighting the genotype-phenotype correlation where severity is inversely related to the amount of secreted perlecan.
+*   **Chen et al., 2018 (PMID: 29882736):** A case report identifying novel compound heterozygous mutations in *HSPG2* causing SJS1, demonstrating the utility of whole-exome sequencing in diagnosing cases and expanding the mutational spectrum.
+*   **Bas-Sodupe et al., 2023 (PMID: 37682335):** Reported a novel splice mutation in a Moroccan child with SJS1 and reviewed the literature, confirming clinical hallmarks and noting that genotype-phenotype correlation remains challenging for SJS1.
+*   **Liao et al., 2021 (PMID: 34504886):** A report of prenatal identification of novel *HSPG2* variants causing DDSH, emphasizing the importance of early and accurate prenatal diagnosis.
+*   **Wang et al., 2021 (PMID: 33763435):** Identified a new pathogenic missense mutation causing SJS and noted that these patients showed more neuromuscular instability with relatively milder skeletal abnormalities, adding to the genotype-phenotype database.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   **Null mutations (frameshift, nonsense, canonical splice site):** Strongly associated with a severe phenotype including Anisospondyly (HP:0003306), Bowing of the long bones (HP:0006487), Encephalocele (HP:0002084), and is typically neonatally lethal (DDSH).
+    *   **Hypomorphic mutations (missense, non-canonical splice site):** Typically cause a phenotype characterized by Myotonia (HP:0001053), Joint contracture (HP:0001371), Short stature (HP:0004322), and Blepharophimosis (HP:0000644) (SJS).
+*   **Phenotype red flags (HPO terms that strongly suggest pathogenic variants in this gene):**
+    *   The combination of **Myotonia (HP:0001053)** and **Chondrodysplasia (HP:0000910)** is highly suggestive of SJS due to *HSPG2* mutations.
+    *   Prenatal findings of severe, disproportionate short-limb dwarfism with **Anisospondyly (HP:0003306)** are a strong indicator for DDSH caused by *HSPG2* mutations.
+*   **Differential diagnosis considerations:** The skeletal dysplasia features can overlap with other chondrodysplasias. The myotonia in SJS needs to be distinguished from other myotonic disorders, though the combination with skeletal abnormalities is characteristic.
+

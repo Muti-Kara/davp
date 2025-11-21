@@ -1,0 +1,72 @@
+MTUS1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 29789.
+*   **OMIM Gene ID:** 609589.
+*   **Primary Disease Associations:** While primarily studied in the context of cancer, particularly as a tumor suppressor in various cancers like hepatocellular carcinoma, breast, and colorectal cancer, emerging evidence suggests a role in other conditions. A *de novo* mutation has been associated with non-compaction of the ventricular myocardium (NVM).
+*   **Clinical Significance Level:** The evidence for its role in cancer is substantial, though a definitive Mendelian disease association is still emerging. Its association with NVM is based on a single case study, suggesting a need for further research.
+*   **Inheritance Patterns Observed in Patients:** The role in cancer is primarily linked to somatic mutations or downregulation. The reported case of NVM was due to a *de novo* mutation, implying a dominant effect.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull (gnomAD v2.1.1):**
+    *   **pLI:** 0.00
+    *   **LOEUF:** 1.13
+    *   **pRec:** 0.81
+    *   **pNull:** 0.19
+*   **Clinical Interpretation of Constraint Scores:** The gnomAD scores indicate that *MTUS1* is tolerant to loss-of-function variation. The very low pLI and high LOEUF suggest that haploinsufficiency is not a common disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** While the gene is tolerant of loss-of-function variants, specific missense variants or variants affecting particular isoforms may be pathogenic. In cancer, downregulation or mutations that alter protein function are implicated.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0000717 - Autistic disorder
+    *   HP:0030680 - Left ventricular noncompaction
+    *   HP:0100744 - Cardiac hypertrophy
+    *   HP:0002099 - Colonic neoplasm
+    *   HP:0003003 - Breast carcinoma
+    *   HP:0001407 - Hepatocellular carcinoma
+*   **Secondary HPO terms:**
+    *   HP:0002857 - Salivary gland adenoid cystic carcinoma
+    *   HP:0002863 - Pancreatic cancer
+    *   HP:0002664 - Neoplasm
+*   **Age of Onset Patterns:** The association with NVM was identified in a familial case involving two sisters, suggesting a congenital or early-onset presentation. Cancer associations are typically adult-onset.
+*   **Phenotype Severity Spectrum:** The clinical presentation can range from predisposition to various cancers to structural heart defects. The severity of the cardiac phenotype in the reported NVM case was significant.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Downregulation of *MTUS1* expression is frequently observed in various cancers, suggesting a tumor suppressor role. A specific *de novo* missense mutation (c.2617A->C) has been linked to NVM.
+*   **Protein Domain-Specific Phenotype Patterns:** Different isoforms of *MTUS1* have distinct cellular localizations (mitochondrial, nuclear) and may have different functional roles, suggesting that variants affecting specific isoforms could lead to different phenotypes. For example, isoform 5 (ATIP3) localizes to the mitochondria and is implicated in tumor suppression.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between reduced *MTUS1* expression and cancer is moderate to strong across multiple studies. The correlation with NVM is currently based on a single family and is therefore considered preliminary.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.2617A->C (p.Thr873Pro) / not provided / Uncertain significance (reported as pathogenic in a single study) / Non-compaction of ventricular myocardium (HP:0030680) / Extremely rare, reported as de novo.** This variant was identified in a family with NVM and was shown in vitro to decrease microtubule stability.
+*   *ClinVar lists several variants in MTUS1, but the vast majority are classified as variants of uncertain significance or benign, consistent with the gnomAD constraint scores.*
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *MTUS1* is widely expressed, with higher levels in tissues such as the artery (tibial), liver, and pancreas.
+*   **Tissue-Specific Phenotypes Expected:** The expression in the heart is consistent with the reported cardiac phenotype (NVM). Its expression in the liver and pancreas aligns with its role in hepatocellular and pancreatic cancers. High expression in the brain, particularly the cerebellum, suggests a potential neurological function.
+*   **Expression During Development and Age-Related Phenotypes:** Expression of certain isoforms in the fetal brain suggests a role in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *MTUS1* encodes a microtubule-associated scaffold protein that plays a role in regulating cell proliferation, cell division, and microtubule stability.
+*   **Disease Mechanism:** In cancer, the mechanism is primarily loss-of-function, acting as a tumor suppressor. The *de novo* mutation associated with NVM may act through a dominant-negative or gain-of-function mechanism, as it was shown to decrease microtubule stability.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **ERK Pathway:** *MTUS1* cooperates with the angiotensin II type 2 receptor (AGTR2) to inhibit ERK signaling, thereby suppressing cell proliferation. Disruption of this can lead to uncontrolled cell growth in cancer.
+    *   **Microtubule Dynamics:** The protein (specifically the ATIP3 isoform) stabilizes microtubules. Alterations can affect cell division and migration.
+    *   **Rac1/Cdc42 Pathway:** The NVM-associated mutation was found to decrease phosphorylation of Rac1/Cdc42, affecting cell polarity and microtubule stability, which are crucial for myocardial development.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for *MTUS1* is not standard for most genetic disorders. Its primary relevance is in cancer genomics, where its expression level can have prognostic value. The diagnostic yield for Mendelian conditions like NVM is currently unknown but presumed to be very low.
+*   **Most Common Reasons for Testing This Gene:** Testing is primarily done in a research context to investigate its role in cancer progression and as a potential biomarker. It may be included in large gene panels for cardiomyopathy.
+*   **Clinical Actionability and Management Implications:** Low *MTUS1* expression in some cancers is associated with a poorer prognosis. There are currently no specific therapies targeting *MTUS1*.
+*   **Genetic Counseling Considerations:** Given the limited evidence for a Mendelian disease association, counseling for variants in *MTUS1* is challenging. For the reported NVM case, the *de novo* nature of the variant implies a low recurrence risk for the parents, but a 50% risk for the affected individuals' offspring.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 27383921, 2016:** Identified an *Mtus1* splice variant as a novel inhibitory factor against cardiac hypertrophy in mice, showing it suppresses ERK signaling.
+*   **PMID: 31231454, 2019:** Reported a *de novo* c.2617A->C mutation in *MTUS1* in a family with non-compaction of the ventricular myocardium (NVM), suggesting a potential role in cardiac development via the Rac1/Cdc42 pathway.
+*   **PMID: 35962436, 2022:** A comprehensive analysis suggesting *MTUS1* as a promising diagnostic and prognostic biomarker for colorectal cancer, correlating its expression with immune infiltration.
+*   **PMID: 34125869, 2021:** An in-silico analysis of deleterious single nucleotide polymorphisms in *MTUS1*, highlighting potentially damaging variants and their association with various cancers.
+*   **PMID: 19574577, 2008:** Early paper describing *MTUS1* as a tumor suppressor gene in the 8p22 region, with multiple isoforms having distinct functions and tissue distributions.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for *MTUS1*. The link to cancer is primarily based on expression levels rather than specific germline variants.
+*   **Phenotype red flags:** While evidence is still emerging, the co-occurrence of **Left ventricular noncompaction (HP:0030680)** with a novel, rare missense variant in *MTUS1* could be a red flag, warranting further investigation, particularly if the variant is predicted to be damaging.
+*   **Differential diagnosis considerations:** The phenotype of non-compaction of the ventricular myocardium has a broad differential diagnosis, including variants in genes such as *MYH7, MYBPC3, TTN*, and others associated with cardiomyopathies.
+

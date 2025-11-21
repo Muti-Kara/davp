@@ -1,0 +1,87 @@
+IRS2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 6126
+*   **OMIM Gene ID:** 600797
+*   **Primary Disease Associations:** While strongly implicated in complex multifactorial diseases like Type 2 Diabetes Mellitus and Polycystic Ovary Syndrome, its role in monogenic disease is less defined. Common variants are associated with susceptibility to these conditions rather than causing them directly.
+*   **Clinical Significance Level:** The role of rare, single-gene variants in causing a distinct Mendelian disorder is still being investigated, with evidence currently being limited or moderate for severe insulin resistance syndromes.
+*   **Inheritance Patterns:** For complex traits like type 2 diabetes and obesity, the inheritance is not straightforward Mendelian. Studies of rare variants in families with severe insulin resistance have not consistently shown clear co-segregation with the phenotype.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull (gnomAD v2.1.1):**
+    *   pLI (Probability of being Loss-of-function Intolerant): 0.00
+    *   LOEUF (Loss-of-function Observed/Expected Upper-bound Fraction): 1.14
+    *   pRec (Probability of being a recessive gene): Not provided.
+    *   pNull (Probability of being tolerant of both heterozygous and homozygous LoF variants): Not provided.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that *IRS2* is tolerant to loss-of-function (LoF) variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** While the gene is tolerant to LoF variants, specific missense variants may have a pathogenic role, potentially through mechanisms other than haploinsufficiency. Some studies focus on the functional effects of specific non-synonymous variants like Gly1057Asp.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities. While no definitive monogenic disease is linked to *IRS2*, phenotypes are inferred from its role in metabolic diseases.
+    *   Type II diabetes mellitus (HP:0005978)
+    *   Insulin resistance (HP:0000855)
+    *   Glucose intolerance (HP:0000833)
+    *   Obesity (HP:0001513)
+    *   Polycystic ovary syndrome (HP:0000062)
+    *   Hyperandrogenism (HP:0000842)
+    *   Increased waist to hip ratio (HP:0031819)
+*   **Secondary HPO terms:**
+    *   Hepatic steatosis (related to Nonalcoholic fatty liver disease) (HP:0001397)
+    *   Impaired glucose-stimulated insulin secretion (related to beta-cell dysfunction) (HP:0000849)
+*   **Age of Onset Patterns:** Typically adult-onset for complex diseases like Type 2 Diabetes.
+*   **Phenotype Severity Spectrum:** The severity of phenotypes like insulin resistance and glucose intolerance can vary widely, influenced by genetic background and environmental factors.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   The common missense variant Gly1057Asp (rs1805097) has been extensively studied. The Gly/Gly genotype is associated with higher 2-hour glucose levels in women with PCOS, suggesting an increased risk for developing type 2 diabetes.
+    *   In contrast, other studies suggest the Asp1057 allele, when combined with obesity, increases the risk of type 2 diabetes.
+*   **Protein Domain-Specific Phenotype Patterns:** The IRS2 protein contains a Pleckstrin Homology (PH) domain and a Phosphotyrosine Binding (PTB) domain, crucial for its function in signaling. A variant (p.Ser78Asn) located in the PH domain was identified in a family with severe insulin resistance, but did not clearly co-segregate with the phenotype.
+*   **Genotype-Phenotype Correlation Strength:** The correlation for common variants is considered weak to moderate and highly dependent on other genetic and environmental factors like obesity. The evidence for a strong, direct correlation for rare variants causing monogenic disease is limited.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   **c.3170G>A (p.Gly1057Asp):** In obese individuals, the Asp allele is associated with an increased risk of type 2 diabetes, higher fasting plasma glucose, and higher fasting C-peptide levels. However, in non-obese individuals, it may be protective. In women with PCOS, the Gly/Gly genotype is linked to higher glucose levels.
+    *   **Haplotypes:** Complex haplotypes of *IRS2*, which include the Gly1057Asp variant, have been associated with severe obesity and glucose intolerance. For instance, haplotypes H3 and H4 were linked to increased 2-hour glucose levels in obese individuals.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists one variant as pathogenic or likely pathogenic. However, most studies have focused on common polymorphisms with risk associations rather than rare, highly penetrant pathogenic variants.
+*   **rs1805097 / c.3170G>A (p.Gly1057Asp) / Risk Factor (ClinVar) /** Reported phenotypes include susceptibility to Type 2 Diabetes Mellitus, Polycystic Ovary Syndrome, and Nonalcoholic Fatty Liver Disease. AF (Allele Frequency) varies by population, for example, 0.41 (Asp) in Whites and 0.15 (Asp) in African-Americans in one PCOS cohort.
+*   Several novel, rare, non-synonymous variants have been identified in patients with severe insulin resistance (e.g., p.Ser78Asn, p.Ile524Val, p.Pro829Ser, p.Ser945Phe, p.His1328Arg), but none showed clear co-segregation with the disease phenotype in family studies.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *IRS2* shows broad expression, with notable levels in the liver, pancreas, adipose tissue, and muscle, which are key tissues for insulin signaling.
+*   **Tissue-Specific Phenotypes Expected:**
+    *   **Liver:** Impaired *IRS2* function is linked to hepatic steatosis (fatty liver) and insulin resistance.
+    *   **Pancreatic β-cells:** *IRS2* is crucial for β-cell proliferation and survival, and reduced expression is associated with impaired glucose-stimulated insulin secretion.
+    *   **Brain:** *IRS2* is involved in neuronal proliferation and survival, and its disruption may be linked to neurodegenerative processes.
+    *   **Adipose Tissue & Skeletal Muscle:** These tissues are central to insulin-mediated glucose uptake, and altered *IRS2* signaling contributes to peripheral insulin resistance.
+*   **Expression During Development and Age-Related Phenotypes:** While knockout studies in rats show *IRS2* is important for overall growth, its role in age-related phenotypes in humans is linked to the development of metabolic diseases like type 2 diabetes later in life.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *IRS2* is a cytoplasmic adaptor protein that mediates signaling from the insulin and insulin-like growth factor-1 (IGF1) receptors to downstream pathways, including the PI3K/AKT/mTOR and MAPK pathways.
+*   **Disease Mechanism:** The primary mechanism for common variants is likely altered signaling efficiency, contributing to insulin resistance as a risk factor. Haploinsufficiency is not supported by gnomAD data. Rare variants might act through other mechanisms, but this is not well established.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Insulin Signaling Pathway (KEGG: hsa04910):** Disruption in liver, muscle, and adipose tissue leads to impaired glucose uptake and regulation, resulting in hyperglycemia and insulin resistance.
+    *   **Pancreatic β-cell function:** Failure of IRS2-mediated signaling impairs the adaptive proliferation of β-cells in response to insulin resistance, leading to relative insulin deficiency.
+    *   **Hippo-YAP/TAZ and PI3K/AKT pathway:** In the liver, a positive feedback loop involving YAP/TAZ and IRS2-AKT signaling can promote hepatic steatosis and has been implicated in the progression to liver cancer.
+*   **Protein-Protein Interactions Relevant to Phenotype:** IRS2 interacts with the insulin receptor (INSR), insulin-like growth factor 1 receptor (IGF1R), and the regulatory subunits of phosphatidylinositol 3-kinase (PI3K), which are critical for activating downstream metabolic and mitogenic signaling.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** Testing for rare, pathogenic *IRS2* variants in cohorts with severe insulin resistance has a very low yield, as no variants have been definitively proven to be the monogenic cause of the phenotype.
+*   **Most Common Reasons for Testing:** Primarily conducted in a research setting to investigate the genetic basis of metabolic disorders like severe obesity, insulin resistance, and polycystic ovary syndrome.
+*   **Clinical Actionability:** Currently, management is based on the clinical phenotype (e.g., managing diabetes, hyperlipidemia, or PCOS) rather than a specific *IRS2* genotype.
+*   **Genetic Counseling Considerations:** For common variants like Gly1057Asp, counseling should emphasize that these are risk factors, not deterministic causes of disease. The risk is modified by other genetic, lifestyle, and environmental factors. For rare variants of uncertain significance, counseling should reflect the current lack of evidence for causality.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 16184013, 2005:** A study on complex haplotypes of *IRS2* demonstrating an association with severe obesity and glucose intolerance, highlighting the heterogeneity of the Gly1057Asp variant's effect.
+*   **PMID: 12213887, 2002:** Investigated *IRS2* Gly1057Asp polymorphism in women with PCOS, finding that the Gly/Gly genotype was associated with higher 2-hour glucose levels, suggesting an increased risk of developing type 2 diabetes.
+*   **PMID: 11029451, 2000:** Showed a strong, obesity-dependent interaction for the Gly1057Asp variant in the pathogenesis of type 2 diabetes in an Italian population.
+*   **PMID: 19280145, 2009:** Screened a cohort of patients with severe insulin resistance for rare *IRS2* variants and found several novel non-synonymous changes, but none showed clear co-segregation with the disease, suggesting they are not fully penetrant monogenic causes.
+*   **PMID: 29031145, 2017:** A study using rat models showed that genetic disruption of *IRS2* impaired growth but, unlike in mice, did not cause type 2 diabetes, highlighting species-specific differences in the gene's function.
+*   **PMID: 32675685, 2020:** Review discussing the role of IRS proteins in linking insulin/IGF signaling to development, fertility, and nutrient sensing, underscoring the broad biological importance of the pathway.
+*   **PMID: 32371427, 2020:** A study on nonalcoholic fatty liver disease (NAFLD) identifying a link between the Hippo-YAP/TAZ pathway and AKT signaling through IRS2, suggesting a mechanism for the development of hepatic steatosis and liver cancer.
+*   **PMID: 29990886, 2018:** Gene reference into function (GeneRIF) from NCBI indicating the Gly1057Asp polymorphism is a risk factor for nonalcoholic fatty liver disease.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-variant associations:** There are no high-confidence associations for *IRS2* variants causing a specific Mendelian disorder. Associations are primarily risk-based for complex metabolic diseases.
+    *   The **p.Gly1057Asp (rs1805097)** variant is the most studied. The Gly/Gly genotype can be considered a risk factor for **Glucose intolerance (HP:0000833)** in the context of **Polycystic ovary syndrome (HP:0000062)**. Conversely, the Asp allele in the presence of **Obesity (HP:0001513)** is a risk factor for **Type II diabetes mellitus (HP:0005978)**.
+*   **Phenotype Red Flags:** The co-occurrence of **severe Insulin resistance (HP:0000855)**, **Obesity (HP:0001513)**, and **Type II diabetes mellitus (HP:0005978)** would be the primary reason to consider *IRS2* in a research context, particularly for haplotype analysis.
+*   **Differential Diagnosis Considerations:** The phenotype of insulin resistance overlaps with numerous other genes. For monogenic forms of severe insulin resistance, differential diagnoses should include genes like *INSR* (Insulin Receptor), *AKT2*, *BSCL2*, *AGPAT2*, and *LMNA*, which are associated with various lipodystrophy and severe insulin resistance syndromes.
+

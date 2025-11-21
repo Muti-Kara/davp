@@ -1,0 +1,89 @@
+=== chr12:11091600C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201245949
+• Chromosome: 12
+• Position: 11091600
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: TAS2R43
+• Databases: rs201245949, COSV67854508
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0003873
+• gnomADg Allele Frequency: 0.1208
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_GO_0050913: sensory perception of bitter taste - The series of events required to receive a bitter taste stimulus, convert it to a molecular signal, and recognize and characterize the signal. This is a neurological process.
+GWAS_EFO_0006781: coffee consumption measurement - the quantification of some coffee consumption or coffee consumption-related behaviour, usually self-reported via a questionnaire
+GWAS_EFO_0004321: attempted suicide - The unsuccessful attempt to kill oneself.
+GWAS_EFO_1001132: pseudotumor cerebri - A condition marked by raised intracranial pressure and characterized clinically by HEADACHES; NAUSEA; PAPILLEDEMA, peripheral constriction of the visual fields, transient visual obscurations, and pulsatile TINNITUS. OBESITY is frequently associated with this condition, which primarily affects women between 20 and 44 years of age. Chronic PAPILLEDEMA may lead to optic nerve injury (see OPTIC NERVE DISEASES) and visual loss (see BLINDNESS).|Idiopathic intracranial hypertension is a neurological disorder characterized by isolated increased intracranial pressure manifesting with recurrent and persistent headaches, nausea, vomiting, progressive and transient obstruction of the visual field, papilledema. Visual loss can be irreversible.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16135340) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Gene (ID: 16136862) -> Associated GWAS: GWAS_EFO_0004747, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Gene (ID: 16138006) -> Associated GWAS: GWAS_EFO_1001132
+Entity: Gene (ID: 16142148) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Transcript (ID: 16212659) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Transcript (ID: 16218240) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Transcript (ID: 16218255) -> Associated GWAS: GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Transcript (ID: 16221612) -> Associated GWAS: GWAS_EFO_1001132
+Entity: Transcript (ID: 16235691) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Transcript (ID: 16235694) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Non Coding RNA (ID: 17092901) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Non Coding RNA (ID: 17092911) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Non Coding RNA (ID: 17092921) -> Associated GWAS: GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0006781, GWAS_GO_0050913, GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Non Coding RNA (ID: 17092940) -> Associated GWAS: GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Non Coding RNA (ID: 17092944) -> Associated GWAS: GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: Non Coding RNA (ID: 17092945) -> Associated GWAS: GWAS_EFO_0004321, GWAS_EFO_1001132
+Entity: ChromHMM State (ID: 22842064) -> Associated GWAS: GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: ChromHMM State (ID: 22266214) -> Associated GWAS: GWAS_EFO_1001132, GWAS_GO_0050913
+Entity: ChromHMM State (ID: 21637018) -> Associated GWAS: GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132
+Entity: ChromHMM State (ID: 21025311) -> Associated GWAS: GWAS_GO_0050913, GWAS_EFO_0004321, GWAS_EFO_1001132
+Entity: ChromHMM State (ID: 20421207) -> Associated GWAS: GWAS_EFO_1001132
+Entity: ChromHMM State (ID: 19849307) -> Associated GWAS: GWAS_EFO_1001132
+Entity: ChromHMM State (ID: 19291089) -> Associated GWAS: GWAS_EFO_1001132
+Entity: chr_chain (ID: 458695) -> Associated GWAS: GWAS_EFO_1001132
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 9268
+• Pathogenic/Likely Pathogenic: 37
+• Benign/Likely Benign: 1472
+• Uncertain Significance: 7759
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=44)
+• not specified|not provided (n=32)
+• Prostate cancer (n=23)
+
+

@@ -1,0 +1,90 @@
+ST14 Gene Biomedical Dossier
+### **Gene Dossier: ST14 (suppression of tumorigenicity 14)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 11344.
+*   **OMIM Gene ID:** 606797.
+*   **Primary Disease Associations:** Autosomal Recessive Congenital Ichthyosis 11 (ARCI11) and Ichthyosis-Hypotrichosis Syndrome (IHS).
+*   **Clinical Significance Level:** Definitive evidence for autosomal recessive ichthyosis with hypotrichosis.
+*   **Inheritance Patterns:** Autosomal recessive inheritance is the well-established pattern for ST14-related ichthyosis.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, ST14 is not significantly constrained against loss-of-function (LoF) variants. The probability of being LoF intolerant (pLI) is 0.00, and the loss-of-function observed/expected upper bound fraction (LOEUF) is 1.13. The probability of being a recessive gene (pRec) is 0.69.
+*   **Clinical Interpretation:** The low pLI and high LOEUF scores indicate that ST14 is tolerant to heterozygous loss-of-function, which is consistent with its autosomal recessive disease mechanism. The high pRec score further supports a recessive mode of inheritance.
+*   **Variant Classes Most Likely to be Pathogenic:** Biallelic (homozygous or compound heterozygous) loss-of-function variants, including nonsense, frameshift, and canonical splice site mutations, are expected to be pathogenic. Pathogenic missense variants that disrupt critical functional domains have also been reported.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Ichthyosis (HP:0000962)
+    *   Hypotrichosis (HP:0001006)
+    *   Congenital onset (HP:0003577)
+    *   Generalized hyperkeratosis (HP:0000968)
+    *   Fine scaling skin (HP:0000958)
+    *   Follicular atrophoderma (HP:0010697)
+    *   Hypohidrosis (HP:0000966)
+    *   Corneal opacity (HP:0007957)
+    *   Photophobia (HP:0000613)
+*   **Secondary HPO terms:**
+    *   Lightly colored hair (HP:0002286)
+    *   Erythroderma (HP:0001000)
+    *   Dental enamel hypoplasia (HP:0006297)
+    *   Palmoplantar keratoderma (HP:0000982) - noted to be absent in several reports, suggesting it is not a core feature.
+*   **Age of Onset Patterns:** Onset is typically congenital, with ichthyosis present at birth.
+*   **Phenotype Severity Spectrum:** Severity can be variable, but no clear trend between mutation type and the severity of ichthyosis or hypotrichosis has been established.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Typical Phenotypes:** Homozygous or compound heterozygous null variants (nonsense, frameshift, splice-site) and missense variants result in the characteristic ichthyosis-hypotrichosis syndrome phenotype.
+*   **Protein Domain-Specific Phenotype Patterns:** A homozygous missense mutation (p.Asp482Asn) in a highly conserved aspartic acid residue within the LDLR-A domain was shown to cause IHS, highlighting the functional importance of this domain.
+*   **Genotype-Phenotype Correlation Strength:** Weak. To date, no clear genotype-phenotype correlation has been established; different types of mutations appear to cause a similar spectrum of disease.
+*   **Examples: Specific Variants → Specific Phenotypes:** The nonsense variant c.1243C>T (p.Gln415Ter) was identified in a family with ichthyosis and hypotrichosis. A homozygous missense variant c.1315G>A (p.Gly439Ser) was also shown to cause the ARIH syndrome.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.1243C>T (p.Gln415Ter):**
+    *   Significance: Pathogenic.
+    *   Reported Phenotypes: Ichthyosis, Hypotrichosis.
+    *   Allele Frequency: Not reported in gnomAD.
+*   **c.1444G>A (p.Asp482Asn):**
+    *   Significance: Pathogenic.
+    *   Reported Phenotypes: Ichthyosis-hypotrichosis syndrome (IHS), including ichthyosis, hypotrichosis, hypohidrosis, and follicular atrophoderma.
+    *   Allele Frequency: Not reported in gnomAD.
+*   **c.1315G>A (p.Gly439Ser):**
+    *   Significance: Likely Pathogenic.
+    *   Reported Phenotypes: Autosomal recessive ichthyosis with hypotrichosis (ARIH), diffuse congenital ichthyosis, generalized non-scarring hypotrichosis.
+    *   Allele Frequency: Not reported in gnomAD.
+*   **rs704624:**
+    *   Significance: Association with breast cancer survival.
+    *   Reported Phenotypes: The minor allele is associated with lower ST14 gene expression and poorer breast cancer survival.
+    *   Allele Frequency: Varies by population.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** ST14 is highly expressed in epithelial tissues, including the gastrointestinal tract (colon, esophagus, small intestine), skin, lung, and prostate.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the skin is consistent with the cutaneous phenotype of ichthyosis and hair abnormalities (hypotrichosis). Its role in keratinocyte differentiation directly explains the skin barrier defects seen in patients.
+*   **Expression During Development:** Matriptase (ST14) is critical for terminal differentiation of the epidermis and hair follicle growth.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ST14 encodes matriptase, a type II transmembrane serine protease that plays a critical role in epithelial barrier function and homeostasis.
+*   **Disease Mechanism:** Loss-of-function. Biallelic inactivating mutations in ST14 lead to a loss of matriptase proteolytic activity, causing the disease phenotype.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Loss of matriptase function impairs the activation of prostasin (PRSS8) and the processing of profilaggrin (FLG) into filaggrin monomers, which is essential for proper keratinocyte differentiation, cornified envelope formation, and skin barrier integrity.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Matriptase forms a complex with its cognate inhibitor, hepatocyte growth factor activator inhibitor-1 (HAI-1), to regulate its activity.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** Targeted next-generation sequencing panels for ichthyosis that include ST14 are effective in identifying the genetic cause of disease in patients with compatible phenotypes.
+*   **Most Common Reasons for Testing:** This gene is tested in patients presenting with congenital ichthyosis, particularly when accompanied by hypotrichosis.
+*   **Clinical Actionability and Management Implications:** Diagnosis allows for informed prognosis and management, which is primarily symptomatic and involves dermatological care with emollients and keratolytics. Ocular and dental examinations may be warranted based on reported findings.
+*   **Genetic Counseling Considerations:** Counseling for autosomal recessive inheritance is indicated, including discussion of a 25% recurrence risk for future pregnancies of carrier parents and the potential for carrier testing of at-risk family members.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 29611532 (2017):** Reported a novel homozygous p.Asp482Asn mutation, expanding the mutational spectrum of IHS and further characterizing the phenotype, including histological and ultrastructural skin and hair analysis.
+*   **PMID: 30982314 (2019):** Identified a novel nonsense variant (p.Gln415Ter) in an Iranian family, adding to the spectrum of mutations causing ichthyosis and hypotrichosis and emphasizing the need for further studies.
+*   **PMID: 18843291 (2009):** Showed that ST14 mutations causing ichthyosis, follicular atrophoderma, and hypotrichosis are associated with impaired profilaggrin processing.
+*   **PMID: 18445049 (2008):** Further delineated the phenotype of Autosomal Recessive Ichthyosis with Hypotrichosis (ARIH) syndrome, describing features including congenital ichthyosis, abnormal hair, and corneal involvement.
+*   **PMID: 21199793 (2011):** A study linking the ST14 variant rs704624 to decreased matriptase protein expression and poor breast cancer survival, highlighting a role for the gene outside of Mendelian skin disease.
+*   **PMID: 31349884 (2019):** A report of a large Pakistani family with a novel homozygous missense variant (p.Gly439Ser) that confirmed linkage to the ST14 locus and segregated with the ARIH phenotype.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Biallelic loss-of-function variants (nonsense, frameshift, essential splice site) or functionally significant missense variants in ST14 are strongly associated with a phenotype combining Congenital Ichthyosis (HP:0000962) and Hypotrichosis (HP:0001006).
+*   **Phenotype Red Flags:** The combination of congenital ichthyosis with prominent hypotrichosis and follicular atrophoderma is highly suggestive of pathogenic variants in ST14.
+*   **Differential Diagnosis Considerations:** The phenotype overlaps with other forms of autosomal recessive congenital ichthyosis (ARCI). However, the prominent and persistent hypotrichosis is a key distinguishing feature of ST14-related disease. Other disorders in the differential include Netherton syndrome (SPINK5) and IFAP syndrome (MBTPS2).
+
+***
+

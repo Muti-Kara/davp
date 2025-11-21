@@ -1,0 +1,61 @@
+=== chr15:82434605G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1380876243
+• Chromosome: 15
+• Position: 82434605
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0/1
+• Quality Score: 213.63999939
+• Gene Names: GOLGA6L9
+• Databases: rs1380876243
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.2508
+• gnomADg Allele Frequency: 0.2521
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 229
+• Allelic Depth (AD): [197, 31]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 558
+• Pathogenic/Likely Pathogenic: 16
+• Benign/Likely Benign: 334
+• Uncertain Significance: 208
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Premature ovarian failure (n=10)
+• Shwachman syndrome (n=8)
+• Shwachman-Diamond syndrome 2|not provided|Shwachman syndrome (n=8)
+• Shwachman-Diamond syndrome 2 (n=8)
+• Inborn genetic diseases|not provided (n=8)
+• Shwachman-Diamond syndrome 2|Shwachman syndrome (n=8)
+
+

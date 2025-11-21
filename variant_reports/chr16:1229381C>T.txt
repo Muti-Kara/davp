@@ -1,0 +1,195 @@
+=== chr16:1229381C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1064773
+• Chromosome: 16
+• Position: 1229381
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: TPSG1, TPSB2
+• Databases: rs1064773, COSV52354272
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.07932
+• gnomADg Allele Frequency: 0.065
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0008354: cognitive function measurement - quantification of some aspect of cognitive function
+GWAS_EFO_0004505: telomere length - A measurement of telomere length measures the number of TTAGGG repeats at the end of the chromosome. As cell division proceeds telomeres shorten, telomere length is measure of cellular aging.
+GWAS_EFO_0004842: eosinophil count - Is a quantification of eosinphils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_GO_0006306: DNA methylation - The covalent transfer of a methyl group to either N-6 of adenine or C-5 or N-4 of cytosine
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16172293) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16347623) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16347627) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16347636) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Non Coding RNA (ID: 17147830) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 19374923) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 19921851) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 20500500) -> Associated GWAS: GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0004875, GWAS_EFO_0004505, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004842, GWAS_EFO_0004875, GWAS_EFO_0004842, GWAS_EFO_0004339, GWAS_EFO_0007937, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 21107039) -> Associated GWAS: GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0004875, GWAS_EFO_0004505, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004842, GWAS_EFO_0004875, GWAS_EFO_0004842, GWAS_EFO_0004339, GWAS_EFO_0007937, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 21715196) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 22351468) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 22919628) -> Associated GWAS: GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0004875, GWAS_EFO_0004505, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0004842, GWAS_EFO_0004875, GWAS_EFO_0004842, GWAS_EFO_0004339, GWAS_EFO_0007937, GWAS_GO_0006306, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: chr_chain (ID: 548059) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 13221
+• Pathogenic/Likely Pathogenic: 1647
+• Benign/Likely Benign: 6326
+• Uncertain Significance: 5245
+• Other Classifications: 3
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Hyperaldosteronism, familial, type IV (n=4379)
+• Idiopathic generalized epilepsy (n=3586)
+• Epilepsy, childhood absence, susceptibility to, 6 (n=855)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6 (n=799)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases (n=472)
+• Inborn genetic diseases (n=383)
+• Idiopathic generalized epilepsy|Epilepsy, childhood absence, susceptibility to, 6 (n=238)
+• Hyperaldosteronism, familial, type IV|Hyperaldosteronism, familial, type IV (n=219)
+• not provided|Idiopathic generalized epilepsy (n=152)
+• Idiopathic generalized epilepsy|Inborn genetic diseases (n=128)
+• Idiopathic generalized epilepsy|Hyperaldosteronism, familial, type IV (n=117)
+• not provided|Hyperaldosteronism, familial, type IV (n=105)
+• Hyperaldosteronism, familial, type IV|not provided (n=79)
+• Hyperaldosteronism, familial, type IV|Idiopathic generalized epilepsy (n=68)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=60)
+• Epilepsy, childhood absence, susceptibility to, 6|Inborn genetic diseases (n=53)
+• Idiopathic generalized epilepsy|not provided (n=44)
+• Inborn genetic diseases|Idiopathic generalized epilepsy (n=43)
+• Hyperaldosteronism, familial, type IV|not specified (n=35)
+• Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=33)
+• Hyperaldosteronism, familial, type IV|CACNA1H-related disorder (n=32)
+• Hyperaldosteronism, familial, type IV|not provided|Inborn genetic diseases (n=31)
+• not provided|Inborn genetic diseases (n=30)
+• Epilepsy, childhood absence, susceptibility to, 6|Idiopathic generalized epilepsy (n=29)
+• not provided|Epilepsy, childhood absence, susceptibility to, 6 (n=24)
+• Inborn genetic diseases|Hyperaldosteronism, familial, type IV (n=24)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|Hyperaldosteronism, familial, type IV (n=23)
+• Epilepsy, childhood absence, susceptibility to, 6|not specified (n=23)
+• Hyperaldosteronism, familial, type IV|not provided|Epilepsy, childhood absence, susceptibility to, 6 (n=19)
+• Idiopathic generalized epilepsy|not specified (n=19)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|not provided (n=19)
+• Epilepsy, childhood absence, susceptibility to, 6|Epilepsy, childhood absence, susceptibility to, 6 (n=16)
+• Idiopathic generalized epilepsy|CACNA1H-related disorder (n=16)
+• Idiopathic generalized epilepsy|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=16)
+• not specified|Idiopathic generalized epilepsy (n=15)
+• Idiopathic generalized epilepsy|not provided|Epilepsy, childhood absence, susceptibility to, 6 (n=15)
+• CACNA1H-related disorder (n=14)
+• Epilepsy, childhood absence, susceptibility to, 6|not provided (n=14)
+• not specified|not provided (n=13)
+• Idiopathic generalized epilepsy|not provided|Inborn genetic diseases (n=13)
+• Epilepsy, childhood absence, susceptibility to, 6|Hyperaldosteronism, familial, type IV (n=12)
+• Idiopathic generalized epilepsy|Inborn genetic diseases|not provided (n=10)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|Idiopathic generalized epilepsy (n=10)
+• Idiopathic generalized epilepsy|not provided|Hyperaldosteronism, familial, type IV (n=10)
+• Hyperaldosteronism, familial, type IV|not provided|Hyperaldosteronism, familial, type IV (n=9)
+• Idiopathic generalized epilepsy|not provided|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=9)
+• Hyperaldosteronism, familial, type IV|Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6 (n=9)
+• Epilepsy, childhood absence, susceptibility to, 6|Inborn genetic diseases|Hyperaldosteronism, familial, type IV (n=9)
+• See cases (n=7)
+• Hyperaldosteronism, familial, type IV|not specified|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=7)
+• not provided|CACNA1H-related disorder (n=6)
+• Idiopathic generalized epilepsy|not specified|Inborn genetic diseases (n=6)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|Hyperaldosteronism, familial, type IV (n=6)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|not specified (n=6)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|Epilepsy, childhood absence, susceptibility to, 6 (n=6)
+• Epilepsy, idiopathic generalized, susceptibility to, 6|Idiopathic generalized epilepsy (n=6)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|Inborn genetic diseases (n=6)
+• Epilepsy, childhood absence, susceptibility to, 6|CACNA1H-related disorder (n=6)
+• Hyperaldosteronism, familial, type IV|not provided|CACNA1H-related disorder (n=6)
+• Hyperaldosteronism, familial, type IV|not specified|Inborn genetic diseases (n=6)
+• not specified|Hyperaldosteronism, familial, type IV (n=6)
+• not provided|not specified|Idiopathic generalized epilepsy (n=4)
+• Epilepsy, childhood absence, susceptibility to, 6|Inborn genetic diseases|not provided (n=4)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|CACNA1H-related disorder (n=4)
+• Hyperaldosteronism, familial, type IV|not provided|not specified (n=4)
+• Idiopathic generalized epilepsy|Epilepsy, childhood absence, susceptibility to, 6|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=4)
+• Hyperaldosteronism, familial, type IV|not specified|Epilepsy, childhood absence, susceptibility to, 6 (n=4)
+• Hyperaldosteronism, familial, type IV|not provided|Inborn genetic diseases|not specified (n=4)
+• Idiopathic generalized epilepsy|not provided|Inborn genetic diseases|not specified (n=4)
+• Hyperaldosteronism, familial, type IV|not specified|Hyperaldosteronism, familial, type IV (n=4)
+• Idiopathic generalized epilepsy|Inborn genetic diseases|CACNA1H-related disorder|not provided (n=4)
+• Tremor (n=4)
+• Hand tremor (n=4)
+• Cerebral arteriovenous malformation (n=4)
+• Arteriovenous malformation|Idiopathic generalized epilepsy (n=4)
+• Abnormal brain morphology (n=4)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|not provided|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Idiopathic generalized epilepsy|Inborn genetic diseases|not provided|CACNA1H-related disorder (n=3)
+• Idiopathic generalized epilepsy|CACNA1H-related disorder|Inborn genetic diseases (n=3)
+• Idiopathic generalized epilepsy|Hyperaldosteronism, familial, type IV|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|not provided|CACNA1H-related disorder|Inborn genetic diseases|not specified (n=3)
+• Idiopathic generalized epilepsy|not provided|See cases (n=3)
+• Focal epilepsy (n=3)
+• Breast ductal adenocarcinoma|not provided|Idiopathic generalized epilepsy (n=3)
+• Idiopathic generalized epilepsy|not specified|Hyperaldosteronism, familial, type IV (n=3)
+• Tuberous sclerosis 2 (n=3)
+• Abnormal brain morphology|not provided (n=3)
+• Idiopathic generalized epilepsy|not provided|Epilepsy, childhood absence, susceptibility to, 6|Hyperaldosteronism, familial, type IV (n=3)
+• Hyperaldosteronism, familial, type IV|not provided|Epilepsy, childhood absence, susceptibility to, 6|not specified|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Hyperaldosteronism, familial, type IV|not provided|not specified|Inborn genetic diseases (n=3)
+• Idiopathic generalized epilepsy|not provided|Inborn genetic diseases|Hyperaldosteronism, familial, type IV (n=3)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|not provided|not specified|CACNA1H-related disorder (n=3)
+• Idiopathic generalized epilepsy|CACNA1H-related disorder|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• CACNA1H-related disorder|Inborn genetic diseases (n=3)
+• Idiopathic generalized epilepsy|Inborn genetic diseases|Hyperaldosteronism, familial, type IV (n=3)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|CACNA1H-related disorder (n=3)
+• Hyperaldosteronism, familial, type IV|Epilepsy, childhood absence, susceptibility to, 6|not specified (n=3)
+• Epilepsy, childhood absence, susceptibility to, 6|not specified|Inborn genetic diseases (n=3)
+• Hyperaldosteronism, familial, type IV|Inborn genetic diseases|Hyperaldosteronism, familial, type IV|Hyperaldosteronism, familial, type IV (n=3)
+• Epilepsy, childhood absence, susceptibility to, 6|Hyperaldosteronism, familial, type IV|not provided (n=3)
+• Hyperaldosteronism, familial, type IV|CACNA1H-related disorder|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Idiopathic generalized epilepsy|not specified|CACNA1H-related disorder (n=3)
+• CACNA1H-related disorder|Idiopathic generalized epilepsy (n=3)
+• Primary aldosteronism|Hyperaldosteronism, familial, type IV|not provided (n=3)
+• Hyperaldosteronism, familial, type IV|CACNA1H-related disorder|Hyperaldosteronism, familial, type IV (n=3)
+• Epilepsy, childhood absence, susceptibility to, 6|Increased circulating aldosterone concentration|Inborn genetic diseases (n=3)
+• Epilepsy, childhood absence, susceptibility to, 6|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Idiopathic generalized epilepsy|not provided|not specified|Inborn genetic diseases (n=3)
+• Hyperaldosteronism, familial, type IV|CACNA1H-related disorder|Inborn genetic diseases (n=3)
+• Hyperaldosteronism, familial, type IV|Hyperaldosteronism, familial, type IV|CACNA1H-related disorder (n=3)
+• not provided|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Hyperaldosteronism, familial, type IV|See cases|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Idiopathic generalized epilepsy|not provided|not specified (n=3)
+• Idiopathic generalized epilepsy|Hyperaldosteronism, familial, type IV|CACNA1H-related disorder (n=3)
+• Hyperaldosteronism, familial, type IV|Hyperaldosteronism, familial, type IV|Inborn genetic diseases|Epilepsy, childhood absence, susceptibility to, 6 (n=3)
+• Idiopathic generalized epilepsy|Increased circulating aldosterone concentration|Inborn genetic diseases (n=3)
+• not provided|not specified (n=1)
+
+

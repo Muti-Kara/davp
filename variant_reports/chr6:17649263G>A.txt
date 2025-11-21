@@ -1,0 +1,64 @@
+=== chr6:17649263G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs61756067
+• Chromosome: 6
+• Position: 17649263
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: NUP153
+• Databases: rs61756067, COSV107252842
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: likely_benign
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.007878
+• gnomADg Allele Frequency: 0.0069889999999999996
+• 1KG Frequency: 0.004200000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0001075: ovarian carcinoma - A malignant neoplasm originating from the surface ovarian epithelium. It accounts for the greatest number of deaths from malignancies of the female genital tract and is the fifth leading cause of cancer fatalities in women. It is predominantly a disease of older white women of northern European extraction, but it is seen in all ages and ethnic groups. Adenocarcinomas constitute the vast majority of ovarian carcinomas. The pattern of metastatic spread in ovarian carcinoma is similar regardless of the microscopic type. The most common sites of involvement are the contralateral ovary, peritoneal cavity, para-aortic and pelvic lymph nodes, and liver. Lung and pleura are the most common sites of extra-abdominal spread. The primary form of therapy is surgical. The overall prognosis of ovarian carcinoma remains poor, a direct result of its rapid growth rate and the lack of early symptoms. --2002|Editor note: unclear why this is distinct from malignant ovarian epithelial tumor in NCIT.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16162279) -> Associated GWAS: GWAS_EFO_0001075
+Entity: Transcript (ID: 16308473) -> Associated GWAS: GWAS_EFO_0001075
+Entity: Transcript (ID: 16308478) -> Associated GWAS: GWAS_EFO_0001075
+Entity: Transcript (ID: 16308479) -> Associated GWAS: GWAS_EFO_0001075
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 4291
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 816
+• Uncertain Significance: 3475
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=15)
+• Pulmonary artery atresia|not specified (n=12)
+
+

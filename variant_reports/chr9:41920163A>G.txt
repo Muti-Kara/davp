@@ -1,0 +1,63 @@
+=== chr9:41920163A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1356690518
+• Chromosome: 9
+• Position: 41920163
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: CNTNAP3B
+• Databases: rs1356690518
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.01156
+• gnomADg Allele Frequency: 0.008537
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009764: eye colour measurement - The quantification of some aspect of eye colour, such as hue, saturation or brightness.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 22181513) -> Associated GWAS: GWAS_EFO_0009764
+Entity: ChromHMM State (ID: 21555335) -> Associated GWAS: GWAS_EFO_0009764
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 272820
+• Pathogenic/Likely Pathogenic: 1044
+• Benign/Likely Benign: 43986
+• Uncertain Significance: 227790
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|not specified (n=748)
+• not specified|not provided (n=624)
+• See cases (n=153)
+
+

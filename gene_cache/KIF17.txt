@@ -1,0 +1,109 @@
+KIF17 Gene Biomedical Dossier
+### **Gene Dossier: KIF17**
+
+#### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 19167.
+*   **OMIM Gene ID:** 605037.
+*   **Primary Disease Associations:**
+    *   Microphthalmia/Anophthalmia/Coloboma (MAC) spectrum.
+    *   Potential association with schizophrenia and other neurodevelopmental phenotypes.
+    *   Potential association with Dementia with Lewy Bodies (DLB).
+*   **Clinical Significance Level:**
+    *   Moderate to strong for structural eye disease (MAC spectrum) with biallelic variants.
+    *   Limited/conflicting for schizophrenia; a de novo truncating mutation has been reported, but a GenCC submitter classifies the relationship as "No Known Disease Relationship".
+*   **Inheritance Patterns Observed in Patients:**
+    *   Autosomal recessive for MAC spectrum phenotypes, with compound heterozygous variants identified.
+
+#### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, KIF17 has a pLI (probability of being loss-of-function intolerant) score of 0.00 and a LOEUF (loss-of-function observed/expected upper bound fraction) score of 1.07.
+*   **Clinical Interpretation of Constraint Scores:** The gnomAD constraint scores indicate that KIF17 is tolerant to loss-of-function variation in the general population. This lack of constraint can complicate the interpretation of novel loss-of-function variants, as haploinsufficiency is not a well-established disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:**
+    *   Biallelic missense variants have been associated with autosomal recessive structural eye disease.
+    *   De novo truncating mutations have been suggested in dominant neurodevelopmental disorders like schizophrenia, though evidence is limited.
+
+#### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   Coloboma (MONDO:0001476).
+    *   Microphthalmia (MONDO:0021129).
+    *   Developmental delay, mild.
+    *   Posterior coloboma.
+    *   Lens luxation.
+*   **Secondary HPO terms**
+    *   Schizophrenia (MONDO:0005090).
+    *   Dementia with Lewy bodies.
+    *   Abnormal behavior.
+    *   Cerebellar hypoplasia (inferred from mouse models).
+*   **Age of Onset Patterns:**
+    *   Congenital for ocular phenotypes (MAC spectrum).
+    *   Adult-onset for neurodegenerative conditions like DLB.
+*   **Phenotype Severity Spectrum:**
+    *   Ocular phenotypes can be severe, leading to significant visual impairment.
+    *   Associated neurodevelopmental delay has been described as mild.
+
+#### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Biallelic missense variants (compound heterozygous) are associated with congenital microphthalmia and coloboma.
+    *   A rare de novo truncating mutation was identified in a patient with schizophrenia, suggesting a possible link for monoallelic loss-of-function variants to neuropsychiatric disease.
+*   **Protein Domain-Specific Phenotype Patterns:**
+    *   Pathogenic missense variants p.Arg419Trp and p.Arg852Cys associated with MAC spectrum disease fall within the coiled-coil (CC1) and tail domains, respectively, which may interfere with autoinhibition and cargo binding.
+*   **Genotype-Phenotype Correlation Strength:**
+    *   Moderate for biallelic missense variants causing MAC spectrum disease.
+    *   Weak to limited for monoallelic variants and neuropsychiatric phenotypes.
+
+#### **Clinical Variants & Phenotype Associations**
+*   **c.1255C>T (p.Arg419Trp):**
+    *   Significance: Likely Pathogenic (reported in literature).
+    *   Reported Phenotypes: Microphthalmia, Coloboma, mild developmental delay (in compound heterozygosity with p.Arg852Cys).
+    *   Allele Frequency: Very low frequency in population databases.
+*   **c.2554C>T (p.Arg852Cys):**
+    *   Significance: Likely Pathogenic (reported in literature).
+    *   Reported Phenotypes: Microphthalmia, Coloboma, mild developmental delay (in compound heterozygosity with p.Arg419Trp).
+    *   Allele Frequency: Very low frequency in population databases.
+*   **p.Arg869Cys (R869C):**
+    *   Significance: VUS/Likely Pathogenic (reported in literature).
+    *   Reported Phenotypes: Suggested as a risk factor for Dementia with Lewy Bodies, particularly in carriers of the GBA-N370S mutation.
+    *   Allele Frequency: Not specified, found in a case-control study.
+*   **De novo truncating mutation (unspecified):**
+    *   Significance: VUS (reported in literature).
+    *   Reported Phenotypes: Schizophrenia.
+
+#### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx, other):** High expression is observed in the testis, brain (including frontal lobe, pons, cerebellum), and retina.
+*   **Tissue-Specific Phenotypes Expected:**
+    *   Expression in the retina and its role in photoreceptor outer segment development is consistent with the observed ocular phenotypes (MAC spectrum).
+    *   Expression in various brain regions is consistent with its role in neuronal transport and the reported associations with neurodevelopmental and neurodegenerative disorders.
+*   **Expression During Development and Age-Related Phenotypes:** KIF17 is critical for cerebellar development in mice, influencing proliferation of cerebellar granule neuron progenitors via the Hedgehog pathway, which aligns with potential neurodevelopmental phenotypes.
+
+#### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** KIF17 is a plus-end-directed microtubule motor protein that transports cellular cargo, including vesicles containing NMDA receptors in neurons and proteins essential for ciliogenesis via intraflagellar transport (IFT).
+*   **Disease Mechanism:**
+    *   The mechanism for MAC spectrum disease is likely hypomorphic function resulting from biallelic missense variants, impairing its transport function in photoreceptor development, which is a highly modified primary cilium.
+    *   For neuropsychiatric phenotypes, a dominant-negative or haploinsufficiency mechanism has been proposed for monoallelic variants, disrupting neuronal cargo transport.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of intraflagellar transport in photoreceptors leads to defects in outer segment development and disc morphogenesis, causing structural eye anomalies like coloboma and microphthalmia.
+    *   Impaired transport of NMDA receptors in dendrites can alter synaptic plasticity and neuronal function, potentially contributing to psychiatric or cognitive symptoms.
+    *   Altered Hedgehog (HH) signaling due to KIF17 dysfunction can impact cerebellar development and progenitor cell proliferation.
+*   **Protein-Protein Interactions Relevant to Phenotype:** KIF17 interacts with the IFT-B complex for ciliary entry and with Apba1 (Mint1) to transport vesicles containing the NR2B subunit of the NMDA receptor.
+
+#### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is likely low given the rarity of associated cases. Biallelic variants in KIF17 explain a very small percentage of MAC spectrum cases.
+*   **Most Common Reasons for Testing This Gene:** Testing for KIF17 may be considered in individuals with congenital eye defects, particularly microphthalmia and coloboma, especially when initial testing of more common genes is negative.
+*   **Clinical Actionability and Management Implications:** Management is supportive and tailored to the phenotype, including ophthalmologic monitoring and intervention for visual impairment and neurodevelopmental support for delays.
+*   **Genetic Counseling Considerations:** For MAC spectrum disease, counseling for autosomal recessive inheritance is indicated. This involves discussing a 25% recurrence risk for future pregnancies of carrier parents. Counseling for dominant neuropsychiatric phenotypes is more complex due to limited evidence and incomplete penetrance.
+
+#### **Key Clinical Literature & Studies**
+*   **PMID: 36715694 (2024):** Robert et al. demonstrated dual and opposing roles for KIF17 in Hedgehog-dependent cerebellar development in mice, with germline deletion causing cerebellar hypoplasia, linking the gene to neurodevelopment.
+*   **PMID: 34085816 (2021):** Matin et al. reported a likely pathogenic missense variant (R869C) in KIF17 enriched in patients with Dementia with Lewy Bodies (DLB), suggesting it as a risk factor.
+*   **PMID: 33924080 (2021):** Bell-Ait-Yaha et al. described a family with two siblings who had congenital coloboma, microphthalmia, and mild motor delay due to compound heterozygous missense variants in KIF17, establishing the primary genotype-phenotype correlation for this gene.
+*   **PMID: 28495831 (2017):** Gulsuner et al. identified a de novo truncating mutation in KIF17 in an individual with schizophrenia, suggesting a potential role in this disorder.
+*   **PMID: 20658032 (2010):** Yin et al. published a comprehensive review of KIF17 function, detailing its roles in NMDA receptor transport, ciliogenesis, spermatogenesis, and links to learning, memory, and disease.
+
+#### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:**
+    *   Compound heterozygous missense variants (e.g., c.1255C>T; p.Arg419Trp and c.2554C>T; p.Arg852Cys) are strongly associated with a phenotype combining **Microphthalmia (HP:0000568)** and **Coloboma (HP:0000589)**.
+*   **Phenotype Red Flags:**
+    *   The presence of congenital, bilateral **coloboma** and/or **microphthalmia** in a patient with a negative result for more common causative genes should raise suspicion for KIF17-related disease, especially if inheritance appears recessive.
+*   **Differential Diagnosis Considerations:**
+    *   The MAC spectrum phenotype overlaps with numerous other genes involved in ocular development and ciliopathies.
+    *   Neurodevelopmental phenotypes associated with KIF17 are broad and overlap with many other genetic neurodevelopmental disorders. The KIF1A-related neurological disorders present with spastic paraplegia and ataxia, which are generally more severe than phenotypes described for KIF17.
+

@@ -1,0 +1,62 @@
+FRG2 Gene Biomedical Dossier
+### **FRG2 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:3962.
+*   **OMIM Gene ID:** \*605359.
+*   **Primary Disease Associations:** There are currently no established disease associations for FRG2. It is located in the facioscapulohumeral muscular dystrophy (FSHD) region on chromosome 4q35, but is not considered the causative gene for FSHD.
+*   **Clinical Significance Level:** No evidence of clinical significance.
+*   **Inheritance Patterns:** No inherited disease phenotype has been described.
+
+**Constraint & Variant Intolerance**
+*   **gnomAD v4.1 Constraint Metrics:**
+    *   **pLI (probability of being Loss-of-function Intolerant):** 0.00.
+    *   **LOEUF (Loss-of-function Observed/Expected Upper bound Fraction):** 1.32.
+    *   **pRec (probability of being a recessive gene):** 0.536.
+    *   **pNull (probability of being tolerant to both heterozygous and homozygous LoF variants):** 0.464.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score of 0.00 indicates FRG2 is extremely tolerant of protein-truncating, loss-of-function variants. The high LOEUF score further supports that the gene is not constrained against inactivating mutations.
+*   **Variant Classes Most Likely to be Pathogenic:** Based on constraint scores, loss-of-function variants (nonsense, frameshift, splice-site) are highly unlikely to be pathogenic. There is no evidence to suggest any variant class is associated with disease.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are associated with variants in the FRG2 gene.
+*   **Secondary HPO terms:** No HPO terms are associated with variants in the FRG2 gene.
+*   **Age of Onset Patterns:** Not applicable, as no associated phenotype has been identified.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No genotype-phenotype correlations have been established for FRG2.
+*   **Protein Domain-Specific Phenotype Patterns:** No protein domains are known to be associated with specific phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+*   **Examples: Specific Variants → Specific Phenotypes:** No pathogenic variants with associated phenotypes have been documented.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants classified as Pathogenic or Likely Pathogenic for any clinical phenotype have been reported in ClinVar for the FRG2 gene.
+*   Variants listed in ClinVar are predominantly classified as Benign or variants of Uncertain Significance.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx v8):** The highest expression of FRG2 is observed in the Testis.
+*   **Tissue-Specific Phenotypes Expected:** Low expression across most somatic tissues and high tolerance to LoF variants make tissue-specific phenotypes unlikely. No tissue-specific phenotypes are currently known.
+*   **Expression During Development and Age-Related Phenotypes:** Developmental expression patterns and their relation to age-related phenotypes are not characterized.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** FRG2 is thought to be involved in chromatin organization and nuclear structure.
+*   **Disease Mechanism:** No disease mechanism has been identified for FRG2. The gene appears tolerant to haploinsufficiency.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** No known disruptions in cellular or molecular pathways involving FRG2 lead to a clinical phenotype.
+*   **Protein-Protein Interactions Relevant to Phenotype:** No specific protein-protein interactions have been linked to a clinical phenotype.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for FRG2 is effectively zero, as it is not associated with any known Mendelian disease.
+*   **Most Common Reasons for Testing This Gene:** This gene is generally not a target for clinical diagnostic testing. It may be analyzed as part of a broad research sequencing effort in patients with suspected FSHD, but it is not the causative gene.
+*   **Clinical Actionability and Management Implications:** There are no clinical actions or management guidelines associated with variants in FRG2.
+*   **Genetic Counseling Considerations:** Given the lack of evidence for pathogenicity, counselors should be cautious about attributing causality to FRG2 variants. The high tolerance to LoF variation should be emphasized.
+
+**Key Clinical Literature & Studies**
+*   There are no landmark clinical papers establishing a genotype-phenotype correlation for FRG2. Publications have investigated it as a candidate gene for FSHD, but have largely excluded it as being causative for the classic disease presentation.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are no known high-confidence associations between HPO terms and FRG2 variants.
+*   **Phenotype Red Flags:** There are no specific HPO terms that would suggest pathogenic variants in the FRG2 gene.
+*   **Differential Diagnosis Considerations:** Not applicable, as there is no primary phenotype associated with FRG2.
+
+***
+

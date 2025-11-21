@@ -1,0 +1,73 @@
+EPHA5 Gene Biomedical Dossier
+### **Gene Dossier: EPHA5**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 3389
+*   **OMIM Gene ID:** 600004
+*   **Primary Disease Associations:** While not definitively linked to a Mendelian disorder, EPHA5 has been associated with susceptibility to paclitaxel-induced peripheral neuropathy. It has also been implicated in Autism Spectrum Disorder (ASD) and certain cancers, including lung, breast, and prostate cancer. There is currently no OMIM gene-phenotype relationship established.
+*   **Clinical Significance Level:** The evidence for a direct causative role in a Mendelian disorder is currently limited. Its association with ASD is emerging based on case reports of microduplications.
+*   **Inheritance Patterns Observed in Patients:** A microduplication involving EPHA5 associated with ASD was inherited from a mildly symptomatic father, suggesting a possible dominant inheritance pattern with variable expressivity.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, the pLI (probability of being loss-of-function intolerant) score for EPHA5 is not high, suggesting it is not under strong selection against haploinsufficiency. The Residual Variation Intolerance Score (RVIS) places it at 6.57%, meaning it is more tolerant to variation than most genes. Specific numeric values for LOEUF, pRec, and pNull are not readily available in the search results but can be looked up in gnomAD.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and higher RVIS suggest that loss-of-function variants in one copy of the EPHA5 gene (haploinsufficiency) are not a common cause of severe developmental disorders. However, this does not rule out the possibility of pathogenic gain-of-function or dominant-negative variants.
+*   **Variant Classes Most Likely to be Pathogenic:** Low-frequency missense variants have been associated with increased susceptibility to paclitaxel-induced peripheral neuropathy. A gene duplication has been linked to Autism Spectrum Disorder.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0000717 Autism
+    *   HP:0001250 Seizures
+    *   HP:0001249 Intellectual disability
+    *   HP:0000750 Delayed speech and language development (Implied)
+    *   HP:0001263 Global developmental delay (Implied)
+*   **Secondary HPO terms:**
+    *   HP:0009830 Peripheral neuropathy
+*   **Age of Onset Patterns:** Neurodevelopmental phenotypes such as ASD are typically identified in early childhood. Susceptibility to paclitaxel-induced neuropathy is relevant in the context of cancer treatment in adults.
+*   **Phenotype Severity Spectrum:** The phenotypic spectrum appears to be broad, ranging from mild symptoms in a parent carrier of a microduplication to a more significant ASD phenotype in the child.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Microduplication:** A ~270 kb interstitial microduplication encompassing a large part of the EPHA5 gene has been associated with Autism Spectrum Disorder and intellectual disability.
+    *   **Missense Variants:** Low-frequency nonsynonymous variants in the EPHA5 ligand-binding domain have been linked to an increased risk of paclitaxel-induced peripheral neuropathy.
+    *   **Synonymous Variants:** The common variant rs7349683 has shown an association with sensitivity to paclitaxel-induced peripheral neuropathy.
+*   **Protein Domain-Specific Phenotype Patterns:** Missense variants located in the ligand-binding domain of EPHA5 appear to be particularly relevant for the development of chemotherapy-induced peripheral neuropathy.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the EPHA5 microduplication and ASD is based on a single case report, suggesting a moderate but not yet definitive link. The association of certain variants with paclitaxel-induced neuropathy is supported by multiple studies, indicating a moderate to strong correlation.
+
+**Clinical Variants & Phenotype Associations**
+*   **rs7349683 (c.1659C>T):** Associated with increased sensitivity to paclitaxel-induced peripheral neuropathy.
+*   **~270 kb microduplication at 4q13.1:** Reported in a patient with Autism Spectrum Disorder and intellectual disability.
+*   **Low-frequency nonsynonymous variants:** As a group, these variants in EPHA5, EPHA6, and EPHA8 are associated with a higher risk of paclitaxel-induced neuropathy. Specific pathogenic variants with rsIDs are not detailed in the provided search results. ClinVar lists some variants as likely pathogenic for conditions like lung adenocarcinoma.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** EPHA5 is highly expressed in various brain regions, including the frontal cortex, hippocampus, and amygdala.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the brain is consistent with its implication in neurodevelopmental disorders like Autism Spectrum Disorder. Its role in the nervous system also aligns with its association with peripheral neuropathy.
+*   **Expression During Development and Age-Related Phenotypes:** EPH receptors are known to be involved in developmental events, particularly in the nervous system, which may explain the link to ASD.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** EPHA5 is a receptor tyrosine kinase that binds to ephrin-A ligands on adjacent cells, playing a key role in axon guidance and nervous system development.
+*   **Disease Mechanism:**
+    *   **Altered Gene Dosage:** A microduplication involving EPHA5 suggests that an increased dosage of the gene product may lead to neurodevelopmental phenotypes like ASD.
+    *   **Altered Protein Function:** Missense variants may alter the protein's function, contributing to susceptibility to peripheral neuropathy.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of EPH-ephrin signaling can impair axon guidance and synaptic plasticity, leading to abnormalities in neural circuitry that may manifest as ASD. Altered EPHA5 function may also affect neuronal response to toxic insults like chemotherapy.
+*   **Protein-Protein Interactions Relevant to Phenotype:** EPHA5 interacts with ephrin-A ligands, particularly EFNA5, to mediate signaling. It also interacts with ATM at sites of DNA repair following radiation, suggesting a role in cellular responses to DNA damage.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for EPHA5 variants in cohorts with neurodevelopmental disorders is likely low but may be increasing with the use of chromosomal microarrays and whole-genome sequencing. A duplication involving only EPHA5 was identified in a patient with ASD.
+*   **Most Common Reasons for Testing This Gene:** Testing for EPHA5 variants may be considered in individuals with unexplained Autism Spectrum Disorder, especially if there is a family history of neurodevelopmental conditions. It is also a gene of interest in pharmacogenomic studies of chemotherapy-induced neuropathy.
+*   **Clinical Actionability and Management Implications:** Identifying an EPHA5 variant could help in understanding the genetic basis of a patient's neurodevelopmental disorder. For patients undergoing paclitaxel treatment, certain EPHA5 genotypes might predict the risk of developing peripheral neuropathy, potentially influencing treatment decisions.
+*   **Genetic Counseling Considerations:** For a family with an EPHA5 duplication, counseling would involve discussing the potential for variable expressivity, as seen with the mildly affected father and more significantly affected daughter. The inheritance pattern appears to be autosomal dominant in this case.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 30724859, 2019:** Described a case of a patient with ASD carrying a novel microduplication that only involves the EPHA5 gene, inherited from a mildly symptomatic father.
+*   **PMID: 28835509, 2017:** A study using targeted exon sequencing found that low-frequency nonsynonymous coding variants in EPHA5, EPHA6, and EPHA8 contribute to susceptibility to paclitaxel-induced neuropathy.
+*   **PMID: 28659267, 2017:** This study reported that genetic variation in EPHA genes, including EPHA5, contributes to sensitivity to paclitaxel-induced peripheral neuropathy.
+*   **PMID: 25199859, 2015:** Showed that EPHA5 is a functional molecular target in human lung cancer and regulates cellular responses to genotoxic insult.
+*   **New Genotype-Phenotype Correlations Discovered:** The link between an EPHA5-only microduplication and Autism Spectrum Disorder is a recent and significant finding.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:**
+    *   Low-frequency missense variants in EPHA5 are associated with an increased risk of peripheral neuropathy (HP:0009830) in patients treated with paclitaxel.
+    *   A microduplication of EPHA5 is associated with Autism (HP:0000717) and Intellectual disability (HP:0001249).
+*   **Phenotype Red Flags:** The co-occurrence of Autism Spectrum Disorder (HP:0000717) and Intellectual Disability (HP:0001249) should prompt consideration of genomic rearrangements involving the 4q13.1 locus where EPHA5 resides.
+*   **Differential Diagnosis Considerations:** The neurodevelopmental phenotypes associated with EPHA5 can overlap with a wide range of other genetic syndromes. Therefore, a comprehensive genetic evaluation, including chromosomal microarray and/or whole-exome/genome sequencing, is often necessary.
+

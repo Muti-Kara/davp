@@ -1,0 +1,57 @@
+CCDC110 Gene Biomedical Dossier
+### **Gene Dossier: CCDC110**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 28504
+*   **OMIM Gene ID:** 609488
+*   **Primary Disease Associations:** Currently, no definitive disease associations are listed in OMIM for CCDC110. However, it is implicated in hepatocellular carcinoma progression. It has also been studied in the context of pulmonary function.
+*   **Clinical Significance Level:** The clinical significance of CCDC110 in Mendelian disease is not yet established.
+*   **Inheritance Patterns Observed in Patients:** Not applicable as no Mendelian disease is currently linked to this gene.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI of 0.00, and a LOEUF of 1.13. Missense Z-score is -0.92.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores suggest that CCDC110 is tolerant to loss-of-function variation. Genes with these scores are generally not considered candidates for diseases caused by haploinsufficiency.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be missense with a specific gain-of-function or dominant-negative effect, though this is speculative.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As CCDC110 is not currently associated with a Mendelian disorder, there are no established primary HPO terms.
+*   **Secondary HPO terms:** No secondary HPO terms are definitively linked to CCDC110 variants in a clinical setting.
+*   **Age of Onset Patterns:** Not applicable.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No established correlations exist between specific variant classes and phenotypes for CCDC110-related Mendelian disease.
+*   **Protein Domain-Specific Phenotype Patterns:** The protein contains a coiled-coil domain, a leucine zipper motif, and nuclear localization signals, but specific phenotype patterns have not been linked to these domains in a clinical genetic context.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+*   **Examples: Specific Variants → Specific Phenotypes:** A deletion of the 4q35.1q35.2 region, which includes CCDC110, was reported in an asymptomatic family, suggesting that loss of one copy of this gene may not lead to an obvious clinical phenotype.
+
+**Clinical Variants & Phenotype Associations**
+*   As there are no confirmed pathogenic variants in ClinVar associated with a Mendelian phenotype, this section is not applicable. Most listed variants in databases like dbSNP are common polymorphisms.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** CCDC110 shows the highest expression in the testis and pancreas. Its expression in various cancers, particularly hepatocellular carcinoma, suggests a role in tumorigenesis.
+*   **Tissue-Specific Phenotypes Expected:** Given the high testis expression, a potential role in male infertility could be considered, though no such association has been established. Its association with pulmonary function in a GWAS study might suggest a role in respiratory phenotypes.
+*   **Expression During Development and Age-Related Phenotypes:** Specific data on developmental expression and its link to age-related phenotypes is not readily available.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function in One Sentence:** CCDC110 is a coiled-coil domain-containing protein that localizes to the nucleus and centrosomes and is involved in cell cycle regulation.
+*   **Disease Mechanism:** In the context of cancer, the mechanism appears to be related to overexpression promoting cell proliferation and migration. For potential Mendelian disease, the mechanism is unknown.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In hepatocellular carcinoma, CCDC110 interacts with and stabilizes TGFBR1, activating the TGF-β/SMAD signaling pathway, which promotes epithelial-mesenchymal transition (EMT) and enhances malignant behavior.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interaction between CCDC110 and TGFBR1 is critical for its role in promoting hepatocellular carcinoma progression.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for CCDC110 variants is currently zero, as it is not included in standard gene panels for specific inherited diseases.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene is generally not performed in a clinical diagnostic setting for inherited diseases. It is primarily a subject of cancer research.
+*   **Clinical Actionability and Management Implications:** There are no clinical actionability guidelines for variants in CCDC110.
+*   **Genetic Counseling Considerations:** Genetic counseling would focus on the lack of evidence for CCDC110 in causing Mendelian disease and the uncertain significance of any identified rare variants. The reported asymptomatic deletion carriers should be noted.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 38769395, 2025:** Demonstrated that high expression of CCDC110 in hepatocellular carcinoma promotes tumor progression by activating the TGF-β/SMAD pathway through interaction with TGFBR1.
+*   **PMID: 34737220, 2021:** Reported a familial 4.5-Mb deletion at 4q35.1q35.2, including CCDC110, in asymptomatic individuals, suggesting this deletion does not cause obvious congenital defects.
+*   **PMID: 15447989, 2004:** First identified CCDC110 (as KM-HN-1) as a novel human cancer/testis antigen, recognized by both cellular and humoral immune responses, and expressed in tumors.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence associations between HPO terms and CCDC110 variants for Mendelian disorders.
+*   **Phenotype red flags:** There are no established "red flag" HPO terms that would strongly suggest a pathogenic variant in CCDC110.
+*   **Differential diagnosis considerations:** Given the lack of a defined phenotype, differential diagnosis is not applicable. The gene UFSP2, located nearby on chromosome 4, is associated with specific skeletal dysplasias and developmental encephalopathy.
+

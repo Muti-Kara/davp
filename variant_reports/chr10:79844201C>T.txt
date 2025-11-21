@@ -1,0 +1,52 @@
+=== chr10:79844201C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs778006586
+• Chromosome: 10
+• Position: 79844201
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: NUTM2E
+• Databases: rs778006586, COSV70431481
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.028030000000000003
+• gnomADg Allele Frequency: 0.04583
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+No GWAS associations found to analyze.
+
+
+#ENTITY MAPPING:
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 40
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 40
+• Uncertain Significance: 0
+• Other Classifications: 0
+

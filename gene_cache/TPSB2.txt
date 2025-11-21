@@ -1,0 +1,80 @@
+TPSB2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 14120
+*   **OMIM Gene ID:** 191081
+*   **Primary Disease Associations:** Hereditary alpha-tryptasemia (HαT) is strongly associated with copy number variations at the tryptase locus, which includes *TPSB2* and *TPSAB1*. Elevated basal serum tryptase is a key feature, often linked to symptoms of mast cell activation.
+*   **Clinical Significance Level:** The clinical significance of the *TPSB2* gene is intrinsically linked with the *TPSAB1* gene at the same locus; duplications of the *TPSAB1* allele are the primary cause of Hereditary alpha-tryptasemia (HαT). The evidence for the association between the HαT genotype and clinical phenotypes is considered strong.
+*   **Inheritance Patterns:** The HαT trait is inherited in an autosomal dominant pattern.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI (probability of being loss-of-function intolerant) of 0.00, a pRec of 0.58, and a pNull of 0.42. The loss-of-function observed/expected upper bound fraction (LOEUF) score is a more current metric for intolerance to loss-of-function variation. Specific LOEUF scores for *TPSB2* are not readily available in the initial search results, but the low pLI suggests the gene is tolerant to loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI score (close to 0) indicates that *TPSB2* is not constrained and is tolerant to heterozygous protein-truncating variants. This is consistent with findings of functional "knockout" or null alleles in the general population.
+*   **Variant Classes Most Likely to be Pathogenic:** The primary pathogenic mechanism is not single nucleotide variants but copy number variation (CNV) of the tryptase locus, particularly duplications of the adjacent *TPSAB1* gene. A frameshift null allele in *TPSB2* (βIII<sup>FS</sup>) is present in about 20% of the population, further supporting its tolerance to LoF.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As *TPSB2* phenotypes are linked to HαT, associated HPO terms include those related to mast cell activation and connective tissue abnormalities. Common terms include:
+    *   Urticaria (HP:0001025)
+    *   Flushing (HP:0001035)
+    *   Pruritus (HP:0000989)
+    *   Anaphylaxis (HP:0002237)
+    *   Gastrointestinal dysmotility (HP:0002019)
+    *   Diarrhea (HP:0002014)
+    *   Abdominal pain (HP:0002027)
+    *   Arthralgia (HP:0002829)
+    *   Myalgia (HP:0003326)
+    *   Fatigue (HP:0012378)
+    *   Tachycardia (HP:0001649)
+    *   Hypotension (HP:0001272)
+    *   Syncope (HP:0001279)
+    *   Headache (HP:0002315)
+    *   Anxiety (HP:0000739)
+*   **Secondary HPO terms:**
+    *   Ehlers-Danlos-like syndrome (HP:0002434)
+    *   Joint hypermobility (HP:0001382)
+    *   Osteoporosis (HP:0000938)
+    *   Thyroid disease
+    *   Irritable bowel syndrome (HP:0100280)
+*   **Age of Onset Patterns:** Symptoms can manifest at any age, but are often recognized in adulthood.
+*   **Phenotype Severity Spectrum:** Severity is highly variable, ranging from asymptomatic individuals with elevated basal serum tryptase to severe, multi-systemic symptoms including recurrent anaphylaxis.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** The key genotype is an increased copy number of the *TPSAB1* gene (Hereditary alpha-tryptasemia), which is co-inherited with *TPSB2*. This leads to elevated basal serum tryptase and a wide range of allergic, gastrointestinal, and connective tissue-related symptoms. There is a gene-dose effect, where a higher number of α-tryptase copies can be associated with higher tryptase levels.
+*   **Protein Domain-Specific Phenotype Patterns:** Not applicable, as the primary mechanism is copy number variation of the gene locus rather than domain-specific missense mutations.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the HαT genotype (increased *TPSAB1* copies) and elevated basal serum tryptase is strong. The correlation between the genotype and specific clinical symptoms is moderate, as many carriers are asymptomatic or have mild symptoms.
+*   **Examples: Specific Variants → Specific Phenotypes:** The presence of a *TPSAB1* duplication or triplication is directly correlated with elevated basal serum tryptase levels. For instance, each additional tandem *TPSAB1* α allele contributes approximately 10 ng/ml to the basal serum tryptase level.
+
+### **Clinical Variants & Phenotype Associations**
+The primary "variants" of clinical significance are copy number gains at the tryptase locus. Characterization focuses on allele copy counts rather than single nucleotide variants.
+*   **Genotype:** Increased *TPSAB1* α allele copy number (Duplication) / **Significance:** Pathogenic / **Reported Phenotypes (HPO Terms):** Elevated serum tryptase level (HP:0030283), Anaphylaxis (HP:0002237), Flushing (HP:0001035), Urticaria (HP:0001025), Gastrointestinal dysmotility (HP:0002019), Joint hypermobility (HP:0001382) / **AF:** Found in ~4-8% of general populations of European ancestry.
+*   **Genotype:** Increased *TPSAB1* α allele copy number (Triplication) / **Significance:** Pathogenic / **Reported Phenotypes (HPO Terms):** Higher basal serum tryptase levels than duplications, associated with a similar but potentially more severe spectrum of symptoms. / **AF:** Less common than duplications.
+*   **Genotype:** *TPSB2* βIII frameshift null allele (βIII<sup>FS</sup>) / **Significance:** Benign / **Reported Phenotypes:** None; considered a benign polymorphism. / **AF:** ~20% of the population.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, *TPSB2* expression is highest in the lung, stomach, and esophagus (mucosa), with notable expression in the gallbladder and skin.
+*   **Tissue-Specific Phenotypes Expected:** High expression in mast cells within the lungs, gastrointestinal tract, and skin directly correlates with the observed clinical phenotypes of asthma, gastrointestinal distress (diarrhea, pain), and skin manifestations (urticaria, flushing, pruritus).
+*   **Expression During Development and Age-Related Phenotypes:** Tryptase is a major protease in mast cells, which are present throughout life. Expression in synovium has been linked to osteoarthritis in overweight patients, suggesting a role in age-related inflammatory conditions.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *TPSB2* encodes the β-tryptase subunit of tryptase, a major serine protease stored in and released from mast cell granules upon activation.
+*   **Disease Mechanism:** The mechanism is a gain-of-function due to gene dosage. Increased copies of the tryptase gene, particularly *TPSAB1*, lead to higher baseline levels of circulating tryptase, which can lower the threshold for mast cell-related symptoms.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Elevated tryptase can activate protease-activated receptor-2 (PAR-2) on neurons, smooth muscle, and endothelial cells, contributing to neurogenic inflammation, pain, and vascular permeability (flushing, hypotension). The formation of α/β-tryptase heterotetramers, which occurs in HαT, creates an enzyme with a novel substrate repertoire that may underlie some clinical features.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Tryptase is only active as a heparin-stabilized homotetramer (β4) or heterotetramer (α2β2). The formation of α2β2 heterotetramers in HαT is critical to the disease's pathophysiology.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In patients with elevated basal serum tryptase (≥11.4 µg/L), tryptase genotyping identifies an increased *TPSAB1* copy number (HαT) in up to 93% of cases. HαT is found in ~18% of patients with mastocytosis and ~29% of patients with non-clonal mast cell activation syndrome (MCAS).
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for patients with unexplained symptoms of mast cell activation (e.g., recurrent idiopathic anaphylaxis, flushing, urticaria), suspected mastocytosis, or a family history of elevated tryptase.
+*   **Clinical Actionability and Management Implications:** Identifying HαT can provide a diagnosis for patients with chronic multi-system symptoms, guide management (e.g., use of mast cell stabilizers, antihistamines), and help assess risk for severe reactions to triggers like insect stings. It is also critical for interpreting tryptase levels in patients with systemic mastocytosis.
+*   **Genetic Counseling Considerations:** Inheritance is autosomal dominant. Counseling should address the variable expressivity of the condition, where many individuals with the genetic trait may be asymptomatic. Testing of at-risk family members can be considered.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 37241913, Year: 2023:** Discusses the utility of tryptase genotyping in the diagnosis and management of systemic mastocytosis, highlighting how HαT impacts the interpretation of basal serum tryptase levels.
+*   **PMID: 34188583, Year: 2021:** Reports on modeled basal serum tryptase (BST) reference ranges based on the number of tandem *TPSAB1* α alleles, establishing a clear gene-dose effect.
+*   **PMID: 32679093, Year: 2020:** Provides a comprehensive review on the genetic regulation of tryptase production, describing canonical genotypes (0α:4β, 1α:3β, 2α:2β) and the clinical impact of HαT.
+*   **PMID: 29997237, Year: 2018:** Describes the allele-specific droplet digital PCR (ddPCR) method for precise quantification of alpha- and beta-tryptase gene copies to diagnose HαT.
+*   **PMID: 27596532, Year: 2016 (Lyons et al.):** Landmark study that first described the association between increased copy number of the alpha-tryptase gene (*TPSAB1*), elevated basal tryptase, and a multi-system disorder now known as HαT.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** An increased copy number of the *TPSAB1* allele at the tryptase locus (co-inherited with *TPSB2*) is strongly associated with **Elevated serum tryptase level (HP:0030283)**. This genotype is also frequently associated with a symptom complex that includes **Anaphylaxis (HP:0002237)**, **Flushing (HP:0001035)**, **Urticaria (HP:0001025)**, **Pruritus (HP:0000989)**, **Gastrointestinal dysmotility (HP:0002019)**, and **Joint hypermobility (HP:0001382)**.
+*   **Phenotype red flags:** The combination of a chronically elevated basal serum tryptase level in the context of multi-systemic symptoms, particularly those involving allergic, gastrointestinal, and connective tissue systems, strongly suggests testing for HαT. Recurrent, unexplained anaphylaxis is a significant red flag.
+*   **Differential diagnosis considerations:** The phenotype of HαT overlaps significantly with other mast cell disorders, including systemic mastocytosis and non-clonal mast cell activation syndrome (MCAS). The presence of joint hypermobility and skin hyperextensibility creates an overlap with Ehlers-Danlos syndromes. Tryptase genotyping is crucial to differentiate these conditions.
+

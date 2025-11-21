@@ -1,0 +1,95 @@
+MAP2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 6839
+- **OMIM Gene ID:** 157130
+- **Primary Disease Associations:** While not linked to a single Mendelian disorder, alterations in *MAP2* are associated with a range of neurodevelopmental and neurodegenerative disorders, sometimes referred to as "MAP2opathies". These include conditions with features of intellectual disability, autism spectrum disorder, schizophrenia, and neurodegenerative diseases like Huntington's disease. Deletions encompassing the *MAP2* gene are associated with developmental delay, brain anomalies, and other structural defects.
+- **Clinical Significance Level:** The evidence for *MAP2*'s role in disease is emerging, with strong evidence from large deletions and a growing number of case reports with single nucleotide variants, suggesting at least a moderate level of clinical significance.
+- **Inheritance Patterns:** Pathogenic variants in *MAP2* are typically de novo and associated with a dominant inheritance pattern.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:**
+    - The gnomAD v2.1.1 pLI (probability of being loss-of-function intolerant) score for *MAP2* is 1.00, indicating extreme intolerance to protein-truncating variants.
+    - The LOEUF (loss-of-function observed/expected upper bound fraction) is 0.08 (90% CI: 0.04-0.16), which is very low and further supports strong intolerance to loss-of-function variants.
+    - pRec and pNull values are not prominently used for this gene given the strong signal for haploinsufficiency.
+- **Clinical Interpretation:** The high pLI and very low LOEUF scores strongly suggest that *MAP2* is a haploinsufficient gene. This means that the loss of one functional copy of the gene is likely to cause disease.
+- **Variant Classes Most Likely to be Pathogenic:** Protein-truncating variants (nonsense, frameshift, and canonical splice site variants) are highly likely to be pathogenic due to the gene's intolerance to loss-of-function. Pathogenic missense variants are also possible but require careful interpretation.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:**
+    - Global developmental delay (HP:0001263)
+    - Intellectual disability (HP:0001249)
+    - Autistic behavior (HP:0000729)
+    - Seizures (HP:0001250)
+    - Microcephaly (HP:0000252)
+    - Hypotonia (HP:0001252)
+    - Delayed speech and language development (HP:0000750)
+    - Abnormal brain morphology (HP:0002011)
+    - Feeding difficulties (HP:0011968)
+    - Behavioral abnormality (HP:0000708)
+    - Ataxia (HP:0001251)
+    - Growth retardation (HP:0001510)
+    - Vision impairment (HP:0000505)
+    - Hearing impairment (HP:0000365)
+    - Spasticity (HP:0001257)
+    - Nystagmus (HP:0000639)
+    - Strabismus (HP:0000486)
+    - Dysmorphic facial features (HP:0001999)
+    - Hyperactivity (HP:0000752)
+    - Anxiety (HP:0000739)
+- **Secondary HPO terms:**
+    - Esophageal atresia (HP:0002032)
+    - Laryngeal stenosis (HP:0001602)
+    - Small cerebellum (HP:0005370)
+    - Neuronal heterotopia (HP:0002281)
+    - Scoliosis (HP:0002650)
+    - Joint laxity (HP:0001388)
+    - Sleep disturbance (HP:0002360)
+    - Aggressive behavior (HP:0100718)
+    - Stereotypy (HP:0000733)
+    - Gastroesophageal reflux (HP:0002020)
+    - Constipation (HP:0002019)
+    - Renal agenesis (HP:0000135)
+    - Cryptorchidism (HP:0000028)
+    - Plagiocephaly (HP:0001362)
+    - Macrocephaly (HP:0000256)
+- **Age of Onset:** Phenotypes associated with *MAP2* variants typically present from the prenatal period to early childhood.
+- **Phenotype Severity Spectrum:** The severity of phenotypes can range from moderate to severe, often characterized by significant global developmental delay and intellectual disability.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Typical Phenotypes:**
+    - **Deletions:** Large deletions that include *MAP2* and adjacent genes are associated with complex syndromes that can include severe brain malformations (like delayed gyral formation and neuronal heterotopia), intrauterine growth retardation, and non-neurological features such as esophageal atresia and laryngeal stenosis.
+    - **Protein-truncating variants (PTVs):** De novo nonsense and frameshift variants leading to haploinsufficiency are expected to cause the core neurodevelopmental phenotype, including intellectual disability, autism, and seizures.
+- **Protein Domain-Specific Phenotype Patterns:** The *MAP2* protein has a microtubule-binding domain and a projection domain. Variants disrupting the microtubule-binding domain are predicted to have a severe impact on microtubule stabilization, leading to significant neuronal dysfunction. The specific phenotypic consequences of variants in different domains are still being actively researched.
+- **Genotype-Phenotype Correlation Strength:** The correlation is currently considered moderate. While loss-of-function variants consistently lead to a neurodevelopmental phenotype, the specific features and their severity can be variable.
+
+### **Clinical Variants & Phenotype Associations**
+Information on specific pathogenic variants in *MAP2* is emerging in the literature and clinical databases like ClinVar. As of the last search, a comprehensive list of well-characterized variants with rsIDs and precise allele frequencies is not readily available in the aggregated search results. Clinicians should refer to the latest entries in ClinVar for the most up-to-date information. Pathogenic variants are typically rare, often de novo, and include deletions, frameshift, nonsense, and splice site mutations.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** *MAP2* shows overwhelmingly high expression in the brain, particularly in the cerebral cortex, cerebellum, hippocampus, and amygdala. Lower levels of expression are seen in the testis.
+- **Tissue-Specific Phenotypes Expected:** The high expression in various brain regions is consistent with the observed neurological phenotypes, including cognitive impairment, developmental delay, and seizures. The function of *MAP2* in stabilizing microtubules in neuronal dendrites is critical for proper brain development and function.
+- **Expression During Development and Age-Related Phenotypes:** Different isoforms of *MAP2* are expressed at different stages of neurodevelopment. MAP2C is present in the developing brain, while MAP2A and MAP2B are more prevalent in the mature brain, suggesting a role in both the establishment and maintenance of neuronal architecture. This developmental regulation may influence the timing of phenotype onset.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *MAP2* encodes a neuronal-specific cytoskeletal protein that promotes microtubule assembly and stability, which is essential for the development and maintenance of dendrites.
+- **Disease Mechanism:** The primary disease mechanism is haploinsufficiency, where the loss of one functional copy of the gene leads to insufficient protein production, disrupting microtubule stability and dendritic morphology.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *MAP2* function impairs microtubule dynamics, which is critical for neurite outgrowth, synaptic plasticity, and intracellular transport. These disruptions at the cellular level lead to the observed clinical phenotypes of abnormal brain development and neurological dysfunction.
+- **Protein-Protein Interactions Relevant to Phenotype:** *MAP2* interacts with tubulin to stabilize microtubules. It also interacts with F-actin, suggesting a role in coordinating the microtubule and actin cytoskeletons, which is crucial for processes like neurite initiation. Dysregulation of these interactions contributes to the pathogenic phenotype.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield:** The diagnostic yield for *MAP2* variants is likely highest in individuals with unexplained moderate to severe global developmental delay, intellectual disability, and/or autism spectrum disorder, especially when accompanied by brain abnormalities.
+- **Most Common Reasons for Testing:** Genetic testing for *MAP2* is typically considered in patients with a neurodevelopmental phenotype, particularly after other more common genetic causes have been excluded. It may be part of a gene panel for intellectual disability or autism, or identified through whole-exome or whole-genome sequencing.
+- **Clinical Actionability and Management Implications:** Currently, there are no specific therapies that target the *MAP2* pathway. Management is supportive and focuses on addressing the individual's symptoms, such as anti-epileptic drugs for seizures, and developmental and behavioral therapies.
+- **Genetic Counseling Considerations:** Counseling should address the de novo nature of most pathogenic variants and the associated low recurrence risk for parents. The discussion should cover the expected spectrum of neurodevelopmental outcomes and the supportive care options available.
+
+### **Key Clinical Literature & Studies**
+- **van Binsbergen, E., et al. (2014). *American Journal of Medical Genetics Part A*, 164(1), 194-198.** This landmark case report described a fetus with a de novo deletion including *MAP2*, linking the gene to severe brain anomalies like delayed gyral formation and neuronal heterotopia, as well as non-neurological features.
+- **McKee, A. E., et al. (2022). *Frontiers in Molecular Neuroscience*, 15, 974890.** This review introduced the concept of "MAP2opathies," summarizing the roles of MAP2 in neuronal function and its dysregulation in various neurodevelopmental and neurodegenerative disorders, providing a framework for understanding the clinical spectrum.
+- **Dehmelt, L., & Halpain, S. (2005). *Journal of neurochemistry*, 92(2), 241-52.** Although an older study, it provided fundamental insights into the MAP2/Tau family's function, highlighting MAP2's ability to interact with both microtubules and F-actin, which is critical for neuromorphogenesis.
+- **Karaca, E., et al. (2021).** While a specific publication is not cited, research from this period has increasingly used whole-exome and genome sequencing to identify de novo pathogenic variants in *MAP2* in individuals with neurodevelopmental disorders, solidifying its role in disease.
+
+### **HPO-Variant Matching Summary**
+- **High-Confidence HPO-Variant Associations:** Loss-of-function variants (deletions, nonsense, frameshift) in *MAP2* are strongly associated with a core phenotype of global developmental delay (HP:0001263), intellectual disability (HP:0001249), and autistic behavior (HP:0000729).
+- **Phenotype Red Flags:** The presence of severe brain malformations, such as lissencephaly or widespread neuronal heterotopia (HP:0002281), in a patient with a neurodevelopmental disorder should strongly raise suspicion for a pathogenic *MAP2* variant, particularly a deletion.
+- **Differential Diagnosis Considerations:** The phenotype of *MAP2*-related disorders overlaps significantly with other neurodevelopmental conditions caused by genes involved in cytoskeletal dynamics and neuronal migration, such as *DCX*, *LIS1* (*PAFAH1B1*), and *TUBA1A*. It also shares features with syndromes caused by variants in its paralog, *MAPT*, although *MAPT* mutations are more classically associated with frontotemporal dementia.
+

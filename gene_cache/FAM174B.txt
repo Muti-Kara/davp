@@ -1,0 +1,67 @@
+FAM174B Gene Biomedical Dossier
+### **Gene Dossier: FAM174B**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 34339.
+*   **OMIM Gene ID:** Not available.
+*   **Primary Disease Associations:** While no definitive monogenic disease is listed in OMIM, FAM174B has been associated with Arrhythmogenic Right Ventricular Cardiomyopathy. It is also implicated in other complex conditions, including cancer and neurodevelopmental disorders.
+*   **Clinical Significance Level:** Evidence for a direct causal role in a specific monogenic disease is currently limited.
+*   **Inheritance Patterns:** A specific inheritance pattern has not been established due to the lack of a defined Mendelian disease.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 data for the canonical transcript (ENST00000327355) shows a pLI score of 0.00, indicating it is not highly intolerant to loss-of-function (LoF) variation. The LOEUF is 1.09. These scores suggest the gene is tolerant of LoF variation.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores suggest that heterozygous loss-of-function variants in FAM174B are not a common cause of severe, early-onset Mendelian disease.
+*   **Variant Classes Most Likely to be Pathogenic:** While LoF variants are not highly constrained, specific missense variants or variants with a gain-of-function or dominant-negative effect could potentially be pathogenic. A chromosomal deletion involving FAM174B was associated with a neurobehavioral phenotype, suggesting haploinsufficiency could be a mechanism in some cases.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As no single Mendelian disease is defined, a ranked list of HPO terms is not available. However, clinical cases have linked FAM174B alterations to phenotypes such as:
+    *   Epilepsy.
+    *   Autism spectrum disorder.
+    *   Behavioral abnormalities.
+*   **Secondary HPO terms:** Associations with broader disease categories could imply a role in phenotypes related to:
+    *   Prostate cancer.
+    *   Ovarian serous carcinoma.
+    *   Schizophrenia.
+    *   Blood pressure regulation.
+    *   Increased adiposity.
+*   **Age of Onset Patterns:** A patient with a deletion spanning FAM174B presented with neurodevelopmental issues, suggesting a potential for early-onset phenotypes.
+*   **Phenotype Severity Spectrum:** The severity appears variable, ranging from potential roles in complex psychiatric disorders to association with clinical outcomes in cancer.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A chromosomal deletion encompassing FAM174B and two other genes was linked to epilepsy, autism spectrum disorder, and behavioral abnormalities. Indels predicted to damage the gene have been detected in families with schizophrenia.
+*   **Protein Domain-Specific Phenotype Patterns:** The gene contains a DUF1180 domain (Protein of unknown function), but no specific phenotype patterns have been correlated with this domain yet.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently considered weak to moderate for most associations, as they are often from studies of complex diseases or involve multigenic deletions.
+*   **Examples: Specific Variants → Specific Phenotypes:** A missense mutation in the rat ortholog, *Fam174b*, was identified in a genomic interval linked to blood pressure regulation and increased adiposity.
+
+**Clinical Variants & Phenotype Associations**
+*   At present, there are no well-characterized pathogenic or likely pathogenic single nucleotide variants listed in ClinVar for FAM174B that are associated with a specific Mendelian phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, FAM174B is most highly expressed in the Pancreas. It is also expressed in a wide range of other tissues, including the thyroid, prostate, and various brain regions.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the pancreas could suggest a potential role in pancreatic function or disease. Expression in the prostate is consistent with its implication in prostate cancer. Brain expression may relate to the neurodevelopmental phenotypes observed in a patient with a deletion.
+*   **Expression During Development and Age-Related Phenotypes:** The gene is expressed in human fetal tissues, indicating a role during development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** FAM174B is essential for maintaining the structural integrity of the Golgi apparatus.
+*   **Disease Mechanism:** Haploinsufficiency is a potential mechanism, as suggested by a case with a multi-gene deletion. Altered expression levels (both high and low) have been associated with different cancer types and outcomes, suggesting a complex role.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of Golgi structure can impact protein processing, sorting, and transport, leading to widespread cellular dysfunction. Its expression is correlated with molecules involved in mucin production in colorectal mucinous adenocarcinoma.
+*   **Protein-Protein Interactions Relevant to Phenotype:** No specific protein-protein interactions directly linked to a phenotype have been detailed in the search results.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for FAM174B variants is likely low for general genetic testing, as it is not yet definitively linked to a specific Mendelian disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing may be considered in individuals with complex, unexplained neurodevelopmental disorders, particularly if a deletion on chromosome 15q26.1 is detected. It is also a gene of interest in cancer research.
+*   **Clinical Actionability and Management Implications:** Currently, there are no specific clinical management guidelines based on FAM174B genotype.
+*   **Genetic Counseling Considerations:** Counseling would be challenging due to the limited evidence. The uncertain significance of variants and the gene's association with complex, multifactorial diseases would be key discussion points.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 29851555, 2018:** This study uncovered a Golgi-specific transcriptional stress response, highlighting the fundamental role of proteins like FAM174B in Golgi integrity.
+*   **PMID: 21160409, 2011:** A genome-wide survey identified an association between common genetic variants and HIV-1 susceptibility, though the direct role of FAM174B was part of a broader locus.
+*   A 2024 study in *Translational Cancer Research* identified FAM174B as part of a four-gene prognostic model for colorectal mucinous adenocarcinoma and found its expression correlated with mucin production.
+*   A study summarized by the Ma'ayan Laboratory noted that a patient with a chromosomal deletion including FAM174B presented with epilepsy, autism, and behavioral issues.
+*   The same summary mentioned that indels predicted to damage FAM174B were found in families with schizophrenia, and a missense mutation in the rat ortholog was linked to blood pressure and adiposity.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence associations between specific variants and HPO terms.
+*   **Phenotype red flags:** The combination of **Epilepsy (HP:0001250)**, **Autism spectrum disorder (HP:0000729)**, and **Behavioral abnormalities** in a patient with a 15q26.1 deletion might suggest involvement of FAM174B.
+*   **Differential diagnosis considerations:** The neurodevelopmental phenotypes associated with a FAM174B-inclusive deletion overlap with numerous other syndromic and non-syndromic neurodevelopmental disorders. For its role in cancer, it is one of many genes that can be dysregulated.
+

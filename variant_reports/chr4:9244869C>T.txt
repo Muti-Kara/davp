@@ -1,0 +1,65 @@
+=== chr4:9244869C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs879644397
+• Chromosome: 4
+• Position: 9244869
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: USP17L17
+• Databases: rs879644397, COSV105367865
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.07691
+• gnomADg Allele Frequency: 0.155
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_GO_1901557: response to fenofibrate - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a fenofibrate stimulus. Fenofibrates are a class of fibrate drugs which is mainly used to reduce cholesterol levels in patients at risk of cardiovascular disease. Like other fibrates, it reduces both low-density lipoprotein (LDL) and very low density lipoprotein (VLDL) levels, as well as increasing high-density lipoprotein (HDL) levels and reducing triglycerides level. It is used alone or in conjunction with statins in the treatment of hypercholesterolemia and hypertriglyceridemia.CHEBI:5001
+GWAS_GO_1903491: response to simvastatin - "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a simvastatin stimulus." [GO_REF:0000071, GOC:TermGenie, PMID:23100282]comment: Simvastatin is a statin  used as a cholesterol-lowering and anti-cardiovascular disease drug.
+GWAS_EFO_0007681: triglyceride change measurement - quantification of the change in triglyceride levels in an individual over time, eg over the course of several hours after a high-fat meal 
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16174859) -> Associated GWAS: GWAS_GO_1901557, GWAS_GO_1903491, GWAS_EFO_0007681, GWAS_EFO_0001360
+Entity: Transcript (ID: 16358917) -> Associated GWAS: GWAS_GO_1901557, GWAS_GO_1903491, GWAS_EFO_0007681, GWAS_EFO_0001360
+Entity: Non Coding RNA (ID: 17281491) -> Associated GWAS: GWAS_GO_1901557, GWAS_GO_1903491, GWAS_EFO_0007681, GWAS_EFO_0001360
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2041
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 235
+• Uncertain Significance: 1806
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=14)
+
+

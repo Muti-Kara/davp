@@ -1,0 +1,1008 @@
+{
+    "sample": "HG00126",
+    "step": "step1_prelimin8",
+    "top_genes": [
+        "HFE",
+        "CAPN3",
+        "HSPG2",
+        "PFKM",
+        "DNAH9",
+        "SLC34A1",
+        "IGHMBP2",
+        "DUOX2",
+        "SPATA16",
+        "UBR7"
+    ],
+    "answer_gene_rank": 2,
+    "tournament_log": {
+        "results": [
+            {
+                "id": "HFE",
+                "description": "No report available for HFE",
+                "rank": 1
+            },
+            {
+                "id": "CAPN3",
+                "description": "No report available for CAPN3",
+                "rank": 2
+            },
+            {
+                "id": "HSPG2",
+                "description": "No report available for HSPG2",
+                "rank": 3
+            },
+            {
+                "id": "PFKM",
+                "description": "No report available for PFKM",
+                "rank": 4
+            },
+            {
+                "id": "DNAH9",
+                "description": "No report available for DNAH9",
+                "rank": 5
+            },
+            {
+                "id": "SLC34A1",
+                "description": "No report available for SLC34A1",
+                "rank": 6
+            },
+            {
+                "id": "IGHMBP2",
+                "description": "No report available for IGHMBP2",
+                "rank": 7
+            },
+            {
+                "id": "DUOX2",
+                "description": "No report available for DUOX2",
+                "rank": 8
+            },
+            {
+                "id": "SPATA16",
+                "description": "No report available for SPATA16",
+                "rank": 9
+            },
+            {
+                "id": "UBR7",
+                "description": "No report available for UBR7",
+                "rank": 10
+            }
+        ],
+        "comparison_history": [
+            {
+                "group_items": [
+                    "UBR7",
+                    "IL7",
+                    "CIC",
+                    "KLRC2",
+                    "USP17L17",
+                    "TRIM73",
+                    "DEFB104A",
+                    "ADAMTS7"
+                ],
+                "rankings": [
+                    "UBR7",
+                    "IL7",
+                    "CIC",
+                    "KLRC2",
+                    "USP17L17",
+                    "TRIM73",
+                    "DEFB104A",
+                    "ADAMTS7"
+                ]
+            },
+            {
+                "group_items": [
+                    "DUOX2",
+                    "IRS2",
+                    "TCHH",
+                    "CEP89",
+                    "AREL1",
+                    "POTEB3",
+                    "FOXD4L3",
+                    "BMP8A"
+                ],
+                "rankings": [
+                    "DUOX2",
+                    "IRS2",
+                    "TCHH",
+                    "CEP89",
+                    "AREL1",
+                    "POTEB3",
+                    "FOXD4L3",
+                    "BMP8A"
+                ]
+            },
+            {
+                "group_items": [
+                    "HSPG2",
+                    "KRT6C",
+                    "KIF17",
+                    "BSN",
+                    "NBPF11",
+                    "HLA-DRB5",
+                    "POTEG",
+                    "TPSB2"
+                ],
+                "rankings": [
+                    "HSPG2",
+                    "KRT6C",
+                    "KIF17",
+                    "BSN",
+                    "NBPF11",
+                    "HLA-DRB5",
+                    "POTEG",
+                    "TPSB2"
+                ]
+            },
+            {
+                "group_items": [
+                    "CAPN3",
+                    "MUC5B",
+                    "TP53BP2",
+                    "CHRNA7",
+                    "PSMD9",
+                    "RASA4",
+                    "ARL17B",
+                    "FAM86B1"
+                ],
+                "rankings": [
+                    "CAPN3",
+                    "MUC5B",
+                    "TP53BP2",
+                    "CHRNA7",
+                    "PSMD9",
+                    "RASA4",
+                    "ARL17B",
+                    "FAM86B1"
+                ]
+            },
+            {
+                "group_items": [
+                    "HLA-DRB1",
+                    "PDGFRL",
+                    "CNN2",
+                    "NUTM2D",
+                    "GDPD4",
+                    "COL23A1",
+                    "CARMIL3",
+                    "PCDHB16"
+                ],
+                "rankings": [
+                    "HLA-DRB1",
+                    "PDGFRL",
+                    "CNN2",
+                    "NUTM2D",
+                    "GDPD4",
+                    "COL23A1",
+                    "CARMIL3",
+                    "PCDHB16"
+                ]
+            },
+            {
+                "group_items": [
+                    "SLX4",
+                    "PFKM",
+                    "NUTM2B",
+                    "MTUS1",
+                    "NACA",
+                    "GPR89B",
+                    "POTEI",
+                    "__FILLER_1__"
+                ],
+                "rankings": [
+                    "SLX4",
+                    "PFKM",
+                    "NUTM2B",
+                    "MTUS1",
+                    "NACA",
+                    "GPR89B",
+                    "POTEI",
+                    "__FILLER_1__"
+                ]
+            },
+            {
+                "group_items": [
+                    "GJB2",
+                    "ST14",
+                    "WASHC2A",
+                    "NUP153",
+                    "CNTNAP3B",
+                    "GOLGA8S",
+                    "LRRC37A",
+                    "HCAR3"
+                ],
+                "rankings": [
+                    "GJB2",
+                    "ST14",
+                    "WASHC2A",
+                    "NUP153",
+                    "CNTNAP3B",
+                    "GOLGA8S",
+                    "LRRC37A",
+                    "HCAR3"
+                ]
+            },
+            {
+                "group_items": [
+                    "DNAH9",
+                    "SPTBN4",
+                    "SLC16A6",
+                    "PARP4",
+                    "CYP3A43",
+                    "FAM174B",
+                    "POTEM",
+                    "MUC20"
+                ],
+                "rankings": [
+                    "DNAH9",
+                    "SPTBN4",
+                    "SLC16A6",
+                    "PARP4",
+                    "CYP3A43",
+                    "FAM174B",
+                    "POTEM",
+                    "MUC20"
+                ]
+            },
+            {
+                "group_items": [
+                    "IGHMBP2",
+                    "TNXB",
+                    "HERC2",
+                    "FER1L6",
+                    "GRM5",
+                    "LMAN1L",
+                    "SPATA31A3",
+                    "FRG2"
+                ],
+                "rankings": [
+                    "IGHMBP2",
+                    "TNXB",
+                    "FER1L6",
+                    "GRM5",
+                    "LMAN1L",
+                    "FRG2",
+                    "SPATA31A3",
+                    "HERC2"
+                ]
+            },
+            {
+                "group_items": [
+                    "HFE",
+                    "FLG",
+                    "PNPLA7",
+                    "MAML1",
+                    "NUTM2E",
+                    "OR2T8",
+                    "MAP2",
+                    "__FILLER_3__"
+                ],
+                "rankings": [
+                    "HFE",
+                    "FLG",
+                    "PNPLA7",
+                    "MAML1",
+                    "NUTM2E",
+                    "OR2T8",
+                    "MAP2",
+                    "__FILLER_3__"
+                ]
+            },
+            {
+                "group_items": [
+                    "SLC34A1",
+                    "SPEN",
+                    "TAS2R43",
+                    "POM121C",
+                    "AASDH",
+                    "EPHA5",
+                    "EPPK1",
+                    "__FILLER_0__"
+                ],
+                "rankings": [
+                    "SLC34A1",
+                    "SPEN",
+                    "TAS2R43",
+                    "POM121C",
+                    "AASDH",
+                    "EPHA5",
+                    "EPPK1",
+                    "__FILLER_0__"
+                ]
+            },
+            {
+                "group_items": [
+                    "BTD",
+                    "MCM7",
+                    "MRPL22",
+                    "NUTM2A",
+                    "SPATA31A1",
+                    "FRMD4B",
+                    "LRRC37A2",
+                    "ANKRD30A"
+                ],
+                "rankings": [
+                    "FRMD4B",
+                    "ANKRD30A",
+                    "LRRC37A2",
+                    "BTD",
+                    "MCM7",
+                    "MRPL22",
+                    "NUTM2A",
+                    "SPATA31A1"
+                ]
+            },
+            {
+                "group_items": [
+                    "SPATA16",
+                    "PIGG",
+                    "CC2D1B",
+                    "AHNAK2",
+                    "NBPF12",
+                    "GOLGA6L9",
+                    "PRAMEF18",
+                    "__FILLER_2__"
+                ],
+                "rankings": [
+                    "SPATA16",
+                    "PIGG",
+                    "CC2D1B",
+                    "AHNAK2",
+                    "NBPF12",
+                    "GOLGA6L9",
+                    "PRAMEF18",
+                    "__FILLER_2__"
+                ]
+            },
+            {
+                "group_items": [
+                    "PRSS1",
+                    "ALMS1",
+                    "PCDH1",
+                    "HCAR2",
+                    "RDH16",
+                    "ZDHHC11",
+                    "HRNR",
+                    "CCDC110"
+                ],
+                "rankings": [
+                    "PRSS1",
+                    "ALMS1",
+                    "PCDH1",
+                    "HCAR2",
+                    "RDH16",
+                    "ZDHHC11",
+                    "HRNR",
+                    "CCDC110"
+                ]
+            },
+            {
+                "group_items": [
+                    "HSPG2",
+                    "PRSS1",
+                    "IRS2",
+                    "MUC5B",
+                    "TCHH",
+                    "FER1L6",
+                    "POM121C",
+                    "MTUS1"
+                ],
+                "rankings": [
+                    "HSPG2",
+                    "PRSS1",
+                    "IRS2",
+                    "MUC5B",
+                    "TCHH",
+                    "FER1L6",
+                    "POM121C",
+                    "MTUS1"
+                ]
+            },
+            {
+                "group_items": [
+                    "DNAH9",
+                    "SPATA16",
+                    "FLG",
+                    "IL7",
+                    "CIC",
+                    "LRRC37A2",
+                    "PARP4",
+                    "MAML1"
+                ],
+                "rankings": [
+                    "DNAH9",
+                    "SPATA16",
+                    "FLG",
+                    "IL7",
+                    "CIC",
+                    "LRRC37A2",
+                    "PARP4",
+                    "MAML1"
+                ]
+            },
+            {
+                "group_items": [
+                    "GJB2",
+                    "SLX4",
+                    "SPTBN4",
+                    "PFKM",
+                    "CNN2",
+                    "PCDH1",
+                    "BSN",
+                    "NUTM2D"
+                ],
+                "rankings": [
+                    "PFKM",
+                    "SPTBN4",
+                    "SLX4",
+                    "BSN",
+                    "GJB2",
+                    "CNN2",
+                    "PCDH1",
+                    "NUTM2D"
+                ]
+            },
+            {
+                "group_items": [
+                    "SLC34A1",
+                    "IGHMBP2",
+                    "ALMS1",
+                    "ANKRD30A",
+                    "SLC16A6",
+                    "CC2D1B",
+                    "BTD",
+                    "AHNAK2"
+                ],
+                "rankings": [
+                    "SLC34A1",
+                    "IGHMBP2",
+                    "ALMS1",
+                    "ANKRD30A",
+                    "SLC16A6",
+                    "CC2D1B",
+                    "BTD",
+                    "AHNAK2"
+                ]
+            },
+            {
+                "group_items": [
+                    "HFE",
+                    "FRMD4B",
+                    "TNXB",
+                    "PIGG",
+                    "NUTM2B",
+                    "WASHC2A",
+                    "KLRC2",
+                    "CHRNA7"
+                ],
+                "rankings": [
+                    "HFE",
+                    "TNXB",
+                    "FRMD4B",
+                    "PIGG",
+                    "NUTM2B",
+                    "WASHC2A",
+                    "KLRC2",
+                    "CHRNA7"
+                ]
+            },
+            {
+                "group_items": [
+                    "DUOX2",
+                    "HLA-DRB1",
+                    "KRT6C",
+                    "SPEN",
+                    "PNPLA7",
+                    "KIF17",
+                    "CEP89",
+                    "GRM5"
+                ],
+                "rankings": [
+                    "DUOX2",
+                    "HLA-DRB1",
+                    "KRT6C",
+                    "SPEN",
+                    "PNPLA7",
+                    "KIF17",
+                    "CEP89",
+                    "GRM5"
+                ]
+            },
+            {
+                "group_items": [
+                    "CAPN3",
+                    "UBR7",
+                    "PDGFRL",
+                    "ST14",
+                    "TAS2R43",
+                    "TP53BP2",
+                    "HCAR2",
+                    "NUP153"
+                ],
+                "rankings": [
+                    "CAPN3",
+                    "UBR7",
+                    "TP53BP2",
+                    "NUP153",
+                    "PDGFRL",
+                    "ST14",
+                    "HCAR2",
+                    "TAS2R43"
+                ]
+            },
+            {
+                "group_items": [
+                    "CAPN3",
+                    "UBR7",
+                    "IGHMBP2",
+                    "FRMD4B",
+                    "ALMS1",
+                    "SPEN",
+                    "IL7",
+                    "__FILLER_2__"
+                ],
+                "rankings": [
+                    "CAPN3",
+                    "IGHMBP2",
+                    "UBR7",
+                    "FRMD4B",
+                    "ALMS1",
+                    "SPEN",
+                    "IL7",
+                    "__FILLER_2__"
+                ]
+            },
+            {
+                "group_items": [
+                    "DUOX2",
+                    "SLC34A1",
+                    "PFKM",
+                    "SPTBN4",
+                    "FLG",
+                    "KRT6C",
+                    "TP53BP2",
+                    "__FILLER_3__"
+                ],
+                "rankings": [
+                    "PFKM",
+                    "SLC34A1",
+                    "SPTBN4",
+                    "DUOX2",
+                    "FLG",
+                    "KRT6C",
+                    "TP53BP2",
+                    "__FILLER_3__"
+                ]
+            },
+            {
+                "group_items": [
+                    "HFE",
+                    "SPATA16",
+                    "HLA-DRB1",
+                    "SLX4",
+                    "GJB2",
+                    "PIGG",
+                    "PDGFRL",
+                    "__FILLER_0__"
+                ],
+                "rankings": [
+                    "HFE",
+                    "SPATA16",
+                    "HLA-DRB1",
+                    "SLX4",
+                    "GJB2",
+                    "PIGG",
+                    "PDGFRL",
+                    "__FILLER_0__"
+                ]
+            },
+            {
+                "group_items": [
+                    "HSPG2",
+                    "DNAH9",
+                    "PRSS1",
+                    "TNXB",
+                    "IRS2",
+                    "MUC5B",
+                    "ANKRD30A",
+                    "__FILLER_1__"
+                ],
+                "rankings": [
+                    "HSPG2",
+                    "DNAH9",
+                    "PRSS1",
+                    "TNXB",
+                    "IRS2",
+                    "MUC5B",
+                    "ANKRD30A",
+                    "__FILLER_1__"
+                ]
+            },
+            {
+                "group_items": [
+                    "CAPN3",
+                    "SLC34A1",
+                    "PFKM",
+                    "SPATA16",
+                    "UBR7",
+                    "HLA-DRB1",
+                    "SLX4",
+                    "FRMD4B"
+                ],
+                "rankings": [
+                    "PFKM",
+                    "CAPN3",
+                    "FRMD4B",
+                    "SLX4",
+                    "SLC34A1",
+                    "UBR7",
+                    "SPATA16",
+                    "HLA-DRB1"
+                ]
+            },
+            {
+                "group_items": [
+                    "HFE",
+                    "HSPG2",
+                    "DNAH9",
+                    "IGHMBP2",
+                    "DUOX2",
+                    "PRSS1",
+                    "SPTBN4",
+                    "TNXB"
+                ],
+                "rankings": [
+                    "HFE",
+                    "HSPG2",
+                    "DNAH9",
+                    "IGHMBP2",
+                    "DUOX2",
+                    "PRSS1",
+                    "SPTBN4",
+                    "TNXB"
+                ]
+            }
+        ],
+        "round_history": [
+            [
+                "CAPN3",
+                "DUOX2",
+                "HFE",
+                "GJB2",
+                "BTD",
+                "HSPG2",
+                "SLC34A1",
+                "DNAH9",
+                "UBR7",
+                "SPATA16",
+                "PRSS1",
+                "SLX4",
+                "HLA-DRB1",
+                "IGHMBP2",
+                "PDGFRL",
+                "IRS2",
+                "TNXB",
+                "FLG",
+                "ALMS1",
+                "SPTBN4",
+                "KRT6C",
+                "PIGG",
+                "ST14",
+                "MUC5B",
+                "SPEN",
+                "PFKM",
+                "MCM7",
+                "IL7",
+                "TCHH",
+                "CNN2",
+                "HERC2",
+                "NUTM2B",
+                "MRPL22",
+                "TAS2R43",
+                "SLC16A6",
+                "CIC",
+                "PNPLA7",
+                "CC2D1B",
+                "WASHC2A",
+                "KIF17",
+                "TP53BP2",
+                "PCDH1",
+                "KLRC2",
+                "HCAR2",
+                "POM121C",
+                "PARP4",
+                "BSN",
+                "CEP89",
+                "CHRNA7",
+                "MAML1",
+                "NUP153",
+                "AHNAK2",
+                "MTUS1",
+                "FER1L6",
+                "NUTM2A",
+                "NUTM2D",
+                "NACA",
+                "NUTM2E",
+                "GRM5",
+                "AREL1",
+                "NBPF11",
+                "CYP3A43",
+                "AASDH",
+                "RDH16",
+                "PSMD9",
+                "NBPF12",
+                "USP17L17",
+                "SPATA31A1",
+                "CNTNAP3B",
+                "GDPD4",
+                "POTEB3",
+                "TRIM73",
+                "FRMD4B",
+                "HLA-DRB5",
+                "COL23A1",
+                "FAM174B",
+                "OR2T8",
+                "GOLGA6L9",
+                "RASA4",
+                "LMAN1L",
+                "GOLGA8S",
+                "ZDHHC11",
+                "EPHA5",
+                "GPR89B",
+                "EPPK1",
+                "POTEG",
+                "LRRC37A2",
+                "DEFB104A",
+                "ARL17B",
+                "CARMIL3",
+                "MAP2",
+                "HRNR",
+                "POTEI",
+                "FOXD4L3",
+                "SPATA31A3",
+                "LRRC37A",
+                "POTEM",
+                "PRAMEF18",
+                "HCAR3",
+                "MUC20",
+                "ADAMTS7",
+                "FAM86B1",
+                "PCDHB16",
+                "ANKRD30A",
+                "FRG2",
+                "BMP8A",
+                "TPSB2",
+                "CCDC110"
+            ],
+            [
+                "CAPN3",
+                "DUOX2",
+                "HFE",
+                "GJB2",
+                "HSPG2",
+                "SLC34A1",
+                "DNAH9",
+                "UBR7",
+                "SPATA16",
+                "PRSS1",
+                "SLX4",
+                "HLA-DRB1",
+                "IGHMBP2",
+                "FRMD4B",
+                "PDGFRL",
+                "IRS2",
+                "TNXB",
+                "FLG",
+                "ALMS1",
+                "SPTBN4",
+                "KRT6C",
+                "PIGG",
+                "ST14",
+                "MUC5B",
+                "SPEN",
+                "PFKM",
+                "IL7",
+                "ANKRD30A",
+                "TCHH",
+                "CNN2",
+                "NUTM2B",
+                "TAS2R43",
+                "SLC16A6",
+                "CIC",
+                "PNPLA7",
+                "CC2D1B",
+                "WASHC2A",
+                "KIF17",
+                "TP53BP2",
+                "PCDH1",
+                "FER1L6",
+                "LRRC37A2",
+                "BTD",
+                "KLRC2",
+                "HCAR2",
+                "POM121C",
+                "PARP4",
+                "BSN",
+                "CEP89",
+                "CHRNA7",
+                "MAML1",
+                "NUP153",
+                "AHNAK2",
+                "MTUS1",
+                "NUTM2D",
+                "GRM5"
+            ],
+            [
+                "CAPN3",
+                "DUOX2",
+                "HFE",
+                "HSPG2",
+                "SLC34A1",
+                "DNAH9",
+                "UBR7",
+                "SPATA16",
+                "PRSS1",
+                "HLA-DRB1",
+                "IGHMBP2",
+                "PFKM",
+                "SLX4",
+                "FRMD4B",
+                "TNXB",
+                "SPTBN4",
+                "GJB2",
+                "IRS2",
+                "FLG",
+                "ALMS1",
+                "KRT6C",
+                "PIGG",
+                "MUC5B",
+                "SPEN",
+                "IL7",
+                "ANKRD30A",
+                "TP53BP2",
+                "PDGFRL"
+            ],
+            [
+                "CAPN3",
+                "HFE",
+                "HSPG2",
+                "SLC34A1",
+                "DNAH9",
+                "PFKM",
+                "SPATA16",
+                "IGHMBP2",
+                "DUOX2",
+                "UBR7",
+                "PRSS1",
+                "HLA-DRB1",
+                "SPTBN4",
+                "SLX4",
+                "FRMD4B",
+                "TNXB"
+            ],
+            [
+                "HFE",
+                "CAPN3",
+                "HSPG2",
+                "PFKM",
+                "DNAH9",
+                "SLC34A1",
+                "IGHMBP2",
+                "DUOX2",
+                "SPATA16",
+                "UBR7"
+            ]
+        ]
+    },
+    "gene_reports": {
+        "CAPN3": "No report available for CAPN3",
+        "DUOX2": "No report available for DUOX2",
+        "HFE": "No report available for HFE",
+        "GJB2": "No report available for GJB2",
+        "BTD": "No report available for BTD",
+        "HSPG2": "No report available for HSPG2",
+        "SLC34A1": "No report available for SLC34A1",
+        "DNAH9": "No report available for DNAH9",
+        "UBR7": "No report available for UBR7",
+        "SPATA16": "No report available for SPATA16",
+        "PRSS1": "No report available for PRSS1",
+        "SLX4": "No report available for SLX4",
+        "HLA-DRB1": "No report available for HLA-DRB1",
+        "IGHMBP2": "No report available for IGHMBP2",
+        "PDGFRL": "No report available for PDGFRL",
+        "IRS2": "No report available for IRS2",
+        "TNXB": "No report available for TNXB",
+        "FLG": "No report available for FLG",
+        "ALMS1": "No report available for ALMS1",
+        "SPTBN4": "No report available for SPTBN4",
+        "KRT6C": "No report available for KRT6C",
+        "PIGG": "No report available for PIGG",
+        "ST14": "No report available for ST14",
+        "MUC5B": "No report available for MUC5B",
+        "SPEN": "No report available for SPEN",
+        "PFKM": "No report available for PFKM",
+        "MCM7": "No report available for MCM7",
+        "IL7": "No report available for IL7",
+        "TCHH": "No report available for TCHH",
+        "CNN2": "No report available for CNN2",
+        "HERC2": "No report available for HERC2",
+        "NUTM2B": "No report available for NUTM2B",
+        "MRPL22": "No report available for MRPL22",
+        "TAS2R43": "No report available for TAS2R43",
+        "SLC16A6": "No report available for SLC16A6",
+        "CIC": "No report available for CIC",
+        "PNPLA7": "No report available for PNPLA7",
+        "CC2D1B": "No report available for CC2D1B",
+        "WASHC2A": "No report available for WASHC2A",
+        "KIF17": "No report available for KIF17",
+        "TP53BP2": "No report available for TP53BP2",
+        "PCDH1": "No report available for PCDH1",
+        "KLRC2": "No report available for KLRC2",
+        "HCAR2": "No report available for HCAR2",
+        "POM121C": "No report available for POM121C",
+        "PARP4": "No report available for PARP4",
+        "BSN": "No report available for BSN",
+        "CEP89": "No report available for CEP89",
+        "CHRNA7": "No report available for CHRNA7",
+        "MAML1": "No report available for MAML1",
+        "NUP153": "No report available for NUP153",
+        "AHNAK2": "No report available for AHNAK2",
+        "MTUS1": "No report available for MTUS1",
+        "FER1L6": "No report available for FER1L6",
+        "NUTM2A": "No report available for NUTM2A",
+        "NUTM2D": "No report available for NUTM2D",
+        "NACA": "No report available for NACA",
+        "NUTM2E": "No report available for NUTM2E",
+        "GRM5": "No report available for GRM5",
+        "AREL1": "No report available for AREL1",
+        "NBPF11": "No report available for NBPF11",
+        "CYP3A43": "No report available for CYP3A43",
+        "AASDH": "No report available for AASDH",
+        "RDH16": "No report available for RDH16",
+        "PSMD9": "No report available for PSMD9",
+        "NBPF12": "No report available for NBPF12",
+        "USP17L17": "No report available for USP17L17",
+        "SPATA31A1": "No report available for SPATA31A1",
+        "CNTNAP3B": "No report available for CNTNAP3B",
+        "GDPD4": "No report available for GDPD4",
+        "POTEB3": "No report available for POTEB3",
+        "TRIM73": "No report available for TRIM73",
+        "FRMD4B": "No report available for FRMD4B",
+        "HLA-DRB5": "No report available for HLA-DRB5",
+        "COL23A1": "No report available for COL23A1",
+        "FAM174B": "No report available for FAM174B",
+        "OR2T8": "No report available for OR2T8",
+        "GOLGA6L9": "No report available for GOLGA6L9",
+        "RASA4": "No report available for RASA4",
+        "LMAN1L": "No report available for LMAN1L",
+        "GOLGA8S": "No report available for GOLGA8S",
+        "ZDHHC11": "No report available for ZDHHC11",
+        "EPHA5": "No report available for EPHA5",
+        "GPR89B": "No report available for GPR89B",
+        "EPPK1": "No report available for EPPK1",
+        "POTEG": "No report available for POTEG",
+        "LRRC37A2": "No report available for LRRC37A2",
+        "DEFB104A": "No report available for DEFB104A",
+        "ARL17B": "No report available for ARL17B",
+        "CARMIL3": "No report available for CARMIL3",
+        "MAP2": "No report available for MAP2",
+        "HRNR": "No report available for HRNR",
+        "POTEI": "No report available for POTEI",
+        "FOXD4L3": "No report available for FOXD4L3",
+        "SPATA31A3": "No report available for SPATA31A3",
+        "LRRC37A": "No report available for LRRC37A",
+        "POTEM": "No report available for POTEM",
+        "PRAMEF18": "No report available for PRAMEF18",
+        "HCAR3": "No report available for HCAR3",
+        "MUC20": "No report available for MUC20",
+        "ADAMTS7": "No report available for ADAMTS7",
+        "FAM86B1": "No report available for FAM86B1",
+        "PCDHB16": "No report available for PCDHB16",
+        "ANKRD30A": "No report available for ANKRD30A",
+        "FRG2": "No report available for FRG2",
+        "BMP8A": "No report available for BMP8A",
+        "TPSB2": "No report available for TPSB2",
+        "CCDC110": "No report available for CCDC110"
+    },
+    "patient_summary": "16, male\ndifficulty climbing stairs, frequent falls, muscle pain during exercise, elevated CK levels, mild difficulty rising from seated position, occasional night sweats\nHPO terms from RAG: \nHP:0030166 | Night sweats | \"Occurrence of excessive sweating during sleep.\" [https://orcid.org/0000-0002-0736-9199, PMID:23136329] | Synonyms: Night sweats, Nocturnal hyperhidrosis\nHP:0002359 | Frequent falls |  | Synonyms: Frequent falls\nHP:0003551 | Difficulty climbing stairs | \"Reduced ability to climb stairs.\" [https://orcid.org/0000-0002-0736-9199] | Synonyms: Difficulty walking up stairs\nHP:0003738 | Exercise-induced myalgia | \"The occurrence of an unusually high amount of muscle pain following exercise.\" [https://orcid.org/0000-0002-0736-9199] | Synonyms: Exercise-induced muscle pain, Muscle pain on exercise, Muscle pain with exercise, Muscle pain, exercise-induced\nHP:0002515 | Waddling gait | \"Weakness of the hip girdle and upper thigh muscles, for instance in myopathies, leads to an instability of the pelvis on standing and walking. If the muscles extending the hip joint are affected, the posture in that joint becomes flexed and lumbar lordosis increases. The patients usually have difficulties standing up from a sitting position. Due to weakness in the gluteus medius muscle, the hip on the side of the swinging leg drops with each step (referred to as Trendelenburg sign). The gait appears waddling. The patients frequently attempt to counteract the dropping of the hip on the swinging side by bending the trunk towards the side which is in the stance phase (in the German language literature this is referred to as Duchenne sign). Similar gait patterns can be caused by orthopedic conditions when the origin and the insertion site of the gluteus medius muscle are closer to each other than normal, for instance due to a posttraumatic elevation of the trochanter or pseudarthrosis of the femoral neck.\" [PMID:27770207] | Synonyms: Waddling gait, Waddling walk\nHP:0003236 | Elevated circulating creatine kinase concentration | \"An elevation of the level of the enzyme creatine kinase (also known as creatine phosphokinase (CK; EC 2.7.3.2) in the blood. CK levels can be elevated in a number of clinical disorders such as myocardial infarction, rhabdomyolysis, and muscular dystrophy.\" [https://orcid.org/0000-0002-0736-9199] | Synonyms: Elevated blood creatine phosphokinase, Elevated circulating creatine phosphokinase, Elevated creatine kinase, Elevated serum CPK, Elevated serum creatine kinase, Elevated serum creatine phosphokinase, High serum creatine kinase, Increased CPK, Increased creatine kinase, Increased creatine phosphokinase, Increased serum CK, Increased serum creatine kinase, Increased serum creatine phosphokinase"
+}

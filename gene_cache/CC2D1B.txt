@@ -1,0 +1,56 @@
+CC2D1B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 29386.
+- **OMIM Gene ID:** Not available, as no human disease has been definitively linked to this gene alone.
+- **Primary Disease Associations:** While no monogenic disease is established, *CC2D1B* is considered a candidate gene for neurodevelopmental disorders, potentially in a recessive or trans-heterozygous model with its paralog, *CC2D1A*. Mouse models suggest a role in cognitive function.
+- **Clinical Significance Level:** The clinical significance of *CC2D1B* variants is currently uncertain.
+- **Inheritance Patterns Observed in Patients:** Autosomal recessive inheritance is suggested as a potential model based on studies of its paralog *CC2D1A* and mouse models.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics are not available. However, a low loss-of-function observed/expected (o/e) score indicates intolerance to protein-truncating variation. The specific pLI (probability of being loss-of-function intolerant) score is not directly provided, but a score greater than or equal to 0.9 is considered highly intolerant. The loss-of-function observed/expected upper bound fraction (LOEUF) score is recommended over pLI, with lower values indicating greater intolerance.
+- **Clinical Interpretation of Constraint Scores:** A low LOEUF score would suggest that *CC2D1B* is intolerant to loss-of-function variation, making such variants more likely to be pathogenic. This metric helps to identify genes under strong selective pressure.
+- **Variant Classes Most Likely to Be Pathogenic:** Based on general principles, loss-of-function variants (e.g., nonsense, frameshift) in a constrained gene would be the most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As no human disease is directly linked to *CC2D1B*, a definitive list of HPO terms is not available. Based on mouse models, potential phenotypes could relate to cognitive deficits.
+- **Secondary HPO terms:** Not applicable due to the lack of a defined human phenotype.
+- **Age of Onset Patterns:** Based on mouse studies where loss of *Cc2d1b* did not result in neonatal lethality (unlike *Cc2d1a*), any potential human phenotype might manifest postnatally, possibly during childhood development.
+- **Phenotype Severity Spectrum:** In mice, the loss of *Cc2d1b* leads to less severe phenotypes than the loss of *Cc2d1a*, suggesting any potential human phenotype might be in the mild to moderate range.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** There are no established genotype-phenotype correlations for *CC2D1B* in humans.
+- **Protein Domain-Specific Phenotype Patterns:** The CC2D1B protein contains a C2 domain for membrane lipid binding and DM14 domains for interacting with the ESCRT-III complex. Pathogenic variants in these domains could theoretically disrupt these functions, but specific phenotype correlations are unknown.
+- **Genotype-Phenotype Correlation Strength:** Not applicable.
+- **Examples: specific variants → specific phenotypes:** No specific pathogenic variants in *CC2D1B* have been linked to a human phenotype.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic variants in *CC2D1B* with established clinical significance and associated phenotypes are reported in ClinVar.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *CC2D1B* is expressed in various tissues, including the nervous system and skin. Its expression in myelinating cells in both the central and peripheral nervous systems suggests a potential role in myelination. The Genotype-Tissue Expression (GTEx) project provides a resource to study how genetic variation affects gene expression across different tissues.
+- **Tissue-Specific Phenotypes Expected:** Given its expression in the brain and its role in myelin formation in mice, pathogenic variants could potentially lead to neurological phenotypes such as cognitive deficits or developmental delay related to myelination.
+- **Expression During Development and Age-Related Phenotypes:** Studies in mice show that the combined loss of *Cc2d1a* and *Cc2d1b* is embryonically lethal, indicating an essential role in development. *Cc2d1b* itself plays a role in developmental myelination in the central nervous system.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *CC2D1B* functions as a transcription factor that represses the transcription of the serotonin receptor gene 5-HT1A.
+- **Disease Mechanism:** Based on studies of its paralog *CC2D1A* and mouse models, a loss-of-function mechanism, likely through haploinsufficiency or a recessive model, is the most probable disease mechanism.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The protein is involved in endosomal trafficking through its interaction with the ESCRT-III complex. It also regulates the cAMP/PKA signaling pathway. Disruption of these pathways could lead to the observed cognitive phenotypes in mouse models.
+- **Protein-Protein Interactions Relevant to Phenotype:** CC2D1B interacts with the ESCRT-III component Shrub/CHMP4, which is crucial for endosomal trafficking.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *CC2D1B* is currently zero, as it is not yet established as a disease-causing gene in humans.
+- **Most Common Reasons for Testing This Gene:** Testing for *CC2D1B* would likely be considered in individuals with unexplained intellectual disability or developmental delay, particularly if variants in its paralog, *CC2D1A*, have been ruled out.
+- **Clinical Actionability and Management Implications:** There are currently no specific clinical actions or management guidelines associated with variants in *CC2D1B*.
+- **Genetic Counseling Considerations:** Genetic counseling would involve explaining the uncertain significance of *CC2D1B* variants and the lack of a defined human phenotype. The possibility of recessive or trans-heterozygous inheritance with *CC2D1A* could be discussed.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 29593722, 2018:** This study in mice demonstrated that loss of *Cc2d1b* leads to cognitive deficits in memory acquisition and retention, suggesting it is critical for cognitive development.
+- **PMID: 26720743, 2015:** This paper showed that while loss of *Cc2d1b* in mice has no obvious phenotype, the combined loss with *Cc2d1a* is lethal, indicating partially redundant functions in development and endosomal pathways.
+- **PMID: 34986618, 2022:** This research highlighted the role of *CC2D1B* in developmental myelination in the central nervous system of mice.
+- **PMID: 19423080, 2009:** This publication first identified CC2D1B (as Freud-2) as a repressor for the 5-HT1A receptor gene.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for *CC2D1B*.
+- **Phenotype red flags:** Based on mouse models, HPO terms related to **intellectual disability (HP:0001249)** and **impaired memory (HP:0002354)** could be considered red flags, warranting investigation of *CC2D1B* in cases where more common genetic causes have been excluded.
+- **Differential diagnosis considerations:** The potential phenotypes associated with *CC2D1B* would overlap significantly with those caused by pathogenic variants in its paralog, *CC2D1A* (OMIM #610055), which causes Intellectual Developmental Disorder, Autosomal Recessive 3 (OMIM #608443). This includes intellectual disability, autism spectrum disorder, and seizures.
+

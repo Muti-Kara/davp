@@ -1,0 +1,52 @@
+OR14C36 Gene Biomedical Dossier
+### **Gene Dossier: OR14C36**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 15026.
+*   **OMIM Gene ID:** No OMIM entry for this gene was found.
+*   **Primary Disease Associations:** There are no established primary disease associations for OR14C36 in OMIM or ClinVar. One source mentions an association with Treacher Collins Syndrome 1 and Central Neurocytoma, but this is not corroborated by primary genetic databases.
+*   **Clinical Significance Level:** No clinical significance has been established.
+*   **Inheritance Patterns:** No inheritance patterns have been described in patients, as no associated Mendelian disease has been identified.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v4.0.0 reports a pLI of 0.00, a LOEUF of 1.13, pRec of 0.35, and pNull of 0.65.
+*   **Clinical Interpretation of Constraint Scores:** The high LOEUF score (>0.6) and very low pLI score (<0.1) indicate that the gene is tolerant to loss-of-function variation. This suggests that loss-of-function variants are not under strong negative selection in the general population.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, it is unlikely that nonsense or frameshift variants would be pathogenic for a severe disease. There is currently no evidence to suggest which, if any, variant classes are associated with a clinical phenotype.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are currently associated with variants in the OR14C36 gene in the Human Phenotype Ontology database.
+*   **Secondary HPO terms:** No secondary HPO terms are associated with this gene.
+*   **Age of Onset Patterns:** Not applicable as no associated phenotype is known.
+*   **Phenotype Severity Spectrum:** Not applicable as no associated phenotype is known.
+
+**Genotype-Phenotype Correlations**
+*   No genotype-phenotype correlations have been established for OR14C36. Studies focus on its function as an olfactory receptor and its evolutionary context rather than clinical phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for OR14C36 are listed in ClinVar with an associated clinical phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** As an olfactory receptor, the highest expression is expected in the olfactory epithelium. One resource notes expression in the hypothalamus, tibial nerve, and prostate in mouse orthologs.
+*   **Tissue-Specific Phenotypes Expected:** Based on its function, variants could potentially lead to variations in the sense of smell (e.g., specific anosmia or hyposmia), but this has not been clinically documented for this specific receptor.
+*   **Expression During Development and Age-Related Phenotypes:** No specific information on the developmental expression or age-related phenotypes for OR14C36 was found.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** OR14C36 is an odorant receptor that interacts with molecules in the nose to initiate a neuronal response, leading to the perception of a smell.
+*   **Disease Mechanism:** No disease mechanism has been described. Given its tolerance to inactivation, haploinsufficiency is an unlikely mechanism for any potential phenotype.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is involved in the G protein-coupled receptor (GPCR) signaling pathway and the olfactory transduction pathway. Disruption might alter the perception of specific odors.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Interacts with other proteins involved in the olfactory signal transduction cascade, such as GNAL (G protein subunit alpha L) and RTP (receptor-transporting proteins).
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for this gene is effectively zero, as it is not associated with a known clinical phenotype and is not typically included in clinical testing panels for specific disorders.
+*   **Most Common Reasons for Testing This Gene:** This gene is generally not tested for clinical diagnostic purposes.
+*   **Clinical Actionability and Management Implications:** There is no known clinical actionability associated with variants in this gene.
+*   **Genetic Counseling Considerations:** Genetic counseling would focus on the lack of evidence for a role in human disease and the gene's function as an olfactory receptor.
+
+**Key Clinical Literature & Studies**
+*   No key clinical literature or studies directly linking OR14C36 to a Mendelian phenotype were identified. Research has focused on its role within the large olfactory receptor gene family, its evolutionary history, and its function in olfaction.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are no known high-confidence HPO-variant associations for OR14C36.
+*   **Phenotype Red Flags:** There are no known "red flag" HPO terms that would suggest pathogenic variants in this gene.
+*   **Differential Diagnosis Considerations:** Not applicable, as there is no defined primary phenotype.
+
