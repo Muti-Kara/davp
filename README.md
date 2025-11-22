@@ -81,8 +81,6 @@ On success you get:
 
 Intermediate logs for each step are also written into `data/step*/HG00126.json`.
 
-You can re‑run the pipeline for the same sample; each step checks whether it can **reuse cached outputs** to avoid re‑calling the LLM.
-
 ---
 
 ## 4. Analysis utilities
