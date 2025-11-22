@@ -1,0 +1,95 @@
+SPTBN4 Gene Biomedical Dossier
+### **Gene Dossier: SPTBN4**
+
+This dossier provides a comprehensive clinical genetics summary for the SPTBN4 gene, focusing on genotype-phenotype correlations to aid in the assessment of genetic variants.
+
+***
+
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 14896.
+*   **OMIM Gene ID:** 606214.
+*   **Primary Disease Association:** Biallelic pathogenic variants in SPTBN4 are associated with Neurodevelopmental disorder with hypotonia, neuropathy, and deafness (NEDHND), also referred to as SPTBN4-related disorder (OMIM #617519).
+*   **Clinical Significance Level:** The association between SPTBN4 and NEDHND is considered definitive, based on multiple reports of pathogenic variants in affected individuals.
+*   **Inheritance Patterns:** The condition is inherited in an autosomal recessive manner, requiring homozygous or compound heterozygous pathogenic variants. Parents are typically heterozygous carriers.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The probability of being loss-of-function intolerant (pLI) score helps to quantify a gene's intolerance to protein-truncating variants, with a score ≥ 0.9 indicating high intolerance. The loss-of-function observed/expected upper bound fraction (LOEUF) is a continuous metric where lower values indicate greater intolerance to loss-of-function variation. Specific gnomAD constraint values for SPTBN4 were not available in the searched literature.
+*   **Clinical Interpretation of Constraint Scores:** Genes with high pLI scores and low LOEUF scores are under strong negative selection against loss-of-function variants. For recessive diseases like NEDHND, constraint scores in heterozygotes (as represented in gnomAD) may not fully reflect the gene's essentiality when function is completely lost.
+*   **Variant Classes Most Likely to be Pathogenic:** Loss-of-function variants, including nonsense, frameshift, and splice-site variants, are the most common pathogenic variant types. Multi-exon deletions and missense variants have also been reported as pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:**
+    *   Congenital muscular hypotonia (HP:0008944).
+    *   Global developmental delay (HP:0001263).
+    *   Areflexia (HP:0001284).
+    *   Motor developmental delay (HP:0001270).
+    *   Absent speech (HP:0001344).
+    *   Intellectual disability, severe to profound (HP:0010864, HP:0002187).
+    *   Peripheral axonal neuropathy (HP:0003477).
+    *   Hearing impairment / Auditory neuropathy (HP:0000365, HP:0030043).
+    *   Feeding difficulties / Dysphagia (HP:0011968, HP:0002015).
+    *   Muscular atrophy (HP:0003202).
+    *   Respiratory insufficiency (HP:0002093).
+    *   Seizures (HP:0001250).
+*   **Secondary HPO Terms:**
+    *   Horizontal nystagmus (HP:0000666).
+    *   Choreoathetosis (HP:0001266).
+    *   Cortical visual impairment (HP:0100704).
+    *   Joint contractures (HP:0001371).
+    *   Thin corpus callosum (HP:0002079).
+    *   Facial weakness / Myopathic facies (HP:0000324, HP:0002058).
+    *   Esotropia (HP:0000565).
+    *   Microphthalmia (HP:0000568).
+    *   High-arched palate (HP:0000218).
+    *   Broad nasal bridge (HP:0000431).
+*   **Age of Onset Patterns:** Onset is typically congenital, with hypotonia and feeding difficulties often present at birth.
+*   **Phenotype Severity Spectrum:** The phenotype is typically severe, with most individuals having profound developmental delay and lack of independent motor skills. However, a milder phenotype with preserved cognitive development has been reported in one family, indicating some variability.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Biallelic loss-of-function variants consistently lead to the core features of NEDHND.
+*   **Protein Domain-Specific Phenotype Patterns:** No clear correlations between the location of the variant within the protein and specific phenotypic outcomes have been consistently established.
+*   **Genotype-Phenotype Correlation Strength:** Currently considered weak or not well-established. One report described siblings with a homozygous splice-site variant who presented with axonal neuropathy but without intellectual disability, suggesting that some variants may lead to a less severe neurocognitive phenotype.
+*   **Examples:** A homozygous splice-site variant was associated with axonal neuropathy in the absence of intellectual disability in two siblings.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1090C>T (p.Gln364*):** Homozygous nonsense; Likely Pathogenic; Core NEDHND phenotype without hearing loss or epilepsy, but with dysmorphic features.
+*   **c.1799_1800delGC (p.Ala600Profs*90):** Homozygous frameshift; Pathogenic; Severe muscular hypotonia, dysphagia, absent speech, global developmental delay, and intellectual disability.
+*   **c.3375_3393del (p.Asp1126Thrfs*39):** Homozygous frameshift; Pathogenic; Core NEDHND features including severe muscular hypotonia, dysphagia, and absent speech.
+*   **c.1247del (p.Leu417Tyrfs*5):** Homozygous frameshift; Pathogenic; Core NEDHND features.
+*   **c.737G>C (p.Trp246Ser):** Compound heterozygous with a multi-exon deletion; Pathogenic; Core NEDHND features.
+*   **c.1149dup (p.Asn384Glnfs*17):** Compound heterozygous; Pathogenic; Core NEDHND features.
+*   **Multi-exon deletion (exons 6-11):** Compound heterozygous with a missense variant; Pathogenic; Core NEDHND features.
+*   **c.1597C>T (p.Arg533*):** Homozygous nonsense; Pathogenic; First described case with congenital myopathy, deafness, and neuropathy.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues and Clinical Correlation:** SPTBN4 shows high expression in various brain regions, including the cerebellum, cortex, and thalamus, as well as in the retina and spinal cord. This expression pattern is highly consistent with the observed neurological phenotypes, including developmental delay, neuropathy, and visual impairment.
+*   **Tissue-Specific Phenotypes Expected:** The prominent expression in the central and peripheral nervous system directly relates to the core phenotypes of neuropathy, intellectual disability, and hearing loss. The role in muscle is debated, with some evidence suggesting myopathy is a primary feature while other studies indicate it is secondary to denervation.
+*   **Expression During Development:** The gene's function is critical during neurodevelopment, as evidenced by the congenital onset of symptoms.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SPTBN4 encodes βIV-spectrin, a cytoskeletal protein that links the plasma membrane to the actin cytoskeleton and is crucial for organizing membrane domains in neurons.
+*   **Disease Mechanism:** The disease mechanism is loss-of-function. Biallelic pathogenic variants disrupt the βIV-spectrin cytoskeleton, which is essential for the proper clustering and localization of voltage-gated sodium and potassium ion channels at the axon initial segments and nodes of Ranvier.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of ion channel clustering impairs the initiation and propagation of action potentials, leading to axonal neuropathy. The disruption of cytoskeletal integrity likely contributes to the broader neurodevelopmental defects, hypotonia, and auditory dysfunction.
+*   **Protein-Protein Interactions Relevant to Phenotype:** βIV-spectrin interacts with ankyrin-G to anchor ion channels in the neuronal membrane; disruption of this interaction is a key pathological event.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The exact diagnostic yield is unknown, but SPTBN4 variants are a rare cause of congenital hypotonia and neurodevelopmental disorders. Because the phenotype overlaps with many other neuromuscular disorders, a broad genetic testing approach, such as a multi-gene panel or exome sequencing, is recommended over single-gene testing.
+*   **Most Common Reasons for Testing This Gene:** Testing for SPTBN4 is indicated in individuals presenting with congenital hypotonia, areflexia, global developmental delay, and sensorineural hearing loss, particularly after more common causes like spinal muscular atrophy have been excluded.
+*   **Clinical Actionability and Management Implications:** Management is supportive and symptomatic. This includes physical and occupational therapy, nutritional support via feeding tubes, respiratory support (e.g., BiPAP), standard anti-seizure medications, and hearing aids or other support for auditory neuropathy.
+*   **Genetic Counseling Considerations:** Genetic counseling is critical for affected families. As an autosomal recessive disorder, siblings of an affected individual have a 25% chance of being affected. Carrier testing for at-risk relatives and options for prenatal or preimplantation genetic testing should be discussed.
+
+### **Key Clinical Literature & Studies**
+*   **Knierim et al., 2017 (PMID: 28540413):** First report describing a homozygous nonsense mutation in SPTBN4 causing a syndrome of congenital myopathy, deafness, and neuropathy.
+*   **Wang et al., 2018 (PMID: 29861105):** Described additional patients and demonstrated that loss-of-function variants disrupt sodium channel clustering, establishing neuropathy as a key feature.
+*   **GeneReviews, 2020:** Provided a comprehensive clinical overview of SPTBN4 disorder, summarizing the phenotype, diagnosis, management, and genetic counseling considerations.
+*   **Buelow et al., 2021 (PMID: 33772159):** Expanded the genetic and phenotypic spectrum with five new patients from four families, reporting novel variants and highlighting clinical similarities to non-5q SMA and congenital myopathies.
+*   **Gunay et al., 2023 (DOI: 10.54029/2023unk):** Reported a new homozygous nonsense variant and expanded the phenotype to include previously unreported dysmorphic features, reinforcing the core clinical features.
+*   **Al-Sagr et al., 2024 (Rare):** Described a novel homozygous frameshift variant in three siblings, helping to establish the core symptoms associated with SPTBN4 mutations.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Biallelic loss-of-function variants (nonsense, frameshift, splice-site, and large deletions) are strongly associated with the NEDHND phenotype, characterized by congenital muscular hypotonia (HP:0008944), global developmental delay (HP:0001263), areflexia (HP:0001284), and auditory neuropathy (HP:0030043).
+*   **Phenotype Red Flags:** The combination of severe, congenital hypotonia ("floppy baby"), areflexia/neuropathy, and hearing impairment is highly suggestive of an SPTBN4-related disorder. Testing should be considered in patients with a non-5q spinal muscular atrophy-like phenotype.
+*   **Differential Diagnosis Considerations:** The clinical presentation overlaps with other congenital myopathies, congenital muscular dystrophies, and other genetic causes of severe neonatal hypotonia and neuropathy. Spinal muscular atrophy (SMA) is a key differential diagnosis to exclude.
+
+***
+

@@ -1,0 +1,92 @@
+=== chr19:19227433T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs145802020
+• Chromosome: 19
+• Position: 19227433
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: NCAN
+• Databases: rs145802020
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0002265
+• gnomADg Allele Frequency: 0.000283
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004611: low density lipoprotein cholesterol measurement - The measurement of LDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0004458: C-reactive protein measurement - C-reactive protein (CRP) measurement is a measurement of the level of C-reactive protein in the blood.  Levels are known to rise in response to inflammation, CRP is therefore used as a clinical measure of inflammation. The measurement is used in the process of clinical diagnosis as high levels of CRP are associated with cardiovascular disease, diabetes and hypertension and in some cancers.|is about MeSH:D002097
+GWAS_EFO_0004574: total cholesterol measurement - A total cholesterol measurement is the quantification of cholesterol in blood, total cholesterol is defined as the sum of HDL, LDL, and VLDL.
+GWAS_EFO_0004530: triglyceride measurement - A triglyceride  measurement is a quantification of triglycerides in some body fluid, used as a biomarker for cardiovascular disease.
+GWAS_EFO_0009964: bipolar II disorder - A bipolar disorder that is characterized by at least one hypomanic episode and at least one major depressive episode; with this disorder, depressive episodes are more frequent and more intense than manic episodes.
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0009963: bipolar I disorder - A bipolar disorder that is characterized by at least one manic or mixed episode.
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0004615: apolipoprotein B measurement - The measurement of ApoB in blood. Apolipoprotein B is a major protein constituent of chylomicrons (apo B-48), LDL (apo B-100) and VLDL (apo B-100). Apo B-100 functions as a recognition signal for the cellular binding and internalization of LDL particles by the apoB/E receptor, and is upregulated in response to enterovirus 71.
+GWAS_EFO_0600007: fish oil supplement exposure measurement - Quantification of some aspect of an individual's exposure to fish oil supplementation.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0005664: blood metabolite measurement - quantification of some metabolite in blood
+GWAS_EFO_0007978: red blood cell density measurement - quantification of the density of a red blood cell (DRBC). DRBC is affected by the hydration level of the cell, with dehydrated cells being dense and deformed. Increased DRBC may be an indicator of disease severity in sickle cell anemia
+GWAS_EFO_0004732: lipoprotein measurement - Is the quantification of some lipoprotein
+GWAS_EFO_0008317: very low density lipoprotein cholesterol measurement - quantification of the amount of very low density lipoprotein cholesterol in a sample
+GWAS_EFO_0004631: vitamin D measurement - A quantification of Vitamin D levels, typically in blood. Vitamin D includes both CHOLECALCIFEROLS and ERGOCALCIFEROLS, which have the common effect of preventing or curing RICKETS in animals. It can also be viewed as a hormone since it can be formed in SKIN by action of ULTRAVIOLET RAYS upon the precursors, 7-dehydrocholesterol and ERGOSTEROL, and acts on VITAMIN D RECEPTORS to regulate CALCIUM in opposition to PARATHYROID HORMONE (MeSH).25-hydroxyvitamin D or calcifediol, a prehormone precursor of vitamin D, is widely used as a proxy to quanitfy vitamin D levels in blood.|is about MeSH:D014807
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16141184) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004458, GWAS_EFO_0004574, GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574, GWAS_EFO_0009964, GWAS_EFO_0000289, GWAS_EFO_0009963, GWAS_EFO_0003761, GWAS_EFO_0000289, GWAS_EFO_0004611, GWAS_EFO_0004615, GWAS_EFO_0000289
+Entity: Transcript (ID: 16232708) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004458, GWAS_EFO_0004574, GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574, GWAS_EFO_0009964, GWAS_EFO_0000289, GWAS_EFO_0009963, GWAS_EFO_0003761, GWAS_EFO_0000289, GWAS_EFO_0004611, GWAS_EFO_0004615, GWAS_EFO_0000289
+Entity: Histone Modification Site (ID: 76018963) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574
+Entity: ChromHMM State (ID: 19994588) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574, GWAS_EFO_0009964, GWAS_EFO_0000289, GWAS_EFO_0009963, GWAS_EFO_0003761, GWAS_EFO_0000289
+Entity: ChromHMM State (ID: 20566633) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574, GWAS_EFO_0009964, GWAS_EFO_0000289, GWAS_EFO_0009963, GWAS_EFO_0003761, GWAS_EFO_0000289, GWAS_EFO_0004611, GWAS_EFO_0004615, GWAS_EFO_0000289, GWAS_EFO_0600007, GWAS_EFO_0004530, GWAS_EFO_0004305, GWAS_EFO_0005664, GWAS_EFO_0007978, GWAS_EFO_0004732, GWAS_EFO_0004611, GWAS_EFO_0008317, GWAS_EFO_0004530, GWAS_EFO_0004574, GWAS_EFO_0004631
+Entity: ChromHMM State (ID: 21172463) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574, GWAS_EFO_0009964, GWAS_EFO_0000289, GWAS_EFO_0009963, GWAS_EFO_0003761, GWAS_EFO_0000289, GWAS_EFO_0004611, GWAS_EFO_0004615
+Entity: ChromHMM State (ID: 22419986) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574
+Entity: ChromHMM State (ID: 22979640) -> Associated GWAS: GWAS_EFO_0009964, GWAS_EFO_0000289, GWAS_EFO_0009963, GWAS_EFO_0003761, GWAS_EFO_0000289
+Entity: chr_chain (ID: 602454) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0004530, GWAS_EFO_0004574
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2799
+• Pathogenic/Likely Pathogenic: 8
+• Benign/Likely Benign: 320
+• Uncertain Significance: 2468
+• Other Classifications: 3
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=30)
+• not provided|Inborn genetic diseases (n=18)
+• Breast ductal adenocarcinoma (n=9)
+• Developmental dyslexia (n=7)
+• Inborn genetic diseases|not provided (n=4)
+• SLC25A42-related mitochondrial encephalomyopathy (n=2)
+• Metabolic crises, recurrent, with variable encephalomyopathic features and neurologic regression (n=2)
+• Inborn mitochondrial myopathy (n=2)
+• Inborn mitochondrial myopathy|Metabolic crises, recurrent, with variable encephalomyopathic features and neurologic regression|SLC25A42-related mitochondrial disorder (n=2)
+• Neoplasm (n=1)
+
+

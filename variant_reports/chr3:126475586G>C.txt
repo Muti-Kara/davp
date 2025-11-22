@@ -1,0 +1,57 @@
+=== chr3:126475586G>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs745817303
+• Chromosome: 3
+• Position: 126475586
+• Reference Allele (REF): G
+• Alternative Allele (ALT): C
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: ZXDC
+• Databases: rs745817303
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0001113
+• gnomADg Allele Frequency: 4.024e-05
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0008433: pursuit maintenance gain measurement - Quantification of the accuracy of matching eye velocity to target velocity during sustained pursuit, typically measured using a video-based eye tracker. Abnormalities of this system have been observed in psychiatric disoreders such as aschizophrenia.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16178189) -> Associated GWAS: GWAS_EFO_0008433
+Entity: Transcript (ID: 16375480) -> Associated GWAS: GWAS_EFO_0008433
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 13379
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 396
+• Uncertain Significance: 12983
+• Other Classifications: 0
+

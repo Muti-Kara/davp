@@ -1,0 +1,66 @@
+EPB41L2 Gene Biomedical Dossier
+## **Gene Dossier: EPB41L2**
+
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:3379.
+*   **OMIM Gene ID:** 603237.
+*   **Primary Disease Associations:** Currently, there is no definitive Mendelian disease associated with germline pathogenic variants in *EPB41L2*. Somatic fusions involving *EPB41L2* (e.g., *BRAF::EPB41L2*) have been identified in infantile fibrosarcoma and pilocytic astrocytoma. Associations with petrous apex meningioma and cellular congenital mesoblastic nephroma have also been reported.
+*   **Clinical Significance Level:** The evidence for association with a germline Mendelian phenotype is preliminary or absent. Associations with cancer are somatic.
+*   **Inheritance Patterns Observed in Patients:** No clear Mendelian inheritance pattern has been established for germline variants.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull (gnomAD v2.1.1):**
+    *   pLI (probability of being loss-of-function intolerant) = 0.00.
+    *   LOEUF (loss-of-function observed/expected upper bound fraction) = 1.13.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores indicate that *EPB41L2* is tolerant to loss-of-function variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be missense variants with a dominant-negative or gain-of-function effect, rather than protein-truncating variants. However, no such variants have been definitively established.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No established HPO terms are linked to a germline *EPB41L2* phenotype.
+*   **Secondary HPO terms:** No established HPO terms are linked to a germline *EPB41L2* phenotype.
+*   **Age of Onset Patterns:** Not applicable due to the lack of an associated Mendelian disease.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No consistent genotype-phenotype correlations for germline variants have been established.
+*   **Protein Domain-Specific Phenotype Patterns:** Information is not available as no clear phenotype is linked to germline variants.
+*   **Genotype-Phenotype Correlation Strength:** Weak to non-existent for germline variants.
+*   **Examples: Specific Variants → Specific Phenotypes:** No well-established examples exist for germline variants. Somatic fusions of *BRAF::EPB41L2* are associated with specific tumor types like pilocytic astrocytoma.
+
+### **Clinical Variants & Phenotype Associations**
+*   The ClinVar database lists numerous variants in *EPB41L2*, the vast majority of which are classified as "Uncertain significance".
+*   There are no variants definitively classified as "Pathogenic" or "Likely pathogenic" for a germline disorder.
+*   An example of a recurrent entry is **rs201780372 (NM_001431.4:c.800G>A, p.Arg267Gln)**, which has been reported multiple times with conflicting interpretations of "Uncertain significance" and "Likely benign".
+*   A de novo missense variant in *EPB41L2* was identified in a fetus with multiple structural abnormalities, but causality was not established.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** According to GTEx data, *EPB41L2* shows broad expression, with the highest levels in the pituitary, testis, thyroid, and various brain regions including the cerebellum and cortex.
+*   **Tissue-Specific Phenotypes Expected:** The broad expression pattern does not strongly predict a specific tissue-related phenotype. Its role in the cytoskeleton of diverse cell types suggests that pathogenic variants, if they exist, could potentially have pleiotropic effects.
+*   **Expression During Development and Age-Related Phenotypes:** Mouse models suggest a role in bone formation and ciliogenesis, but this has not been translated to a human phenotype.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *EPB41L2* encodes protein 4.1G, a cytoskeletal scaffolding protein that links transmembrane proteins to the underlying actin-spectrin network.
+*   **Disease Mechanism:** The primary disease association is through somatic gene fusions, leading to chimeric proteins that drive oncogenesis (e.g., *BRAF::EPB41L2*). For germline variants, haploinsufficiency is unlikely given the gnomAD constraint metrics.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is involved in protein-protein interactions at synapses, tight junction assembly, and regulation of signal transduction. Disruption of its scaffolding function could theoretically impact cell adhesion, migration, and signaling, which is consistent with its implication in cancer.
+*   **Protein-Protein Interactions Relevant to Phenotype:** 4.1G protein interacts with G protein-coupled receptors and integrins, modulating signaling pathways. It also plays a role in recruiting the dynein-dynactin complex during mitosis.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *EPB41L2* in cohorts with suspected Mendelian disorders is expected to be very low to zero.
+*   **Most Common Reasons for Testing This Gene:** Testing is typically not performed for suspected germline disease. It may be included in large next-generation sequencing panels or analyzed as part of tumor profiling to identify somatic fusions.
+*   **Clinical Actionability and Management Implications:** Identification of somatic *EPB41L2* fusions in tumors may have therapeutic implications, for instance, guiding the use of targeted therapies against the fusion partner (e.g., BRAF inhibitors).
+*   **Genetic Counseling Considerations:** Given the lack of evidence for a germline disease, counseling should focus on the tolerance of the gene to variation and the distinction between somatic and germline findings. The recurrence risk for family members for a de novo finding is low.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38154234 (2023):** Investigated *EPB41L2* expression in bladder cancer, finding it was a poor prognostic factor when highly expressed in cancer-associated fibroblasts and could predict immunotherapy response.
+*   **PMID: 35984682 (2022):** Reported a novel *BRAF::EPB41L2* gene fusion in a pediatric pilocytic astrocytoma, highlighting the role of somatic fusions in cancer.
+*   **PMID: 32461652 (2020):** Described the genomic landscape of infantile fibrosarcoma, identifying *EPB41L2* as a fusion partner with *BRAF*.
+*   **PMID: 25700163 (2015):** Exome sequencing study of fetal abnormalities identified a *de novo* variant in *EPB41L2* in one case, though its significance remains unclear.
+*   **PMID: 23870127 (2013):** A key functional study demonstrating the requirement of EPB41L2 for recruiting the dynein-dynactin complex during cell division.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no known high-confidence associations between germline *EPB41L2* variants and specific HPO terms.
+*   **Phenotype red flags:** There are no specific HPO terms that strongly suggest a pathogenic variant in *EPB41L2*.
+*   **Differential diagnosis considerations:** Due to the lack of a defined phenotype, differential diagnosis is not applicable. The related paralog, *EPB41*, is associated with Hereditary Elliptocytosis (OMIM: 130500), which involves abnormalities of red blood cell shape.
+
+***
+

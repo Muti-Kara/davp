@@ -1,0 +1,126 @@
+COG6 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**:
+    *   HGNC: 18621
+    *   OMIM Gene ID: 606977
+    *   Primary disease associations include Congenital Disorder of Glycosylation, Type IIL (CDG2L), also known as COG6-CDG (OMIM: 614576), and Shaheen Syndrome (OMIM: 615328).
+*   **Clinical significance level**:
+    *   The association between COG6 and COG6-congenital disorder of glycosylation is classified as "Strong".
+*   **Inheritance patterns observed in patients**:
+    *   The mode of inheritance for COG6-related disorders is autosomal recessive.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**:
+    *   pLI (v2.1.1): 0.00
+    *   LOEUF (v4.0): 1.15
+    *   pRec: 0.00
+    *   pNull: 1.00
+*   **Clinical interpretation of constraint scores**:
+    *   The pLI score near 0 and pNull score of 1.00 suggest that the gene is tolerant to loss-of-function (LoF) variants in the heterozygous state. This aligns with the observed autosomal recessive inheritance pattern. The LOEUF score greater than 0.6 further indicates the gene is not highly intolerant to LoF variation.
+*   **Variant classes most likely to be pathogenic**:
+    *   Pathogenic variants include nonsense, missense, splicing, and frameshift mutations. Loss-of-function variants are associated with the more severe, early lethal CDG phenotypes, while deep intronic mutations are linked to the milder Shaheen syndrome.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**:
+    *   Global developmental delay
+    *   Microcephaly
+    *   Muscular hypotonia
+    *   Failure to thrive
+    *   Recurrent infections
+    *   Hepatosplenomegaly
+    *   Elevated serum transaminases
+    *   Hypohidrosis
+    *   Hyperkeratosis
+    *   Seizures
+    *   Thrombocytopenia
+    *   Coagulopathy
+    *   Gastrointestinal disease/Enteropathy
+    *   Cerebral atrophy
+    *   Cerebellar atrophy
+    *   Arthrogryposis multiplex congenita
+*   **Secondary HPO terms**:
+    *   Disorders of sex development / Ambiguous genitalia
+    *   Bowel malrotation
+    *   Congenital heart defects
+    *   Facial dysmorphism
+    *   Tooth anomalies
+    *   Episodic fever
+    *   Enamel hypoplasia
+    *   Palmoplantar keratoderma
+    *   Pancytopenia
+    *   Broad palpebral fissures
+    *   Retrognathia
+    *   Hypoplastic corpus callosum
+*   **Age of onset patterns**:
+    *   The age of onset is typically in the neonatal period or infancy.
+*   **Phenotype severity spectrum**:
+    *   The clinical spectrum is broad, ranging from a milder phenotype in Shaheen syndrome to severe, multisystem disease with early lethality in COG6-CDG. A significant proportion of patients with severe COG6-CDG die within the first two years of life due to infections, hyperthermia, or liver disease.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**:
+    *   A genotype-phenotype correlation exists, with deep intronic splice site mutations (e.g., c.1167-24A>G) resulting in the milder Shaheen syndrome phenotype.
+    *   Loss-of-function variants, such as nonsense and frameshift mutations, are associated with the most severe and often early lethal COG6-CDG phenotypes.
+*   **Protein domain-specific phenotype patterns**:
+    *   COG6 is part of the Lobe B sub-complex (COG5-8) of the COG complex. While mutations in Lobe B subunits COG6 and COG7 can lead to overlapping clinical features, there is less overlap with COG5, suggesting subtle functional differences between subunits.
+*   **Genotype-phenotype correlation strength**:
+    *   The correlation is considered moderate to strong, particularly distinguishing between the severe loss-of-function alleles causing classic COG6-CDG and the specific intronic variant causing the milder Shaheen syndrome.
+*   **Examples: specific variants → specific phenotypes**:
+    *   The deep intronic splice site mutation c.1167-24A>G is specifically correlated with Shaheen syndrome, characterized by intellectual disability, hypohidrosis, and enamel hypoplasia.
+    *   The homozygous nonsense mutation c.511C>T (p.Arg171*) has been reported in patients with a severe COG6-CDG phenotype, including prominent ectodermal manifestations at birth.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Up to 15 well-characterized pathogenic variants**:
+    *   c.511C>T / p.(Arg171*) / Pathogenic / COG6-CDG with prominent ectodermal manifestations, hypohidrosis, hyperthermia.
+    *   c.1167-24A>G / N/A (splicing) / Pathogenic / Shaheen syndrome.
+    *   c.518_540+3del / p.(?) (frameshift/splicing) / Pathogenic / COG6-CDG with bowel malrotation and ambiguous genitalia.
+    *   c.238G>A / p.(Glu80Lys) / Likely Pathogenic / COG6-CDG (compound heterozygous).
+    *   c.785A>G / p.(Tyr262Cys) / Likely Pathogenic / COG6-CDG (compound heterozygous).
+    *   A paternal nonsense variant and a maternal deep intronic variant were identified in a patient with a milder COG6-CDG phenotype.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation**:
+    *   GTEx data shows broad expression of COG6, with the highest levels in tissues such as the testis, cerebellum, and pituitary gland.
+*   **Tissue-specific phenotypes expected**:
+    *   The widespread expression is consistent with the multisystemic nature of COG6-related disorders. High expression in the brain aligns with the common findings of microcephaly, developmental delay, and structural brain anomalies. Expression in the skin is relevant to the ectodermal phenotypes like hypohidrosis and hyperkeratosis.
+*   **Expression during development and age-related phenotypes**:
+    *   Given the neonatal onset and severe developmental defects, COG6 is critical during embryonic and fetal development. The central role of glycosylation in development underpins the early and severe presentation.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function in one sentence**:
+    *   COG6 is a subunit of the conserved oligomeric Golgi (COG) complex, which is essential for retrograde intra-Golgi vesicle trafficking and the correct localization of glycosylation enzymes.
+*   **Disease mechanism: haploinsufficiency, dominant-negative, gain-of-function**:
+    *   The disease mechanism is loss-of-function, consistent with the autosomal recessive inheritance pattern where biallelic pathogenic variants are required to cause disease.
+*   **Cellular/molecular pathways disrupted → phenotype consequences**:
+    *   Mutations in *COG6* disrupt the structure and function of the COG complex, leading to mislocalization of glycosylation enzymes within the Golgi apparatus. This impairs both N- and O-linked protein glycosylation, causing a congenital disorder of glycosylation (CDG). The resulting hypoglycosylation of numerous proteins leads to the multisystemic clinical features observed in patients, including neurological, hepatic, immune, and ectodermal defects.
+*   **Protein-protein interactions relevant to phenotype**:
+    *   COG6 is part of the Lobe B sub-complex, interacting with COG5, COG7, and COG8. Disruption of COG6 can affect the stability of the entire COG complex, leading to widespread defects in Golgi trafficking.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**:
+    *   Whole exome sequencing is a key tool for diagnosing COG6-CDG, especially in patients presenting with a multisystem disorder characteristic of CDGs. To date, over 40 patients have been reported in the literature, indicating it is a rare but recurrent cause of CDG.
+*   **Most common reasons for testing this gene**:
+    *   Testing for *COG6* is indicated in individuals with a clinical presentation of a congenital disorder of glycosylation, particularly with features like microcephaly, global developmental delay, liver disease, and prominent ectodermal signs such as hypohidrosis or hyperkeratosis.
+*   **Clinical actionability and management implications**:
+    *   There is currently no cure for COG6-CDG. Management is supportive and focuses on treating symptoms such as seizures, infections, and liver dysfunction. Genetic diagnosis is crucial for providing accurate prognostic information and facilitating genetic counseling.
+*   **Genetic counseling considerations**:
+    *   COG6-related disorders are inherited in an autosomal recessive manner. Parents of an affected child are obligate carriers. The risk for siblings of an affected individual to inherit the disorder is 25%. Carrier testing for at-risk relatives and options for prenatal or preimplantation genetic diagnosis should be discussed.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35284798, 2022**: This study describes a patient with two novel COG6 variants (one nonsense, one deep intronic), presenting with a milder phenotype, highlighting the expanding genetic and clinical spectrum. The work emphasizes the utility of whole-genome sequencing combined with RNA studies for diagnosis.
+*   **PMID: 32748530, 2020**: Reported on two siblings with a novel homozygous deletion in COG6, expanding the phenotype to include bowel malrotation and ambiguous genitalia. This study highlighted the role of glycosylation in disorders of sex development.
+*   **PMID: 32470162, 2020**: Described a neonatal case with a known pathogenic variant (p.Arg171*) presenting with a very prominent skin phenotype, underlining that COG6-CDG should be considered in the differential diagnosis of congenital syndromic genodermatoses.
+*   **PMID: 30158428, 2019**: This publication provided a systematic data assessment of all reported COG-CDG patients, using HPO terms to delineate phenotypic specificity and suggesting that episodic fever may be linked to disrupted autophagy, another cellular function of the COG complex.
+*   **PMID: 26260076, 2015**: Presented seven additional patients and delineated the core clinical features of COG6-CDG, including liver involvement, microcephaly, developmental disability, recurrent infections, early lethality, and ectodermal signs like hypohidrosis and hyperkeratosis. Established a clear genotype-phenotype correlation between loss-of-function mutations and severe disease versus intronic mutations and milder phenotypes.
+*   **PMID: 24667119, 2014**: Expanded the clinical phenotype of COG6 deficiency.
+*   **PMID: 23430903, 2013**: Described variable phenotypic expression of COG6 mutations, contributing to the early understanding of the disease spectrum.
+*   **PMID: 20439009, 2010**: The first report of COG6-CDG, establishing the genetic basis of the disease.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**:
+    *   Biallelic loss-of-function variants (nonsense, frameshift) are strongly associated with a severe, neonatal-onset phenotype characterized by microcephaly (HP:0000252), global developmental delay (HP:0001263), liver dysfunction (HP:0001407, HP:0002716), and early lethality.
+    *   The deep intronic variant c.1167-24A>G is specifically associated with Shaheen syndrome, a milder phenotype that includes intellectual disability (HP:0001249), hypohidrosis (HP:0000966), and enamel hypoplasia (HP:0006297).
+*   **Phenotype red flags**:
+    *   The combination of a congenital disorder of glycosylation presentation with prominent ectodermal findings, such as hypohidrosis (leading to hyperthermia) and hyperkeratosis, is a strong indicator for considering COG6-related disorders.
+*   **Differential diagnosis considerations**:
+    *   The phenotype of COG6-CDG overlaps significantly with other COG complex deficiencies (e.g., COG1, COG2, COG4, COG5, COG7, COG8). However, ectodermal changes appear to be a hallmark of COG6 deficiency. The differential also includes other causes of congenital disorders of glycosylation and syndromes with multisystem involvement and developmental delay.
+

@@ -1,0 +1,91 @@
+=== chr6:152990064C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201452521
+• Chromosome: 6
+• Position: 152990064
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: MTRF1L
+• Databases: rs201452521
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 2.3950000000000003e-05
+• gnomADg Allele Frequency: 1.3140000000000001e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0006934: amygdala volume - quantification of the volume of the amygdala, an almond-shaped group of nuclei located deep and medially within each temporal lobe of the brain
+GWAS_EFO_0004833: neutrophil count - Is a quantification of neutrophils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0008328: chronotype measurement - quantification of some aspect of chronotype such as ease of getting up in the morning
+GWAS_EFO_0004354: circadian rhythm - The regular recurrence, in cycles of about 24 hours, of biological processes or activities, such as sensitivity to drugs and stimuli, hormone secretion, sleeping, and feeding.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16155140) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Gene (ID: 16158082) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Transcript (ID: 16283410) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Transcript (ID: 16294306) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Transcript (ID: 16294319) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Transcript (ID: 16294330) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Transcript (ID: 16294333) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Transcript (ID: 16294339) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Transcript (ID: 16294340) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Transcript (ID: 16294341) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Non Coding RNA (ID: 17342475) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Non Coding RNA (ID: 17342465) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 88830231) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 88394430) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 85057607) -> Associated GWAS: GWAS_EFO_0006934, GWAS_EFO_0004833, GWAS_EFO_0008328, GWAS_EFO_0004354
+Entity: Histone Modification Site (ID: 84742074) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 82073545) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 73642302) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 49565944) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 50783210) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 51657236) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 59666098) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 62148530) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 66690014) -> Associated GWAS: GWAS_EFO_0006934
+Entity: Histone Modification Site (ID: 67655761) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 19131786) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 19720759) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 20280657) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 20873341) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 21481620) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 22110044) -> Associated GWAS: GWAS_EFO_0006934
+Entity: ChromHMM State (ID: 22703345) -> Associated GWAS: GWAS_EFO_0006934
+Entity: chr_chain (ID: 310558) -> Associated GWAS: GWAS_EFO_0006934
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1171
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 0
+• Uncertain Significance: 1171
+• Other Classifications: 0
+

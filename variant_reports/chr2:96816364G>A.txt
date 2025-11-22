@@ -1,0 +1,704 @@
+=== chr2:96816364G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs545201213
+• Chromosome: 2
+• Position: 96816364
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CNNM3
+• Databases: rs545201213
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.00027749999999999997
+• gnomADg Allele Frequency: 0.00011829999999999999
+• 1KG Frequency: 0.0002
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004344: birth weight - The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms.
+GWAS_EFO_0005939: parental genotype effect measurement - quantification of the effect of the parental genotype, usually the maternal genotype on the development of a child, for example to determine its influence on congenital abnormalities
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0009963: bipolar I disorder - A bipolar disorder that is characterized by at least one manic or mixed episode.
+GWAS_EFO_0004838: calcium measurement - Is a quantification of calcium, typically in serum. Calcium (Ca2+) plays a pivotal role in the physiology and biochemistry of organisms and the cell. It plays an important role in signal transduction pathways, where it acts as a second messenger, in neurotransmitter release from neurons, contraction of all muscle cell types, and fertilization. Many enzymes require calcium ions as a cofactor, those of the blood-clotting cascade being notable examples. Extracellular calcium is also important for maintaining the potential difference across excitable cell membranes, as well as proper bone formation.
+GWAS_GO_0009314: response to radiation - None
+GWAS_EFO_0004234: erectile dysfunction - Persistent or recurrent inability to achieve or to maintain an erection during sexual activity.|The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction.
+GWAS_EFO_0001663: prostate carcinoma - A carcinoma that arises from epithelial cells of the prostate gland.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16186638) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939, GWAS_EFO_0007937, GWAS_EFO_0000692, GWAS_EFO_0004875, GWAS_EFO_0009963, GWAS_EFO_0004838, GWAS_GO_0009314, GWAS_EFO_0004234, GWAS_EFO_0001663
+Entity: Transcript (ID: 16417198) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000692, GWAS_EFO_0004875, GWAS_EFO_0009963, GWAS_EFO_0004838, GWAS_GO_0009314, GWAS_EFO_0004234, GWAS_EFO_0001663
+Entity: Transcript (ID: 16417197) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939, GWAS_EFO_0007937
+Entity: Promoter (ID: 322438921) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Non Coding RNA (ID: 17213593) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Non Coding RNA (ID: 17213592) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 313475597) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 313205622) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 312875833) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 312588230) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 312005365) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 311968916) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 311357699) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 310451349) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 309803174) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 309222107) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 308308176) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 308305210) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 308209838) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 307988413) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 306536574) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 306197251) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 305565779) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 305270110) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 304697959) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 304307531) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 304049039) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 303775084) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 303156485) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 303126248) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 302945305) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 302335295) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 302036125) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 302020741) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 301709086) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 301393930) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 300715793) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 300353772) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 300333486) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 299727200) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 299602576) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 299070998) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 297224009) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 296989566) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 296902262) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 296706615) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 296392325) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 295707144) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 295505588) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 295364545) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 294296170) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 293948078) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 291753474) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290953386) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290646604) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290474372) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290280378) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290262191) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290237157) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290224511) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 290192075) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 289896616) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 289874222) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 289859024) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 289846008) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 289787413) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 288044720) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 287455280) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 286842751) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 286733156) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 285970136) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 285761966) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 285690808) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 285684114) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 284811384) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 284477602) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 284185601) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 283605592) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 283293813) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 282343273) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 281982191) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 281941134) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 281136833) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 280721266) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 279964249) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 279798889) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 278041694) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 277432013) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 276305698) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 276300407) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 275589641) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 274328147) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 274190936) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 273877217) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 273285652) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 272311638) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 271732068) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 271536144) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 271369527) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 270799801) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 270637197) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 268374401) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 267167431) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 266267848) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 265872214) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 264957355) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 264714525) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 264341873) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 263749768) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 263735844) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 263715025) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 263489411) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 263170896) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 262892396) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 262500317) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 262494196) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 262190553) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 261816676) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 261217990) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 260904175) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 260620114) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 260457226) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 260186674) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 259692298) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 259099149) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 259029297) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 258993148) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 258693034) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 258415148) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 258366062) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 258071154) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 257738927) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 257432806) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 257306029) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 256547003) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 255028160) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 254085103) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 253471732) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 252914228) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 252877830) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 252046936) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 251866633) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 251693680) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 251670941) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 251146928) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 250497751) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 250266492) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 250199588) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 249628968) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 248622318) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 248372037) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 248053135) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 247753133) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 247445451) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 246529022) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 245921915) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 244456207) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 244367683) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 244089943) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 243752741) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 243424292) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 243161010) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 242294112) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 242246093) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 241904605) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 241272676) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 240640290) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 240613351) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 240039517) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 239738847) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 239415064) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 238639627) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 237903495) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 237596225) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 237588341) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 237576127) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 237524741) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 236931428) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 236889646) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 236591611) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 235962481) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 235953727) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 235672371) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 235609371) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 235586459) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 234722285) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 234365178) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 234309264) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 233412102) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 233107715) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 232803534) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 232488353) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 232473503) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 232304887) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 231885028) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 230384562) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 229064067) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 228133523) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 227821695) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 227504456) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 226544066) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 225939813) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 225273086) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 224945578) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 224635710) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 224369789) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 223782433) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 223129728) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 222780074) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 222526200) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 222139660) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 221723538) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 221235174) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 220933327) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 220338908) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 219705364) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 218586997) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 217994426) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 217661116) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 216767630) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 215885360) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 215629145) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 215587753) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 215343187) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 214769096) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 214477366) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 214237022) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 214172629) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 214045406) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 213766102) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 213246740) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 213018871) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 212685471) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 212323926) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 211993420) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 211955793) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 211875691) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 211052772) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 210829729) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 210409302) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 210246356) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 209799931) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 209766397) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 209499340) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 209473814) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 208853788) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 208560404) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 208513886) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 208277537) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 207348567) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 207114766) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 207008574) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 206766571) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 206530168) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 205725583) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 205418378) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 205410121) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 204508241) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 204306219) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 203596516) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 203549004) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 203326356) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 203266073) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 203231635) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 201697096) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 201543344) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 201210361) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 200906080) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 200526882) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 198801900) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 198495090) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 198473629) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 197773323) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 197159046) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 196849190) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 195302468) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 194679771) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 194667678) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 194618632) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 194613357) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 193998702) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 193993783) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 193922650) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 193516548) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 192986819) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 192689087) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 191137706) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 189917291) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 189313600) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 189295729) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 188467600) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 187558823) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 186319851) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 185475034) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 185390345) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 185383712) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 185133103) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 184463740) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 183860593) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 182401105) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 182376603) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 182314050) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 182163143) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 182022213) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 181698279) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 181687004) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 180772038) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 180479084) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 180193990) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 179667930) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 179538523) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 179226836) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 178959516) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 178934020) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 178654563) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 178304938) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 178260863) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 177808714) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 176374890) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 176082255) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 175778169) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 175703202) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 175645658) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 174874160) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 174792197) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 174484427) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 173734940) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 172978624) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 172939606) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 172375743) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 172350107) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 171421049) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 171173360) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 171160232) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 170443307) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 169862201) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 169824300) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 169510746) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 169279654) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 168909554) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 168582472) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 168204573) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 166935208) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 166437559) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 166015391) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 165971859) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 165394923) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 165170153) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 164465235) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 163246548) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 163236771) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 162602821) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 162601894) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 162143745) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 162024858) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 161742024) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 161133953) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 160730112) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 160727955) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 160434146) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 160128513) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 159807177) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 158096535) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 158087458) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 158073949) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 158070439) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 158048413) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 156816444) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 155875734) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 155089097) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 154773445) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 154307944) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 153574620) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 152655796) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 152318466) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 152036998) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 150820686) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 150794708) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 149596319) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 149207443) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 148692638) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 148277101) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 148088093) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 147811614) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 147775904) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 147474301) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 146860266) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 145657595) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 145350600) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 145337564) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 145022305) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 144752960) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 144425107) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 143827572) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 143739814) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 143434757) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 143413633) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 142218906) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 141928828) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 141611741) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 141312853) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 141248991) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 141176311) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 140876723) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 140624828) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 140522511) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 140261642) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 139947866) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 138732205) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 137847419) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 137291202) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 137287947) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 137281838) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 137211495) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 137205884) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 136879178) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 136616160) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 135900772) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 135889443) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 135451668) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 134703866) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 134161636) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 133903496) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 133789852) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 133498665) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 132901297) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 132650489) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 131933716) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 130998589) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 130988330) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 130686691) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 130532491) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 130374127) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 130148310) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 129767503) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 128859276) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 128612577) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 127978466) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 127943321) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 127927359) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 127596739) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 126948089) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 126401827) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 126325447) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 126021322) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 125782856) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 125410131) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 125122265) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 124812235) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 124559479) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 124392302) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 122257626) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 122249615) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 121658406) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 121363937) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 121053611) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 120737932) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 120140329) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 119831079) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 119597278) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 119213688) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 118915170) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 117994600) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 117827464) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 117165984) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 115479398) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 115460303) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 115215041) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 114994002) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 114423587) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 114400448) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 114371025) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 114341821) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 113799287) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 113463763) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 113197564) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 113134963) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 112836869) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 112252248) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 110452438) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 109899304) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 108405536) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 107979515) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 107506252) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 106912632) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 106578264) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 104841599) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 104498849) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 104312684) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 103394016) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 103059784) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 102803958) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 102637896) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 102526446) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 102165173) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 101571268) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 100400793) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 100317429) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 100021167) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 99698588) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 99658598) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 99142149) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 98739998) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 98223196) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 96062457) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 95079928) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: TF Binding Site (ID: 93941953) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 93489615) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 93144410) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 92773984) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 92455933) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 92430205) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 91568715) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 91109112) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 90997155) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 90625115) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 90518549) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 90470013) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 88573851) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 87612574) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 87466091) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 87309062) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 87063357) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 86730754) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 86648829) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 85951944) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 85792260) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 84767026) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 84471269) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 83997425) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 83232884) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 83185711) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 83074380) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 82763640) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 82455796) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 82333628) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 82299957) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 81592237) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 79925587) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 79416535) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 79277784) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 79115099) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 78794134) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 78613892) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 78452591) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 77749601) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 77300558) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 77275280) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 77004871) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 76659640) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 76595749) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 76274547) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 75866470) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 75818322) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 75672227) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 75634734) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 74499218) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 74443256) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 73605594) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 73109102) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 72299914) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 72175935) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 72111795) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 71565967) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 71503288) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 71088808) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 70991014) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 70833807) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 70311550) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 70182132) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 69841698) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 68744291) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 68641008) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 68134141) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 67912090) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 67349849) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 67293294) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 67241414) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 66525189) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 66362450) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 65857284) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 65468849) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 65392158) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 64942637) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 63417501) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 63194910) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 62800424) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 62494974) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 62064507) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 61963264) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 61871902) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 61688974) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 61482787) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 60962358) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 60296897) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 60269932) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 60177773) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 60000123) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 59350648) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 59276248) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 58560311) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 57974142) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 57257843) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 57008742) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 56825848) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 56587214) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 55897457) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 55784729) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 55533012) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 54171086) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 54072979) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 53730546) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 53648003) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 53235786) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 52621156) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 52046073) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 51523607) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 51349967) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50941470) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50879375) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50809826) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50346122) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50337342) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50257554) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50203459) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50105513) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 50013843) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 49647295) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 49599575) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 49016299) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: Histone Modification Site (ID: 48926209) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: DNase Hypersensitivity Site (ID: 30450771) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: ChromHMM State (ID: 19581152) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: ChromHMM State (ID: 20130139) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: ChromHMM State (ID: 20705458) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+Entity: chr_chain (ID: 136873) -> Associated GWAS: GWAS_EFO_0004344, GWAS_EFO_0005939
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 17457
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 1328
+• Uncertain Significance: 16129
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not specified|not provided (n=62)
+
+

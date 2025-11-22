@@ -1,0 +1,80 @@
+KRT6C Gene Biomedical Dossier
+### **Gene Dossier: KRT6C**
+
+**Gene Identity & Clinical Context**
+*   HGNC ID: 20406.
+*   OMIM Gene ID: 612315.
+*   Primary Disease Associations: Autosomal dominant focal non-epidermolytic palmoplantar keratoderma (PPKNEFD, OMIM #615735).
+*   Clinical Significance Level: Pathogenic variants in *KRT6C* are a definitive cause of focal palmoplantar keratoderma.
+*   Inheritance Patterns: Autosomal dominant.
+
+**Constraint & Variant Intolerance**
+*   pLI: 0.00 (gnomAD v2.1.1).
+*   LOEUF: 1.15 (gnomAD v2.1.1).
+*   Clinical Interpretation: The pLI score near 0 indicates the gene is tolerant to loss-of-function variants. This is consistent with the established dominant-negative disease mechanism, where a mutant protein disrupts function, rather than a loss of protein from one allele (haploinsufficiency).
+*   Variant Classes Most Likely to be Pathogenic: Missense variants and in-frame deletions that disrupt the keratin filament structure.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**:
+    *   Focal palmoplantar keratoderma (HP:0001056).
+    *   Plantar hyperkeratosis (HP:0007525).
+    *   Painful plantar callosities.
+    *   Palmoplantar blistering.
+    *   Palmoplantar pain.
+*   **Secondary HPO terms**:
+    *   Nail dystrophy (HP:0008395) (typically minor or absent).
+    *   Toenail thickening (Onychauxis, HP:0001847).
+    *   Fingernail thickening (Onychauxis, HP:0001847).
+*   Age of Onset: The condition typically becomes apparent within the first few months of life.
+*   Phenotype Severity Spectrum: Phenotypes are generally considered a milder form within the pachyonychia congenita (PC) spectrum, primarily affecting the feet. Nail involvement is significantly less common (3-19%) compared to PC caused by other keratin genes like *KRT6A* (96-97%).
+
+**Genotype-Phenotype Correlations**
+*   Variant Classes and Phenotypes: Heterozygous in-frame deletions and missense mutations result in a consistent phenotype of focal palmoplantar keratoderma, mainly affecting the plantar surfaces.
+*   Protein Domain-Specific Phenotype: Mutations largely cluster in the 1A and 2B domains of the keratin protein rod, which are critical for filament formation and assembly.
+*   Genotype-Phenotype Correlation Strength: There is a strong correlation between pathogenic variants in *KRT6C* and the development of focal plantar keratoderma, often without significant nail dystrophy.
+*   Examples:
+    *   p.Asn172del (c.516_518delCAA) is associated with familial focal PPK with minor or absent nail changes.
+    *   p.Glu472Lys (c.1414G>A) is associated with focal plantar keratoderma with normal palms and nails.
+    *   p.Ile462_Glu470del (c.1384_1410del27) is associated with familial focal PPK.
+
+**Clinical Variants & Phenotype Associations**
+*   c.516_518delCAA (p.Asn172del) / Pathogenic / Focal palmoplantar keratoderma (HP:0001056) / The deletion was found in 3 of 335 controls.
+*   c.1414G>A (p.Glu472Lys) / Pathogenic / Focal plantar keratoderma (HP:0007525) / AF not reported.
+*   c.1384_1410del27 (p.Ile462_Glu470del) / Pathogenic / Focal palmoplantar keratoderma (HP:0001056) / AF not reported.
+
+**Tissue Expression & Clinical Relevance**
+*   Highest Expressing Tissues: *KRT6C* is expressed in the plantar epidermis. GTEx data also shows expression in the esophagus mucosa, vagina, and tongue.
+*   Tissue-Specific Phenotypes: Expression in the plantar epidermis correlates directly with the primary phenotype of focal plantar keratoderma.
+*   Expression During Development: *KRT6C* is expressed in human fetal tissues between 10 and 20 weeks of gestation.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   Normal Gene Function: The *KRT6C* gene provides instructions for making keratin 6c, a protein that forms intermediate filaments to provide structural integrity and resilience to epithelial cells, particularly in the skin.
+*   Disease Mechanism: Dominant-negative. Mutant K6c protein alters the structure of the keratin intermediate filament network, making skin cells fragile and easily damaged by friction or minor trauma.
+*   Cellular/Molecular Pathways Disrupted: The primary disruption is to the intermediate filament cytoskeleton organization. This leads to fragile skin cells that may abnormally increase keratin production in response to damage, worsening the keratoderma.
+*   Protein-Protein Interactions: K6c forms heterodimers with type I keratins, such as KRT16, to assemble into filaments. It has also been identified as a heterodimer partner for KRT9.
+
+**Diagnostic Yield & Clinical Utility**
+*   Diagnostic Yield: In families presenting with familial focal PPK where other common keratin genes have been excluded, mutational analysis of *KRT6C* has a high diagnostic yield.
+*   Most Common Reasons for Testing: Patients with focal palmoplantar keratoderma, particularly with minimal or no nail involvement, who have a family history of the condition.
+*   Clinical Actionability: Diagnosis confirms the genetic basis of the keratoderma, allowing for targeted symptom management (e.g., pain relief, callus trimming) and accurate genetic counseling.
+*   Genetic Counseling Considerations: An autosomal dominant inheritance pattern means a 50% risk of transmission to offspring. The phenotype is generally limited to focal PPK, distinguishing it from more severe forms of pachyonychia congenita.
+
+**Key Clinical Literature & Studies**
+*   **Wilson NJ, et al. J Hum Genet. 2010. (PMID: 19609311)**: First identified that mutations in *KRT6C* cause focal palmoplantar keratoderma, establishing it as a distinct genetic entity.
+*   **Wilson NJ, et al. J Invest Dermatol. 2010. (PMID: 19890349)**: Reported that heterozygous in-frame deletions in *KRT6C* (p.Asn172del and p.Ile462-Glu470del) cause familial focal PPK with minor/absent nail changes.
+*   **McLean WH, et al. J Invest Dermatol. 2011. (PMID: 21346777)**: Formally included *KRT6C* mutations as a cause of pachyonychia congenita (PC-K6c), clarifying its place in the disease spectrum.
+*   **Kubo A, et al. Br J Dermatol. 2013. (PMID: 23662636)**: Confirmed the p.Glu472Lys mutation in a father and daughter with focal plantar keratoderma, reinforcing the specific phenotype.
+*   **Zieman A, et al. J Invest Dermatol. 2020. (PMID: 32067989)**: In a large registry study, confirmed that *KRT6C* mutations are associated with the least nail involvement among all PC-related keratin genes.
+*   **Chen X, et al. J Dermatol Sci. 2022. (PMID: 35948386)**: Identified KRT6C as a heterodimer partner for KRT9, providing new insight into keratin networks in palmoplantar skin.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**:
+    *   Heterozygous missense variants and in-frame deletions in *KRT6C* are strongly associated with Focal palmoplantar keratoderma (HP:0001056).
+*   **Phenotype red flags**:
+    *   Focal, painful calluses on the soles of the feet (Plantar hyperkeratosis, HP:0007525) appearing in early life.
+    *   A diagnosis of pachyonychia congenita but with absent or very mild nail dystrophy (HP:0008395).
+*   **Differential diagnosis considerations**:
+    *   **KRT16:** Also causes focal non-epidermolytic PPK, but may have more significant nail involvement.
+    *   **KRT6A:** Associated with more extensive disease, including significant nail dystrophy and oral leukokeratosis (HP:0000193).
+    *   **KRT17:** Associated with cutaneous cysts, follicular hyperkeratosis (HP:0100742), and natal teeth (HP:0000695).
+

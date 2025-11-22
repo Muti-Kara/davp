@@ -1,0 +1,57 @@
+HLA-DQA2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 4943.
+*   **OMIM Gene ID:** 613503.
+*   **Primary Disease Associations:** HLA-DQA2 is primarily associated with susceptibility to various autoimmune and inflammatory diseases through genome-wide association studies (GWAS), rather than being a monogenic disease gene. These include narcolepsy, asthma, sarcoidosis, moyamoya disease, and autoimmune thyroid disease.
+*   **Clinical Significance Level:** The evidence for association is strong for several complex diseases, but it does not have a definitive role in Mendelian disorders.
+*   **Inheritance Patterns:** For complex diseases, the inheritance is not straightforward Mendelian, but rather involves susceptibility alleles that increase risk.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 data for HLA-DQA2 shows a pLI (probability of being loss-of-function intolerant) of 0.00, an observed/expected (oe) ratio for loss-of-function (LoF) variants of 1.03, and for missense variants an oe ratio of 1.02. gnomAD does not provide specific pRec or pNull values.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI and oe ratios close to 1 suggest that the gene is tolerant to loss-of-function and missense variation. This is consistent with its role as a susceptibility gene in complex disorders rather than a gene where haploinsufficiency causes severe disease.
+*   **Variant Classes Most Likely to Be Pathogenic:** Pathogenicity in the traditional Mendelian sense is not well-established for this gene. Disease association is typically linked to specific non-coding or missense variants that alter immune recognition as part of an HLA haplotype.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As HLA-DQA2 is associated with complex immune-related diseases, a direct compilation of HPO terms from single-gene disorders is not applicable. Phenotypes are linked to the diseases it confers susceptibility to, such as Asthma (HP:0002099), Narcolepsy (HP:0001262), and Autoimmunity (HP:0002960).
+*   **Secondary HPO terms:** Other associated phenotypes from GWAS include increased IgE levels (HP:0010574), eosinophilia (HP:0001880), and susceptibility to various autoimmune conditions like systemic lupus erythematosus (HP:0100270) and rheumatoid arthritis (HP:0000928).
+*   **Age of Onset Patterns:** The age of onset varies depending on the associated complex disease, ranging from childhood-onset asthma to adult-onset autoimmune diseases and narcolepsy.
+*   **Phenotype Severity Spectrum:** Severity is highly variable and depends on the specific autoimmune or inflammatory condition.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific HLA haplotypes containing certain HLA-DQA2 alleles are strongly associated with disease risk or protection. For example, certain haplotypes are protective against narcolepsy.
+*   **Protein Domain-Specific Phenotype Patterns:** The function of HLA-DQA2 is tied to its role in forming a heterodimer that presents antigens. Variations affecting the peptide-binding groove or interaction with the T-cell receptor would be most likely to have a phenotypic consequence.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is strong for susceptibility to certain complex diseases, such as the association of specific haplotypes with narcolepsy and moyamoya disease. However, these are associations and not deterministic causation.
+*   **Examples: Specific Variants → Specific Phenotypes:** The variant rs3129731, located near HLA-DQA2, is a major genetic risk factor for moyamoya disease in the Chinese Han population. Another SNP, rs7773955, is associated with an increased risk for diisocyanate-induced asthma.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists variants for HLA-DQA2, but most are variants of uncertain significance or associated with complex traits rather than being pathogenic for a Mendelian disease. A search of ClinVar did not yield well-characterized pathogenic variants with clear HPO term associations for this gene.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, HLA-DQA2 is most highly expressed in the spleen. It is also expressed in other immune-related tissues and cells, including peripheral blood mononuclear cells.
+*   **Tissue-Specific Phenotypes Expected:** High expression in immune cells aligns with its function in antigen presentation and its association with immune-mediated diseases. For example, its expression in Langerhans cells is of immunological importance.
+*   **Expression During Development:** Expression is tied to the development and function of the immune system.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The HLA-DQA2 protein is a component of the MHC class II complex, which presents processed foreign antigens to CD4+ T-cells, initiating an adaptive immune response.
+*   **Disease Mechanism:** The disease mechanism is not based on simple loss-of-function. Instead, specific alleles as part of larger HLA haplotypes are thought to alter antigen presentation, leading to an inappropriate immune response (autoimmunity) or altered defense against pathogens.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The primary pathway affected is Antigen Processing and Presentation. Disruption of this pathway can lead to failure to distinguish self from non-self, resulting in autoimmune attacks on various tissues, manifesting as diseases like type 1 diabetes, celiac disease, or rheumatoid arthritis.
+*   **Protein-Protein Interactions Relevant to Phenotype:** HLA-DQA2 forms a heterodimer with a beta chain (like HLA-DQB1 or HLA-DQB2) to form a functional antigen-presenting complex. It also interacts with the invariant chain during its transport to the cell surface.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for HLA-DQA2 is not typically performed for diagnosing Mendelian disorders. Its primary clinical use is in HLA typing for transplantation and for assessing risk for certain autoimmune diseases, often in conjunction with other HLA genes like HLA-DQA1 and HLA-DQB1.
+*   **Most Common Reasons for Testing This Gene:** Testing is usually part of broader HLA typing for assessing disease risk (e.g., celiac disease, type 1 diabetes) or for determining histocompatibility for organ or bone marrow transplantation.
+*   **Clinical Actionability and Management Implications:** Identifying at-risk haplotypes can in some cases lead to increased surveillance or earlier intervention for associated autoimmune conditions.
+*   **Genetic Counseling Considerations:** Counseling focuses on the concept of genetic susceptibility rather than deterministic inheritance. The presence of a risk allele does not guarantee disease development, and environmental factors often play a crucial role.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 34078696, 2021:** Identified a variant near HLA-DQA2 (rs3129731) as a major genetic risk factor for moyamoya disease in the Chinese Han population, suggesting an immune-related etiology for this cerebrovascular disease.
+*   **PMID: 26176846, 2015:** A high-density genetic mapping study in sarcoidosis phenotypes confirmed the association of the HLA-DQB1/HLA-DQA2 region with Löfgren's syndrome, a specific acute presentation of sarcoidosis.
+*   **PMID: 21975480, 2012:** Demonstrated that HLA-DQA2 and HLA-DQB2 are specifically expressed in human Langerhans cells and form a novel HLA class II molecule at the cell surface capable of mediating T-cell stimulation.
+*   **PMID: 24707268, 2014:** A study on genetic variants associated with diisocyanate-induced asthma found a significant association with the HLA-DQA2 SNP rs7773955, highlighting a role for this gene in occupational asthma.
+*   **PMID: 23624898, 2013:** A study on conserved extended haplotypes (CEHs) in the MHC region provided detailed sequencing from HLA-DQA2, contributing to the understanding of genetic fixity and variation in this immunologically critical region.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Given that HLA-DQA2 is primarily a susceptibility gene for complex diseases, direct high-confidence HPO-variant associations typical for monogenic disorders are not established. Associations are at the level of haplotypes and susceptibility to diseases.
+*   **Phenotype red flags:** The presence of phenotypes related to specific autoimmune diseases like narcolepsy (HP:0001262), moyamoya disease (HP:0002544), or acute-onset sarcoidosis (Löfgren's syndrome) in individuals with relevant ancestry could suggest that variants in the HLA region, including HLA-DQA2, are contributing to the phenotype.
+*   **Differential diagnosis considerations:** The phenotypes associated with HLA-DQA2 overlap significantly with those linked to other genes in the HLA class II region, particularly HLA-DQA1, HLA-DQB1, and HLA-DRB1. Differentiating the specific contribution of HLA-DQA2 from these closely linked genes is challenging due to strong linkage disequilibrium.
+

@@ -1,0 +1,69 @@
+UBA6 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID**: UBA6 (HGNC:20762).
+*   **OMIM Gene ID**: 610553.
+*   **Primary Disease Associations**: Interstitial microdeletions including *UBA6* are associated with intellectual disability and behavioral disorders. The gene is also implicated in the pathophysiology of VEXAS syndrome and may represent a therapeutic target.
+*   **Clinical Significance Level**: Evidence for association with a neurodevelopmental phenotype is emerging, primarily from deletion cases. Its role in other conditions like VEXAS syndrome is currently under investigation.
+*   **Inheritance Patterns**: An autosomal dominant pattern with haploinsufficiency is suggested for the neurodevelopmental phenotype based on the observation of heterozygous microdeletions.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI of 1.00 and a LOEUF of 0.15, indicating extreme intolerance to loss-of-function (LoF) variation. The probability of being tolerant of both heterozygous and homozygous LoF variants (pNull) is 0.
+*   **Clinical Interpretation of Constraint Scores**: The high pLI (≥0.9) and low LOEUF scores strongly suggest that *UBA6* is a haploinsufficient gene, where the loss of one functional copy is not tolerated and is likely to cause disease.
+*   **Variant Classes Most Likely to be Pathogenic**: Based on the constraint scores, protein-truncating variants such as nonsense, frameshift, and whole-gene deletions are the most likely class of variants to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms**:
+    *   Intellectual disability (HP:0001249).
+    *   Behavioral abnormality (HP:0000708).
+    *   Learning disability (HP:0410013).
+    *   Social behavior deficit (derived from "social interaction deficits").
+    *   Autistic behavior (HP:0000729).
+    *   Decreased body size (derived from "smaller organismal sizes").
+*   **Secondary HPO Terms**:
+    *   Central hypoventilation (HP:0002871) - Implicated via a shared molecular mechanism.
+    *   Systemic lupus erythematosus (HP:0002725) - Associated with low UBA6 expression in T cells.
+    *   Autoimmunity (HP:0002960).
+    *   Multi-organ inflammation (derived from mouse model).
+    *   VEXAS syndrome - *UBA6* is a potential therapeutic target in this condition caused by *UBA1* mutations.
+*   **Age of Onset Patterns**: The neurodevelopmental phenotypes are expected to have a congenital or early childhood onset.
+*   **Phenotype Severity Spectrum**: The severity of the intellectual and behavioral phenotypes associated with microdeletions appears to be significant, but the full spectrum is not yet defined.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Heterozygous loss-of-function, specifically via microdeletions, has been correlated with intellectual disability and behavioral disorders.
+*   **Genotype-Phenotype Correlation Strength**: The correlation between heterozygous LoF of *UBA6* and a neurodevelopmental phenotype is currently moderate, based on a small number of reported cases of microdeletions.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Clinical Variants**: No single nucleotide variants (SNVs) or small indels in *UBA6* are currently classified as pathogenic or likely pathogenic in ClinVar.
+*   **Variants with Strongest Phenotype Evidence**: Interstitial microdeletions at chromosome 4q13.2 that include the *UBA6* gene provide the strongest current evidence for its role in human disease. These deletions are associated with intellectual disability and behavioral disorders.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: *UBA6* is broadly expressed across many tissues. Testis shows the highest level of expression, followed by the brain (cerebellar hemisphere, cerebellum) and pituitary gland.
+*   **Tissue-specific Phenotypes Expected**: High expression in multiple brain regions is consistent with the observed neurodevelopmental phenotypes, including learning and memory defects seen in mouse models. High expression in the testis suggests a potential role in meiosis and spermatogenesis, though no human reproductive phenotype has been reported.
+*   **Expression During Development and Age-related Phenotypes**: *UBA6* is critical for brain development, as demonstrated in mouse models where its absence leads to morphological defects in the hippocampus and amygdala. Its expression profile in mice correlates with a gene that regulates meiotic initiation.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: *UBA6* is a ubiquitin-activating enzyme (E1) that initiates ubiquitination and FAT10ylation, processes critical for protein degradation and cellular signaling.
+*   **Disease Mechanism**: The likely disease mechanism for the neurodevelopmental phenotype is haploinsufficiency, where a 50% reduction in UBA6 protein is sufficient to cause disease. In VEXAS syndrome, cells with mutant *UBA1* develop a dependency on UBA6 for survival, representing a synthetic essentiality mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**:
+    *   Dysregulation of ubiquitin-dependent degradation of synaptic proteins (e.g., Arc) may contribute to neurodevelopmental defects.
+    *   In T-cells, UBA6 deficiency leads to increased NF-κB activation and IFN-γ production, potentially contributing to autoimmune phenotypes.
+    *   UBA6 is involved in the N-end rule pathway, regulating the degradation of specific RGS proteins in the cytoplasm.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield of testing for *UBA6* variants is currently unknown; however, it should be considered in cases of unexplained intellectual disability, especially if a 4q13.2 deletion is detected.
+*   **Most Common Reasons for Testing This Gene**: The primary reason for testing would be a patient presenting with unexplained intellectual disability and/or behavioral disorders.
+*   **Clinical Actionability and Management Implications**: There is currently no specific treatment for *UBA6*-related neurodevelopmental disorders. Management is supportive. For VEXAS syndrome, UBA6 is being explored as a potential therapeutic target for selective inhibition.
+*   **Genetic Counseling Considerations**: For the neurodevelopmental phenotype associated with deletions, counseling should be based on an autosomal dominant inheritance pattern. De novo occurrences are likely, and recurrence risk would be low in such cases.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 36562590 (2023)**: Showed that expanded polyalanine tract proteins (as seen in CCHS) can interfere with the UBA6-USE1 ubiquitin transfer system, suggesting a shared disease mechanism.
+*   **PMID: 37248383 (Preprint 2025)**: Identified a dependency on UBA6 in human cells modeling VEXAS syndrome, establishing UBA6 as a novel therapeutic target for this disease.
+*   **PMID: 35011668 (2021)**: Demonstrated that UBA6 regulates T-cell differentiation and that its deficiency can exacerbate inflammation, linking low UBA6 levels to lupus.
+*   **PMID: 31067670 (2019)**: A review detailing the critical role of UBA6 in brain development based on mouse models showing learning, memory, and social deficits upon Uba6 deletion.
+*   **Quintela I, et al. (GTR, 2012)**: A publication cited in the GTR describing interstitial microdeletions of chromosome 4q13.2 including *UBA6* as a possible cause of intellectual disability and behavior disorder.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: Heterozygous whole-gene deletion of *UBA6* is associated with intellectual disability (HP:0001249) and behavioral abnormalities (HP:0000708).
+*   **Phenotype Red Flags**: The combination of intellectual disability with significant behavioral issues should raise suspicion and prompt investigation for variants involving *UBA6*, particularly deletions on chromosome 4q13.2.
+*   **Differential Diagnosis Considerations**: The phenotype of intellectual disability is broad. The differential diagnosis for patients with *UBA6* deletions includes a wide range of other syndromic and non-syndromic forms of intellectual disability.
+

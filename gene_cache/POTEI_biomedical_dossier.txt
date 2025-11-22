@@ -1,0 +1,58 @@
+POTEI Gene Biomedical Dossier
+### **Gene Dossier: POTEI (POTE Ankyrin Domain Family Member I)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 37093
+*   **OMIM Gene ID:** Not available.
+*   **Primary Disease Associations:** Currently, no definitive disease associations for *POTEI* are listed in OMIM. GeneCards mentions associations with Shukla-Vernon Syndrome and Baraitser-Winter Syndrome 2, though this is likely based on computational predictions or non-definitive evidence.
+*   **Clinical Significance Level:** The clinical significance of *POTEI* is not yet definitively established. There is a lack of curated evidence in major clinical genetics databases linking it directly to a specific Mendelian disorder.
+*   **Inheritance Patterns:** No clear inheritance patterns have been established due to the absence of well-documented disease associations.
+
+**Constraint & Variant Intolerance**
+*   **pLI:** Not available in gnomAD v4.0. The use of pLI is being superseded by LOEUF. A pLI score close to 1 indicates intolerance to protein-truncating variants.
+*   **LOEUF:** Not available in the gnomAD v4.0 gene constraint data. Lower LOEUF values indicate a higher degree of intolerance to loss-of-function variants.
+*   **pRec:** Not available. This metric estimates the probability of a gene being intolerant to homozygous, but not heterozygous, loss-of-function variants.
+*   **pNull:** Not available. This metric estimates the probability that a gene is tolerant to both heterozygous and homozygous loss-of-function variants.
+*   **Clinical Interpretation of Constraint Scores:** Without available gnomAD constraint metrics, it is difficult to assess the gene's tolerance to variation. Further data is needed to determine if haploinsufficiency is a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Due to the lack of established disease-causing variants, it is speculative to predict which variant classes are most likely to be pathogenic for *POTEI*.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No clinically reported cases with HPO terms directly linked to *POTEI* variants were found. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+*   **Secondary HPO terms:** No documented secondary HPO terms associated with *POTEI* variants were identified in the literature.
+*   **Age of Onset Patterns:** Information regarding the age of onset for any potential *POTEI*-related phenotype is not available.
+*   **Phenotype Severity Spectrum:** The severity spectrum for phenotypes associated with *POTEI* variants is unknown.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No established correlations between specific variant classes in *POTEI* and clinical phenotypes have been reported.
+*   **Protein Domain-Specific Phenotype Patterns:** The *POTEI* protein contains ankyrin repeat domains, which are involved in protein-protein interactions. However, no specific phenotype patterns have been linked to variants within these or other domains of the protein.
+*   **Genotype-Phenotype Correlation Strength:** The strength of genotype-phenotype correlation for *POTEI* is currently unknown.
+*   **Examples: specific variants → specific phenotypes:** No well-documented examples of specific *POTEI* variants leading to distinct phenotypes were found.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for *POTEI* with associated clinical phenotypes are listed in ClinVar or described in the retrieved literature.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** The Genotype-Tissue Expression (GTEx) project provides data on gene expression across multiple tissues, which can help in understanding the potential clinical consequences of genetic variants. Specific expression data for *POTEI* was not retrieved in the search.
+*   **Tissue-Specific Phenotypes Expected:** Without specific tissue expression data, it is difficult to predict which organs or systems might be affected by pathogenic variants in *POTEI*.
+*   **Expression During Development and Age-Related Phenotypes:** Information on the developmental expression of *POTEI* is not available, which would be crucial for understanding potential congenital or age-related phenotypes.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *POTEI* is predicted to be involved in retina homeostasis, and its protein product is located in the extracellular space and exosomes. The protein contains ankyrin repeats, suggesting a role in mediating protein-protein interactions.
+*   **Disease Mechanism:** The disease mechanism for *POTEI* has not been elucidated. Potential mechanisms could include haploinsufficiency, dominant-negative effects, or gain-of-function, but this remains speculative.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The specific cellular or molecular pathways that may be disrupted by *POTEI* variants and lead to a clinical phenotype are currently unknown. The Reactome pathway browser is a resource for exploring such connections.
+*   **Protein-Protein Interactions Relevant to Phenotype:** While the ankyrin repeats suggest protein-protein interactions are key to POTEI's function, its specific interaction partners and their relevance to any potential phenotype are not yet described.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *POTEI* in clinical cohorts is unknown, as it is not typically included in standard gene panels for specific disorders.
+*   **Most Common Reasons for Testing This Gene:** There are currently no common clinical indications for testing the *POTEI* gene.
+*   **Clinical Actionability and Management Implications:** Given the lack of a defined disease association, there are no specific clinical actionability or management guidelines related to *POTEI* variants.
+*   **Genetic Counseling Considerations:** Genetic counseling for variants in *POTEI* would be challenging due to the current uncertainty about its clinical significance. Counseling would focus on the limitations of the available data and the unknown nature of any potential risk.
+
+**Key Clinical Literature & Studies**
+*   No key clinical papers directly linking *POTEI* to a specific human phenotype were identified in the searches. The existing literature on the POTE gene family is primarily focused on their duplication and evolutionary remodeling.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no high-confidence associations between HPO terms and *POTEI* variants.
+*   **Phenotype red flags:** No specific HPO terms have been identified that would strongly suggest pathogenic variants in *POTEI*.
+*   **Differential diagnosis considerations:** Due to the lack of a defined phenotype, it is not possible to provide differential diagnosis considerations. The DECIPHER database is a useful resource for comparing phenotypes and genotypes.
+

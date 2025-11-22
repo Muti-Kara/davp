@@ -1,0 +1,181 @@
+=== chr22:27799344C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs144844337
+• Chromosome: 22
+• Position: 27799344
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: MN1
+• Databases: rs144844337
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.008326
+• gnomADg Allele Frequency: 0.005770000000000001
+• 1KG Frequency: 0.0024000000000000002
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004343: waist-hip ratio - The waist circumference measurement divided by the hip circumference measurement. For both men and women, a waist-to-hip ratio (WHR) of 1.0 or higher is considered "at risk" for undesirable health consequences, such as heart disease and ailments associated with OVERWEIGHT. A healthy WHR is 0.90 or less for men, and 0.80 or less for women. (National Center for Chronic Disease Prevention and Health Promotion, 2004)
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0004351: resting heart rate - quantification of the number of times the heart beats in a given time interval, usually a minute, while the body is at rest
+GWAS_EFO_0004314: forced expiratory volume - Measure of the maximum amount of air that can be expelled in a given number of seconds during aÂ FORCED VITAL CAPACITYÂ determination . It is usually given asÂ FEVÂ followed by a subscript indicating the number of seconds over which the measurement is made, although it is sometimes given as a percentage of forced vital capacity.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0004309: platelet count - The number of PLATELETS per unit volume in a sample of venous BLOOD.
+GWAS_EFO_0009718: peak expiratory flow - The maximum rate of gas flow, beginning at the point of peak inspiratory capacity, that can be sustained during forced exhalation for a defined period of time.|The maximum rate of gas flow, beginning at the point of peak inspiratory capacity, that can be sustained during forced exhalation for a defined period of time. This test is most often used in combination with other studies of lung function to diagnose and monitor obstructive and restrictive lung disease(s). [ NCI ]
+GWAS_EFO_0010701: mean reticulocyte volume - Mean volume of reticulocyte cells
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0007788: BMI-adjusted waist-hip ratio - waist-hip ratio that has been adjusted by subjects’ body mass index
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0007985: platelet crit - The proportion of blood volume that is occupied by platelets, expressed as a percentage. 
+GWAS_EFO_0000305: breast carcinoma - A carcinoma that arises from epithelial cells of the breast
+GWAS_EFO_0007825: balding measurement - quantification of the amount of balding in an individual
+GWAS_EFO_0000537: hypertension - Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more.|Persistently high systemic arterial blood pressure. Based on multiple readings (blood pressure determination), hypertension is currently defined as when systolic pressure is consistently greater than 140 mm Hg or when diastolic pressure is consistently 90 mm Hg or more.
+GWAS_EFO_0005665: white matter hyperintensity measurement - quantification of white matter hyperintensity, usually measured by MRI
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0009278: cranial vault morphology measurement - Quantification of any aspect of the morphology of the cranial vault, including shape, size, structure or pattern. The cranial vault is a region comprising interlocking flat bones surrounding the cerebral cortex.
+GWAS_EFO_0007041: obese body mass index status - quantification of weight/height relationships above a certain threshold that classes an individual as overweight. This threshold may vary based on an individual's ethnicity but is commonly considered to correspond in European populations to a BMI > 30.
+GWAS_EFO_0004531: urate measurement - A urate measurement is the quantification of some urate in body fluid
+GWAS_HP_0011141: Age-related cataract - A type of cataract (opacification of the lens) that forms during the course of aging.|The lens is formed from ectodermal tissue and contains epithelial cells that give rise to lens fibres throughout life, so with increasing age the lens becomes more compact and thicker.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_HP_0012664: Reduced ejection fraction - A diminution of the volumetric fraction of blood pumped out of the ventricle with each cardiac cycle.|The normal range is at least 55 percent.
+GWAS_EFO_0004326: heart rate - The number of times the HEART VENTRICLES contract per unit of time, usually per minute.
+GWAS_EFO_0003144: heart failure - Inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements. Clinical symptoms of heart failure include: unusual dyspnea on light exertion, recurrent dyspnea occurring in the supine position, fluid retention or rales, jugular venous distension, pulmonary edema on physical exam, or pulmonary edema on chest x-ray presumed to be cardiac dysfunction.
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0007878: alcohol consumption measurement - quantification of some aspect of alcohol consumption such as frequency or quantity
+GWAS_GO_0061476: response to anticoagulant - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a antocoagulant stimulus.
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0006526: pack-years measurement - the quantification of the average number of packs smoked per daytimes the total number of years a subject smoked during his/her lifetime
+GWAS_EFO_0006525: cigarettes per day measurement - the quantification of the number of cigarettes that a subject smoked on average per day
+GWAS_EFO_0004329: alcohol drinking - Behaviors associated with the ingesting of alcoholic beverages, including social drinking.
+GWAS_EFO_0007857: facial depth measurement - quantification of some aspect of facial depth, such as the distance from the tip of the nose to the tip of the ear lobe
+GWAS_EFO_0005763: pulse pressure measurement - quantification of the difference between systolic blood pressure and diastolic blood pressure. Higher PP is associated with left ventricle hypertrophy and the increased intimal thickness of the carotid artery, which represent early target organ damage in cardiovascular diseases
+GWAS_EFO_0004312: vital capacity - The volume of air that is exhaled by a maximal expiration following a maximal inspiration.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0004278: sudden cardiac arrest - An unexpected natural death from a cardiac cause within a short time period from the onset of symptoms.|Unexpected rapid natural death due to cardiovascular collapse within one hour of initial symptoms. It is usually caused by the worsening of existing heart diseases. The sudden onset of symptoms, such as CHEST PAIN and CARDIAC ARRHYTHMIAS, particularly VENTRICULAR TACHYCARDIA, can lead to the loss of consciousness and cardiac arrest followed by biological death. (from Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine, 7th ed., 2005)|Change to current cardiac arrthymia parent requested and confirmed as a correct use of is-a by James Ware, cardiac expert.
+GWAS_EFO_0007858: eye morphology measurement - quantification of some aspect of eye morphology, such as the width of the eye socket
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16129871) -> Associated GWAS: GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004351, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0004309, GWAS_EFO_0009718, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0007788, GWAS_EFO_0004713, GWAS_EFO_0007985, GWAS_EFO_0007985, GWAS_EFO_0000305
+Entity: Transcript (ID: 16194198) -> Associated GWAS: GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004351, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0004309, GWAS_EFO_0009718, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0007788, GWAS_EFO_0004713, GWAS_EFO_0007985, GWAS_EFO_0007985, GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 311503728) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 299602268) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 292941317) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 274254513) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 273557967) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 261444825) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 257907245) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 253662442) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 238632693) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 237734176) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 206042021) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 169251488) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 162690949) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 146999313) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 145234037) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 124417646) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 120415503) -> Associated GWAS: GWAS_EFO_0000305
+Entity: TF Binding Site (ID: 114080220) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 91113557) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 90257082) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 85067573) -> Associated GWAS: GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004351, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0004309, GWAS_EFO_0009718, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0007788, GWAS_EFO_0004713, GWAS_EFO_0007985, GWAS_EFO_0007985, GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 83159195) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 78847997) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 77301928) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 76926478) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 75839831) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 72297828) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 72181830) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 71844529) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 70387072) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 70203575) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 68739438) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 50256671) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 50352026) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 50934252) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 53257173) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 53363612) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 53712967) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 54671479) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 55710816) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 56829007) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 58600675) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 59278953) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 62793826) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 63686443) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 65464525) -> Associated GWAS: GWAS_EFO_0000305
+Entity: Histone Modification Site (ID: 65856645) -> Associated GWAS: GWAS_EFO_0000305
+Entity: DNase Hypersensitivity Site (ID: 27560619) -> Associated GWAS: GWAS_EFO_0000305
+Entity: DNase Hypersensitivity Site (ID: 31087504) -> Associated GWAS: GWAS_EFO_0000305
+Entity: DNase Hypersensitivity Site (ID: 33095579) -> Associated GWAS: GWAS_EFO_0000305
+Entity: DNase Hypersensitivity Site (ID: 42465179) -> Associated GWAS: GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 19486797) -> Associated GWAS: GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 20035422) -> Associated GWAS: GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004351, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0004309, GWAS_EFO_0009718, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0007788, GWAS_EFO_0004713, GWAS_EFO_0007985, GWAS_EFO_0007985, GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 20602764) -> Associated GWAS: GWAS_EFO_0007825, GWAS_EFO_0000537, GWAS_EFO_0005665, GWAS_EFO_0004612, GWAS_EFO_0009278, GWAS_EFO_0007041, GWAS_EFO_0004531, GWAS_HP_0011141, GWAS_EFO_0007825, GWAS_EFO_0004747, GWAS_HP_0012664, GWAS_EFO_0004326, GWAS_EFO_0003144, GWAS_HP_0012664, GWAS_EFO_0004326, GWAS_EFO_0003144, GWAS_EFO_0006527, GWAS_EFO_0004875, GWAS_EFO_0007878, GWAS_GO_0061476, GWAS_EFO_0010701, GWAS_EFO_0006335, GWAS_EFO_0006526, GWAS_EFO_0006525, GWAS_EFO_0004329, GWAS_EFO_0007857, GWAS_EFO_0005763, GWAS_EFO_0004314, GWAS_EFO_0004312, GWAS_EFO_0005763, GWAS_EFO_0004339, GWAS_EFO_0004278, GWAS_EFO_0007858, GWAS_EFO_0004343, GWAS_EFO_0004528, GWAS_EFO_0004351, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004527, GWAS_EFO_0004309, GWAS_EFO_0009718, GWAS_EFO_0010701, GWAS_EFO_0004526, GWAS_EFO_0007788, GWAS_EFO_0004713, GWAS_EFO_0007985, GWAS_EFO_0007985, GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 21210028) -> Associated GWAS: GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 21831053) -> Associated GWAS: GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 22459520) -> Associated GWAS: GWAS_EFO_0000305
+Entity: ChromHMM State (ID: 23014146) -> Associated GWAS: GWAS_EFO_0000305
+Entity: chr_chain (ID: 638123) -> Associated GWAS: GWAS_EFO_0000305
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 10870
+• Pathogenic/Likely Pathogenic: 544
+• Benign/Likely Benign: 2466
+• Uncertain Significance: 7792
+• Other Classifications: 68
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=3798)
+• CEBALID syndrome (n=525)
+• MN1-related disorder (n=185)
+• not provided|Inborn genetic diseases (n=137)
+• Chordoma (n=68)
+• Inborn genetic diseases|MN1-related disorder (n=63)
+• Familial meningioma (n=59)
+• Inborn genetic diseases|Familial meningioma (n=55)
+• See cases (n=51)
+• not provided|CEBALID syndrome (n=51)
+• MN1-related disorder|Inborn genetic diseases (n=47)
+• CEBALID syndrome|MN1-related disorder (n=28)
+• CEBALID syndrome|not provided (n=28)
+• MN1 C-terminal truncation (MCTT) syndrome (n=26)
+• CEBALID syndrome|MN1 C-terminal truncation (MCTT) syndrome (n=26)
+• not provided|Familial meningioma (n=24)
+• not provided|MN1-related disorder (n=22)
+• MN1 C-terminal truncation (MCTT) syndrome|CEBALID syndrome|not provided (n=20)
+• Inborn genetic diseases|MN1-related disorder|not provided (n=20)
+• not provided|CEBALID syndrome|MN1 C-terminal truncation (MCTT) syndrome|Familial meningioma (n=3)
+• Inborn genetic diseases|not provided|MN1 C-terminal truncation (MCTT) syndrome|CEBALID syndrome (n=3)
+• Atrial septal defect (n=3)
+• Congenital diaphragmatic hernia|MN1 C-terminal truncation (MCTT) syndrome (n=3)
+
+

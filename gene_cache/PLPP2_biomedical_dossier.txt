@@ -1,0 +1,58 @@
+PLPP2 Gene Biomedical Dossier
+### **PLPP2 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 9230.
+*   **OMIM Gene ID:** 607126.
+*   **Primary Disease Associations:** While no definitive Mendelian disease is listed in OMIM, PLPP2 has been associated with Sigmoid Disease and Chronic Recurrent Multifocal Osteomyelitis in GeneCards. It is also implicated in various cancers, including lung, breast, colon, liver, and prostate.
+*   **Clinical Significance Level:** The direct role of PLPP2 variants in Mendelian disease is not yet definitively established; evidence remains at a research stage.
+*   **Inheritance Patterns:** Given the lack of a clear associated Mendelian disorder, inheritance patterns are not well-defined.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, the pLI (probability of being loss-of-function intolerant) for PLPP2 is 0.00, indicating it is tolerant to loss-of-function (LoF) variation. The LOEUF (loss-of-function observed/expected upper-bound fraction) is 1.25. The pRec score is 0.08 and the pNull score is 0.92.
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores suggest that haploinsufficiency is not a common disease mechanism for this gene. The gene does not show evidence of being constrained against protein-truncating variants.
+*   **Variant Classes Most Likely to be Pathogenic:** While data on pathogenic variants causing Mendelian disease are sparse, gain-of-function or dominant-negative missense variants could potentially be relevant, especially in the context of cancer where upregulation is observed.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As there is no established Mendelian disease, a ranked list of HPO terms from clinical cases is not available. HPO is a standardized vocabulary for describing phenotypic abnormalities in human disease.
+*   **Secondary HPO terms:** Similarly, a comprehensive list of secondary HPO terms from patient cohorts is not established.
+*   **Age of Onset Patterns:** Not applicable due to the lack of a defined associated Mendelian disease.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** There are currently no established genotype-phenotype correlations for PLPP2 in the context of inherited diseases.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific patterns have been documented.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently considered weak to non-existent for Mendelian disorders.
+*   **Examples:** No specific variant-phenotype examples are available for inherited conditions.
+
+**Clinical Variants & Phenotype Associations**
+*   ClinVar lists several variants in PLPP2, but the majority are classified as benign, likely benign, or variants of uncertain significance. There are some entries listed as "pathogenic" for large-scale copy number variations that include the PLPP2 gene, but these are not specific to PLPP2 alone. No well-characterized pathogenic single nucleotide variants or small indels with clear phenotype associations are consistently reported.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** PLPP2 shows broad expression, with the highest levels in the gall bladder, duodenum, and minor salivary gland.
+*   **Tissue-Specific Phenotypes Expected:** The broad expression pattern complicates the prediction of tissue-specific phenotypes. Its role in lipid metabolism might suggest involvement in metabolic tissues.
+*   **Expression During Development and Age-Related Phenotypes:** Specific data on developmental expression and its link to age-related phenotypes is limited.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PLPP2 encodes phospholipid phosphatase 2, an enzyme that catalyzes the conversion of phosphatidic acid to diacylglycerol and is involved in the metabolism of various glycerolipids and sphingolipids.
+*   **Disease Mechanism:** The primary mechanism associated with PLPP2 is not loss-of-function but rather altered expression levels in cancer. Overexpression appears to be pro-tumorigenic.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** PLPP2 functions in glycerolipid, glycerophospholipid, and sphingolipid metabolism pathways. In cancer, its overexpression promotes the formation of lipid rafts, which in turn enhances cell proliferation and cell cycle progression from G1 to S phase, partly by increasing c-Myc expression.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PLPP2 can form homo-oligomers and hetero-oligomers with other lipid phosphate phosphatases like PLPP1 and PLPP3. It interacts with proteins involved in lipid metabolism such as LPIN1, LPIN2, and DGAT1.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for PLPP2 variants in cohorts with suspected genetic diseases is expected to be very low to none, given the lack of a clear disease association.
+*   **Most Common Reasons for Testing This Gene:** Testing for PLPP2 is currently not a standard part of clinical genetic testing for Mendelian disorders. It is more commonly studied in cancer research contexts.
+*   **Clinical Actionability and Management Implications:** There are no current clinical actionability guidelines for germline PLPP2 variants.
+*   **Genetic Counseling Considerations:** Counseling would focus on the uncertain significance of any identified variants and the lack of evidence for a causal role in inherited disease.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 37996711, 2023:** This study in early-stage lung adenocarcinoma revealed that elevated PLPP2 expression is an independent prognostic risk factor and promotes cell proliferation by enhancing lipid raft formation.
+*   **PMID: 35832103, 2022:** Showed that LPP2 expression is increased in breast cancer and that knocking out the gene in cancer cells decreases tumor growth and c-Myc expression.
+*   **PMID: 16467304, 2006:** Demonstrated that LPP2 activity regulates the S-phase entry of the cell cycle in fibroblasts.
+*   **PMID: 9607309, 1998:** One of the initial papers identifying and characterizing a human phosphatidic acid phosphatase type 2 isoform (PLPP2/PAP2c).
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no high-confidence HPO-variant associations for PLPP2.
+*   **Phenotype red flags:** No specific HPO terms are considered red flags for pathogenic variants in PLPP2 at this time.
+*   **Differential diagnosis considerations:** Not applicable in the context of a specific PLPP2-related Mendelian disorder.
+

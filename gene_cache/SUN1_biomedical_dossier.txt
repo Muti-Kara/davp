@@ -1,0 +1,86 @@
+SUN1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:18587.
+*   **OMIM Gene ID:** 607723.
+*   **Primary Disease Associations:** While not linked to a single Mendelian disorder with a definitive disease name, SUN1 variants are associated with modifying the severity of Emery-Dreifuss muscular dystrophy (EDMD) and are implicated in the pathogenesis of non-alcoholic fatty liver disease (NAFLD) and related metabolic conditions. Rare variants have also been associated with non-obstructive azoospermia.
+*   **Clinical Significance Level:** The evidence for SUN1's role as a disease modifier in muscular dystrophies is moderate, while its association with metabolic traits like hepatic steatosis is emerging from large cohort studies. Its role in azoospermia is based on limited case reports.
+*   **Inheritance Patterns:** The role of SUN1 variants appears complex. It can act as a digenic or oligogenic modifier in muscular dystrophies. Common variants associated with metabolic traits follow a complex inheritance pattern.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v4.1 constraint score for the canonical transcript (ENST00000378036.9) shows a pLI of 0.00, and a LOEUF of 1.13.
+*   **Clinical Interpretation of Constraint Scores:** A low pLI and a LOEUF score greater than 1 suggest that the gene is tolerant to loss-of-function (LoF) variants. This indicates that haploinsufficiency is not a primary disease mechanism for most phenotypes.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF variants, pathogenic variants are more likely to be missense or in-frame deletions/insertions that act through a dominant-negative or gain-of-function mechanism rather than simple loss of function. Some studies also point towards splice variants having functional consequences.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** The Human Phenotype Ontology (HPO) provides a standardized vocabulary for human diseases. For SUN1, associated phenotypes are broad.
+    *   *Muscular Dystrophy-Related (as a modifier)*: Increased severity of Emery-Dreifuss muscular dystrophy [HP:0003741].
+    *   *Metabolic Disease-Related*: Hepatic steatosis [HP:0001397], Type 2 diabetes mellitus [HP:0005978], Hypertension [HP:0000822], Decreased HDL cholesterol concentration [HP:0003233].
+    *   *Reproductive*: Azoospermia [HP:0000027].
+*   **Secondary HPO terms:**
+    *   Cardiovascular disease [HP:0001626].
+    *   Increased circulating fatty acid concentration [HP:0003119].
+*   **Age of Onset Patterns:** The age of onset is variable and depends on the associated condition. For muscular dystrophy, it can modify a phenotype from birth or childhood. Metabolic traits typically have an adult onset.
+*   **Phenotype Severity Spectrum:** In muscular dystrophies, SUN1 variants are reported to correlate with increased disease severity. The impact of common variants on metabolic disease represents a risk factor contributing to a spectrum of severity.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Missense variants have been identified as modifiers of Emery-Dreifuss muscular dystrophy.
+    *   A common missense variant, rs6461378 (p.His118Tyr), is associated with an increased risk for hepatic steatosis and other metabolic syndrome components.
+*   **Protein Domain-Specific Phenotype Patterns:** The p.His118Tyr variant lies within the nucleoplasmic, lamin-binding region of SUN1, potentially impacting its interaction with lamin A/C and its degradation, which could explain its link to metabolic disease.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the rs6461378 variant and metabolic traits is statistically significant in large cohorts but represents a risk factor rather than a deterministic cause. The correlation for variants acting as muscular dystrophy modifiers is moderate and based on smaller family studies.
+
+### **Clinical Variants & Phenotype Associations**
+*   **rs6461378 (p.His118Tyr):**
+    *   **Significance:** Association with NAFLD and metabolic traits.
+    *   **Reported Phenotypes:** Hepatic steatosis [HP:0001397], Type 2 diabetes mellitus [HP:0005978], Hypertension [HP:0000822], Cardiovascular disease [HP:0001626], Decreased HDL cholesterol concentration [HP:0003233].
+    *   **AF (Allele Frequency):** Common, with a minor allele frequency of approximately 0.43 in European populations.
+*   **p.Ala203Val:**
+    *   **Significance:** Acted as a modifier in a family with EMD, co-segregating with an EMD mutation and resulting in a more severe phenotype.
+    *   **Reported Phenotypes:** Severe Emery-Dreifuss muscular dystrophy [HP:0003741].
+*   **p.Gly338Ser and p.Trp377Cys:**
+    *   **Significance:** These variants showed reduced interaction with emerin, a protein also implicated in Emery-Dreifuss muscular dystrophy.
+    *   **Reported Phenotypes:** Associated with muscular dystrophy phenotypes.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** SUN1 is ubiquitously expressed, with the highest levels in the testis, followed by cultured fibroblasts, and various brain regions. This broad expression pattern is consistent with its fundamental role in nuclear architecture.
+*   **Tissue-Specific Phenotypes Expected:**
+    *   High expression in testis is consistent with its role in spermatogenesis and the observed phenotype of azoospermia in some cases.
+    *   Expression in muscle is relevant to its role as a modifier in muscular dystrophies.
+    *   Its expression in the liver is relevant to the hepatic steatosis phenotype.
+*   **Expression During Development:** SUN1 plays a crucial role in meiosis and has been implicated in the development of various tissues, including neurogenesis and myogenesis.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SUN1 is an inner nuclear membrane protein that forms the LINC complex, which physically connects the nucleoskeleton to the cytoskeleton, playing a key role in nuclear positioning, migration, and mechanotransduction.
+*   **Disease Mechanism:**
+    *   **Dominant-Negative/Gain-of-Function:** In muscular dystrophies, missense variants may disrupt the function of the LINC complex.
+    *   **Altered Protein Degradation:** The common p.His118Tyr variant associated with NAFLD leads to increased proteasomal degradation of the SUN1 protein, which in turn leads to insulin resistance and increased lipid accumulation in cells.
+    *   **Loss-of-Function:** In cases of azoospermia, loss of SUN1 function disrupts the attachment of telomeres to the nuclear envelope during meiosis.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of nuclear-cytoskeletal coupling can impair the ability of cells, particularly muscle cells, to withstand mechanical stress, contributing to dystrophy.
+    *   Altered SUN1 levels can impact the degradation of other nuclear proteins like lamins, and its accumulation has been linked to cellular senescence and pathology in laminopathies.
+    *   Disrupted SUN1 function affects cellular metabolism, leading to insulin resistance and fat accumulation in hepatocytes.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for SUN1 is not typically a primary diagnostic test for a specific Mendelian disease. Its main utility is in research settings or as a potential modifier gene in patients already diagnosed with conditions like EDMD. The diagnostic yield for azoospermia is likely very low.
+*   **Most Common Reasons for Testing This Gene:** Testing may be considered in patients with Emery-Dreifuss muscular dystrophy or related myopathies who have an unusually severe phenotype, or in research studies investigating the genetic basis of NAFLD.
+*   **Clinical Actionability and Management Implications:** Identifying a SUN1 variant currently has limited direct clinical actionability. In muscular dystrophy, it may help explain phenotype severity but does not typically alter management. For metabolic disease, the common variant is a risk factor among many and would support lifestyle and therapeutic interventions for NAFLD.
+*   **Genetic Counseling Considerations:** Counseling for SUN1 variants should emphasize their role as risk factors or disease modifiers rather than primary causative mutations for most associated phenotypes. The complex inheritance and variable expressivity should be discussed.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 37567366, 2023:** This study identified a common coding variant (rs6461378, p.His118Tyr) in SUN1 that is associated with hepatic steatosis and metabolic disease in large cohorts, linking it to increased proteasomal degradation and cellular insulin resistance.
+*   **PMID: 25210080, 2014:** A key study that screened SUN1 in patients with Emery-Dreifuss muscular dystrophy, identifying variants that act as modifiers of disease severity and providing evidence that they disrupt nuclear-cytoskeletal connections.
+*   **PMID: 24316377, 2013:** This research demonstrated that the accumulation of SUN1 protein is a pathogenic event in laminopathies (e.g., progeria), and that reducing SUN1 levels could ameliorate disease phenotypes in mouse models and human cells.
+*   **PMID: 23152771, 2012:** Research showing that SUN1 splice variants have different functional roles in processes like directional cell migration, suggesting a mechanism for the diverse functions of the LINC complex.
+*   **PMID: 32325515, 2020:** A study in humans that linked a homozygous missense mutation in a protein interacting with SUN1 (CCDC155) to non-obstructive azoospermia and premature ovarian insufficiency, highlighting SUN1's critical role in fertility.
+*   **PMID: 16648464, 2006:** A foundational paper demonstrating that SUN1 interacts with nuclear lamins and cytoplasmic nesprins to form a physical bridge between the nuclear lamina and the cytoskeleton.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   The common missense variant rs6461378 (p.His118Tyr) is strongly associated with an increased risk for Hepatic steatosis (HP:0001397) and other features of metabolic syndrome like Type 2 diabetes mellitus (HP:0005978) and Hypertension (HP:0000822).
+*   **Phenotype red flags:**
+    *   While not diagnostic on its own, the presence of an unusually severe Emery-Dreifuss muscular dystrophy (HP:0003741) phenotype in a patient with a known primary mutation (e.g., in *EMD* or *LMNA*) should raise suspicion for a modifying variant in a gene like *SUN1*.
+    *   Non-obstructive azoospermia (HP:0000027) is a potential, though likely rare, presentation for biallelic loss-of-function variants.
+*   **Differential diagnosis considerations:**
+    *   For muscular dystrophy phenotypes, the primary differential includes genes directly causing Emery-Dreifuss muscular dystrophy (*LMNA, EMD, FHL1, TMEM43, SYNE1, SYNE2*).
+    *   For hepatic steatosis and metabolic syndrome, the differential is broad and includes numerous genetic and environmental risk factors, including variants in *PNPLA3* and *TM6SF2*.
+

@@ -1,0 +1,74 @@
+NEK10 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 18592
+*   **OMIM Gene ID:** 618726
+*   **Primary Disease Associations:** Primary ciliary dyskinesia 44 (CILD44), an autosomal recessive disorder.
+*   **Clinical Significance Level:** There is sufficient evidence to support a gene-disease association, classified as "Green List (High Evidence)" by Genomics England.
+*   **Inheritance Patterns Observed in Patients:** Autosomal recessive inheritance has been observed in patients with primary ciliary dyskinesia.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint scores for NEK10 are pLI = 0.00, LOEUF = 1.25. Specific values for pRec and pNull are not readily available.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score and high LOEUF score suggest that NEK10 is tolerant to loss-of-function variation in the general population. This is not unexpected for a gene associated with a recessive disease.
+*   **Variant Classes Most Likely to Be Pathogenic:** Loss-of-function variants, such as nonsense and frameshift mutations, are the most likely to be pathogenic, consistent with the observed autosomal recessive inheritance pattern.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Bronchiectasis (HP:0002110)
+    *   Chronic rhinosinusitis (HP:0011108)
+    *   Recurrent respiratory infections (HP:0002205)
+    *   Short stature (HP:0004322)
+    *   Ciliary immotility (HP:0012253)
+    *   Reduced mucociliary clearance (HP:0012254)
+    *   Male infertility (HP:0000789)
+    *   Situs inversus totalis (HP:0001692) (less common)
+    *   Laterality defects
+    *   Ciliary hypoplasia
+*   **Secondary HPO terms:**
+    *   Cough (HP:0012735)
+    *   Tachypnea (HP:0002789)
+    *   Digital clubbing (HP:0001217)
+    *   Otitis media (HP:0000388)
+    *   Nasal polyps (HP:0000414)
+*   **Age of Onset Patterns:** Onset is typically in childhood, with recurrent respiratory infections.
+*   **Phenotype Severity Spectrum:** The severity can vary, but it generally leads to chronic respiratory disease (bronchiectasis).
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous loss-of-function mutations (e.g., nonsense, frameshift) are associated with the classic phenotype of primary ciliary dyskinesia, characterized by bronchiectasis and recurrent respiratory infections.
+*   **Protein Domain-Specific Phenotype Patterns:** The kinase domain is critical for function. Variants within this centrally located domain are likely to be pathogenic.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between biallelic loss-of-function variants in NEK10 and primary ciliary dyskinesia is strong.
+*   **Examples: Specific Variants → Specific Phenotypes:** A homozygous nonsense mutation in NEK10 was identified in two siblings with classic clinical and radiological features of primary ciliary dyskinesia.
+
+### **Clinical Variants & Phenotype Associations**
+*   A homozygous c.2317C>T (p.Arg773Cys) variant (rs766982731) has been reported in ClinVar as pathogenic for Primary ciliary dyskinesia 44, with a very low allele frequency of 0.00012.
+*   Homozygous truncating mutations have been associated with primary ciliary dyskinesia.
+*   Further specific, well-characterized pathogenic variants with detailed HPO terms and frequencies are not extensively documented in the search results.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** NEK10 is highly expressed in the testis and lungs. The high expression in the lungs is consistent with the primary ciliary dyskinesia phenotype, which predominantly affects the respiratory system.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in ciliated airway cells directly correlates with the observed phenotype of impaired mucociliary clearance and bronchiectasis. Expression in the testis may relate to male infertility, a known feature of some primary ciliary dyskinesia syndromes.
+*   **Expression During Development and Age-Related Phenotypes:** NEK10 is induced during airway epithelial differentiation, coinciding with the development of ciliated cells. This aligns with the congenital nature of primary ciliary dyskinesia.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function in One Sentence:** NEK10 is a serine/threonine kinase that plays a crucial role in regulating the length and function of motile cilia, which is essential for mucociliary clearance.
+*   **Disease Mechanism: Haploinsufficiency, Dominant-Negative, Gain-of-Function:** The disease mechanism is loss-of-function due to biallelic mutations, consistent with an autosomal recessive inheritance pattern. There is no evidence for haploinsufficiency, dominant-negative, or gain-of-function mechanisms.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** NEK10 deficiency leads to pathologically short motile cilia and impaired mucociliary transport. This results from the dysregulation of a large number of ciliary proteins. It is also involved in the DNA damage response and MAPK signaling pathways.
+*   **Protein-Protein Interactions Relevant to Phenotype:** NEK10 interacts with proteins involved in ciliary function and has been linked to the MAPK pathway. It also phosphorylates β-catenin, regulating its cytoplasmic turnover.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** While a recognized cause of primary ciliary dyskinesia, the exact diagnostic yield of NEK10 testing in large cohorts is not specified in the provided results, but it is considered a cause of the disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing for NEK10 variants is indicated in individuals with a clinical suspicion of primary ciliary dyskinesia, particularly those with bronchiectasis of unknown cause.
+*   **Clinical Actionability and Management Implications:** A molecular diagnosis of NEK10-related primary ciliary dyskinesia confirms the diagnosis and allows for appropriate management of chronic respiratory disease, including airway clearance therapies and aggressive treatment of infections. It also informs on the risk of male infertility.
+*   **Genetic Counseling Considerations:** For parents of an affected child, there is a 25% recurrence risk in future pregnancies due to the autosomal recessive inheritance pattern. Carrier testing for at-risk family members and prenatal or preimplantation genetic diagnosis are options.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31959991, 2020:** This study identified homozygous mutations in NEK10 in nine individuals from five families with primary ciliary dyskinesia, establishing it as a disease-causing gene.
+*   **PMID: 32414360, 2020:** A case report of two siblings with primary ciliary dyskinesia due to a homozygous nonsense mutation in NEK10, further supporting its role in the disease.
+*   **Chivukula et al., 2020:** A key study demonstrating that NEK10 is a ciliated-cell specific kinase required for mucociliary transport and that its inactivation leads to a bronchiectasis syndrome.
+*   **A human ciliopathy reveals essential functions for NEK10 in airway mucociliary clearance, 2020:** This publication details how NEK10 deficiency causes a novel human disease characterized by pathologically short motile cilia.
+*   **Analyses of 1236 genotyped primary ciliary dyskinesia individuals..., 2022:** A large genotype-phenotype correlation study in PCD, which helps to place NEK10 in the broader context of this genetically heterogeneous disorder.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Biallelic loss-of-function variants (nonsense, frameshift) in NEK10 are strongly associated with a core phenotype of Bronchiectasis (HP:0002110) and Recurrent respiratory infections (HP:0002205).
+*   **Phenotype red flags:** The presence of bronchiectasis in a patient with a history of recurrent childhood respiratory infections, especially in the absence of other common causes like cystic fibrosis, should raise strong suspicion for a ciliopathy and prompt consideration of NEK10 sequencing.
+*   **Differential diagnosis considerations:** The phenotype of NEK10-related disease overlaps significantly with other genes causing primary ciliary dyskinesia. Therefore, a comprehensive ciliary gene panel is often required for differential diagnosis. Genes associated with normal nasal nitric oxide levels, a feature sometimes seen in NEK10-related PCD, include *RSPH1*, *RSPH4A*, *RSPH9*, and *HYDIN*.
+

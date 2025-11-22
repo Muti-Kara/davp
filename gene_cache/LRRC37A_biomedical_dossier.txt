@@ -1,0 +1,59 @@
+LRRC37A Gene Biomedical Dossier
+### **Gene Dossier: LRRC37A**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 29069
+*   **OMIM Gene ID**: 616555
+*   **Primary Disease Associations**: No definitive monogenic disease association has been established for LRRC37A. It is located in the complex 17q21.31 region, and its copy number variation is associated with risk for Parkinson's disease (PD) and progressive supranuclear palsy (PSP).
+*   **Clinical Significance Level**: The clinical significance of LRRC37A variants is largely unknown. It is not currently associated with a Mendelian disease, but evidence suggests a role as a risk modifier in complex neurodegenerative diseases.
+*   **Inheritance Patterns Observed in Patients**: Not applicable, as no monogenic disorder is currently linked to LRRC37A. Association with complex diseases does not follow Mendelian inheritance patterns.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 data shows a pLI score of 0.00, a pNull score of 1.00, and a pRec score of 0.00. The loss-of-function observed/expected upper-bound fraction (LOEUF) is 1.13.
+*   **Clinical Interpretation of Constraint Scores**: The extremely low pLI score (close to 0) and high LOEUF score (greater than 1.0) indicate that the gene is highly tolerant to loss-of-function variation. This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic**: Given the tolerance to loss-of-function variants, single nucleotide variants (nonsense, frameshift, splice site) are unlikely to be pathogenic on their own. Pathogenicity, if any, may be related to copy number changes or variants that confer a gain-of-function or dominant-negative effect, potentially in the context of complex disease.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No primary HPO terms are directly and causally associated with variants in LRRC37A alone.
+*   **Secondary HPO terms**: While no specific HPO terms are directly linked to LRRC37A variants, the gene's association with the 17q21.31 locus implicates it in phenotypes related to associated syndromes like Koolen-de Vries syndrome and neurodegenerative disorders. HPO terms used in related research include those for Parkinson's disease, such as `Abnormality of movement` (HP:0100022) and `Neurodegeneration` (HP:0002180).
+*   **Age of Onset Patterns**: Not applicable due to the lack of a defined monogenic disease. Associations with neurodegenerative diseases imply an adult onset.
+*   **Phenotype Severity Spectrum**: Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: Copy number variations (CNVs) of LRRC37A, rather than single-nucleotide variants, have been correlated with disease risk. Increased copy number and expression of LRRC37A/2 are associated with protection against Parkinson's disease.
+*   **Protein Domain-Specific Phenotype Patterns**: Information is not available. The protein contains leucine-rich repeat domains predicted to be involved in protein-ligand interactions.
+*   **Genotype-Phenotype Correlation Strength**: The correlation is currently considered associative for complex diseases, not causal for a monogenic disorder. The link between LRRC37A CNVs and Parkinson's disease risk is moderate but requires further study to establish causality.
+*   **Examples: specific variants → specific phenotypes**: The H1 haplotype at the 17q21.31 locus, which can have different LRRC37A copy numbers, is associated with Parkinson's disease risk. Specific protective sub-haplotypes are linked to a higher copy number of LRRC37A/2.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic single-nucleotide variants have been reported in ClinVar for LRRC37A causing a monogenic disease.
+*   ClinVar lists several copy number variations in the 17q21.31 region that include LRRC37A and are associated with Koolen-de Vries syndrome, but LRRC37A is not considered the sole driver of this phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: In humans, LRRC37A expression is noted in the cerebellum and thymus. Studies have shown it is primarily expressed in astrocytes in the human substantia nigra, which is highly relevant to its proposed role in Parkinson's disease pathology. Ancestral expression was restricted to the testis.
+*   **Tissue-Specific Phenotypes Expected**: Based on its expression in astrocytes, variants or copy number changes might lead to phenotypes related to astroglial dysfunction, such as altered inflammatory responses or impaired neuroprotection, contributing to neurodegenerative processes.
+*   **Expression During Development and Age-Related Phenotypes**: The evolutionary expansion of the LRRC37 gene family in primates and changes in its expression pattern suggest a role in the development and function of the primate brain. Its association with adult-onset neurodegenerative diseases aligns with this.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: The LRRC37A protein is a membrane-associated protein that may be secreted and is implicated in cellular migration, chemotaxis, and the inflammatory response.
+*   **Disease Mechanism**: The mechanism is not fully understood. In the context of Parkinson's disease, altered dosage (copy number) of LRRC37A appears to modify disease risk, suggesting a dosage-sensitive role in neuroinflammation and astroglial function. This is not a classic haploinsufficiency or dominant-negative mechanism for a monogenic disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: LRRC37A/2 overexpression upregulates cellular migration and chemotaxis pathways and increases the expression of pro-inflammatory cytokines. Its interaction with α-synuclein in astrocytes suggests it plays a role in the pathological processes of synucleinopathies like Parkinson's disease.
+*   **Protein-Protein Interactions Relevant to Phenotype**: LRRC37A/2 has been shown to interact directly with soluble α-synuclein and co-localizes with Lewy bodies in Parkinson's disease brain tissue.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: Zero for monogenic disease. Testing for LRRC37A is not currently performed for diagnostic purposes.
+*   **Most Common Reasons for Testing This Gene**: Currently, testing is purely for research purposes, primarily to investigate the complex genetics of the 17q21.31 locus in relation to neurodegenerative diseases.
+*   **Clinical Actionability and Management Implications**: None at present.
+*   **Genetic Counseling Considerations**: Counseling would focus on the complex nature of the 17q21.31 locus and the gene's role as a potential risk modifier for complex diseases like Parkinson's, rather than a direct cause of a monogenic disorder. The low pLI score indicates that loss-of-function variants found in a patient are unlikely to be clinically significant on their own.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 35836262, 2022**: Showed that protective sub-haplotypes at the 17q21.31 locus are associated with increased copy number and expression of LRRC37A/2, linking it to Parkinson's disease risk via astroglial inflammation.
+*   **PMID: 23175404, 2013**: Detailed the evolutionary expansion of the LRRC37 gene family in primates, noting its ancestral expression in the testis and acquired expression in the cerebellum and thymus in hominids.
+*   **PMID: 29782414, 2018**: Associated a duplication within the 17q21.31 region with upregulated LRRC37A/LRRC37A2 expression and risk of progressive supranuclear palsy (PSP).
+*   **bioRxiv, 2021 (preprint)**: First proposed that LRRC37A/2 contributes to the Parkinson's disease association at the 17q21.31 locus through its interaction with α-synuclein and its effects on astrocytic function.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: There are no high-confidence associations between specific LRRC37A variants and HPO terms for a monogenic disease.
+*   **Phenotype red flags**: There are no specific HPO terms that are considered red flags for a pathogenic variant in LRRC37A. The gene is not a known cause of Mendelian disease.
+*   **Differential diagnosis considerations**: Because LRRC37A is part of the 17q21.31 locus, large copy number variations involving this gene are seen in Koolen-de Vries syndrome. However, the phenotype of this syndrome is attributed to the loss of multiple genes, primarily KANSL1, not LRRC37A alone.
+

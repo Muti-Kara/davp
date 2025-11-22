@@ -1,0 +1,58 @@
+TBC1D28 Gene Biomedical Dossier
+### **Gene Dossier: TBC1D28**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 29288.
+*   **OMIM Gene ID:** 618999.
+*   **Primary Disease Associations:** No established disease phenotype has been linked to variants in TBC1D28 in OMIM or the current literature.
+*   **Clinical Significance Level:** Unknown; evidence for a role in human disease is currently lacking or has not been reported.
+*   **Inheritance Patterns:** No Mendelian inheritance pattern has been associated with TBC1D28.
+
+**Constraint & Variant Intolerance**
+*   **gnomAD v4.0.0 Constraint Metrics:**
+    *   **pLI (probability of being Loss-of-Function Intolerant):** 0.01.
+    *   **LOEUF (Loss-of-function Observed/Expected Upper-bound Fraction):** 1.25.
+    *   **pRec (probability of being a recessive gene):** 0.61.
+    *   **pNull (probability of being tolerant to both heterozygous and homozygous LoF variants):** 0.39.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score is close to 0 and the LOEUF score is greater than 0.6, indicating that TBC1D28 is not intolerant to loss-of-function variation. This gene is not considered highly constrained, suggesting it is not a common cause of severe, early-onset dominant disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Unknown due to the lack of established pathogenic variants; however, the gene's tolerance to LoF variants suggests that missense or gain-of-function variants would be a higher priority for investigation if a phenotype is suspected.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific Human Phenotype Ontology (HPO) terms are currently associated with TBC1D28 in the literature or major databases.
+*   **Secondary HPO terms:** No secondary HPO terms are associated with TBC1D28.
+*   **Age of Onset Patterns:** Not applicable as no disease association has been established.
+*   **Phenotype Severity Spectrum:** Not applicable as no disease association has been established.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Typical Phenotypes:** No genotype-phenotype correlations have been established for TBC1D28.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific phenotype patterns have been linked to variants in the TBC1 or Rab-GTPase activating protein domains of TBC1D28.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants in TBC1D28 have been classified as pathogenic or likely pathogenic in ClinVar with a corresponding clinical phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx V8):** Testis (TPM 132.55), Lung (TPM 7.38), and Kidney - Cortex (TPM 4.31). Expression is also noted in the trabecular meshwork of the eye.
+*   **Tissue-Specific Phenotypes Expected:** Given the high expression in the testis, variants could theoretically be associated with male infertility; however, no such association has been reported.
+*   **Expression During Development:** Information on developmental expression patterns and their relation to age-related phenotypes is not available.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The TBC1D28 protein is predicted to function as a GTPase activator, specifically for Rab GTPases, playing a role in intracellular protein transport.
+*   **Disease Mechanism:** The mechanism of disease, if any, is unknown. The gene's tolerance to loss-of-function variants makes haploinsufficiency an unlikely mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of Rab GTPase-mediated vesicle trafficking could theoretically impact numerous cellular processes, but specific downstream phenotypic consequences in humans have not been documented.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Interacts with Rab GTPases, but the clinical relevance of these interactions is unknown.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for TBC1D28 is effectively zero, as it is not currently associated with any clinical phenotype.
+*   **Most Common Reasons for Testing This Gene:** This gene is typically sequenced as part of large gene panels or whole-exome/genome sequencing, not as a targeted test for a specific disorder.
+*   **Clinical Actionability and Management Implications:** None at this time.
+*   **Genetic Counseling Considerations:** Variants identified in TBC1D28 should be classified as variants of uncertain significance in the absence of strong, segregating phenotypic evidence, given the lack of a known disease association and the gene's tolerance to variation.
+
+**Key Clinical Literature & Studies**
+*   There are currently no key publications (2020-2025) or landmark historical papers that establish a definitive genotype-phenotype correlation for TBC1D28 in clinical genetics.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** None have been established.
+*   **Phenotype Red Flags:** There are currently no HPO terms that would strongly suggest a pathogenic variant in TBC1D28.
+*   **Differential Diagnosis Considerations:** Not applicable.
+

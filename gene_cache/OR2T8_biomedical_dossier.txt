@@ -1,0 +1,53 @@
+OR2T8 Gene Biomedical Dossier
+### **Gene Dossier: OR2T8**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:14329
+*   **OMIM Gene ID:** Not available in OMIM
+*   **Primary Disease Associations:** There are no established disease associations for OR2T8 in OMIM or other major clinical databases.
+*   **Clinical Significance Level:** No clinical significance has been established.
+*   **Inheritance Patterns:** No inheritance patterns have been described as there are no associated diseases.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI: 0.00
+    *   LOEUF: 1.13
+    *   pRec: 0.49
+    *   pNull: 0.51
+*   **Clinical Interpretation of Constraint Scores:** The gnomAD v2.1.1 constraint scores indicate a high tolerance for loss-of-function variation. The very low pLI score suggests that heterozygous loss-of-function variants are not under strong negative selection in the general population.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, it is unlikely that this class of variants would be pathogenic for a haploinsufficient disease mechanism. There is no information on which variant classes might be pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   No human phenotype or HPO terms are currently associated with variants in the OR2T8 gene based on extensive searches of clinical and genetic databases.
+
+**Genotype-Phenotype Correlations**
+*   No genotype-phenotype correlations have been reported for the OR2T8 gene.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for OR2T8 are listed in ClinVar. A search of the literature and clinical databases did not identify any characterized variants associated with a clinical phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Genotype-Tissue Expression (GTEx) portal, OR2T8 shows low levels of expression across all tissues analyzed. The highest median expression is observed in the Lung (0.23 TPM).
+*   **Tissue-Specific Phenotypes Expected:** Due to its classification as an olfactory receptor, any potential phenotype would theoretically be related to the sense of smell. However, its low expression in olfactory tissue and higher expression in the lung does not support a clear tissue-specific phenotype.
+*   **Expression During Development and Age-Related Phenotypes:** No data is available on the developmental expression of OR2T8 or any potential association with age-related phenotypes.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** OR2T8 is predicted to function as an odorant receptor involved in the perception of smell.
+*   **Disease Mechanism:** No disease mechanism has been described for OR2T8.
+*   **Cellular/Molecular Pathways Disrupted:** The gene is involved in the olfactory transduction pathway. No specific phenotype consequences of disruption have been documented.
+*   **Protein-Protein Interactions Relevant to Phenotype:** No protein-protein interactions with known clinical relevance have been reported.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for this gene is effectively zero, as it is not included in standard clinical testing panels for any known phenotype.
+*   **Most Common Reasons for Testing This Gene:** There are currently no clinical indications for testing the OR2T8 gene.
+*   **Clinical Actionability and Management Implications:** There is no known clinical actionability associated with this gene.
+*   **Genetic Counseling Considerations:** Genetic counseling would focus on the lack of evidence for any disease association and the classification of OR2T8 as a gene of unknown significance.
+
+**Key Clinical Literature & Studies**
+*   A comprehensive search of PubMed and other literature databases did not identify any clinical studies or case reports establishing a correlation between OR2T8 variants and a specific phenotype. The available literature is confined to large-scale genomics or olfactory receptor family studies without individual gene-phenotype details.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** None known.
+*   **Phenotype Red Flags:** None known.
+*   **Differential Diagnosis Considerations:** Not applicable.
+

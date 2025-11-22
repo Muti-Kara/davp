@@ -1,0 +1,75 @@
+NUTM2A Gene Biomedical Dossier
+### **Gene Dossier: NUTM2A**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 23438.
+*   **OMIM Gene ID:** Data not found in search results.
+*   **Primary Disease Associations:** Primarily associated with cancers through gene fusion events, including Endometrial Stromal Sarcoma and a variant of CIC-rearranged sarcoma.
+*   **Clinical Significance Level:** Evidence is currently centered on somatic fusion events in cancer; significance for germline disease is not well established.
+*   **Inheritance Patterns:** Not applicable in the context of somatic fusions; germline inheritance patterns have not been described.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint scores for NUTM2A were not found in the search results. General information defines pLI (probability of being loss-of-function intolerant) scores close to 1 as indicating intolerance to protein-truncating variants. The LOEUF (loss-of-function observed/expected upper bound fraction) is a newer metric where lower values indicate intolerance.
+*   **Clinical Interpretation of Constraint Scores:** High pLI (≥0.9) or low LOEUF scores suggest a gene is intolerant to loss-of-function (LoF) variation and may be associated with dominant diseases or haploinsufficiency. The absence of specific scores for NUTM2A prevents a direct interpretation for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** In the context of its known disease association, the pathogenic variants are gene fusions (e.g., NUTM2A-CIC, YWHAE-NUTM2A), a type of structural variation. Information on the pathogenicity of germline nonsense, missense, or splice variants is not available.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As NUTM2A's primary association is with somatic cancers, a typical HPO phenotype spectrum for a Mendelian disorder is not established. Associated phenotypes are related to the cancer type.
+    *   Sarcoma (HP:0002856)
+    *   Endometrial stromal sarcoma (HP:0030146)
+    *   Undifferentiated small round cell sarcoma
+*   **Secondary HPO terms:** Data not available.
+*   **Age of Onset Patterns:** The reported case of NUTM2A-CIC fusion sarcoma occurred in a 43-year-old woman. Endometrial stromal sarcomas involving YWHAE-NUTM2A fusions occur in adults.
+*   **Phenotype Severity Spectrum:** Sarcomas involving NUTM2A fusions are described as clinically aggressive with a poor prognosis and potential for fatal outcomes.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Gene Fusions:** Specific fusions involving NUTM2A are linked to distinct cancer types. The YWHAE-NUTM2A fusion is characteristic of a high-grade subtype of endometrial stromal sarcoma. The NUTM2A-CIC fusion defines a genetically distinct variant of CIC-rearranged small round cell sarcoma.
+*   **Protein Domain-Specific Phenotype Patterns:** Data not available.
+*   **Genotype-Phenotype Correlation Strength:** Strong. Specific somatic fusion events are defining features of particular aggressive sarcomas.
+*   **Examples: specific variants → specific phenotypes:**
+    *   **YWHAE-NUTM2A/B fusion →** High-grade endometrial stromal sarcoma.
+    *   **NUTM2A exon 7-CIC exon 12 fusion →** Aggressive, undifferentiated small round cell sarcoma.
+
+**Clinical Variants & Phenotype Associations**
+*   The primary pathogenic variants are somatic gene fusions, not germline variants with rsIDs.
+    *   **HGVS:** NUTM2A-CIC fusion.
+    *   **ClinVar Significance:** Not applicable (somatic).
+    *   **Reported Phenotypes:** Undifferentiated small round cell sarcoma.
+    *   **AF:** Not applicable (somatic).
+*   The primary pathogenic variants are somatic gene fusions, not germline variants with rsIDs.
+    *   **HGVS:** YWHAE-NUTM2A fusion.
+    *   **ClinVar Significance:** Not applicable (somatic).
+    *   **Reported Phenotypes:** High-grade endometrial stromal sarcoma.
+    *   **AF:** Not applicable (somatic).
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** GTEx data indicates expression in various tissues, including the thyroid, esophagus mucosa, and tibial nerve. The relevance of this expression pattern to the development of sarcomas in other tissues is unclear.
+*   **Tissue-Specific Phenotypes Expected:** The known phenotypes are tissue-specific cancers: endometrial stromal sarcoma arises in the uterus, and other sarcomas can arise in soft tissues.
+*   **Expression During Development and Age-Related Phenotypes:** Data not available.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The precise function of the NUTM2A protein is not well-described in the search results.
+*   **Disease Mechanism:** The disease mechanism is gain-of-function resulting from the creation of a chimeric oncogene fusion protein (e.g., NUTM2A-CIC, YWHAE-NUTM2A).
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The NUTM2A-CIC fusion protein is considered an oncogene protein that drives the proliferation of undifferentiated small round tumor cells, leading to a clinically aggressive sarcoma. YWHAE-NUTM2A fusions are associated with high-grade tumors and may involve pathways related to cyclin D1.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The fusion of NUTM2A with proteins like CIC or YWHAE creates the pathogenic driver of the associated cancers.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for NUTM2A fusions is relevant for the differential diagnosis of specific sarcoma subtypes. For instance, an NGS-based assay demonstrated good sensitivity for detecting endometrial stromal sarcoma fusion transcripts.
+*   **Most Common Reasons for Testing This Gene:** Testing is performed on tumor tissue to identify diagnostic and prognostic genetic markers in undifferentiated sarcomas or suspected high-grade endometrial stromal sarcomas.
+*   **Clinical Actionability and Management Implications:** Identifying a NUTM2A fusion can confirm a specific sarcoma diagnosis, which carries prognostic weight as these tumors are often aggressive. This information can guide treatment decisions, although specific targeted therapies were not detailed in the search results.
+*   **Genetic Counseling Considerations:** As the known pathogenic variants are somatic, genetic counseling would focus on explaining the nature of the acquired genetic change in the tumor and the non-hereditary basis of the disease.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 28188754, 2017:** Described a novel NUTM2A-CIC fusion in a 43-year-old woman, defining a genetically distinct and aggressive variant of CIC-rearranged small round cell sarcoma.
+*   **PMID: 22456610, 2012:** Characterized the clinicopathologic features of endometrial stromal sarcomas with YWHAE-NUTM2A/B fusions, establishing them as histologically high-grade and clinically aggressive tumors.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   A **NUTM2A-CIC gene fusion** in tumor tissue is strongly associated with the phenotype of **undifferentiated small round cell sarcoma (HP:0030146)**.
+    *   A **YWHAE-NUTM2A gene fusion** in tumor tissue is strongly associated with **high-grade endometrial stromal sarcoma**.
+*   **Phenotype red flags:**
+    *   The presence of an **undifferentiated small round cell sarcoma**, particularly one negative for other common fusion markers like ETV4, should raise suspicion for a CIC-related fusion, including NUTM2A-CIC.
+    *   A diagnosis of **endometrial stromal sarcoma** with high-grade, round-cell morphology is a strong indicator to test for a YWHAE-NUTM2A fusion.
+*   **Differential diagnosis considerations:** The phenotype of undifferentiated small round cell sarcoma overlaps with other sarcomas driven by different gene fusions. Therefore, molecular testing is essential to differentiate NUTM2A-CIC sarcoma from other entities within the "CIC-rearranged sarcoma" category.
+

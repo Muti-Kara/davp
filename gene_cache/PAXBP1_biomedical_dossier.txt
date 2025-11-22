@@ -1,0 +1,52 @@
+PAXBP1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:24077.
+*   **OMIM Gene ID:** 617655.
+*   **Primary Disease Associations:** A 2017 study identified a homozygous missense variant in *PAXBP1* in a family with global developmental delay and myopathic hypotonia. Other reported associations include myeloid leukemia associated with Down syndrome.
+*   **Clinical Significance Level:** The evidence for its role in global developmental delay and myopathic hypotonia is emerging.
+*   **Inheritance Patterns:** An autosomal recessive mode of inheritance was suggested in a family with global developmental delay and myopathic hypotonia.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The probability of being loss-of-function intolerant (pLI) score is a metric used to indicate how intolerant a gene is to protein-truncating variants. A pLI score of ≥ 0.9 suggests that the gene is extremely intolerant to such variants. Specific constraint scores for *PAXBP1* from gnomAD are not available in the provided search results.
+*   **Clinical Interpretation of Constraint Scores:** High pLI scores (closer to 1) indicate that a gene is intolerant to loss-of-function variants and may be associated with dominant genetic diseases.
+*   **Variant Classes Most Likely to Be Pathogenic:** Based on a case study, missense variants may be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Global developmental delay (HP:0001263).
+    *   Myopathic hypotonia (HP:0008947).
+    *   Developmental delay (HP:0001263).
+    *   Hypotonia (HP:0001252).
+*   **Age of Onset Patterns:** The onset of global developmental delay and myopathic hypotonia was observed in a family with affected individuals, but the specific age of onset is not detailed in the provided search results.
+*   **Phenotype Severity Spectrum:** In a reported family, the phenotype included global developmental delay and myopathic hypotonia, suggesting a potentially severe presentation.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A homozygous missense variant (c.1612C>T; p.Arg538Cys) was associated with global developmental delay and myopathic hypotonia.
+*   **Protein Domain-Specific Phenotype Patterns:** The p.Arg538Cys variant is located in the PAX7 binding domain of the PAXBP1 protein. This variant is predicted to disrupt the local conformation of this domain.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between the homozygous p.Arg538Cys variant and the phenotype of global developmental delay and myopathic hypotonia is based on a single large family, indicating a need for further research to establish a strong correlation.
+*   **Examples: specific variants → specific phenotypes:** The homozygous c.1612C>T (p.Arg538Cys) variant in *PAXBP1* was identified in individuals with global developmental delay and myopathic hypotonia.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1612C>T / p.Arg538Cys / Likely Pathogenic / Global developmental delay (HP:0001263), Myopathic hypotonia (HP:0008947) / Allele frequency not specified in the provided results.** This missense variant is located in the PAX7 binding domain and is predicted to be deleterious.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *PAXBP1* is highly expressed in the brain, specifically the cerebellar hemisphere and cerebellum. It is also found in abundance in muscle precursor cells. This expression pattern aligns with the observed phenotypes of developmental delay and myopathic hypotonia. Mouse studies also show high expression in T cells within the thymus.
+*   **Tissue-Specific Phenotypes Expected:** Given its expression, variants in *PAXBP1* would be expected to cause neurological and muscular phenotypes.
+*   **Expression During Development and Age-Related Phenotypes:** *PAXBP1* is involved in myogenesis and the proliferation of muscle progenitor cells. It also plays a role in postnatal brain development in mouse models.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PAXBP1 is an adapter protein that connects the transcription factors PAX3 and PAX7 to the histone methylation machinery, which is crucial for myogenesis.
+*   **Disease Mechanism:** The identified homozygous missense variant (p.Arg538Cys) is thought to cause a local perturbation of the loop conformation in the PAX7 binding domain of the PAXBP1 protein, suggesting a loss-of-function or altered-function mechanism. In mouse models, loss of Paxbp1 leads to impaired mTORC1 signaling and increased p53 activation, resulting in defective cell growth and apoptosis in muscle satellite cells.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** PAXBP1 is involved in regulating the expression of genes important for muscle progenitor cell proliferation. Disruption of this function could lead to myopathic hypotonia. Its role in histone methylation suggests broader effects on gene regulation, potentially contributing to global developmental delay. Mouse studies have linked Paxbp1 to mTORC1 signaling, which is a master regulator of cell growth and metabolism. Deletion of Paxbp1 in mouse muscle satellite cells leads to increased reactive oxygen species (ROS), p53 activation, and impaired mTORC1 signaling, which in turn causes defective cell growth and apoptosis. In thymocytes, Paxbp1 deficiency leads to increased apoptosis.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PAXBP1 binds to PAX3 and PAX7, linking them to a histone methyltransferase complex.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 28542722, Year: 2017:** This study first linked a homozygous missense variant in *PAXBP1* to a distinct syndrome of global developmental delay and myopathic hypotonia in a large family.
+*   **PMID: 33753492, Year: 2021:** This research on mouse models demonstrated that Paxbp1 is essential for the transition of muscle satellite cells from a quiescent to an active state during muscle regeneration, controlling a key checkpoint for cell growth and survival.
+*   **PMID: 37425674, Year: 2023:** A study in mice showed that Paxbp1 is indispensable for the survival of double-positive thymocytes, playing a critical role in proper thymic development.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** The homozygous c.1612C>T (p.Arg538Cys) variant is strongly associated with global developmental delay (HP:0001263) and myopathic hypotonia (HP:0008947).
+*   **Phenotype red flags:** The combination of global developmental delay and myopathic hypotonia should raise suspicion for pathogenic variants in *PAXBP1*, particularly with an autosomal recessive inheritance pattern.
+*   **Differential diagnosis considerations:** The clinical presentation of global developmental delay and hypotonia can be seen in numerous other genetic syndromes.
+

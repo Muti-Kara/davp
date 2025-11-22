@@ -1,0 +1,91 @@
+TGM6 Gene Biomedical Dossier
+### **Gene Dossier: TGM6**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 16255.
+*   **OMIM Gene ID:** 613900.
+*   **Primary Disease Associations:** Spinocerebellar ataxia 35 (SCA35) is the primary disease associated with TGM6 mutations. There are also emerging associations with Parkinson's disease (PD), episodic ataxia, and dystonic tremors.
+*   **Clinical Significance Level:** The evidence for association with spinocerebellar ataxia type 35 is classified as "Strong" to "Moderate" by different clinical submitters like Labcorp Genetics and Ambry Genetics. Some studies have cast doubt on the pathogenicity of certain variants, suggesting a risk of misdiagnosis or low penetrance.
+*   **Inheritance Patterns:** The mode of inheritance is autosomal dominant. Some cases may arise from *de novo* mutations.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** According to gnomAD, TGM6 is not highly constrained against loss-of-function variants. Gene constraint metrics have shown that both missense and loss-of-function variants are likely tolerated. Specific scores like pLI and LOEUF are interpreted as showing tolerance.
+*   **Clinical Interpretation of Constraint Scores:** The gnomAD constraint metrics suggest that TGM6 is tolerant of inactivating mutations. This lack of constraint has led to questions regarding the pathogenicity of some reported variants, especially given their frequency in certain populations.
+*   **Variant Classes Most Likely to Be Pathogenic:** Most reported pathogenic variants are heterozygous missense mutations. Intragenic deletions, duplications, and splice site mutations have also been reported, though less frequently.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Cerebellar ataxia.
+    *   Gait instability.
+    *   Dysarthria.
+    *   Hand tremor.
+    *   Nystagmus.
+    *   Cerebellar atrophy.
+    *   Action tremor.
+    *   Postural instability.
+    *   Saccadic slowing.
+    *   Pyramidal signs/Hyperreflexia.
+*   **Secondary HPO terms:**
+    *   Extrapyramidal signs.
+    *   Parkinsonism.
+    *   Spasmodic torticollis.
+    *   Impaired proprioception.
+    *   Myoclonic jerks.
+    *   Intellectual disability (rare).
+    *   Dystonia.
+    *   Paresthesia.
+    *   Episodic ataxia.
+    *   Oculomotor apraxia.
+*   **Age of Onset Patterns:** The age of onset is highly variable, ranging from the first decade to late adulthood (after the fourth decade). Most commonly, onset is in the fourth or fifth decade of life.
+*   **Phenotype Severity Spectrum:** The disease course is typically a slowly progressive ataxia. Patients with a PD phenotype may have milder symptoms and slower progression compared to typical PD.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Most mutations identified are missense variants, leading to the SCA35 phenotype. There is no clear genotype-phenotype correlation established, as the same variant has been reported in individuals with different phenotypes (e.g., SCA and PD).
+*   **Protein Domain-Specific Phenotype Patterns:** Mutations are distributed across the gene without a clear hotspot. Some mutations lead to a nearly complete loss of protein function and aberrant cellular localization.
+*   **Genotype-Phenotype Correlation Strength:** Weak. A definitive genotype-phenotype relationship has not been established. For example, the R111C variant has been identified in patients with both parkinsonism and SCA35.
+*   **Examples: specific variants → specific phenotypes:**
+    *   p.L517W (c.1550T>G): Initially identified in a large Chinese family with SCA35, but its pathogenicity has been questioned as it was later found in healthy individuals and did not segregate with disease in another family.
+    *   p.R111C (c.331C>T): Associated with both Parkinson's disease and SCA35 phenotypes.
+    *   p.D327G (c.980A>G): Identified in a family with SCA35.
+
+**Clinical Variants & Phenotype Associations**
+*   **p.Arg111Cys (R111C):** Pathogenic/Likely Pathogenic; Reported in patients with SCA35 and Parkinson's disease.
+*   **p.Asp327Gly (D327G):** Pathogenic; Reported in a family with SCA35.
+*   **p.Leu517Trp (L517W):** Pathogenic/Uncertain Significance; Initially linked to SCA35, but pathogenicity is now debated. Associated with progressive ataxia.
+*   **p.Asp510His (D510H):** Pathogenic; Identified in a Taiwanese patient with SCA35.
+*   **p.Glu574del:** Pathogenic; Novel 3-base pair deletion found in a Taiwanese patient with SCA35.
+*   **p.Val626Met (V626M):** Likely Pathogenic; A *de novo* variant found in a patient with early-onset SCA35 and extrapyramidal features.
+*   **p.Gly477Valfs*15:** Pathogenic; A frameshift variant identified in a German family with late-onset cerebellar ataxia (SCA35).
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** TGM6 is abundantly expressed in the brain. The GTEx portal shows expression in various tissues, with notable levels in the brain, particularly the cerebellum.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the cerebellum aligns with the primary phenotype of cerebellar ataxia. Expression in the basal ganglia may relate to the observed parkinsonism and extrapyramidal features.
+*   **Expression During Development and Age-Related Phenotypes:** The role of expression changes over the lifespan is not fully characterized, but the typical adult-onset of SCA35 suggests a neurodegenerative process where protein function becomes critical later in life.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The TGM6 gene encodes transglutaminase 6 (TG6), an enzyme that catalyzes the calcium-dependent cross-linking of proteins.
+*   **Disease Mechanism:** The mechanism appears complex and may involve loss-of-function, dominant-negative effects, or gain-of-function depending on the specific mutation. Some mutations cause a loss of enzymatic activity and protein instability.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Mutant TG6 can accumulate, leading to activation of the unfolded protein response (UPR) and endoplasmic reticulum stress, which can cause neuronal death. Wild-type TG6 may play a neuroprotective role by enhancing autophagy and reducing levels of α-synuclein, a pathway disrupted by mutant forms, potentially linking it to Parkinson's disease pathology.
+*   **Protein-Protein Interactions Relevant to Phenotype:** TG6 can interact with and crosslink α-synuclein, which is central to the pathology of Parkinson's disease.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** TGM6 mutations are a rare cause of spinocerebellar ataxia, accounting for approximately 0.6% of SCA cases in a Taiwanese cohort. The majority of cases have been reported in individuals of East Asian descent.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with progressive, often late-onset, cerebellar ataxia, especially if presenting with associated features like parkinsonism, dystonia, or myoclonus. A family history of autosomal dominant ataxia is also a key indicator.
+*   **Clinical Actionability and Management Implications:** Management is symptomatic and supportive. Patients with Parkinsonism associated with TGM6 variants may show a favorable response to levodopa/carbidopa.
+*   **Genetic Counseling Considerations:** Autosomal dominant inheritance means that offspring of an affected individual have a 50% chance of inheriting the pathogenic variant. The significant phenotypic variability and potential for reduced penetrance should be discussed.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 21098642 (2010):** Landmark paper that first identified TGM6 as the causative gene for SCA35 by identifying two different missense mutations (L517W and D327G) in two Chinese families.
+*   **PMID: 32259886 (2020):** Investigated the link between TGM6 variants and Parkinson's disease, finding that mutant TG6 had lower enzymatic activity and that wild-type TG6 may be neuroprotective by reducing α-synuclein and enhancing autophagy.
+*   **PMID: 30670339 (2019):** Raised significant doubts about TGM6's role in SCA35 by showing that reported pathogenic variants are common in East Asian populations and that the gene is not under strong constraint, suggesting a high chance of misdiagnosis or low penetrance.
+*   **PMID: 32219904 (2020):** Challenged the pathogenicity of the p.L517W variant by showing it did not segregate with the ataxia phenotype in a family that also had a pathogenic expansion in ATN1, the cause of DRPLA.
+*   **PMID: 30128531 (2018):** Showed that different TGM6 mutations can cause neurotoxicity through diverse mechanisms, including loss of function, aberrant cellular localization, and induction of the unfolded protein response (UPR).
+*   **PMID: 34722515 (2021):** Provided a pooled analysis of 48 patients, describing the broad clinical spectrum including SCA, early-onset PD, episodic ataxia, and dystonic tremor, and reported a novel *de novo* variant in a patient with atypical early-onset SCA.
+*   **PMID: 23685358 (2013):** Expanded the mutational and clinical spectrum of SCA35 in a Taiwanese cohort, identifying novel mutations (p.R111C and p.E574del) and showing they attenuated protein stability and catalytic activity.
+*   **PMID: 32658826 (2020):** Reported the first case of a German family with a novel frameshift TGM6 mutation, suggesting TGM6 variants may be an underdiagnosed cause of ataxia in European populations.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Heterozygous missense and, more rarely, deletion/duplication or splice site variants are associated with a core phenotype of adult-onset, slowly progressive cerebellar ataxia (HP:0001251), gait instability (HP:0001278), and dysarthria (HP:0001260).
+*   **Phenotype red flags:** The combination of classic cerebellar ataxia with extrapyramidal signs (HP:0002071), spasmodic torticollis (HP:0002485), myoclonus (HP:0001336), or parkinsonism (HP:0001300) should raise suspicion for a TGM6-related disorder.
+*   **Differential diagnosis considerations:** The phenotype overlaps with other autosomal dominant SCAs, particularly those with later onset such as SCA6 (CACNA1A) and SCA17 (TBP). The presence of parkinsonism warrants consideration of genes like LRRK2, SNCA, and PRKN, although the TGM6-associated form may be slower to progress.
+

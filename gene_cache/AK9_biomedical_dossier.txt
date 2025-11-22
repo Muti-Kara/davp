@@ -1,0 +1,86 @@
+AK9 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 33814.
+- **OMIM Gene ID**: 615358.
+- **Primary Disease Associations**: Spermatogenic Failure 89 (OMIM: 620705), Postsynaptic Congenital Myasthenic Syndromes, and Idiopathic Normal Pressure Hydrocephalus.
+- **Clinical Significance Level**: Supportive evidence for association with postsynaptic congenital myasthenic syndrome. Recent studies provide strong evidence for its role in male infertility and idiopathic normal pressure hydrocephalus.
+- **Inheritance Patterns Observed in Patients**: Autosomal recessive inheritance is reported for postsynaptic congenital myasthenic syndrome. Damaging heterozygous mutations have been identified in patients with idiopathic normal pressure hydrocephalus.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: The gnomAD v4.0 constraint metrics for AK9 show a pLI of 0.01 and a LOEUF of 1.15. The pRec score is 0 and pNull is 0.99.
+- **Clinical Interpretation of Constraint Scores**: The low pLI (<<0.9) and high LOEUF score (>0.6) suggest that the gene is tolerant to loss-of-function variants. This indicates that haploinsufficiency is not a common disease mechanism. The high pNull score further supports that the gene is not highly constrained against truncating variants.
+- **Variant Classes Most Likely to be Pathogenic**: While the gene appears tolerant to heterozygous loss-of-function variants, specific missense, splice site, and truncating mutations have been reported as pathogenic. Digenic mutations have also been implicated.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**:
+    - Asthenozoospermia (HP:0012752).
+    - Male infertility (HP:0000789).
+    - Hydrocephalus (HP:0000238).
+    - Gait imbalance (HP:0002141).
+    - Urinary incontinence (HP:0000020).
+    - Dementia (HP:0000726).
+    - Limb-girdle muscle weakness (HP:0006785).
+    - Severe congenital hypotonia (HP:0001252).
+- **Secondary HPO terms**:
+    - Abnormal sperm motility (HP:0001591).
+    - Abnormal sperm flagellum morphology (HP:0008104).
+    - Reduced sperm-zona pellucida binding (inferred).
+    - Decreased blastocyst development rate (inferred).
+    - Ventriculomegaly (HP:0002119).
+- **Age of Onset Patterns**: Phenotypes can manifest from the congenital period (hypotonia) to adulthood (male infertility, idiopathic normal pressure hydrocephalus).
+- **Phenotype Severity Spectrum**: Severity ranges from mild (limb-girdle weakness) to severe (congenital hypotonia, complete male infertility).
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**:
+    - Truncating and splice site mutations leading to a premature stop codon are associated with severe male infertility due to immotile sperm.
+    - Damaging heterozygous missense and truncating mutations are associated with adult-onset idiopathic normal pressure hydrocephalus.
+    - Digenic mutations in `AK9`, in conjunction with `RAPSN` mutations, have been associated with limb-girdle congenital myasthenia.
+- **Protein Domain-Specific Phenotype Patterns**: Mutations that lead to a truncated protein lacking the C-terminal kinase domain are associated with idiopathic normal pressure hydrocephalus.
+- **Genotype-Phenotype Correlation Strength**: Strong correlation exists between truncating/splice variants and male infertility. A moderate correlation is emerging for damaging heterozygous variants and adult-onset hydrocephalus.
+
+### **Clinical Variants & Phenotype Associations**
+- **c.3391G>A (p.Glu1131Lys)**: ClinVar significance: Uncertain significance; Reported phenotypes: Asthenozoospermia, male infertility; AF (gnomAD): 0.00003.
+- **iNPH-associated mutations**: Multiple damaging missense and truncating mutations have been identified in individuals with idiopathic normal pressure hydrocephalus, found in 9.6% of a patient cohort. Specific rsIDs and allele frequencies for these variants are not detailed in the provided search results.
+- **Bovine splicing mutation**: An intronic variant in the bovine `AK9` gene that activates cryptic splicing leads to a premature termination codon and is associated with extreme subfertility.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM)**: According to The Human Protein Atlas, which incorporates GTEx data, `AK9` RNA is most highly expressed in the testis. There is also notable expression in the brain (cerebellum and cerebral cortex).
+- **Tissue-Specific Phenotypes Expected**: High expression in the testis correlates directly with the male infertility phenotype due to impaired sperm function. Expression in the ciliated ependymal cells of the brain ventricles is linked to the development of hydrocephalus.
+- **Expression During Development and Age-Related Phenotypes**: Heterozygous `AK9` mutations in mice lead to normal development until early adulthood, after which communicating hydrocephalus develops, mirroring the adult-onset phenotype in humans.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: AK9 is a broad-specificity nucleoside phosphate kinase that helps maintain cellular nucleotide homeostasis by interconverting nucleoside phosphates, which is crucial for energy-dependent processes.
+- **Disease Mechanism**:
+    - **Loss-of-function**: Recessive loss-of-function mutations cause male infertility by destabilizing sperm nucleotide homeostasis, leading to low ATP and impaired motility.
+    - **Haploinsufficiency**: Appears to be the mechanism in idiopathic normal pressure hydrocephalus, where heterozygous mutations lead to decreased cilia motility in ependymal cells.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**:
+    - Disruption of nucleotide metabolism in sperm leads to decreased ATP, impairing flagellar motility and causing infertility.
+    - Impaired AK9 function in ependymal cells leads to decreased cilia beat frequency, which is thought to disrupt cerebrospinal fluid flow and cause hydrocephalus.
+    - `AK9` is also involved in the metabolism-related pathway R-HSA-1430728, which may explain its role as a potential modifier in other metabolic disorders.
+- **Protein-Protein Interactions Relevant to Phenotype**: Interactions with other proteins in the sperm flagellum axoneme and ependymal cilia are critical for their function.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: Damaging `AK9` mutations were found in 9.6% of a cohort of 53 patients with shunt-responsive idiopathic normal pressure hydrocephalus.
+- **Most Common Reasons for Testing This Gene**: Testing is indicated for cases of male infertility, particularly asthenozoospermia, and for individuals with clinical signs of normal pressure hydrocephalus.
+- **Clinical Actionability and Management Implications**: Identifying pathogenic `AK9` variants can provide a definitive diagnosis for certain types of male infertility, guiding reproductive counseling. In iNPH, it could help in risk stratification and understanding the underlying cause.
+- **Genetic Counseling Considerations**: For recessive infertility, counseling would involve discussing the 25% recurrence risk for future children. For dominant adult-onset hydrocephalus, counseling would address the 50% risk to offspring and potential for presymptomatic testing.
+
+### **Key Clinical Literature & Studies**
+- **Yang HW, et al. (2023)**: Identified damaging heterozygous mutations in `AK9` in 9.6% of patients with idiopathic normal pressure hydrocephalus (iNPH), establishing a link between `AK9`, cilia function, and adult-onset hydrocephalus.
+- **Holahan MR, et al. (2023)**: Reported that a splice-impairing mutation in `AK9` causes severe subfertility in bulls and that `AK9`-deficient mice are infertile due to immotile sperm with low ATP, highlighting its essential role in male fertility.
+- **Sha Y, et al. (2023)**: Published a study concluding that `AK9` deficiency causes asthenozoospermia and male infertility by destabilizing sperm nucleotide homeostasis.
+- **Lam CW, et al. (2017)**: Reported digenic mutations in `RAPSN` and `AK9` in a case of limb-girdle myasthenia, suggesting a role for `AK9` as a disease modifier.
+- **Ge D, et al. (2009)**: An early genome-wide association study that linked genetic variation near `IL28B` (and other genes including `AK9` in the region) with hepatitis C treatment response, though the direct role of `AK9` was not established.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**:
+    - Biallelic truncating or splice-site variants are strongly associated with Male infertility (HP:0000789) and Asthenozoospermia (HP:0012752).
+    - Heterozygous damaging missense or truncating variants are associated with adult-onset Hydrocephalus (HP:0000238), Gait imbalance (HP:0002141), and Ventriculomegaly (HP:0002119).
+- **Phenotype red flags**:
+    - The combination of asthenozoospermia and abnormal sperm flagellum morphology strongly suggests pathogenic variants in `AK9`.
+    - The presentation of adult-onset communicating hydrocephalus with a normal brain structure should prompt consideration of `AK9` mutations.
+- **Differential diagnosis considerations**:
+    - The myasthenic phenotype overlaps with other congenital myasthenic syndromes caused by mutations in genes like `RAPSN`.
+    - The male infertility phenotype must be distinguished from other genetic causes of asthenozoospermia.
+    - Idiopathic normal pressure hydrocephalus has a broad differential, but a positive family history or early onset could point towards a genetic cause like an `AK9` mutation.
+

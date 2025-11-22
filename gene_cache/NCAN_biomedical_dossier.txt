@@ -1,0 +1,67 @@
+NCAN Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 2465
+- **OMIM Gene ID:** 600826
+- **Primary Disease Associations:** While strongly associated with multifactorial psychiatric conditions like bipolar disorder and schizophrenia in genome-wide association studies, there is emerging evidence for its role in rare Mendelian neurodevelopmental disorders. It has also been linked to non-alcoholic fatty liver disease (NAFLD) and hepatocellular carcinoma.
+- **Clinical Significance Level:** The evidence for its role in Mendelian disease is still developing, but it is a well-established risk factor for complex psychiatric disorders.
+- **Inheritance Patterns Observed in Patients:** For complex traits like bipolar disorder and schizophrenia, the inheritance is multifactorial. For rare disease phenotypes, the inheritance pattern is not yet firmly established but appears to be autosomal dominant in some cases.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** NCAN has a low probability of being loss-of-function intolerant (pLI) score, suggesting it is not highly constrained against protein-truncating variants in the general population. The loss-of-function observed/expected upper bound fraction (LOEUF) score is also not indicative of strong intolerance.
+- **Clinical Interpretation of Constraint Scores:** The lack of strong constraint suggests that complete loss-of-function of one copy of the gene (haploinsufficiency) may not be a common mechanism for severe Mendelian disease. However, this does not rule out other pathogenic mechanisms.
+- **Variant Classes Most Likely to Be Pathogenic:** While protein-truncating variants are not strongly selected against, specific missense variants or variants affecting regulatory regions could be pathogenic, particularly those altering protein function or expression in critical brain regions.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As NCAN's role in Mendelian disease is emerging, a definitive, frequent HPO term list is not yet established. Based on its association with psychiatric and neurodevelopmental disorders, likely relevant HPO terms include:
+    - Intellectual disability (HP:0001249)
+    - Autism (HP:0000717)
+    - Seizures (HP:0001250)
+    - Developmental regression (HP:0002376)
+    - Abnormal brain morphology (HP:0002079)
+    - Bipolar affective disorder (HP:0007302)
+    - Schizophrenia (HP:0100753)
+- **Secondary HPO terms:** Less common but potentially associated HPO terms could include:
+    - Delayed speech and language development (HP:0000750)
+    - Hypotonia (HP:0001252)
+    - Ataxia (HP:0001251)
+- **Age of Onset Patterns:** For psychiatric disorders, the onset is typically in adolescence or early adulthood. For potential neurodevelopmental phenotypes, onset would be in infancy or early childhood.
+- **Phenotype Severity Spectrum:** The severity of phenotypes associated with NCAN variants is likely broad, ranging from subtle effects on cognitive function to more significant neurodevelopmental disorders.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Common non-coding variants (SNPs) are associated with an increased risk for bipolar disorder and schizophrenia, affecting brain structure and function. Rare, likely pathogenic variants are hypothesized to be associated with more severe neurodevelopmental phenotypes, though this is an area of active research.
+- **Protein Domain-Specific Phenotype Patterns:** Specific domains of neurocan are crucial for its function in modulating neuronal adhesion and neurite growth. Variants affecting these domains could plausibly lead to more severe neurodevelopmental outcomes.
+- **Genotype-Phenotype Correlation Strength:** The correlation between common variants and psychiatric disease risk is well-established but represents a modest increase in risk. The correlation between rare variants and specific Mendelian phenotypes is still being defined.
+- **Examples:** The common variant rs1064395 is associated with altered brain function and an increased risk for bipolar disorder and schizophrenia.
+
+### **Clinical Variants & Phenotype Associations**
+Given that NCAN is primarily associated with complex diseases, the ClinVar database does not currently list specific pathogenic variants with clear Mendelian phenotype associations. Most cited variants are risk alleles for psychiatric conditions.
+- **rs1064395:** This single nucleotide polymorphism has been significantly associated with bipolar disorder and schizophrenia in multiple studies. It is linked to the "mania" factor in bipolar disorder.
+- **rs2228603:** This variant is associated with liver inflammation and fibrosis in non-alcoholic fatty liver disease (NAFLD) and has also been linked to an increased risk of hepatocellular carcinoma in the context of alcoholic liver disease.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** NCAN shows high expression in various brain regions, including the cortex, cerebellum, and hippocampus. This aligns with its role in psychiatric and neurodevelopmental disorders where these brain areas are implicated.
+- **Tissue-Specific Phenotypes Expected:** Given its high expression in the brain, variants are expected to primarily manifest with neurological and psychiatric phenotypes. Its expression in the liver also corresponds to the observed association with liver diseases.
+- **Expression During Development and Age-Related Phenotypes:** Neurocan plays a role in brain development, modulating neuronal adhesion and migration. Alterations in its function during this critical period could lead to neurodevelopmental disorders with a childhood onset.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** Neurocan is a chondroitin sulfate proteoglycan in the extracellular matrix of the brain that modulates neuronal adhesion, migration, and neurite growth.
+- **Disease Mechanism:** For complex psychiatric disorders, the mechanism involves subtle alterations in gene expression and brain function due to common risk variants. For potential Mendelian phenotypes, the mechanism is likely a more direct disruption of protein function, though whether it is due to haploinsufficiency, dominant-negative effects, or gain-of-function is not yet clear.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of NCAN function can alter the composition of the brain's extracellular matrix, affecting neural connectivity and synaptic plasticity. This can lead to the cognitive and emotional dysregulation seen in psychiatric disorders and the developmental abnormalities in neurodevelopmental conditions.
+- **Protein-Protein Interactions Relevant to Phenotype:** Neurocan interacts with neural cell adhesion molecules (N-CAM and Ng-CAM) and hyaluronic acid, which are critical for normal brain development and function.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for NCAN variants in cohorts with general developmental delay or intellectual disability is currently unknown but presumed to be low. Testing for common risk variants for psychiatric illness is not standard clinical practice.
+- **Most Common Reasons for Testing This Gene:** Currently, NCAN is not a gene that is routinely tested for in a diagnostic setting for Mendelian disorders. It is primarily studied in a research context for its association with complex diseases.
+- **Clinical Actionability and Management Implications:** At present, there are no specific clinical management guidelines based on NCAN genotype. Management would be based on the patient's clinical phenotype.
+- **Genetic Counseling Considerations:** For common variants associated with psychiatric illness, counseling would involve explaining the multifactorial nature of these conditions and that the variant represents only a small contribution to the overall risk. For rare variants of uncertain significance, counseling would focus on the current lack of definitive evidence for causality.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 22497794, 2012:** Established that common variation in NCAN is a shared risk factor for both bipolar disorder and schizophrenia, expanding its role beyond a single psychiatric diagnosis.
+- **PMID: 25801500, 2015:** Showed that a common NCAN risk variant is associated with deficits in limbic gray matter in both healthy individuals and those with major depression, linking the genetic risk to a specific brain structural phenotype.
+- **PMID: 32583466, 2021:** Demonstrated that a genome-wide significant psychiatric risk variant in NCAN affects explicit memory performance and hippocampal function in healthy individuals, providing a functional consequence for a common risk allele.
+
+### **HPO-Variant Matching Summary**
+- **High-Confidence HPO-Variant Associations:** At present, there are no high-confidence associations between specific NCAN variants and particular HPO terms for Mendelian disorders. The most robust associations are between common SNPs (like rs1064395) and the broad phenotypes of Bipolar Affective Disorder (HP:0007302) and Schizophrenia (HP:0100753) in a risk-conferring, non-causative context.
+- **Phenotype Red Flags:** The presence of a significant psychiatric component, particularly early-onset bipolar disorder or schizophrenia, in an individual with a neurodevelopmental disorder might increase suspicion for the involvement of genes like NCAN.
+- **Differential Diagnosis Considerations:** The potential neurodevelopmental phenotypes associated with NCAN variants would overlap with a wide range of other genetic causes of intellectual disability, autism, and epilepsy. Due to its role in the extracellular matrix, it might share phenotypic overlap with disorders related to other lecticans like VCAN, BCAN, and ACAN.
+

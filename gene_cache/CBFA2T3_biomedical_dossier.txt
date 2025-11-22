@@ -1,0 +1,81 @@
+CBFA2T3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID**: 1537.
+*   **OMIM Gene ID**: 603870.
+*   **Primary Disease Associations**: Primarily associated with somatic rearrangements in cancer, specifically acute myeloid leukemia (AML) and acute megakaryoblastic leukemia (AMKL).
+    *   A translocation t(16;21)(q24;q22) creates a *RUNX1-CBFA2T3* fusion protein in therapy-related myeloid malignancies.
+    *   A cryptic inversion inv(16)(p13.3q24.3) creates a *CBFA2T3-GLIS2* fusion protein, defining an aggressive subtype of pediatric non-Down syndrome AMKL.
+*   **Clinical Significance Level**: Evidence for disease association is primarily related to somatic fusion events in leukemia; its role in germline inherited disease is not well-established.
+*   **Inheritance Patterns**: The primary disease associations are due to somatic, not inherited, variants. No clear Mendelian inheritance pattern for germline variants has been described in OMIM.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI of 0.00, a LOEUF of 1.18, pRec of 0.65, and pNull of 0.35.
+*   **Clinical Interpretation of Constraint Scores**: The low pLI score and high LOEUF score suggest that *CBFA2T3* is tolerant to loss-of-function variation. This indicates that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to Be Pathogenic**: The primary pathogenic variants are chromosomal rearrangements (translocations, inversions) leading to oncogenic fusion proteins. The relevance of missense, nonsense, or splice site variants in the context of inherited disease is not established.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: The following HPO terms are associated with the somatic *CBFA2T3-GLIS2* fusion in pediatric AMKL.
+    *   Acute megakaryoblastic leukemia (HP:0012179).
+    *   Abnormality of blood and blood-forming tissues (HP:0001871).
+    *   Myelodysplasia (HP:0002863).
+    *   Hepatosplenomegaly (HP:0001433).
+    *   Thrombocytopenia (HP:0001873).
+    *   Anemia (HP:0001903).
+    *   Leukocytosis (HP:0001974).
+    *   Abnormal megakaryocyte morphology (HP:0011925).
+    *   Increased circulating blast cells (HP:0002888).
+    *   Bright CD56 expression (a specific immunophenotype, not a standard HPO term).
+    *   Dim/negative HLA-DR expression (immunophenotype).
+    *   Dim/negative CD38 expression (immunophenotype).
+*   **Secondary HPO terms**:
+    *   Eosinophilia (HP:0001880), sometimes with dysplastic features, can be observed.
+    *   Pleomorphic megakaryoblasts, ranging from small to large with cytoplasmic blebs.
+*   **Age of Onset Patterns**: The *CBFA2T3-GLIS2* fusion is characteristic of infantile and early childhood AMKL, with a median age of onset around 1 to 2 years.
+*   **Phenotype Severity Spectrum**: AML with the *CBFA2T3-GLIS2* fusion is considered an extremely aggressive leukemia with a very poor prognosis and high rates of relapse and resistance to chemotherapy.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**:
+    *   **inv(16)(p13.3q24.3)**: This cryptic inversion leads to the *CBFA2T3-GLIS2* fusion protein. It is strongly correlated with pediatric non-Down syndrome acute megakaryoblastic leukemia (AMKL), often presenting in infancy with an aggressive clinical course and poor outcome. This fusion is the most frequent chimeric oncogene in this specific leukemia subtype.
+    *   **t(16;21)(q24;q22)**: This translocation creates a *RUNX1-CBFA2T3* fusion and is found in rare cases of therapy-related AML.
+*   **Protein Domain-Specific Phenotype Patterns**: In the *CBFA2T3-GLIS2* fusion, the MYND zinc finger domain of CBFA2T3, which is required for transcriptional repression, is typically lost. Conversely, the DNA-binding zinc finger domains of GLIS2 are retained, leading to ectopic and aberrant transcriptional regulation.
+*   **Genotype-Phenotype Correlation Strength**: The correlation between the somatic *CBFA2T3-GLIS2* fusion and aggressive pediatric AMKL with a specific "RAM" immunophenotype (bright CD56, dim/negative CD38, and HLA-DR) is strong.
+
+### **Clinical Variants & Phenotype Associations**
+*   Somatic chromosomal rearrangements are the key pathogenic events; data on pathogenic germline variants is not available.
+    *   **inv(16)(p13.3q24.3)** / **NA** / **Pathogenic (somatic)** / Reported phenotypes: Acute megakaryoblastic leukemia (HP:0012179), characterized by the RAM immunophenotype.
+    *   **t(16;21)(q24;q22)** / **NA** / **Pathogenic (somatic)** / Reported phenotypes: Therapy-related acute myeloid leukemia (HP:0004810).
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: According to GTEx, *CBFA2T3* is most highly expressed in the cerebellum and cerebellar hemisphere. It is also expressed in hematopoietic tissues, including bone marrow and blood cells like monocytes.
+*   **Tissue-Specific Phenotypes Expected**: The gene's essential role in hematopoietic stem cell self-renewal and the differentiation of megakaryocyte-erythrocyte progenitors explains why its disruption via fusion events leads to leukemia.
+*   **Expression During Development and Age-Related Phenotypes**: *CBFA2T3* plays a crucial role in normal hematopoietic differentiation, including erythroid and megakaryocytic lineages. The *CBFA2T3-GLIS2* fusion is specifically associated with pediatric/infantile leukemia, suggesting a critical role for the fusion protein in developmental hematopoiesis.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: *CBFA2T3* encodes a transcriptional corepressor that interacts with DNA-binding factors to regulate gene expression, playing a key role in hematopoietic stem cell function and differentiation.
+*   **Disease Mechanism**: The *CBFA2T3-GLIS2* fusion acts as an oncogenic driver. It functions as an aberrant transcription factor that hijacks transcriptional complexes, upregulates pro-leukemic genes like *ERG*, downregulates differentiation factors like *GATA1*, and activates signaling pathways such as BMP and Hedgehog, ultimately blocking differentiation and promoting self-renewal of hematopoietic progenitors.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: The fusion protein alters transcriptional networks controlling hematopoietic development. Disruption of the Hedgehog and BMP signaling pathways contributes to the leukemic phenotype. The altered expression of BCL2 family members renders these leukemia cells sensitive to specific inhibitors like navitoclax.
+*   **Protein-Protein Interactions Relevant to Phenotype**: The wild-type CBFA2T3 protein interacts with corepressor complexes. The fusion protein with GLIS2 creates new interactions, leading it to bind to promoter and enhancer regions of genes, driving an oncogenic program.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The *CBFA2T3-GLIS2* fusion is found in approximately 12-30% of pediatric non-Down syndrome AMKL cases. Its detection is critical for diagnosis and risk stratification.
+*   **Most Common Reasons for Testing This Gene**: Testing for the *CBFA2T3-GLIS2* fusion is performed in cases of pediatric AML, particularly AMKL or cases with the characteristic RAM immunophenotype (bright CD56, negative/dim HLA-DR and CD38).
+*   **Clinical Actionability and Management Implications**: Identifying the *CBFA2T3-GLIS2* fusion signifies a high-risk disease with poor response to standard chemotherapy, often necessitating aggressive treatment strategies like hematopoietic stem cell transplantation (HSCT). Novel therapies targeting downstream pathways or the fusion itself are under investigation.
+*   **Genetic Counseling Considerations**: Since the disease-associated variants are somatic, genetic counseling focuses on the nature of the leukemia and the prognosis rather than inherited risk for family members.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38315896, 2024**: Described the clinical features and poor outcomes of 6 children with *CBFA2T3-GLIS2* AMKL, highlighting resistance to standard chemotherapy and the potential benefit of haploidentical HSCT.
+*   **PMID: 32908215, 2020**: This study modeled the *CBFA2T3-GLIS2* fusion, identified FOLR1 as a potential surface target, and demonstrated the preclinical efficacy of FOLR1-directed CAR T-cells.
+*   **PMID: 28659288, 2017**: This review provides a comprehensive overview of the clinical and biological peculiarities of *CBFA2T3-GLIS2*-positive AML, establishing it as a distinct pediatric entity with a grim prognosis.
+*   **PMID: 23153540, 2012**: Landmark study that first identified the cryptic inv(16) encoding the *CBFA2T3-GLIS2* fusion in a significant subset of pediatric AMKL and established its association with very poor outcomes.
+*   **PMID: 23153541, 2012**: A parallel landmark study that also identified the *CBFA2T3-GLIS2* fusion via transcriptome sequencing and characterized its role in driving leukemogenesis through aberrant activation of pathways like Hedgehog and BMP signaling.
+*   **PMID: 10995019, 2000**: One of the initial papers identifying *CBFA2T3* (then called *MTG16*) as the fusion partner of *AML1* (RUNX1) in the t(16;21) translocation in therapy-related myeloid leukemia.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**:
+    *   The somatic chromosomal inversion **inv(16)(p13.3q24.3)**, creating the *CBFA2T3-GLIS2* fusion gene, is strongly and specifically associated with **Acute megakaryoblastic leukemia (HP:0012179)** in infants and young children without Down syndrome.
+*   **Phenotype red flags**:
+    *   The combination of infant/early childhood onset **Acute myeloid leukemia (HP:0004810)**, particularly with a megakaryoblastic phenotype, should raise high suspicion for a *CBFA2T3-GLIS2* fusion.
+    *   The specific "RAM" immunophenotype (bright CD56 expression, with dim or negative expression of HLA-DR and CD38) is a major red flag that is highly suggestive of the presence of the *CBFA2T3-GLIS2* fusion.
+*   **Differential diagnosis considerations**:
+    *   The phenotype overlaps with other pediatric leukemias. However, the *CBFA2T3-GLIS2* fusion defines a unique entity. Other genetic subtypes of AMKL include those with *RBM15-MKL1*, *NUP98-KDM5A*, or *KMT2A* rearrangements, which typically lack the specific RAM immunophenotype. In children with Down syndrome, AMKL is typically associated with somatic *GATA1* mutations.
+

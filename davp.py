@@ -41,7 +41,7 @@ DEFAULT_CONFIG = {
         "temperature": 0.0,
         "max_tokens": 8192,
         "max_concurrency": 10,
-        "top_k": 8,
+        "top_k": 4,
         "points": [10, 7, 5, 3, 2, 1, 0, -1],
         "rounds_before_elimination": 1,
         "thinking_budget": 0
@@ -67,13 +67,6 @@ DEFAULT_CONFIG = {
 
 
 def step1_prelimin8(sample_name: str) -> Dict[str, Any]:
-    can_reuse, cached_path = can_reuse_step(sample_name, "step1_prelimin8", DAVP_DATA_DIR)
-    if can_reuse:
-        logger.info(f"Step 1: Reusing cached output")
-        cached_output = load_step_output(sample_name, "step1_prelimin8", DAVP_DATA_DIR, cached_path)
-        save_step_output(sample_name, "step1_prelimin8", cached_output, DAVP_DATA_DIR)
-        return {"status": "PASSED", "top_genes": cached_output.get("top_genes", []), "answer_gene_rank": cached_output.get("answer_gene_rank"), "session": None}
-    
     logger.info("Step 1: Running Prelimin8...")
     sample_df = load_sample_data(sample_name, str(DAVP_DATA_DIR))
     answer_info = get_answer_for_sample(load_answers(str(DAVP_DATA_DIR)), sample_name)
@@ -113,22 +106,6 @@ def step1_prelimin8(sample_name: str) -> Dict[str, Any]:
 
 
 def step2_reports(sample_name: str) -> Dict[str, Any]:
-    can_reuse, cached_path = can_reuse_step(sample_name, "step2_reports", DAVP_DATA_DIR)
-    if can_reuse:
-        logger.info(f"Step 2: Reusing cached output")
-        cached_output = load_step_output(sample_name, "step2_reports", DAVP_DATA_DIR, cached_path)
-        save_step_output(sample_name, "step2_reports", cached_output, DAVP_DATA_DIR)
-        variant_reports = {}
-        if "variant_reports" in cached_output:
-            variant_reports = cached_output["variant_reports"]
-        elif "responses" in cached_output:
-            step2_data = cached_output.get("variants", [])
-            variant_ids = [format_variant_id(v["CHROM"], v["POS"], v["REF"], v["ALT"]) for v in step2_data]
-            for idx, vid in enumerate(variant_ids):
-                if idx < len(cached_output["responses"].get("responses", [])):
-                    variant_reports[vid] = cached_output["responses"]["responses"][idx].get("message", {}).get("content", "")
-        return {"status": "PASSED", "variant_reports": variant_reports, "variants": cached_output.get("variants", []), "session": None}
-    
     logger.info("Step 2: Loading variant reports and generating final reports...")
     sample_df = load_sample_data(sample_name, str(DAVP_DATA_DIR))
     answer_info = get_answer_for_sample(load_answers(str(DAVP_DATA_DIR)), sample_name)
@@ -165,13 +142,6 @@ def step2_reports(sample_name: str) -> Dict[str, Any]:
 
 
 def step3_elimin8(sample_name: str) -> Dict[str, Any]:
-    can_reuse, cached_path = can_reuse_step(sample_name, "step3_elimin8", DAVP_DATA_DIR)
-    if can_reuse:
-        logger.info(f"Step 3: Reusing cached output")
-        cached_output = load_step_output(sample_name, "step3_elimin8", DAVP_DATA_DIR, cached_path)
-        save_step_output(sample_name, "step3_elimin8", cached_output, DAVP_DATA_DIR)
-        return {k: cached_output.get(k, None if "session" in k else []) for k in ["status", "top_variants", "answer_variant_rank", "session"]}
-    
     logger.info("Step 3: Running elimin8 ranking...")
     answer_info = get_answer_for_sample(load_answers(str(DAVP_DATA_DIR)), sample_name)
     patient_summary = prepare_patient_summary(answer_info["epicrisis"], answer_info["hpo_inputs"])
@@ -204,13 +174,6 @@ def step3_elimin8(sample_name: str) -> Dict[str, Any]:
 
 
 def step4_round_robin(sample_name: str) -> Dict[str, Any]:
-    can_reuse, cached_path = can_reuse_step(sample_name, "step4_round_robin", DAVP_DATA_DIR)
-    if can_reuse:
-        logger.info(f"Step 4: Reusing cached output")
-        cached_output = load_step_output(sample_name, "step4_round_robin", DAVP_DATA_DIR, cached_path)
-        save_step_output(sample_name, "step4_round_robin", cached_output, DAVP_DATA_DIR)
-        return {k: cached_output.get(k, None if "session" in k else []) for k in ["status", "top_variants", "answer_variant_rank", "session"]}
-    
     logger.info("Step 4: Running round_robin ranking...")
     answer_info = get_answer_for_sample(load_answers(str(DAVP_DATA_DIR)), sample_name)
     patient_summary = prepare_patient_summary(answer_info["epicrisis"], answer_info["hpo_inputs"])

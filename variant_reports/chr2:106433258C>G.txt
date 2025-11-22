@@ -1,0 +1,61 @@
+=== chr2:106433258C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs62152468
+• Chromosome: 2
+• Position: 106433258
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: RGPD3
+• Databases: rs62152468, COSV58736813
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.28400000000000003
+• gnomADg Allele Frequency: 0.1943
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0010079: corneal endothelial cell measurement - Quantification of some aspect of corneal endothelial cells, such as their size, shape or density.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 18971252) -> Associated GWAS: GWAS_EFO_0010079
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2360
+• Pathogenic/Likely Pathogenic: 17
+• Benign/Likely Benign: 197
+• Uncertain Significance: 2146
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=27)
+• Schizophrenia (n=8)
+
+

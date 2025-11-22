@@ -1,0 +1,68 @@
+=== chr12:52473310C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs151117600
+• Chromosome: 12
+• Position: 52473310
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0/1
+• Quality Score: 234.63999939
+• Gene Names: KRT6C
+• Databases: rs151117600, COSV52876498
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1365
+• gnomADg Allele Frequency: 0.2204
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 161
+• Allelic Depth (AD): [141, 16]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_1001927: cutaneous squamous cell carcinoma - squameous cell carcinoma of the skin, representing the second most common cutaneous malignancy, behind only basal cell carcinoma in Caucasians
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 19855736) -> Associated GWAS: GWAS_EFO_1001927
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2762
+• Pathogenic/Likely Pathogenic: 163
+• Benign/Likely Benign: 1103
+• Uncertain Significance: 1422
+• Other Classifications: 74
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Inborn genetic diseases (n=913)
+• not provided|Inborn genetic diseases (n=100)
+• Inborn genetic diseases|not provided (n=43)
+• Pachyonychia congenita 3 (n=39)
+• not provided|Pachyonychia congenita 3 (n=32)
+• not provided|Focal palmoplantar keratoderma (n=22)
+• Pachyonychia congenita 3|not provided (n=20)
+• Palmoplantar keratoderma, nonepidermolytic, focal or diffuse (n=13)
+• Palmoplantar keratoderma, nonepidermolytic, focal or diffuse|not provided (n=8)
+
+

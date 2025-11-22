@@ -1,0 +1,62 @@
+=== chr11:4287898C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1235200642
+• Chromosome: 11
+• Position: 4287898
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: SSU72L4
+• Databases: rs1235200642
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.06323000000000001
+• gnomADg Allele Frequency: 0.047310000000000005
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004587: lymphocyte count - A quantification of lymphocytes in blood.
+GWAS_EFO_0005091: monocyte count - quantification of monocytes in the blood
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 20992607) -> Associated GWAS: GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0004587
+Entity: ChromHMM State (ID: 20390766) -> Associated GWAS: GWAS_EFO_0004587, GWAS_EFO_0005091, GWAS_EFO_0004587
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 43
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 31
+• Uncertain Significance: 12
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=7)
+
+

@@ -1,0 +1,102 @@
+TNNI2 Gene Biomedical Dossier
+### **Gene Dossier: TNNI2 (troponin I2, fast skeletal type)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 11946
+*   **OMIM Gene ID:** 191043
+*   **Primary Disease Associations:** Distal arthrogryposis, type 2B (DA2B), also known as Sheldon-Hall syndrome (OMIM:601680). It is also associated with Distal arthrogryposis, type 1 (DA1). Some researchers consider DA1 and DA2B to be phenotypic extremes of the same disorder.
+*   **Clinical Significance Level:** The evidence for TNNI2's role in arthrogryposis is considered high (Green List) by Genomics England.
+*   **Inheritance Patterns:** Autosomal dominant inheritance is the typical pattern observed in patients. Somatic mosaicism has also been reported.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull (gnomAD v4.0):**
+    *   pLI: 8.16e-11
+    *   LOEUF: 1.30
+    *   pRec: 0.16
+    *   pNull: 0.84
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI score and a LOEUF score greater than 1.0 indicate that the gene is not constrained against loss-of-function (LoF) variants and is tolerant to heterozygous protein-truncating variants. This suggests that haploinsufficiency is not the primary disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Missense variants are the most commonly reported pathogenic variant type. Deletions and nonsense mutations have also been described.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Arthrogryposis multiplex congenita (HP:0002804)
+    *   Camptodactyly of finger (HP:0001192)
+    *   Ulnar deviation of the hand or fourth and fifth fingers (HP:0001186)
+    *   Talipes equinovarus (HP:0001762)
+    *   Small mouth (HP:0000160)
+    *   High palate (HP:0000218)
+    *   Prominent nasolabial fold (HP:0000295)
+    *   Short stature (HP:0004322)
+    *   Overlapping fingers (HP:0001156)
+    *   Limited wrist extension (HP:0001213)
+    *   Limited knee movement (HP:0006365)
+    *   Limited elbow movement (HP:0002996)
+    *   Micrognathia (HP:0000347)
+    *   Attached earlobe (HP:0000358)
+*   **Secondary HPO terms:**
+    *   Tarsal synostosis (HP:0008368)
+    *   Spinal rigidity (HP:0002899)
+    *   Pterygium colli (HP:0000465)
+    *   Ptosis (HP:0000508)
+    *   Depressed nasal bridge (HP:0005280)
+    *   Oropharyngeal abnormality
+*   **Age of Onset Patterns:** Onset is typically congenital, with joint contractures present at birth.
+*   **Phenotype Severity Spectrum:** The clinical presentation is highly variable, ranging from mild deformities of only the hands and feet (consistent with DA1) to more severe forms (DA2B) involving facial features, short stature, and multiple joint contractures. Marked intrafamilial variability is common.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Most pathogenic variants are missense mutations clustered in the C-terminal region, and are associated with the classic distal arthrogryposis phenotype.
+*   **Protein Domain-Specific Phenotype Patterns:** The majority of disease-causing mutations are found in the C-terminal domain of the TNNI2 protein, which is crucial for its inhibitory function and interaction with actin and troponin C.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is moderate; while most mutations cause distal arthrogryposis, the same mutation can lead to variable expressivity (DA1 or DA2B) even within the same family.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   p.Arg174Gln and p.Lys175del are associated with classic Sheldon-Hall syndrome (DA2B).
+    *   The c.525G>T (p.Lys175Asn) variant has been identified in a family with DA2B, characterized by severe hand and foot deformities and short stature, but without the typical facial abnormalities.
+    *   A nonsense mutation, p.Arg156*, has been recurrently reported in patients with DA2B.
+
+**Clinical Variants & Phenotype Associations**
+*   **p.Lys175Asn (K175N):**
+    *   HGVS: NM_003282.4:c.525G>T
+    *   ClinVar Significance: Likely Pathogenic
+    *   Reported Phenotypes: Distal arthrogryposis type 2B, severe deformities of hands and feet, short stature.
+    *   Allele Frequency (AF): Not reported in gnomAD.
+*   **p.Arg156* (R156X):**
+    *   HGVS: NM_003282.4:c.466C>T
+    *   ClinVar Significance: Pathogenic
+    *   Reported Phenotypes: Distal arthrogryposis type 2B.
+    *   AF: Not reported in gnomAD.
+*   **p.Lys175del (K175del):**
+    *   HGVS: NM_003282.4:c.523_525delAAG
+    *   ClinVar Significance: Pathogenic
+    *   Reported Phenotypes: Distal arthrogryposis type 2B, limb abnormality, small body size in mouse models.
+    *   AF: Not reported in gnomAD.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** Highest expression is in skeletal muscle. There is also notable expression in the tongue.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in fast-twitch skeletal muscle fibers directly correlates with the observed phenotype of congenital contractures of distal limb muscles.
+*   **Expression During Development:** TNNI2 is expressed in skeletal muscle during embryonic development, which aligns with the congenital nature of the associated arthrogryposis. It is also expressed in osteoblasts and chondrocytes of long bone growth plates, which may explain the short stature phenotype.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** TNNI2 encodes the fast-twitch skeletal muscle isoform of troponin I, an inhibitory subunit of the troponin complex that regulates calcium-dependent muscle contraction and relaxation.
+*   **Disease Mechanism:** The mechanism is likely gain-of-function or dominant-negative, not haploinsufficiency. Mutations may impair the ability of the troponin complex to inhibit muscle contraction, leading to persistent muscle tension and congenital contractures.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   Disruption of the troponin complex function impairs the regulation of actin-myosin interaction, leading to joint contractures.
+    *   Some mutant TNNI2 proteins show a higher capacity to transactivate HIF3A, which can impair angiogenesis and endochondral ossification, contributing to the short stature phenotype.
+*   **Protein-Protein Interactions Relevant to Phenotype:** TNNI2 interacts with troponin C (TNNC2), troponin T (TNNT3), and actin (ACTA1). Disruption of these interactions due to mutations underpins the pathophysiology of muscle contraction.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Mutations in TNNI2 are estimated to account for approximately 20% of familial cases of DA2B.
+*   **Most Common Reasons for Testing:** This gene is tested in individuals with congenital contractures, particularly affecting the hands and feet, with or without characteristic facial features, consistent with distal arthrogryposis.
+*   **Clinical Actionability and Management Implications:** Diagnosis can guide management, which often includes physical therapy (e.g., Ponseti method for clubfoot), casting, and surgical interventions to improve joint mobility and function.
+*   **Genetic Counseling Considerations:** Counseling should address autosomal dominant inheritance, high penetrance, and significant variable expressivity, including the possibility of milder phenotypes (DA1) or more severe phenotypes (DA2B) within the same family. Paternal somatic mosaicism has been reported and should be considered.
+
+**Key Clinical Literature & Studies**
+*   **Li et al. (2022, PMID: 36500731):** Reported on a Chinese family with a c.525G>T (p.K175N) variant, highlighting significant limb deformities and short stature (DA2B) but an absence of typical facial features, expanding the known phenotypic spectrum.
+*   **Wang et al. (2014, PMID: 25340338):** A key study using a knock-in mouse model (K175del) demonstrating a gain-of-function mechanism and revealing a novel role for TNNI2 in bone development via the HIF3A pathway, linking the mutation to short stature.
+*   **Beck et al. (2013, PMID: 23401185):** A comprehensive study on the spectrum of mutations in distal arthrogryposis, which found that TNNI2 mutations can cause both DA1 and DA2B, suggesting they are part of a continuous spectrum.
+*   **Toydemir et al. (2009, Orphanet J Rare Dis):** Provided a detailed clinical review of Sheldon-Hall syndrome (DA2B), establishing the core clinical features associated with TNNI2 mutations.
+*   **Sung et al. (2003, PMID: 12503097):** One of the initial reports linking mutations in TNNI2 to distal arthrogryposis type 2B.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Missense variants in the C-terminal domain of TNNI2 are strongly associated with a core phenotype of congenital contractures of the hands and feet (camptodactyly, ulnar deviation, talipes equinovarus).
+*   **Phenotype Red Flags:** The presence of distal arthrogryposis, particularly with ulnar deviation and camptodactyly, combined with a small mouth, prominent nasolabial folds, and a high-arched palate, is highly suggestive of a pathogenic variant in TNNI2.
+*   **Differential Diagnosis Considerations:** The phenotype of TNNI2-related arthrogryposis overlaps with conditions caused by mutations in other genes involved in muscle contraction, including TPM2, TNNT3, MYH3, and MYH8.
+

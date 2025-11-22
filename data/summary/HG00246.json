@@ -1,0 +1,10 @@
+{
+    "sample": "HG00246",
+    "status": "PASSED",
+    "answer_gene": "ABCA4",
+    "answer_variant": "chr1:94103026G>A",
+    "gene_rank_after_prelimin8": 8,
+    "variant_rank_after_tournament": 2,
+    "variant_rank_after_elimin8": 2,
+    "variant_rank_after_round_robin": 2
+}

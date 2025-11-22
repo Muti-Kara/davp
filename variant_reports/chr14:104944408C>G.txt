@@ -1,0 +1,82 @@
+=== chr14:104944408C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs375945458
+• Chromosome: 14
+• Position: 104944408
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: AHNAK2
+• Databases: rs375945458, COSV60907683
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0006387
+• gnomADg Allele Frequency: 0.0052049999999999996
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0002690: systemic lupus erythematosus - An autoimmune multi-organ disease typically associated with vasculopathy and autoantibody production. Most patients have antinuclear antibodies (ANA). The presence of anti-dsDNA or anti-Smith antibodies are highly-specific.|A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+GWAS_EFO_0008291: stem Cell Factor measurement - quantification of the amount of stem Cell Factor in a sample
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16144681) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: Transcript (ID: 16244848) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: Transcript (ID: 16244846) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: Transcript (ID: 16244880) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: Non Coding RNA (ID: 17133844) -> Associated GWAS: GWAS_EFO_0002690
+Entity: Non Coding RNA (ID: 17133841) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: Non Coding RNA (ID: 17133839) -> Associated GWAS: GWAS_EFO_0002690
+Entity: Non Coding RNA (ID: 17133840) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: Non Coding RNA (ID: 17133842) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: ChromHMM State (ID: 19352734) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: ChromHMM State (ID: 19902964) -> Associated GWAS: GWAS_EFO_0002690
+Entity: ChromHMM State (ID: 20478940) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: ChromHMM State (ID: 21085732) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: ChromHMM State (ID: 21691252) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: ChromHMM State (ID: 22328560) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+Entity: ChromHMM State (ID: 22899253) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0002690, GWAS_EFO_0008291
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 22668
+• Pathogenic/Likely Pathogenic: 531
+• Benign/Likely Benign: 6992
+• Uncertain Significance: 15121
+• Other Classifications: 24
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|not specified (n=426)
+• not specified|not provided (n=144)
+• Migraine (n=13)
+• Hereditary episodic ataxia (n=13)
+• See cases (n=9)
+• Enhancement of the C-reflex|not specified (n=8)
+• Dysmetria|not provided (n=6)
+
+

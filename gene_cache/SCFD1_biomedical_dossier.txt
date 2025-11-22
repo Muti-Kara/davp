@@ -1,0 +1,85 @@
+SCFD1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 10565.
+*   **OMIM Gene ID:** 618207.
+*   **Primary Disease Associations:** Primarily associated with Amyotrophic Lateral Sclerosis (ALS) as a risk factor through expression quantitative trait loci (eQTLs). Loss-of-function variants are associated with severe cardiac and craniofacial defects in zebrafish models, suggesting a potential role in a severe developmental disorder.
+*   **Clinical Significance Level:** Evidence for association with ALS risk is strong based on multiple genome-wide association studies (GWAS) and eQTL studies. The link to a human monogenic developmental disorder is currently speculative and based on animal models.
+*   **Inheritance Patterns Observed in Patients:** The association with ALS follows a complex/polygenic inheritance pattern, where variants act as risk modifiers. Zebrafish models suggest that heterozygous loss-of-function can lead to adult-onset cardiac dysfunction (haploinsufficiency), while homozygous loss results in embryonic lethality with severe developmental defects (autosomal recessive).
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint scores are pLI = 1.00, LOEUF = 0.12 (90% CI: 0.09-0.16). This indicates the gene is extremely intolerant to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores:** A pLI score ≥ 0.9 and a low LOEUF score suggest that heterozygous loss-of-function variants are subject to strong negative selection and are likely to cause disease (haploinsufficiency).
+*   **Variant Classes Most Likely to Be Pathogenic:** Based on high constraint scores and animal model data, protein-truncating variants (nonsense, frameshift) and potentially missense variants in critical domains are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms (based on ALS risk and animal models):**
+    *   Amyotrophic lateral sclerosis (HP:0007354).
+    *   Motor neuron degeneration (HP:0007376).
+    *   Spasticity (HP:0001257).
+    *   Dilated cardiomyopathy (HP:0001644).
+    *   Pericardial effusion (HP:0001698).
+    *   Mandibular hypoplasia / Agnathia (HP:0009118 / HP:0000166).
+    *   Microphthalmia (HP:0000568).
+    *   Embryonic lethality (HP:0001626).
+    *   Reduced ventricular contractility.
+    *   Craniofacial abnormalities (HP:0001999).
+*   **Secondary HPO Terms:**
+    *   Muscle weakness (HP:0001324).
+    *   Abnormality of the endoplasmic reticulum (HP:0032338).
+    *   Abnormality of Golgi apparatus (HP:0030501).
+    *   Apoptosis (HP:0006917).
+    *   Schizophrenia (as a genetically correlated disorder) (HP:0100753).
+*   **Age of Onset Patterns:** The associated ALS risk manifests in adults. The severe developmental phenotypes observed in animal models have a prenatal or infantile onset.
+*   **Phenotype Severity Spectrum:** The phenotype ranges from a risk modifier for adult-onset neurodegeneration (ALS) to a predicted severe, lethal developmental syndrome involving the heart and craniofacial structures.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Regulatory Variants (eQTLs):** Specific non-coding SNPs (e.g., rs10139154, rs8005942, rs2070339) are associated with modified *SCFD1* expression in the brain and increased risk and modified survival for Amyotrophic Lateral Sclerosis.
+    *   **Loss-of-Function Variants:** A nonsense variant in a zebrafish model caused severe, early-onset cardiomyopathy, craniofacial defects, and embryonic lethality, indicating null variants likely cause a severe developmental syndrome.
+*   **Protein Domain-Specific Phenotype Patterns:** Data is currently insufficient to link specific domains to distinct phenotypes. The entire protein is highly constrained.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between specific eQTLs and ALS risk is strong and has been replicated. The correlation between loss-of-function variants and a human developmental syndrome is currently predicted based on strong animal model evidence but is not yet established in humans.
+
+### **Clinical Variants & Phenotype Associations**
+*   Currently, no definitive pathogenic variants in *SCFD1* are listed in ClinVar as causing a monogenic disease in humans.
+*   The most frequently cited variants are non-coding eQTLs associated with ALS risk, not causative Mendelian variants.
+    *   **rs10139154:** GWAS-identified SNP associated with ALS risk and age at onset in some populations.
+    *   **rs8005942:** eQTL where the minor allele (A) is associated with increased *SCFD1* expression in the motor cortex and reduced ALS survival.
+    *   **rs2070339:** eQTL associated with higher *SCFD1* levels in ALS patient brain tissue.
+*   A nonsense variant (c.1255C>T, p.Arg419*) was identified in the *scfd1* gene in a zebrafish model, leading to severe cardiomyopathy and craniofacial defects. This provides a strong candidate for a human disease phenotype.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The gene is broadly expressed, with highest levels in the pituitary, adrenal gland, and testis. It also has significant expression in various brain regions, including the cerebellum and cortex, and in the heart.
+*   **Tissue-Specific Phenotypes Expected:**
+    *   **Brain (Cortex, Cerebellum):** Expression in these tissues is clinically relevant to its role as a risk factor for ALS and potentially schizophrenia.
+    *   **Heart:** Expression in cardiac muscle is consistent with the severe cardiomyopathy phenotype observed in zebrafish loss-of-function models.
+    *   **Cartilage/Bone:** Expression is relevant to the craniofacial defects seen in animal models, where Scfd1 was found to be essential for cartilage formation via procollagen secretion.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SCFD1 is a crucial regulator of vesicle trafficking between the endoplasmic reticulum (ER) and the Golgi apparatus, where it facilitates SNARE complex assembly.
+*   **Disease Mechanism:**
+    *   **Loss-of-Function/Haploinsufficiency:** Leads to disruption of ER-Golgi transport, causing ER stress, disorganized myofibrils, and apoptosis in cardiomyocytes, resulting in cardiomyopathy and craniofacial defects.
+    *   **Dysregulation (Gain-of-Function/Altered Expression):** Altered expression levels in the central nervous system due to regulatory variants appear to modify an individual's risk for developing complex neurodegenerative diseases like ALS.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the ER-Golgi trafficking pathway impairs the secretion of essential proteins (like procollagen), leading to craniofacial defects, and disrupts cellular homeostasis (proteostasis), leading to ER stress, apoptosis, and cardiac cell death.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** For ALS, sequencing *SCFD1* is not standard practice as it is considered a risk gene, not a causative monogenic gene; therefore, diagnostic yield is not applicable. The yield for a potential developmental disorder is unknown, as no human cases have been definitively linked to *SCFD1* variants yet.
+*   **Most Common Reasons for Testing This Gene:** Currently, testing is primarily for research purposes to investigate ALS risk. A patient presenting with the specific combination of severe early-onset cardiomyopathy and craniofacial defects could be a candidate for sequencing this gene.
+*   **Clinical Actionability and Management Implications:** There is currently no direct clinical actionability. For ALS, the risk modification is small. If a link to a developmental syndrome is confirmed, management would be supportive and targeted at cardiac and other systemic manifestations.
+*   **Genetic Counseling Considerations:** Counseling should emphasize the distinction between a complex disease risk factor (for ALS) and a potential high-penetrance monogenic cause of disease. For families with ALS, the contribution of *SCFD1* variants to overall risk is modest. For a hypothetical developmental syndrome, counseling would involve discussions of haploinsufficiency or autosomal recessive inheritance and the severe predicted phenotype.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 34661073 (2021):** Iacoangeli et al. established *SCFD1* as the most significant gene mediating ALS risk via eQTLs, showing that variants altering its expression in the motor cortex correlate with disease risk and survival.
+*   **PMID: 37737385 (2023):** Smith et al. demonstrated through a zebrafish model that a nonsense mutation in *scfd1* causes severe, early-onset cardiomyopathy and craniofacial defects due to ER stress, providing the first strong evidence for a severe loss-of-function phenotype.
+*   **PMID: 37885078 (2023):** Borg et al. published functional analysis in a Drosophila model showing that *SCFD1* depletion leads to neuromuscular defects and downregulates protein folding pathways, linking its function to proteostasis and motor system maintenance.
+*   **PMID: 35282462 (2022):** Kapogiannis et al. performed a case-control study on the *SCFD1* rs10139154 variant and found no significant association with ALS risk in the studied Greek population, highlighting potential population-specific differences in GWAS findings.
+*   **PMID: 27455348 (2016):** A large GWAS that first identified a locus near *SCFD1* as being associated with ALS, although it did not reach significance in the replication phase, paving the way for later eQTL studies.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Non-coding brain eQTLs (e.g., rs8005942, rs2070339) are strongly associated with susceptibility to **Amyotrophic lateral sclerosis (HP:0007354)**.
+    *   Based on compelling animal model data, protein-truncating variants (nonsense, frameshift) are predicted to be associated with **Dilated cardiomyopathy (HP:0001644)**, **Craniofacial abnormalities (HP:0001999)**, and **Embryonic lethality (HP:0001626)**.
+*   **Phenotype red flags:** The combination of severe, early-onset **Dilated cardiomyopathy (HP:0001644)** with significant **Craniofacial abnormalities (HP:0001999)** should strongly suggest considering pathogenic variants in *SCFD1*.
+*   **Differential diagnosis considerations:**
+    *   For the ALS-risk phenotype, other ALS-associated genes (*SOD1, C9orf72, TARDBP, FUS*) are primary considerations.
+    *   For the predicted cardiac-craniofacial phenotype, the differential would include other genetic syndromes causing both cardiomyopathy and craniofacial defects.
+

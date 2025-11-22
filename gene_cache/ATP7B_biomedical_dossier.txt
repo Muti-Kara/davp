@@ -1,0 +1,108 @@
+ATP7B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 870
+*   **OMIM Gene ID:** 606882
+*   **Primary Disease Associations:** Wilson disease (WD) [MIM:277900], an autosomal recessive disorder of copper metabolism also known as hepatolenticular degeneration.
+*   **Clinical Significance Level:** The gene-disease relationship for Wilson disease is classified as strong evidence.
+*   **Inheritance Patterns:** Wilson disease is an autosomal recessive disorder.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** In gnomAD v2.1.1, ATP7B has a pLI (probability of being loss-of-function intolerant) of 0.00, a pRec (probability of being a recessive disease gene) of 1.00, a pNull (probability of being tolerant to both heterozygous and homozygous LoF) of 0.00, and a LOEUF score of 1.03.
+*   **Clinical Interpretation:** The high pRec score (1.00) is strongly indicative of a recessive mode of inheritance. The low pLI score (0.00) indicates the gene is tolerant of heterozygous loss-of-function (LoF) variants, which is consistent with its recessive nature.
+*   **Variant Classes Most Likely to be Pathogenic:** Biallelic pathogenic variants are required for disease. These include missense, nonsense, frameshift, and large deletion mutations. Truncating variants are generally associated with more severe symptoms than single amino acid substitutions.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Hepatic steatosis
+    *   Cirrhosis
+    *   Elevated serum transaminase
+    *   Kayser-Fleischer ring
+    *   Dysarthria
+    *   Tremor
+    *   Dystonia
+    *   Parkinsonism
+    *   Depression
+    *   Cognitive impairment
+    *   Abnormal liver function tests
+    *   Low ceruloplasmin level
+    *   Elevated urinary copper excretion
+    *   Acute liver failure
+*   **Secondary HPO terms:**
+    *   Hemolysis
+    *   Pathologic fracture
+    *   Hypercalciuria
+    *   Schizophrenia
+    *   Drooling
+    *   Personality changes
+    *   Global brain atrophy
+    *   Leukoencephalopathy
+*   **Age of Onset Patterns:** The age of onset is highly variable, ranging from early childhood to late adulthood, but symptoms typically first appear between the ages of 5 and 35. Patients with earlier onset often present with hepatic symptoms, while neurological symptoms are more common with later onset.
+*   **Phenotype Severity Spectrum:** The clinical presentation is highly heterogeneous, ranging from asymptomatic individuals with only biochemical abnormalities to severe, progressive liver disease, and/or debilitating neurological and psychiatric disturbances.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Loss-of-function variants, such as nonsense and frameshift mutations, are associated with an earlier age of onset and a higher risk of acute liver failure. More severe impacts on the ATP7B protein generally correlate with a younger age of onset and lower ceruloplasmin levels.
+*   **Protein Domain-Specific Phenotype Patterns:** Properties of variants can differ greatly even if they are in the same functional domain. Some variants cause a complete loss of transport activity, while others result in mislocalization or reduced protein stability.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is complex and often weak, as patients with the same genotype can exhibit markedly different clinical presentations and ages of onset.
+*   **Examples: specific variants → specific phenotypes:**
+    *   **p.His1069Gln (c.3207C>A):** The most common variant in European populations, it is frequently associated with a later, neurological onset. This variant causes the protein to be retained and degraded in the endoplasmic reticulum.
+    *   **p.Arg778Leu (c.2333G>T):** A common variant in East Asian populations, it is associated with a younger age of onset and lower ceruloplasmin and serum copper levels.
+    *   **p.Pro992Leu (c.2975C>T):** Correlated with an earlier age of disease onset.
+    *   **p.Met769HisfsTer26 (c.2304insC):** Associated with hepatic presentations.
+
+### **Clinical Variants & Phenotype Associations**
+*   **rs121907998 / c.3207C>A (p.His1069Gln) / Pathogenic:** Primarily associated with neurological manifestations and later onset. AF (gnomAD): ~0.0003.
+*   **rs121907997 / c.2333G>T (p.Arg778Leu) / Pathogenic:** Associated with hepatic presentation, younger onset, and low ceruloplasmin. AF (gnomAD): ~0.0003.
+*   **rs28935212 / c.2975C>T (p.Pro992Leu) / Pathogenic:** Associated with earlier onset of disease. AF (gnomAD): ~0.0001.
+*   **rs121907999 / c.865C>T (p.Gln289Ter) / Pathogenic:** A nonsense variant reported in individuals with Wilson disease. AF (gnomAD): ~0.00003.
+*   **rs770431326 / c.813C>A (p.Cys271Ter) / Pathogenic:** The most common mutation identified in a study of patients from Eastern India. AF (gnomAD): Not reported.
+*   **Not available / c.3809A>G (p.Asn1270Ser) / Pathogenic:** Significantly indicates a younger age of onset. AF (gnomAD): ~0.00003.
+*   **rs748375681 / c.3884C>T (p.Ala1295Val) / Likely Pathogenic:** Significantly associated with a hepatic presentation. AF (gnomAD): ~0.00001.
+*   **rs80338600 / c.2939G>A (p.Cys980Tyr) / Likely Pathogenic:** Observed in individuals with Wilson disease. AF (gnomAD): ~0.000009.
+*   **rs11547141 / c.3190G>A (p.Glu1064Lys) / Pathogenic:** Associated with mental and neurological manifestations. AF (gnomAD): ~0.00004.
+*   **rs80338590 / c.2304dup (p.Met769HisfsTer26) / Pathogenic:** Frameshift variant associated with liver-related phenotypes. AF (gnomAD): Not reported.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation:** The gene is most abundantly expressed in the liver, which is the primary site of copper regulation and pathology in Wilson disease. Significant expression is also found in the kidney and brain.
+*   **Tissue-specific phenotypes expected:** High expression in the liver correlates with hepatic phenotypes like cirrhosis and acute liver failure. Expression in the brain, particularly the basal ganglia, leads to the characteristic neurological symptoms like tremor, dystonia, and psychiatric disturbances.
+*   **Expression during development and age-related phenotypes:** The gene is expressed prenatally, and early gestational gene therapy targeting the liver has shown therapeutic potential in mouse models, suggesting a critical developmental role. The age-dependent accumulation of copper leads to the typical progression from hepatic symptoms in childhood/adolescence to neurological symptoms in young adulthood.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function:** The ATP7B protein is a copper-transporting P-type ATPase that traffics copper for incorporation into ceruloplasmin and excretes excess copper from hepatocytes into the bile.
+*   **Disease mechanism:** Wilson disease is caused by loss-of-function of the ATP7B protein. Defective ATP7B function leads to impaired copper excretion and a subsequent toxic accumulation of copper, primarily in the liver and brain.
+*   **Cellular/molecular pathways disrupted → phenotype consequences:**
+    *   Disrupted transport of copper into the secretory pathway prevents its incorporation into apoceruloplasmin, leading to low levels of functional ceruloplasmin in the blood.
+    *   Failure to excrete copper into bile causes progressive hepatocyte damage from copper-induced oxidative stress, leading to steatosis, hepatitis, and cirrhosis.
+    *   Once liver binding capacity is exceeded, copper is released into circulation and deposits in other tissues, causing neurological damage (basal ganglia) and Kayser-Fleischer rings (cornea).
+*   **Protein-protein interactions relevant to phenotype:** ATP7B receives copper from the chaperone protein ATOX1. Disruption of this interaction can impair copper transport and contribute to the disease phenotype.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** Molecular genetic testing of the *ATP7B* gene has a high clinical sensitivity, with pathogenic variants identified in approximately 98% of individuals with a clinical diagnosis of Wilson disease. Sequencing of all 21 exons can yield a mutation detection rate of over 80%, with the remaining cases potentially having intronic or regulatory variants.
+*   **Most common reasons for testing:** Testing is indicated for individuals with a combination of otherwise unexplained liver disease, neurological symptoms (especially movement disorders), and/or psychiatric disturbances. It is also used for pre-symptomatic diagnosis in relatives of an affected individual.
+*   **Clinical actionability and management implications:** Early diagnosis and treatment with copper-chelating agents (e.g., penicillamine, trientine) or zinc salts can prevent irreversible organ damage and are often life-saving. Lifelong therapy is required.
+*   **Genetic counseling considerations:** Wilson disease is an autosomal recessive condition. Parents of an affected child are obligate carriers. Siblings of an affected individual have a 25% chance of being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance of being unaffected and not a carrier.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38385787, 2024:** Review discussing how various pathogenic variants lead to different protein dysfunctions, such as misfolding (p.His1069Gln) or defective trafficking, which influences the clinical phenotype.
+*   **PMID: 37651811, 2023:** Study in Chinese children highlighting asymptomatic presentation with only abnormal liver function and associating the p.R778L variant with lower ceruloplasmin.
+*   **PMID: 35431682, 2022:** Study demonstrating successful gene therapy in a mouse model using reprogrammed autologous hepatocytes, confirming the role of correct subcellular localization for function.
+*   **PMID: 35368305, 2022:** A study of 316 Chinese children that identified elevated ALT as a key early diagnostic clue and confirmed the association of homozygous c.2333G>T with very low ceruloplasmin levels.
+*   **PMID: 34503714, 2022:** Cryo-EM structure of ATP7B provided insight into the copper transport pathway and structural basis for disease-causing mutations like R778L.
+*   **PMID: 33458145, 2021:** Analysis of a Chinese cohort that linked p.Arg778Leu to low ceruloplasmin, p.Pro992Leu to earlier onset, and p.Ala1295Val to hepatic presentation.
+*   **PMID: 27982432, 2017:** Large-scale study in a Chinese cohort that established correlations for p.Arg778Leu (younger onset, low Cp), p.Arg919Gly (neurological subtype), and p.Thr935Met (combined neuro/visceral subtype).
+*   **PMID: 22158007, 2012:** Proof-of-principle study showing that in utero gene therapy targeting the liver can ameliorate the disease phenotype in a mouse model.
+*   **PMID: 1005102, 1993:** One of the original landmark papers that identified the *ATP7B* gene as the cause of Wilson disease.
+*   **PMID: 2351543, 1993:** A foundational paper that cloned the *ATP7B* gene and identified it as a copper-transporting P-type ATPase.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Biallelic truncating variants are strongly associated with a severe phenotype, early-onset liver disease, and acute liver failure.
+    *   Homozygosity for **p.His1069Gln** is highly suggestive of a later, predominantly neurological presentation, especially in patients of European descent.
+    *   The presence of **p.Arg778Leu** (especially in a homozygous state) strongly predicts lower ceruloplasmin levels and is often associated with hepatic presentation in East Asian patients.
+*   **Phenotype red flags:**
+    *   The combination of unexplained chronic liver disease (HP:0001392) and a movement disorder such as tremor (HP:0001337) or dystonia (HP:0001332) is highly suspicious for pathogenic variants in *ATP7B*.
+    *   The presence of Kayser-Fleischer rings (HP:0000527) in a patient with hepatic or neurological symptoms is nearly pathognomonic for Wilson disease.
+    *   Otherwise unexplained acute liver failure in a child or young adult, particularly with evidence of hemolysis.
+*   **Differential diagnosis considerations:**
+    *   Phenotypes can overlap with other genetic causes of liver disease (e.g., alpha-1-antitrypsin deficiency), and other inherited movement disorders.
+    *   Hereditary aceruloplasminemia can also present with neurological symptoms and liver disease, but it is characterized by iron accumulation rather than copper.
+

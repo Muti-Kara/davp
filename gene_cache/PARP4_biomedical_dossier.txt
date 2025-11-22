@@ -1,0 +1,67 @@
+PARP4 Gene Biomedical Dossier
+### **Gene Dossier: PARP4**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:8624
+*   **OMIM Gene ID:** 607519
+*   **Primary Disease Associations:** Currently, PARP4 is not definitively associated with a Mendelian disease; however, it is implicated as a candidate gene in cancer susceptibility, with variants and expression changes noted in breast, thyroid, lung, ovarian, and colon cancers.
+*   **Clinical Significance Level:** Evidence for a role in cancer susceptibility is emerging and would be considered limited or moderate; there is no established clinical significance for a monogenic Mendelian disorder.
+*   **Inheritance Patterns Observed in Patients:** The role of germline variants in cancer susceptibility is under investigation, with some rare variants observed in case-control studies. A clear inheritance pattern has not been established.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI (probability of being Loss-of-function Intolerant): 0.00
+    *   LOEUF (Loss-of-function Observed/Expected Upper bound Fraction): 0.786
+*   **Clinical Interpretation of Constraint Scores:** The pLI score of 0.0 and a LOEUF score of 0.786 indicate that PARP4 is not significantly constrained against loss-of-function (LoF) variants in the general population. This suggests the gene is tolerant of heterozygous LoF variants, and haploinsufficiency is not a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** While the gene is tolerant to LoF variation overall, specific missense variants (e.g., I1039T) have been shown to have a loss-of-function effect and promote tumorigenicity in somatic contexts. The role of germline variants is still being elucidated, with some studies pointing to rare missense variants being associated with cancer risk.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are definitively associated with germline PARP4 variants. The primary phenotype is predisposition to or modulation of cancer.
+*   **Secondary HPO terms:** Not applicable due to the lack of an associated Mendelian disorder.
+*   **Age of Onset Patterns:** Not defined for a Mendelian disease; in cancer, its role is studied in the context of adult-onset malignancies.
+*   **Phenotype Severity Spectrum:** In cancer studies, low PARP4 expression or specific mutations are associated with poorer prognosis and more aggressive disease in some cancer types, such as breast and esophageal cancer.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **Loss-of-function:** PARP4 deficiency in mouse models leads to increased susceptibility to carcinogen-induced colon tumors. The somatic I1039T mutation in lung cancer acts as a LoF variant, promoting tumorigenicity.
+    *   **Missense:** Germline missense variants G496V and T1170I were found at a higher frequency in individuals with primary thyroid and breast cancers.
+*   **Protein Domain-Specific Phenotype Patterns:** The I1039T mutation, which may destabilize the protein, is associated with a loss-of-function phenotype in lung cancer. The protein has a PARP catalytic domain, but its activity may be regulated by protein-protein interactions via its C-terminus rather than direct DNA binding.
+*   **Genotype-Phenotype Correlation Strength:** Weak. While some variants and expression levels are associated with cancer risk and prognosis, the evidence is not yet strong enough to establish definitive correlations for clinical prediction.
+
+**Clinical Variants & Phenotype Associations**
+*   Currently, ClinVar lists no variants for PARP4 with a "Pathogenic" or "Likely Pathogenic" classification for a Mendelian disorder. Numerous variants of uncertain significance are listed.
+*   **Variants from Literature:**
+    *   **HGVS: c.1487G>T / p.Gly496Val:** Reported in individuals with primary thyroid and breast cancers.
+    *   **HGVS: c.3508A>A/T / p.Thr1170Ile:** Found in individuals with primary thyroid and breast cancers.
+    *   **HGVS: c.3115T>A / p.Ile1039T:** A recurrent somatic mutation in lung adenocarcinoma, associated with increased tumorigenicity and considered a loss-of-function variant.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas, which incorporates GTEx data, PARP4 shows highest RNA expression in the rectum, duodenum, monocyte, gallbladder, and bone marrow.
+*   **Tissue-Specific Phenotypes Expected:** The role of PARP4 as a potential tumor suppressor appears to be cancer-type dependent, with effects observed in colon and lung cancer models. Its expression level has prognostic significance in ovarian, breast, and esophageal cancer.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is limited. Current data relates to its role in adult-onset diseases (cancers).
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PARP4 encodes an enzyme that catalyzes poly(ADP-ribosyl)ation and is involved in cellular processes such as DNA repair and inflammatory response.
+*   **Disease Mechanism:** In cancer, the primary proposed mechanism is loss-of-function, acting as a tumor suppressor. However, in some cancers like ovarian, high expression is linked to chemoresistance and poor prognosis, suggesting a context-dependent role.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Splicing Regulation:** PARP4 interacts with the splicing regulator hnRNPM; disruption of this interaction perturbs splicing and promotes tumorigenicity in lung cancer, independent of its role in the vault complex.
+    *   **DNA Repair/Chemoresistance:** While thought to be involved in base excision repair, direct evidence is lacking. Its expression is linked to cisplatin resistance in ovarian cancer, potentially through epigenetic mechanisms regulating its promoter.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Zero for Mendelian disorders. For cancer predisposition, its utility is currently investigational and not part of standard clinical testing panels.
+*   **Most Common Reasons for Testing This Gene:** Testing is currently performed in a research context to investigate cancer susceptibility or for prognostic studies in specific cancers.
+*   **Clinical Actionability and Management Implications:** None at present. There are no specific management guidelines based on PARP4 genotype.
+*   **Genetic Counseling Considerations:** Given the tolerant gnomAD constraint scores and lack of definitive disease association, caution is warranted when interpreting rare PARP4 variants. An incidental finding of a rare variant would likely be classified as a VUS.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 37013346 (2023):** Showed that PARP4 expression is upregulated in cisplatin-resistant ovarian cancer cell lines and patient tissues due to promoter hypomethylation, suggesting it as a biomarker for chemoresistance.
+*   **PMID: 35198822 (2022):** Identified germline PARP4 variants (G496V, T1170I) at a higher frequency in patients with both primary thyroid and breast cancers, suggesting it as a candidate susceptibility gene.
+*   **(2024):** A study on lung adenocarcinoma revealed that PARP4 loss or mutation (I1039T) promotes tumorigenicity by disrupting splicing through its interaction with hnRNPM, a mechanism independent of the vault complex.
+*   **PMID: 34151756 (2021):** A review summarizing the role of PARP family members in cancer, noting low PARP4 expression is correlated with poor survival in breast cancer and high expression with poor survival in esophageal squamous cell carcinoma.
+*   **PMID: 37013346 (2023):** Demonstrated that depletion of PARP4 in cisplatin-resistant ovarian cancer cells reduces chemoresistance and enhances DNA fragmentation.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** None established. The gene is not currently linked to a specific Mendelian syndrome with a defined set of HPO terms.
+*   **Phenotype Red Flags:** There are no "red flag" HPO terms. A clinical history of multiple primary tumors (e.g., breast and thyroid) could be a suggestive feature for investigating candidate genes like PARP4 in a research setting.
+*   **Differential Diagnosis Considerations:** In a patient with a potential cancer predisposition syndrome, differential diagnoses would include more well-established cancer predisposition genes associated with the specific tumor types observed (e.g., BRCA1/2, PTEN, TP53).
+

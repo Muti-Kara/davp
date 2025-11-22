@@ -1,0 +1,57 @@
+ENTPD2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:3364.
+*   **OMIM Gene ID:** 602012.
+*   **Primary Disease Associations:** Currently, no definitive Mendelian disease is associated with ENTPD2. Associations have been reported with Severe Covid-19 and Frontal Sinus Benign Neoplasm.
+*   **Clinical Significance Level:** The level of evidence for a direct role in a specific Mendelian disease is currently limited.
+*   **Inheritance Patterns:** No established inheritance patterns for a human Mendelian disease have been documented.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v4.1 reports a pLI (probability of being loss-of-function intolerant) of 0.00, LOEUF of 1.23, pRec of 0.70, and pNull of 1.0.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score (<<0.9) and a LOEUF score greater than 1 suggest that the gene is tolerant to loss-of-function (LoF) variation. This indicates that haploinsufficiency is not a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF variants, pathogenic variants, if they exist, might be gain-of-function or have a dominant-negative effect, though no such variants have been definitively established.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As there is no established ENTPD2-related Mendelian disease, no comprehensive list of associated HPO terms exists. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities but requires established disease associations for annotation.
+*   **Secondary HPO terms:** Not applicable due to the lack of a defined disease phenotype.
+*   **Age of Onset Patterns:** Not applicable.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No established genotype-phenotype correlations currently exist in humans.
+*   **Protein Domain-specific Phenotype Patterns:** Information is not available due to the lack of known pathogenic variants and associated phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Weak to non-existent based on current literature.
+*   **Examples:** Studies in horses investigated a potential link between an ENTPD2 variant (rs782872967) and exercise-induced pulmonary hemorrhage, but found no statistically significant association.
+
+### **Clinical Variants & Phenotype Associations**
+*   No variants in ENTPD2 are currently classified as pathogenic or likely pathogenic in ClinVar for a specific Mendelian phenotype. UniProt lists 708 variants, but their clinical significance is largely unknown.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** According to the Human Protein Atlas, which incorporates GTEx data, ENTPD2 RNA is expressed at low specificity across many tissues. UniProt notes expression in the brain, placenta, skeletal muscle, kidney, pancreas, and heart, among others, but not in the thymus, spleen, lung, liver, or peripheral blood leukocytes.
+*   **Tissue-specific Phenotypes Expected:** High expression in the nervous system suggests a potential role in neurological function. Expression in taste buds in animal models points to a role in taste perception.
+*   **Expression During Development and Age-related Phenotypes:** The gene is expressed in the visceral yolk sac in mouse embryos, suggesting a role in embryonic development. It is also expressed in stem cells of the adult brain's subventricular zone in rodents.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ENTPD2 encodes a membrane-bound ectonucleotidase (NTPDase-2) that hydrolyzes extracellular nucleoside triphosphates, primarily ATP, to regulate purinergic signaling.
+*   **Disease Mechanism:** No clear disease mechanism has been established in humans. Mouse studies suggest loss of function leads to elevated extracellular ATP, which may alter nerve signaling.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of ENTPD2 affects purine metabolism and G protein-coupled receptor signaling pathways. In mice lacking the gene, dampened taste responses are proposed to result from desensitization of P2X receptors on nerve fibers due to elevated ATP.
+*   **Protein-Protein Interactions Relevant to Phenotype:** ENTPD2 is part of the purinergic signaling cascade, interacting with ATP and influencing P2 receptor activity, which is crucial in neurotransmission, inflammation, and hemostasis.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is effectively zero, as ENTPD2 is not currently associated with a Mendelian disorder for which clinical testing is performed.
+*   **Most Common Reasons for Testing This Gene:** Testing is not a standard clinical practice.
+*   **Clinical Actionability and Management Implications:** None at present.
+*   **Genetic Counseling Considerations:** Not applicable given the lack of a known disease association.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35594954 (2022):** Investigated ENTPD1 and ENTPD2 variants in athletic horses with exercise-induced pulmonary hemorrhage but found no significant genotype-phenotype association.
+*   **PMID: 29514750 (2018):** Mouse model study showing ENTPD2 deletion impairs taste nerve responses by elevating extracellular ATP.
+*   **PMID: 33794356 (2021):** Review discussing the role of NTPDase2 in hepatocellular carcinoma, where it is upregulated by hypoxia and contributes to an immunosuppressive microenvironment.
+*   **PMID: 29277051 (2018):** Study on Crohn's disease showing altered expression of NTPDase2, suggesting a role in neuro-immune interactions in gut inflammation.
+*   **PMID: 17296839 (2007):** A review detailing the structure-function relationships of the E-NTPDase family, noting ENTPD2's role in the nervous system, liver fibrosis, and its expression in adult neural stem cells.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** None have been established.
+*   **Phenotype red flags:** There are currently no HPO terms that strongly suggest the presence of a pathogenic variant in ENTPD2.
+*   **Differential diagnosis considerations:** Not applicable due to the absence of a defined ENTPD2-related disorder.
+

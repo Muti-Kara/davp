@@ -1,0 +1,53 @@
+PRAMEF8 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 24074
+- **OMIM Gene ID:** There is currently no OMIM entry for the PRAMEF8 gene.
+- **Primary Disease Associations:** At present, no definitive disease associations have been established for PRAMEF8 in OMIM or other major clinical databases. Some sources mention a potential association with Adult Astrocytic Tumor based on text mining of cancer literature.
+- **Clinical Significance Level:** The clinical significance of PRAMEF8 is currently unknown or not well-established.
+- **Inheritance Patterns:** No clear inheritance patterns have been documented due to the lack of association with a Mendelian disease.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v4.0.0 database does not provide constraint metrics such as pLI, LOEUF, pRec, or pNull for PRAMEF8. This may be due to factors like low coverage or other data quality considerations.
+- **Clinical Interpretation of Constraint Scores:** The absence of constraint scores means that population-level data does not currently suggest an intolerance to loss-of-function variants in this gene.
+- **Variant Classes Most Likely to be Pathogenic:** Without established disease associations or known pathogenic variants, it is not possible to determine which variant classes are most likely to be pathogenic for PRAMEF8.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** No primary HPO terms are definitively associated with PRAMEF8 due to the lack of a clear disease link.
+- **Secondary HPO terms:** No secondary HPO terms are currently documented for PRAMEF8.
+- **Age of Onset Patterns:** Information regarding the age of onset is not available.
+- **Phenotype Severity Spectrum:** Information regarding phenotype severity is not available.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** There are no established genotype-phenotype correlations for PRAMEF8.
+- **Protein Domain-Specific Phenotype Patterns:** Information on protein domain-specific phenotype patterns is not available.
+- **Genotype-Phenotype Correlation Strength:** The strength of any genotype-phenotype correlation is currently unknown.
+- **Examples:** There are no available examples of specific variants leading to specific phenotypes.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic or likely pathogenic variants for PRAMEF8 with clinical phenotype associations are listed in ClinVar or other major variant databases.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** According to the Genotype-Tissue Expression (GTEx) portal, PRAMEF8 shows the highest expression in the testis. Lower levels of expression are seen in cultured fibroblasts and lung tissue. The clinical correlation of this expression pattern is not yet understood.
+- **Tissue-Specific Phenotypes Expected:** Given the high expression in the testis, variants in PRAMEF8 could potentially be associated with male infertility or other testicular phenotypes. However, this is speculative and not supported by clinical evidence at this time.
+- **Expression During Development and Age-Related Phenotypes:** RNA sequencing data from human fetal samples (10-20 weeks gestation) indicates expression of PRAMEF8, suggesting a potential role in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** The PRAME family member 8 (PRAMEF8) protein is predicted to be involved in the ubiquitin-proteasome system, potentially acting as a substrate adaptor in a Cul2-RING ubiquitin ligase complex.
+- **Disease Mechanism:** The disease mechanism for PRAMEF8, if any, is unknown.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The PRAME family of genes, to which PRAMEF8 belongs, is generally associated with cancer and is primarily expressed in the testis. The specific pathways that might be disrupted by altered PRAMEF8 function and lead to a clinical phenotype have not been elucidated.
+- **Protein-Protein Interactions Relevant to Phenotype:** Studies have suggested interactions with Cullin 3 (CUL3). Disruption of such interactions could potentially underlie a disease phenotype, but this has not been demonstrated.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield of testing for PRAMEF8 is currently zero, as it is not associated with any known clinical phenotype.
+- **Most Common Reasons for Testing This Gene:** PRAMEF8 is not routinely tested for in a clinical setting.
+- **Clinical Actionability and Management Implications:** There are no known clinical actionability or management implications related to PRAMEF8 variants at this time.
+- **Genetic Counseling Considerations:** There are no specific genetic counseling considerations for PRAMEF8 at present.
+
+### **Key Clinical Literature & Studies**
+- Currently, there are no key clinical publications or landmark studies that have established a definitive genotype-phenotype correlation for PRAMEF8. Research on the PRAME family of genes is ongoing.
+
+### **HPO-Variant Matching Summary**
+- **High-Confidence HPO-Variant Associations:** There are no high-confidence HPO-variant associations for PRAMEF8.
+- **Phenotype Red Flags:** There are no known "red flag" HPO terms that would strongly suggest the presence of a pathogenic variant in PRAMEF8.
+- **Differential Diagnosis Considerations:** As there is no defined phenotype for PRAMEF8, differential diagnosis considerations are not applicable.
+

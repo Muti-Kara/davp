@@ -1,0 +1,64 @@
+CNTNAP3B Gene Biomedical Dossier
+### **Gene Dossier: CNTNAP3B**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 32035.
+*   **OMIM Gene ID**: No OMIM entry for this gene was found in the search results.
+*   **Primary Disease Associations**: No definitive disease associations have been established. One database mentions a potential association with Nicolaides-Baraitser Syndrome, though this is not substantiated by other sources.
+*   **Clinical Significance Level**: No evidence of clinical significance.
+*   **Inheritance Patterns**: No inheritance patterns have been documented in patients.
+
+**Constraint & Variant Intolerance**
+*   **gnomAD v4.0 Constraint Scores**:
+    *   pLI (probability of being loss-of-function intolerant): 1.11e-05 (0.0000111).
+    *   LOEUF (loss-of-function observed/expected upper-bound fraction): 0.81.
+    *   pRec (probability of being recessive): 0.00.
+    *   pNull (probability of being null): 1.00.
+*   **Clinical Interpretation of Constraint Scores**: The extremely low pLI score and high LOEUF score indicate that this gene is highly tolerant to loss-of-function variation. Genes with these scores are not expected to be a cause of monogenic disease.
+*   **Variant Classes Most Likely to be Pathogenic**: Based on constraint scores, no variant classes are currently expected to be pathogenic. The gene is tolerant of both predicted loss-of-function and missense variation.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No Human Phenotype Ontology (HPO) terms are currently associated with this gene.
+*   **Secondary HPO terms**: None reported.
+*   **Age of Onset Patterns**: Not applicable.
+*   **Phenotype Severity Spectrum**: Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: No genotype-phenotype correlations have been established.
+*   **Protein Domain-Specific Phenotype Patterns**: No domain-specific patterns have been identified.
+*   **Genotype-Phenotype Correlation Strength**: Not applicable due to a lack of associated phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic variants for *CNTNAP3B* were identified in ClinVar or the broader literature from the performed searches.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues**: Expression is documented in a wide range of tissues, including the brain, testis, kidney, liver, and various neuronal tissues like the trigeminal ganglion.
+*   **Tissue-Specific Phenotypes Expected**: The clinical relevance of the tissue expression pattern is unknown, as no disease phenotype has been linked to the gene.
+*   **Expression During Development and Age-Related Phenotypes**: No specific information on developmental expression or age-related phenotypes was found.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: The protein product is predicted to be an integral membrane protein involved in cell adhesion.
+*   **Disease Mechanism**: No disease mechanism has been established. Given the lack of constraint, haploinsufficiency is an unlikely mechanism.
+*   **Cellular/Molecular Pathways Disrupted**: The transcript may be subject to nonsense-mediated mRNA decay, which could result in naturally low protein levels. By analogy to its paralog, *CNTNAP3*, it may play a role in neuron-glial cell interactions.
+*   **Protein-Protein Interactions Relevant to Phenotype**: No specific protein-protein interactions with known phenotypic relevance have been documented.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield is presumed to be zero, as no variants in this gene have been confirmed as pathogenic for any disorder.
+*   **Most Common Reasons for Testing This Gene**: This gene is not routinely tested for in a clinical diagnostic setting.
+*   **Clinical Actionability and Management Implications**: Not applicable.
+*   **Genetic Counseling Considerations**: Counseling should reflect that *CNTNAP3B* is not known to be associated with human disease. Variants in this gene are unlikely to be the cause of a patient's phenotype.
+
+**Key Clinical Literature & Studies**
+*   No clinical or genetic studies establishing a phenotype for *CNTNAP3B* were found. Information is primarily derived from large-scale databases and studies of related genes.
+    *   **UniProtKB Q96NU0** (2018): Provides protein information, noting that *CNTNAP3B* is a paralog of *CNTNAP3* resulting from a genomic duplication.
+    *   **GeneCards: CNTNAP3B** (2024): Compiles gene-level data, including expression and a lack of HPO associations, and notes the transcript may undergo nonsense-mediated decay.
+    *   **Peña-Garijo et al., Hum Genet, 2023**: This study on the related gene *CNTNAP2* defines its associated phenotype (severe cognitive impairment, epilepsy, behavioral abnormalities), which can be used for differential diagnosis.
+    *   **Zenteno et al., Eur J Med Genet, 2020**: This study on *CNTN4* highlights a spectrum of neurobehavioral phenotypes and discusses reduced penetrance, which are relevant concepts for the contactin gene family.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: None exist.
+*   **Phenotype Red Flags**: There are no HPO terms that strongly suggest pathogenic variants in *CNTNAP3B*.
+*   **Differential Diagnosis Considerations**: Phenotypes involving neurodevelopmental delay, epilepsy, and/or autism spectrum disorder should prompt consideration of other related genes in the contactin family, such as:
+    *   ***CNTNAP2***: Associated with global developmental delay, intellectual disability, epilepsy, language impairment, and autism spectrum disorder.
+    *   ***CNTN4***: Associated with a spectrum of neurobehavioral phenotypes, including cognitive delay, motor delay, and seizures.
+

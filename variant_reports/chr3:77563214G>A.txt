@@ -1,0 +1,163 @@
+=== chr3:77563214G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs202043830
+• Chromosome: 3
+• Position: 77563214
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: ROBO2
+• Databases: rs202043830
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 7.391e-05
+• gnomADg Allele Frequency: 4.5990000000000005e-05
+• 1KG Frequency: 0.0006000000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009750: dissociation measurement - Quantification of some aspect of the psychological experience of dissociation. Dissociation in community samples is most commonly measured by the Dissociative Experiences Scale. The DSM-IV considers symptoms such as depersonalization, derealization and psychogenic amnesia to be core features of dissociative disorders. However, in the normal population, dissociative experiences that are not clinically significant are highly prevalent with 60% to 65% of the respondents indicating that they have had some dissociative experiences. The SCID-D is a structured interview used to assess and diagnose dissociation.
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0009748: response to ketamine - Any change in the state of an organism as a result of a ketamine stimulus. Ketamine is a selective antagonist of the NMDA receptor, used primarily in anaesthesia, sedation and pain management.
+GWAS_EFO_0000571: lung adenocarcinoma - A carcinoma that arises from the lung and is characterized by the presence of malignant glandular epithelial cells. There is a male predilection with a male to female ratio of 2:1. Usually lung adenocarcinoma is asymptomatic and is identified through screening studies or as an incidental radiologic finding. If clinical symptoms are present they include shortness of breath, cough, hemoptysis, chest pain, and fever. Tobacco smoke is a known risk factor.
+GWAS_EFO_0006953: family history of lung cancer - A reported family history of lung cancer in one or more family members.
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0005203: eating disorder - A broad group of psychological disorders with abnormal eating behaviors leading to physiological effects from overeating or insufficient food intake.|A group of disorders characterized by physiological and psychological disturbances in appetite or food intake.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+GWAS_EFO_0007167: Bell's palsy - Partial or complete paralysis of the facial muscles of one side of a person's face. It is caused by damage to the seventh cranial nerve. It is usually temporary but it may recur.|A facial paralysis resulting from dysfunction in the cranial nerve VII (facial nerve).
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_GO_0050913: sensory perception of bitter taste - The series of events required to receive a bitter taste stimulus, convert it to a molecular signal, and recognize and characterize the signal. This is a neurological process.
+GWAS_EFO_0008419: susceptibility to chronic sinus infection measurement - Quantification of an individual's susceptibility to chronic sinus infections, requiring surgery.
+GWAS_EFO_0008173: interleukin 16 measurement - quantification of the amount of interleukin 16 in a sample
+GWAS_EFO_0004696: sex hormone-binding globulin measurement - Is a quantification of sex hormone binding globulin. In men the test is used in when investigating testosterone deficiency.  The SHBG glycoprotein binds to circulating estradiol and testosterone, low levels of SHBG may be implicated in breast cancer etiology.
+GWAS_EFO_0003821: obsolete_migraine disorder - A class of disabling primary headache disorders, characterized by recurrent unilateral pulsatile headaches. The two major subtypes are common migraine (without aura) and classic migraine (with aura or neurological symptoms). (International Classification of Headache Disorders, 2nd ed. Cephalalgia 2004: suppl 1)
+GWAS_EFO_0001065: endometriosis - The growth of functional endometrial tissue in anatomic sites outside the uterine body. It most often occurs in the pelvic organs.
+GWAS_EFO_0007796: parental longevity - length of an individual's parents' life, either taken individually (paternal or maternal longevity) or in combination and sometimes used as an indicator of an individual longevity
+GWAS_GO_0009314: response to radiation - None
+GWAS_EFO_0001663: prostate carcinoma - A carcinoma that arises from epithelial cells of the prostate gland.
+GWAS_EFO_0000649: periodontitis - An acute or chronic inflammatory process that affects the tissues that surround and support the teeth.|Inflammation and loss of connective tissues supporting or surrounding the teeth. This may involve any part of the PERIODONTIUM. Periodontitis is currently classified by disease progression (CHRONIC PERIODONTITIS; AGGRESSIVE PERIODONTITIS) instead of age of onset. (From 1999 International Workshop for a Classification of Periodontal Diseases and Conditions, American Academy of Periodontology)
+GWAS_EFO_0005193: serum IgG glycosylation measurement - quantification of N-linked IgG glycans in a serum sample
+GWAS_EFO_0005093: hip circumference - circumferential measurement of the largest part of the hip
+GWAS_EFO_0007874: gut microbiome measurement - quantification of some aspect of an individual's micrbiome of the gut
+GWAS_EFO_0004765: visceral adipose tissue measurement - Is a quantification of a particular location of adipose tissue.
+GWAS_EFO_0010368: lysophosphatidylethanolamine 18:1 measurement - The quantification of lysophosphatidylethanolamine 18:1 levels in a sample.
+GWAS_GO_0097366: response to bronchodilator - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus with a bronchodilator agent. (CHEBI:35523 bronchodilator agent)
+GWAS_EFO_0004314: forced expiratory volume - Measure of the maximum amount of air that can be expelled in a given number of seconds during aÂ FORCED VITAL CAPACITYÂ determination . It is usually given asÂ FEVÂ followed by a subscript indicating the number of seconds over which the measurement is made, although it is sometimes given as a percentage of forced vital capacity.
+GWAS_EFO_0008401: susceptibility to shingles measurement - Quantification of an individual's susceptibility to shingles, a pinaful rash resultin from reactivation of latent Varicella zoster virus infection within a dorsal root ganglion, typically occuring in later life.
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0600004: retinal nerve fibre layer thickness measurement - A measure of the thickness of the retinal nerve fiber layer (RNFL). It is typically measured using optical imaging methods such as optical coherence tomography (OCT). The thickness of the ganglion cell complex (GCC), the collective name for the retinal nerve fibre layer and the ganglion cell inner plexiform layer, is one of the biomarkers used in the diagnosis of primary open angle glaucoma (POAG).
+GWAS_EFO_0600002: retinal layer thickness measurement - A measure of the thickness of one or more layers of the retina. It is measured with various imaging tools including ultrasound, optical coherence tomography (OCT), confocal microscopy, and biometry. Reduced retinal layer thickness is one of the biomarkers used for the diagnosis of glaucoma.
+GWAS_EFO_0008328: chronotype measurement - quantification of some aspect of chronotype such as ease of getting up in the morning
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0004464: brain measurement - None
+GWAS_EFO_0004346: neuroimaging measurement - Non-invasive methods of visualizing and measuring the CENTRAL NERVOUS SYSTEM, especially the brain, by various imaging modalities e.g. CT scan|is about MeSH:D059906
+GWAS_EFO_0004354: circadian rhythm - The regular recurrence, in cycles of about 24 hours, of biological processes or activities, such as sensitivity to drugs and stimuli, hormone secretion, sleeping, and feeding.
+GWAS_EFO_0005674: white matter microstructure measurement - quantification of the microstructre of the white matter of the brain
+GWAS_EFO_0009902: handedness - A better, faster, or more precise performance or individual preference for use of a hand, known as the dominant hand; the less capable or less preferred hand is called the non-dominant hand. Dominance typically applies to all tasks, but in rare cases may be task-specific (known as cross-handedness or mixed-dominance) Ambidexterity is the ability to do any task equally well with either hand.
+GWAS_EFO_0005671: smoking behaviour measurement - the quantification of some smoking or smoking-related behaviour, usually self-reported via a questionnaire
+GWAS_EFO_0008341: snoring measurement - quantification of some aspect of snoring such as frequency or severity
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0005133: MHPG measurement - quantification of 3-methoxy-4-hydroxyphenylglycol in measured in urine, plasma or cerebrospinal fluid. MHPG is reported to be associated with neuropsychiatric disorders.
+GWAS_EFO_0005132: 5-HIAA measurement - quantification of 5-hydroxyindoleacetic acid in cerebrospinal fluid or urine. 5-HIAA is a metabolite of serotonin. This measurement is performed during diagnosis of serotonin secreting neuroendocrine tumours.Low levels of 5-HIAA in the cerebrospinal fluid have been associated with aggressive behavior and suicide by violent means, correlating with diminished serotonin levels.Elevated serotonin (hyperserotonemia) is one of the most common biological findings in autism[3] and 5-HIAA may be elevated in patients with autistic spectrum disorders.
+GWAS_EFO_0006941: grip strength measurement - quantification of the force applied by the hand to pull on or suspend from objects
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0009331: erosive tooth wear measurement - Quantification of some aspect of erosive tooth wear. Erosive tooth wear is a condition where non-bacterial acids dissolve and soften the tooth surface, thus exposing the tooth to mechanical forces.
+GWAS_EFO_0006316: infant expressive language ability - mental process necessary for language acquisition in infancy
+GWAS_EFO_0008463: glucagon measurement - The quantification of glucagon, a hormone involved in glucose homeostasis.
+GWAS_EFO_0010333: temporal horn of lateral ventricle volume measurement - Quantification of the volume of the choroid plexus.
+GWAS_EFO_0008487: lateral ventricle volume measurement - Quantification of the volume of the lateral ventricle, the largest cavity of the ventricular system of the human brain which contains cerebrospinal fluid (CSF).
+GWAS_EFO_0008358: dorsolateral prefrontal cortex functional measurement - quantification of the function of the dorsolateral prefrontal cortex, an area of the prefrontal cortex strongly implicated in schizophrenia.
+GWAS_EFO_0007825: balding measurement - quantification of the amount of balding in an individual
+GWAS_EFO_0005301: reading and spelling ability - reading and spelling ability refers to the complex cognitive processes involved in assembling and decoding symbols in order to construct or derive words
+GWAS_EFO_0006917: spontaneous preterm birth - any birth that occurs spontaneously prior to 37 weeks of gestation, eg due to fetal membrane rupture or spontaneous onset of uterine contractions
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16144184) -> Associated GWAS: GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0000571, GWAS_EFO_0006953, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0005203, GWAS_EFO_0007006, GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0000692, GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0007167, GWAS_EFO_0004747, GWAS_GO_0050913, GWAS_EFO_0008419, GWAS_EFO_0000692, GWAS_EFO_0008173, GWAS_EFO_0004696, GWAS_EFO_0003821, GWAS_EFO_0001065, GWAS_EFO_0007796, GWAS_EFO_0004747, GWAS_EFO_0008173, GWAS_GO_0009314, GWAS_EFO_0001663, GWAS_EFO_0000649, GWAS_EFO_0005193, GWAS_EFO_0005093, GWAS_EFO_0007874, GWAS_EFO_0004765, GWAS_EFO_0010368, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0008401, GWAS_EFO_0006527, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0008328, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0004464, GWAS_EFO_0004346, GWAS_EFO_0006527, GWAS_EFO_0004354, GWAS_EFO_0005674, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: Transcript (ID: 16242980) -> Associated GWAS: GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0000571, GWAS_EFO_0006953, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0005203, GWAS_EFO_0007006, GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0000692, GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0007167, GWAS_EFO_0004747, GWAS_GO_0050913, GWAS_EFO_0008419, GWAS_EFO_0000692, GWAS_EFO_0008173, GWAS_EFO_0004696, GWAS_EFO_0003821, GWAS_EFO_0001065, GWAS_EFO_0007796, GWAS_EFO_0004747, GWAS_EFO_0008173, GWAS_GO_0009314, GWAS_EFO_0001663, GWAS_EFO_0000649, GWAS_EFO_0005193, GWAS_EFO_0005093, GWAS_EFO_0007874, GWAS_EFO_0004765, GWAS_EFO_0010368, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0008401, GWAS_EFO_0006527, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0008328, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0004464, GWAS_EFO_0004346, GWAS_EFO_0006527, GWAS_EFO_0004354, GWAS_EFO_0005674, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: Transcript (ID: 16242993) -> Associated GWAS: GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0000571, GWAS_EFO_0006953, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0005203, GWAS_EFO_0007006, GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0000692, GWAS_EFO_0009750, GWAS_EFO_0000289, GWAS_EFO_0003761, GWAS_EFO_0009748, GWAS_EFO_0007167, GWAS_EFO_0004747, GWAS_GO_0050913, GWAS_EFO_0008419, GWAS_EFO_0000692, GWAS_EFO_0008173, GWAS_EFO_0004696, GWAS_EFO_0003821, GWAS_EFO_0001065, GWAS_EFO_0007796, GWAS_EFO_0004747, GWAS_EFO_0008173, GWAS_GO_0009314, GWAS_EFO_0001663, GWAS_EFO_0000649, GWAS_EFO_0005193, GWAS_EFO_0005093, GWAS_EFO_0007874, GWAS_EFO_0004765, GWAS_EFO_0010368, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0008401, GWAS_EFO_0006527, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0008328, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0004464, GWAS_EFO_0004346, GWAS_EFO_0006527, GWAS_EFO_0004354, GWAS_EFO_0005674, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132
+Entity: Transcript (ID: 16243022) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0008328, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0004464, GWAS_EFO_0004346, GWAS_EFO_0006527, GWAS_EFO_0004354, GWAS_EFO_0005674, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: Transcript (ID: 16243035) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0008328, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0004464, GWAS_EFO_0004346, GWAS_EFO_0006527, GWAS_EFO_0004354, GWAS_EFO_0005674, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: Transcript (ID: 16243062) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0600004, GWAS_EFO_0600002, GWAS_EFO_0008328, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0004464, GWAS_EFO_0004346, GWAS_EFO_0006527, GWAS_EFO_0004354, GWAS_EFO_0005674, GWAS_EFO_0004784, GWAS_EFO_0004875, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0008328, GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: Transcript (ID: 16243106) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: Non Coding RNA (ID: 17264835) -> Associated GWAS: GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132
+Entity: Non Coding RNA (ID: 17264836) -> Associated GWAS: GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132
+Entity: ChromHMM State (ID: 19625038) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331, GWAS_EFO_0006316, GWAS_EFO_0008463
+Entity: ChromHMM State (ID: 20172390) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331, GWAS_EFO_0006316, GWAS_EFO_0008463, GWAS_EFO_0010333, GWAS_EFO_0008487, GWAS_EFO_0004747, GWAS_EFO_0000692, GWAS_EFO_0008358, GWAS_EFO_0004464, GWAS_EFO_0007825, GWAS_EFO_0005301, GWAS_EFO_0006917
+Entity: ChromHMM State (ID: 20752352) -> Associated GWAS: GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331, GWAS_EFO_0006316, GWAS_EFO_0008463, GWAS_EFO_0010333, GWAS_EFO_0008487
+Entity: ChromHMM State (ID: 21367515) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331, GWAS_EFO_0006316, GWAS_EFO_0008463
+Entity: ChromHMM State (ID: 21988056) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331, GWAS_EFO_0006316, GWAS_EFO_0008463
+Entity: ChromHMM State (ID: 22594766) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0009902, GWAS_EFO_0007006, GWAS_EFO_0005671, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0008341, GWAS_EFO_0008341, GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004713, GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0005133, GWAS_EFO_0005132, GWAS_EFO_0004340, GWAS_EFO_0006941, GWAS_EFO_0001360, GWAS_EFO_0009331
+Entity: chr_chain (ID: 181461) -> Associated GWAS: GWAS_EFO_0004340, GWAS_GO_0097366, GWAS_EFO_0004713
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 14005
+• Pathogenic/Likely Pathogenic: 409
+• Benign/Likely Benign: 4622
+• Uncertain Significance: 8974
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Vesicoureteral reflux 2 (n=3320)
+• Inborn genetic diseases (n=1941)
+• not provided|Inborn genetic diseases (n=323)
+• Vesicoureteral reflux 2|not provided (n=232)
+• Inborn genetic diseases|Vesicoureteral reflux 2 (n=229)
+• not provided|Vesicoureteral reflux 2 (n=223)
+• Vesicoureteral reflux 2|Inborn genetic diseases (n=149)
+• Congenital anomaly of kidney and urinary tract (n=122)
+• Congenital anomaly of kidney and urinary tract|Vesicoureteral reflux 2 (n=111)
+• Inborn genetic diseases|not provided (n=96)
+• Inborn genetic diseases|ROBO2-related disorder (n=85)
+• Vesicoureteral reflux 2|Congenital anomaly of kidney and urinary tract (n=83)
+• Inborn genetic diseases|Vesicoureteral reflux 2|not provided (n=81)
+• ROBO2-related disorder (n=79)
+• not provided|Inborn genetic diseases|Vesicoureteral reflux 2 (n=46)
+• not provided|ROBO2-related disorder|Vesicoureteral reflux 2 (n=46)
+• Congenital anomaly of kidney and urinary tract|Vesicoureteral reflux 2|Inborn genetic diseases (n=28)
+• Vesicoureteral reflux (n=28)
+• ROBO2-related disorder|Vesicoureteral reflux 2 (n=27)
+• Vesicoureteral reflux|not provided (n=27)
+• ROBO2-related disorder|not provided|Inborn genetic diseases (n=27)
+• Congenital anomaly of kidney and urinary tract|not provided (n=27)
+• Vesicoureteral reflux 2|not provided|Congenital anomaly of kidney and urinary tract (n=27)
+• not provided|Vesicoureteral reflux 2|Inborn genetic diseases (n=27)
+• Vesicoureteral reflux 2|Inborn genetic diseases|not provided (n=21)
+• See cases (n=19)
+• not provided|Inborn genetic diseases|ROBO2-related disorder|Vesicoureteral reflux 2 (n=19)
+• Inborn genetic diseases|not provided|Vesicoureteral reflux 2 (n=19)
+• Inborn genetic diseases|ROBO2-related disorder|Vesicoureteral reflux 2 (n=18)
+• ROBO2-related disorder|not provided (n=17)
+• Vesicoureteral reflux 2|not provided|not specified|ROBO2-related disorder (n=17)
+• not provided|Congenital anomaly of kidney and urinary tract (n=12)
+• ROBO2-related disorder|Inborn genetic diseases (n=12)
+
+

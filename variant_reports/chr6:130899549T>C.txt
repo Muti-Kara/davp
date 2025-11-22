@@ -1,0 +1,89 @@
+=== chr6:130899549T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs142296383
+• Chromosome: 6
+• Position: 130899549
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: EPB41L2
+• Databases: rs142296383, COSV61359288
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0005164999999999999
+• gnomADg Allele Frequency: 0.0004596
+• 1KG Frequency: 0.0006000000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0010321: pars triangularis volume measurement - Quantification of the volume of the pars triangularis.
+GWAS_EFO_0007660: neuroticism measurement - Quantification of some aspect of neuroticism or neurotic behaviour, such as severity or frequency of neurotic behaviour. This is usually assessed via a standardised questionnaire.
+GWAS_EFO_0007865: loneliness measurement - Quantification of some aspect of loneliness, such as severity or presence/absence, generally through administration of a standardised questionnaire such as the 3-Item Leave Behind Questionnaire (LBQ).
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_GO_0036273: response to statin - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a statin stimulus, a compound that inhibits HMG-CoA reductases.
+GWAS_EFO_0007804: LDL cholesterol change measurement - quantification of the change in LDL cholesterol levels in an individual over time, eg over the course of several hours after a high-fat meal or following treatment with a cholesterol-lowering drug
+GWAS_EFO_0004913: lentiform nucleus measurement - Is a quantification of the lentiform nucleus (or lenticular nucleus) volume, typically by MRI. Deficits in lentiform nucleus volume and morphometry are implicated in a number of genetically influenced disorders, including Parkinson’s disease, schizophrenia, and ADH.
+GWAS_EFO_0004309: platelet count - The number of PLATELETS per unit volume in a sample of venous BLOOD.
+GWAS_EFO_0007985: platelet crit - The proportion of blood volume that is occupied by platelets, expressed as a percentage. 
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0004531: urate measurement - A urate measurement is the quantification of some urate in body fluid
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_MONDO_0024647: urolithiasis - Stone(s) within the urinary tract.
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0005193: serum IgG glycosylation measurement - quantification of N-linked IgG glycans in a serum sample
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0007825: balding measurement - quantification of the amount of balding in an individual
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16150406) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267522) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339
+Entity: Transcript (ID: 16267541) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267545) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267619) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267646) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267649) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267652) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267666) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267681) -> Associated GWAS: GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804
+Entity: Transcript (ID: 16267684) -> Associated GWAS: GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804
+Entity: Transcript (ID: 16267691) -> Associated GWAS: GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913
+Entity: Transcript (ID: 16267725) -> Associated GWAS: GWAS_GO_0036273, GWAS_EFO_0007804
+Entity: Transcript (ID: 16267789) -> Associated GWAS: GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913
+Entity: Transcript (ID: 16267791) -> Associated GWAS: GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+Entity: Transcript (ID: 16267806) -> Associated GWAS: GWAS_EFO_0010321, GWAS_EFO_0007660, GWAS_EFO_0007865, GWAS_EFO_0009270, GWAS_GO_0036273, GWAS_EFO_0007804, GWAS_EFO_0004913, GWAS_EFO_0004309, GWAS_EFO_0007985, GWAS_EFO_0004784, GWAS_EFO_0009270, GWAS_EFO_0004531, GWAS_EFO_0006335, GWAS_EFO_0004339, GWAS_MONDO_0024647, GWAS_EFO_0009270, GWAS_EFO_0004526, GWAS_EFO_0004527, GWAS_EFO_0005193, GWAS_EFO_0004528, GWAS_EFO_0004339, GWAS_EFO_0009270, GWAS_EFO_0007825, GWAS_EFO_0004527, GWAS_EFO_0004526
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2112
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 114
+• Uncertain Significance: 1998
+• Other Classifications: 0
+

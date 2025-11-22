@@ -1,0 +1,59 @@
+BMP8A Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID**: 21650
+– **OMIM Gene ID**: 620847
+– **Primary Disease Associations**: No definitive monogenic disease associations have been established in OMIM or ClinVar. GeneCards lists associations with Vestibular Nystagmus and Photoallergic Dermatitis, though the evidence for these is not specified.
+– **Clinical Significance Level**: The clinical significance of BMP8A in Mendelian disease is currently uncertain.
+– **Inheritance Patterns**: No clear inheritance patterns have been described in patients for any specific disease.
+
+### **Constraint & Variant Intolerance**
+– **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI of 0.00, a LOEUF of 1.18, pRec of 0.81, and pNull of 0.19.
+– **Clinical Interpretation of Constraint Scores**: The low pLI score (closer to 0) and high LOEUF score (greater than 1) suggest that BMP8A is tolerant to loss-of-function variation. This indicates that haploinsufficiency is not a likely mechanism of disease for this gene.
+– **Variant Classes Most Likely to be Pathogenic**: Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or have dominant-negative effects. However, there is currently no strong evidence for this.
+
+### **Phenotype Spectrum & HPO Terms**
+– **Primary HPO terms**: Currently, no specific HPO terms are definitively associated with pathogenic variants in BMP8A in human patients.
+– **Secondary HPO terms**: No secondary HPO terms are currently documented in relation to BMP8A variants in humans.
+– **Age of Onset Patterns**: Not applicable as no clear disease phenotype is established.
+– **Phenotype Severity Spectrum**: Not applicable.
+
+### **Genotype-Phenotype Correlations**
+– **Variant Classes and Their Typical Phenotypes**: There are no established correlations between variant classes and specific phenotypes for BMP8A.
+– **Protein Domain-Specific Phenotype Patterns**: Information on protein domain-specific phenotypes is not available.
+– **Genotype-Phenotype Correlation Strength**: Not applicable.
+– **Examples**: A study on peripheral arterial disease (PAD) found a genome-wide significant association for the interaction between traffic exposure and the variant rs755249, located in the 3' UTR of BMP8A. However, this is a complex association and not a monogenic disease correlation.
+
+### **Clinical Variants & Phenotype Associations**
+– No variants in BMP8A have been classified as pathogenic or likely pathogenic for a Mendelian disorder in ClinVar.
+– The variant rs755249 has been associated with peripheral arterial disease in the context of traffic exposure, but its clinical significance is listed as uncertain.
+– One missense variant, c.878G>A (p.Arg293His), is listed in ClinVar with a classification of "uncertain significance".
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM)**: According to GeneCards, BMP8A has the highest expression in the thyroid gland. It is also expressed in the testis. Studies have noted its expression in lung and bone marrow cells.
+– **Tissue-Specific Phenotypes Expected**: Based on mouse models and human tissue expression, potential phenotypes could relate to male fertility (spermatogenesis, epididymal function), bone metabolism, and adipose tissue regulation. Aberrant expression has been noted in some cancers, including lung adenocarcinoma, clear cell renal cell carcinoma, and triple-negative breast cancer.
+– **Expression During Development and Age-Related Phenotypes**: In mice, Bmp8a is expressed in male germ cells during the initiation and maintenance of spermatogenesis.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function**: BMP8A is a secreted signaling protein from the TGF-beta superfamily that induces cartilage and bone formation and is involved in the regulation of thermogenesis, energy balance, and spermatogenesis.
+– **Disease Mechanism**: Given the gnomAD constraint scores, haploinsufficiency is an unlikely disease mechanism. The specific mechanism for any potential disease association is unknown.
+– **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: BMP8A signals through the canonical BMP pathway by binding to type I and type II receptors, leading to the phosphorylation of SMAD transcription factors (SMAD1/5/8 and SMAD2/3). Disruption of this signaling in animal models affects fertility and metabolism.
+– **Protein-Protein Interactions Relevant to Phenotype**: BMP8A interacts with BMP receptors (BMPR1A, BMPR2) and activin receptors (ACVR2A, ACVR2B, ALK4, ALK5) to initiate signaling. In mouse studies, genetic interaction with Bmp7 exacerbates spermatogenesis and epididymal defects.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for BMP8A is expected to be very low to none, as it is not currently associated with a well-defined monogenic disorder.
+– **Most Common Reasons for Testing This Gene**: Testing for this gene would primarily be on a research basis, for instance in cohorts with unexplained male infertility, metabolic disorders, or certain cancers.
+– **Clinical Actionability and Management Implications**: There are currently no clinical actionability guidelines for variants in BMP8A.
+– **Genetic Counseling Considerations**: Counseling would focus on the uncertainty of any findings in BMP8A, explaining that there is no established evidence to classify variants as pathogenic for a specific disease.
+
+### **Key Clinical Literature & Studies**
+– **PMID: 27082954, 2016**: Reported a genome-wide significant interaction between variant rs755249 in BMP8A and traffic exposure in relation to peripheral arterial disease.
+– **PMID: 37785535, 2023**: Showed that Bmp8a deletion in zebrafish leads to obesity and fatty liver by affecting fatty acid oxidation and adipocyte differentiation via the Smad2/3 pathway.
+– **PMID: 38293126, 2024**: Found that BMP8A is upregulated in triple-negative breast cancer (TNBC) and associated with poorer distant metastasis-free survival, enhancing cancer cell invasion and migration.
+– **PMID: 11784057, 2001**: A study in mice demonstrating that a mutation in Bmp7 worsens the spermatogenesis and epididymis phenotype of Bmp8a mutant mice, suggesting functional redundancy.
+– **PMID: 9506538, 1998**: Landmark study in mice that inactivated the Bmp8a gene, establishing its role in the maintenance of spermatogenesis and the integrity of the epididymis.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations**: There are currently no high-confidence HPO-variant associations for BMP8A.
+– **Phenotype red flags**: No specific HPO terms are considered red flags for pathogenic variants in BMP8A at this time.
+– **Differential diagnosis considerations**: Given the expression pattern and animal model data, genes involved in male infertility (e.g., BMP8B, BMP7), congenital hypothyroidism, or disorders of bone and mineral metabolism might be considered in a differential diagnosis if a patient presents with relevant features and a variant of uncertain significance in BMP8A.
+

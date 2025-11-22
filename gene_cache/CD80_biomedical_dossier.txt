@@ -1,0 +1,63 @@
+CD80 Gene Biomedical Dossier
+### **Clinical Genetics Dossier: CD80**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 1700
+*   **OMIM Gene ID:** 112203
+*   **Primary Disease Associations:** While not linked to a Mendelian disease, CD80 is implicated in various complex autoimmune diseases and cancers, including IgA vasculitis, multiple autoimmune diseases, chronic lymphocytic leukemia, systemic scleroderma, and type 1 diabetes mellitus. It is also associated with minimal change disease (MCD), a cause of nephrotic syndrome.
+*   **Clinical Significance Level:** The role of CD80 in complex diseases is still under investigation, and it is not typically associated with a single-gene disorder. Its significance is primarily as a susceptibility or modifier gene in autoimmune and inflammatory conditions.
+*   **Inheritance Patterns Observed in Patients:** Not applicable in the context of Mendelian inheritance. Associations with complex diseases are typically polygenic.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI: 0.00
+    *   LOEUF: 1.13
+    *   pRec: 0.81
+    *   pNull: 0.19
+*   **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores indicate that the CD80 gene is tolerant to loss-of-function variants. This suggests that haploinsufficiency is not a common disease mechanism for this gene. The high pRec and low pNull scores suggest it is unlikely to be associated with recessive disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants are less likely to be simple nonsense or frameshift mutations. Missense variants or variants affecting regulatory regions that lead to altered protein function or expression might be more relevant in disease susceptibility.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As CD80 is not linked to a single Mendelian disorder, a ranked list of HPO terms from patient cohorts is not readily available. Phenotypes are associated with the complex diseases it is implicated in.
+*   **Secondary HPO terms:** Based on associated diseases, relevant HPO terms would include those related to autoimmunity and nephrotic syndrome.
+*   **Age of Onset Patterns:** Varies depending on the associated complex disease, ranging from childhood-onset (e.g., minimal change disease) to adult-onset (e.g., various autoimmune diseases).
+*   **Phenotype Severity Spectrum:** Severity is variable and dependent on the specific complex disease manifestation.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific genotype-phenotype correlations for CD80 variants are not well-established in the context of Mendelian disease. Studies have focused on associations between single-nucleotide polymorphisms (SNPs) and susceptibility to complex diseases like breast cancer and recurrent spontaneous abortion.
+*   **Protein Domain-Specific Phenotype Patterns:** The extracellular IgV and IgC domains are critical for its co-stimulatory function by interacting with CD28 and CTLA-4. Variants in these domains could potentially alter T-cell activation and immune responses.
+*   **Genotype-Phenotype Correlation Strength:** Weak. Current evidence is largely based on association studies for complex diseases rather than causative variants for monogenic disorders.
+
+**Clinical Variants & Phenotype Associations**
+*   ClinVar lists variants in CD80, but the majority are of uncertain significance or benign. No well-characterized pathogenic variants are consistently reported with high-penetrance phenotypes. Some variants are noted in individuals with phenotypes, but causality is not firmly established.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** CD80 shows the highest expression in immune-related tissues, including the spleen, lymph nodes, and whole blood. It is also expressed in the lungs.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in immune cells aligns with its role in T-cell co-stimulation and autoimmune diseases. Expression in podocytes is relevant to its role in minimal change disease and proteinuria.
+*   **Expression During Development and Age-Related Phenotypes:** Expression patterns may be relevant to the age of onset of associated autoimmune diseases.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** CD80 is a costimulatory molecule on antigen-presenting cells that binds to CD28 and CTLA-4 on T-cells, providing signals that are essential for T-lymphocyte activation and tolerance.
+*   **Disease Mechanism:** Not typically associated with a classic Mendelian disease mechanism. Its role in complex disease is likely related to altered immune regulation, where variants may modify T-cell activation thresholds.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the CD80-CD28/CTLA-4 pathway can lead to inappropriate T-cell activation or tolerance failure, contributing to autoimmunity. In podocytes, abnormal CD80 expression, inducible by TLR3 ligands via an NF-κB-dependent pathway, may lead to proteinuria.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interactions with CD28 (activating) and CTLA-4 (inhibitory) are central to its function. It has also been shown to interact with PD-L1.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing of CD80 for diagnostic purposes in a Mendelian context is not standard practice due to the lack of a clear disease association.
+*   **Most Common Reasons for Testing This Gene:** Testing is primarily for research purposes to investigate susceptibility to autoimmune diseases or its role in cancer immunotherapy. Urinary CD80 levels are being investigated as a biomarker for minimal change disease.
+*   **Clinical Actionability and Management Implications:** CD80 is a therapeutic target. For example, Abatacept, a CTLA-4-Ig fusion protein, blocks CD80/CD86 signaling and is used to treat autoimmune diseases.
+*   **Genetic Counseling Considerations:** Not typically applicable for Mendelian disease counseling. Counseling for complex diseases would involve discussing polygenic risk and the limited predictive power of CD80 variants alone.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 31730999, 2020:** Reported the discovery of CD80 and CD86 as activation markers on regulatory T cells, suggesting a role in regulating T-cell responses.
+*   **PMID: 21617154, 2011:** Showed that TLR3 ligands can induce CD80 expression in human podocytes via the NF-κB pathway, providing a potential mechanism for proteinuria in minimal change disease, especially following viral infections.
+*   **PMID: 10583602:** A foundational study demonstrating that the interaction of CD80 with CTLA-4 inhibits T-cell activation.
+*   **PMID: 36727298:** Revealed that CD80's interaction with PD-L1 can block the PD-L1/PD-1 inhibitory pathway.
+*   **PMID: 12196291:** Characterized the interaction between CD80 and its activating receptor CD28.
+*   **NCBI Gene ID: 941:** Multiple GeneRIFs indicate associations with various cancers and autoimmune conditions, and highlight its role as a therapeutic target and biomarker, particularly urinary CD80 in nephrotic syndrome.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no established high-confidence associations between specific CD80 variants and HPO terms in a Mendelian context.
+*   **Phenotype red flags:** While not diagnostic, the presence of phenotypes related to **minimal change disease (e.g., HP:0000093 Proteinuria)** or severe, early-onset **autoimmune disease (e.g., HP:0002960 Autoimmunity)** could prompt further investigation into immune regulatory pathways where CD80 plays a role.
+*   **Differential diagnosis considerations:** The phenotypic overlap is vast, encompassing a wide range of primary immunodeficiencies and autoimmune disorders. For phenotypes involving T-cell dysregulation, genes in the same pathway such as *CTLA4*, *CD28*, and *ICOS* should be considered. For nephrotic syndrome, other genes associated with podocytopathies are key differentials.
+

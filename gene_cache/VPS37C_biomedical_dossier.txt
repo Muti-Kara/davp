@@ -1,0 +1,56 @@
+VPS37C Gene Biomedical Dossier
+### **Gene Dossier: VPS37C**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 26097.
+*   **OMIM Gene ID**: 610038.
+*   **Primary Disease Associations**: No established Mendelian disease association. Associated with cellular processes like viral budding and has been studied in the context of colorectal cancer.
+*   **Clinical Significance Level**: No evidence for disease causality in inherited disorders.
+*   **Inheritance Patterns Observed in Patients**: Not applicable as no inherited disease is currently associated with this gene.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: In the gnomAD v2.1.1 dataset, the probability of being loss-of-function intolerant (pLI) is 0.00. The loss-of-function observed/expected upper bound fraction (LOEUF) is 1.15.
+*   **Clinical Interpretation of Constraint Scores**: The very low pLI score and a LOEUF score greater than 1.0 indicate that VPS37C is tolerant to loss-of-function (LoF) variation. The observed number of LoF variants in the general population is not less than the expected number.
+*   **Variant Classes Most Likely to be Pathogenic**: Given the tolerance to LoF variants, neither nonsense nor frameshift variants are expected to be pathogenic for a haploinsufficiency mechanism. The pathogenicity of missense variants would require strong functional evidence.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No primary HPO terms are currently associated with germline pathogenic variants in VPS37C.
+*   **Secondary HPO terms**: No secondary HPO terms are currently associated with germline pathogenic variants in VPS37C.
+*   **Age of Onset Patterns**: Not applicable.
+*   **Phenotype Severity Spectrum**: Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: No genotype-phenotype correlations have been established for VPS37C in the context of human inherited disease.
+*   **Protein Domain-specific Phenotype Patterns**: No domain-specific phenotype patterns have been described. The protein contains a Mod(r) domain for interaction with other ESCRT-I subunits and a proline-rich region.
+*   **Genotype-Phenotype Correlation Strength**: Not applicable.
+*   **Examples: specific variants → specific phenotypes**: No examples exist in the clinical literature.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic variants are reported in ClinVar for VPS37C that are associated with a specific Mendelian phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: The gene shows low tissue specificity, with expression detected across numerous tissues. Top expressing tissues include the appendix, spleen, and lymph node.
+*   **Tissue-Specific Phenotypes Expected**: The broad expression pattern suggests a general cellular function rather than a role that would lead to a highly tissue-specific phenotype. This is consistent with its role in the ubiquitous ESCRT pathway.
+*   **Expression During Development and Age-Related Phenotypes**: No specific data on developmental expression or age-related phenotypes associated with VPS37C were found in the search.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: VPS37C is a component of the ESCRT-I (endosomal sorting complex required for transport-I) complex, which sorts ubiquitinated proteins into multivesicular bodies for degradation.
+*   **Disease Mechanism**: Haploinsufficiency is an unlikely disease mechanism due to the gene's tolerance of LoF variants. Other mechanisms like dominant-negative or gain-of-function have not been described for germline variants.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: As part of the ESCRT-I complex, VPS37C is involved in endosomal trafficking, multivesicular body assembly, and viral budding (e.g., HIV-1). Disruption in cancer cells can contribute to cell growth and inflammatory stress responses.
+*   **Protein-Protein Interactions Relevant to Phenotype**: VPS37C forms a complex with other ESCRT-I components, including TSG101 and VPS28, to execute its function.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for VPS37C in cohorts of patients with undiagnosed genetic diseases is expected to be effectively zero, as it is not an established disease gene.
+*   **Most Common Reasons for Testing This Gene**: This gene is not routinely tested for in a clinical diagnostic setting for inherited diseases. It may be sequenced as part of large gene panels or exome/genome sequencing, but its variants are unlikely to be reported as causal.
+*   **Clinical Actionability and Management Implications**: Not applicable.
+*   **Genetic Counseling Considerations**: Counseling would focus on the lack of evidence for VPS37C as a cause of Mendelian disease. Variants of uncertain significance in this gene should be interpreted with caution, and pathogenicity should not be assumed given the gene's constraint metrics.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 33419951, 2021**: Investigated the roles of VPS37 paralogs in colorectal cancer, finding that co-silencing of VPS37C with VPS37A/B potentiated inhibition of cell proliferation and inflammatory responses.
+*   **PMID: 15509564, 2005**: This landmark study first identified VPS37C as a functional component of the mammalian ESCRT-I complex and demonstrated its role in HIV-1 budding by interacting with TSG101.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: There are currently no known high-confidence associations between HPO terms and variants in VPS37C.
+*   **Phenotype Red Flags**: No specific HPO terms are considered "red flags" that would strongly suggest testing or analyzing VPS37C for pathogenic variants.
+*   **Differential Diagnosis Considerations**: Not applicable, as no phenotype is defined for VPS37C.
+

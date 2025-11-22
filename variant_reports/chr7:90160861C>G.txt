@@ -1,0 +1,91 @@
+=== chr7:90160861C>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs4015375
+• Chromosome: 7
+• Position: 90160861
+• Reference Allele (REF): C
+• Alternative Allele (ALT): G
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: STEAP1
+• Databases: rs4015375, COSV51880898
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0004973
+• gnomADg Allele Frequency: 0.006611
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0007925: response to paliperidone - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a paliperidone stimulus. Paliperidone, also known as 9-hydroxyrisperidone, is a dopamine antagonist and 5-HT2A antagonist of the atypical antipsychotic class of medications.
+GWAS_EFO_0007927: schizophrenia symptom severity measurement - quantification of the severity of schizophrenia symptoms, for example as a result of treatment. Schizophrenia symptom severity can be evaluated via a range of measures, including the the Positive and Negative Syndrome Scale (PANSS), a medical scale used for measuring symptom severity of patients with schizophrenia, the PANSS sub-component PANSS positive Marder factor score and PANSS negative Marder factor score and the Clinical Global Impression – Severity scale (CGI-S), a 7-point scale that requires the clinician to rate the severity of the patient's illness at the time of assessment, relative to the clinician's past experience with patients who have the same diagnosis.
+GWAS_EFO_0009783: carotid atherosclerosis - A thickening and loss of elasticity of the walls of carotid arteries that occur with formation of atherosclerotic plaques.
+GWAS_EFO_0005852: Heschl's gyrus morphology measurement - quantification of the morphology (eg thickness and surface area) of Heschl's gyrus, a core region of the auditory cortex with highly variable morphology
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0000676: psoriasis - An autoimmune condition characterized by red, well-delineated plaques with silvery scales that are usually on the extensor surfaces and scalp. They can occasionally present with these manifestations: pustules; erythema and scaling in intertriginous areas, and erythroderma, that are often distributed on extensor surfaces and scalp.|A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. The lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region. Accelerated epidermopoiesis is considered to be the fundamental pathologic feature in psoriasis.
+GWAS_EFO_0000274: atopic eczema - A chronic inflammatory genetically determined disease of the skin marked by increased ability to form reagin (IgE), with increased susceptibility to allergic rhinitis and asthma, and hereditary disposition to a lowered threshold for pruritus. It is manifested by lichenification, excoriation, and crusting, mainly on the flexural surfaces of the elbow and knee. In infants it is known as infantile eczema.
+GWAS_EFO_0006781: coffee consumption measurement - the quantification of some coffee consumption or coffee consumption-related behaviour, usually self-reported via a questionnaire
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0004723: coronary artery calcification - Calcification of the coronary artery, used as a measure of coronary atherosclerosis, a risk factor for myocardial infarction.
+GWAS_EFO_0004468: glucose measurement - Is any quantification of glucose.
+GWAS_EFO_0005763: pulse pressure measurement - quantification of the difference between systolic blood pressure and diastolic blood pressure. Higher PP is associated with left ventricle hypertrophy and the increased intimal thickness of the carotid artery, which represent early target organ damage in cardiovascular diseases
+GWAS_EFO_0004765: visceral adipose tissue measurement - Is a quantification of a particular location of adipose tissue.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16144923) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0007925, GWAS_EFO_0007927, GWAS_EFO_0009783, GWAS_EFO_0005852, GWAS_EFO_0004337, GWAS_EFO_0000676, GWAS_EFO_0000274, GWAS_EFO_0006781, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0005763, GWAS_EFO_0005763, GWAS_EFO_0004765
+Entity: Transcript (ID: 16245660) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0007925, GWAS_EFO_0007927, GWAS_EFO_0009783, GWAS_EFO_0005852, GWAS_EFO_0004337, GWAS_EFO_0000676, GWAS_EFO_0000274, GWAS_EFO_0006781, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0005763, GWAS_EFO_0005763, GWAS_EFO_0004765
+Entity: Non Coding RNA (ID: 17356077) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0007925, GWAS_EFO_0007927, GWAS_EFO_0009783, GWAS_EFO_0005852, GWAS_EFO_0004337, GWAS_EFO_0000676, GWAS_EFO_0000274, GWAS_EFO_0006781, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0005763, GWAS_EFO_0005763, GWAS_EFO_0004765
+Entity: Non Coding RNA (ID: 17356076) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0007925, GWAS_EFO_0007927, GWAS_EFO_0009783, GWAS_EFO_0005852, GWAS_EFO_0004337, GWAS_EFO_0000676, GWAS_EFO_0000274, GWAS_EFO_0006781, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0004723, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0005763, GWAS_EFO_0005763, GWAS_EFO_0004765
+Entity: ChromHMM State (ID: 22131450) -> Associated GWAS: GWAS_EFO_0004468
+Entity: ChromHMM State (ID: 21504033) -> Associated GWAS: GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0005763, GWAS_EFO_0005763, GWAS_EFO_0004765
+Entity: ChromHMM State (ID: 20299808) -> Associated GWAS: GWAS_EFO_0004468
+Entity: ChromHMM State (ID: 19738968) -> Associated GWAS: GWAS_EFO_0004468
+Entity: ChromHMM State (ID: 19154523) -> Associated GWAS: GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0005763, GWAS_EFO_0005763
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 1320
+• Pathogenic/Likely Pathogenic: 24
+• Benign/Likely Benign: 148
+• Uncertain Significance: 1148
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Spermatogenic failure 24 (n=16)
+• not provided|not specified (n=8)
+• See cases (n=4)
+• Susceptibility to severe COVID-19 (n=4)
+• Non-syndromic male infertility due to sperm motility disorder (n=4)
+• Diaphragmatic hernia (n=4)
+• Global developmental delay (n=4)
+• Cognitive impairment (n=4)
+• Autism (n=4)
+• Intellectual disability, moderate (n=4)
+• Delayed speech and language development (n=4)
+
+

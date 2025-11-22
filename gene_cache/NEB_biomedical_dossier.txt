@@ -1,0 +1,103 @@
+NEB Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** NEB (HGNC: 7720).
+- **OMIM Gene ID:** 161650.
+- **Primary Disease Associations:** Nemaline myopathy 2 (NEM2) (OMIM #256030), Arthrogryposis Multiplex Congenita 6 (AMC6), Distal Nebulin Myopathy, and Lethal Multiple Pterygium Syndrome.
+- **Clinical Significance Level:** The association between NEB and nemaline myopathy 2 is considered **definitive**. Associations with other nemaline myopathy subtypes (severe congenital, intermediate, typical, childhood-onset) and lethal multiple pterygium syndrome are classified as **supportive**.
+- **Inheritance Patterns:** Primarily autosomal recessive. Rare cases of autosomal dominant inheritance have been reported, typically leading to a distal myopathy phenotype.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint scores for NEB are pLI = 0.00, and LOEUF = 1.09.
+- **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that the NEB gene is tolerant to loss-of-function variation in the general population. This is consistent with its primarily recessive mode of inheritance, where heterozygous carriers are typically asymptomatic.
+- **Variant Classes Most Likely to be Pathogenic:** Pathogenic variants are most commonly nonsense, frameshift, and splice-site variants. Missense variants are considered pathogenic if they affect highly conserved regions, disrupt actin or tropomyosin binding sites, or are functionally validated.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:**
+    - HP:0003712 - Nemaline myopathy.
+    - HP:0001252 - Hypotonia.
+    - HP:0003202 - Skeletal muscle weakness.
+    - HP:0001324 - Motor delay.
+    - HP:0002098 - Respiratory insufficiency.
+    - HP:0001511 - Intrauterine growth retardation.
+    - HP:0001562 - Fetal akinesia sequence.
+    - HP:0000365 - Hearing impairment.
+    - HP:0002515 - Scoliosis.
+    - HP:0010628 - Facial palsy.
+    - HP:0000470 - Short stature.
+    - HP:0000272 - Malar flattening.
+    - HP:0001263 - Global developmental delay.
+    - HP:0001763 - Talipes equinovarus.
+    - HP:0001541 - Ascites.
+    - HP:0000486 - Strabismus.
+    - HP:0000520 - Proptosis.
+    - HP:0000347 - Micrognathia.
+    - HP:0000175 - Cleft palate.
+    - HP:0100252 - Pterygium.
+- **Secondary HPO terms:**
+    - HP:0001288 - Gait disturbance.
+    - HP:0009053 - Distal muscle weakness.
+    - HP:0003325 - Distal amyotrophy.
+    - HP:0001638 - Cardiomyopathy.
+    - HP:0002187 - Intellectual disability.
+    - HP:0000505 - Visual impairment.
+    - HP:0000218 - High palate.
+    - HP:0001387 - Joint stiffness.
+    - HP:0002817 - Arthrogryposis multiplex congenita.
+    - HP:0011463 - Areflexia.
+    - HP:0002123 - Dysphagia.
+    - HP:0012423 - Tongue atrophy.
+    - HP:0000407 - Pes cavus.
+    - HP:0002376 - Developmental regression.
+    - HP:0030233 - Myofibrillar myopathy.
+- **Age of Onset Patterns:** The clinical spectrum is broad, ranging from severe congenital/neonatal-onset forms to milder childhood or adult-onset presentations.
+- **Phenotype Severity Spectrum:** Severity ranges from lethal neonatal forms with severe weakness and respiratory failure to milder forms compatible with a normal lifespan, though often with slowly progressive weakness.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Compound heterozygosity for two null alleles (e.g., frameshift, nonsense, or splice-site) typically leads to classic nemaline myopathy. The presence of at least one missense variant is often associated with a milder phenotype.
+- **Protein Domain-Specific Phenotype Patterns:** Variants in alternatively spliced regions (e.g., exons 63-66, 82-105, 143/144, 166-177) may result in a milder pathogenic effect. A recurrent deletion of exon 55, common in the Ashkenazi Jewish population, is associated with typical nemaline myopathy.
+- **Genotype-Phenotype Correlation Strength:** There is a moderate correlation, with the amount and size of the expressed nebulin protein influencing clinical severity. The complete absence of nebulin is typically lethal.
+- **Examples: specific variants → specific phenotypes:** A homozygous 2,502-bp deletion involving exon 55 (NM_001164508.2:c.7431+1919_7536+374del) is associated with typical nemaline myopathy in individuals of Ashkenazi Jewish descent. A four-copy gain in the triplicate region of NEB (exons 82-105) resulted in a much larger nebulin protein and longer thin filament lengths.
+
+### **Clinical Variants & Phenotype Associations**
+- **NM_001164508.2:c.7431+1919_7536+374del (Exon 55 deletion):** Pathogenic; Associated with typical nemaline myopathy (NEM2), hypotonia, decreased fetal movements, clubfoot, and early death in some cases. Common in Ashkenazi Jewish populations with a carrier frequency of ~1 in 108.
+- **p.Tyr2303His (Y2303H) in combination with p.Tyr935* (Y935X):** Pathogenic; A compound heterozygous mouse model with these variants recapitulates human NEB-NM with nemaline bodies and muscle pathology, but a normal lifespan, suggesting a moderate phenotype.
+- **Novel homozygous variant in exon 80:** Pathogenic; Reported in a patient with classical type 2 nemaline myopathy, characterized by infancy-onset hypotonia and muscle weakness.
+- **Dominantly inherited large deletions:** Pathogenic; Associated with distal myopathy phenotypes, sometimes with asymmetric presentation and hemifacial weakness.
+- **Four-copy gain in triplicate region (exons 82-105):** Pathogenic; This duplication variant results in a larger nebulin protein and longer thin filaments, demonstrating a unique disease mechanism.
+- **Pathogenic truncation variants:** Generally lead to nonsense-mediated decay (NMD) of the mutant mRNA transcript, resulting in reduced nebulin protein levels.
+- **Pathogenic splicing variants:** Often lead to cryptic splice site activation, which is predicted to disrupt the actin-binding domains of nebulin.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** Skeletal muscle shows the highest expression by a significant margin (x51.5). Expression is also noted in the esophagus and heart tissue.
+- **Tissue-specific Phenotypes Expected:** The high expression in skeletal muscle directly correlates with the primary phenotype of myopathy. Cardiac involvement, such as cardiomyopathy, is reported in about 13% of NEM2 patients, consistent with cardiac expression.
+- **Expression During Development and Age-related Phenotypes:** Nebulin expression is developmentally regulated, with different isoforms present at various stages. This can influence the age of onset, with severe phenotypes often manifesting prenatally as fetal akinesia.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** Nebulin is a giant protein that extends along the actin thin filaments of the skeletal muscle sarcomere, regulating thin filament length and stability.
+- **Disease Mechanism:** The primary mechanism is loss-of-function due to biallelic variants, leading to reduced or absent nebulin protein. This can be due to nonsense-mediated decay of transcripts with premature termination codons or the production of unstable, non-functional protein. Rare dominant-negative mechanisms have been proposed for some variants.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disrupted nebulin function leads to shorter and non-uniform thin filament lengths, disorganized Z-discs, and the formation of nemaline bodies (protein aggregates), which impairs muscle force generation and results in weakness.
+- **Protein-protein Interactions Relevant to Phenotype:** Nebulin's primary interaction is with F-actin, and it also interacts with tropomyosin. Pathogenic variants can disrupt these interactions, leading to impaired sarcomere structure and function.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield:** Pathogenic variants in NEB account for over 50% of all nemaline myopathy cases, making it the most common genetic cause.
+- **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with clinical features of nemaline myopathy, including congenital or childhood-onset hypotonia, skeletal muscle weakness, and the presence of nemaline bodies on muscle biopsy. It is also considered in cases of fetal akinesia or lethal multiple pterygium syndrome.
+- **Clinical Actionability and Management Implications:** Management is supportive and includes respiratory monitoring (e.g., ventilatory support), physical therapy, and nutritional support (e.g., gastrostomy tube). Scoliosis and dysphagia are common and require active management.
+- **Genetic Counseling Considerations:** Most cases are autosomal recessive, meaning parents are typically asymptomatic carriers and the recurrence risk for future pregnancies is 25%. Rare autosomal dominant forms exist. Carrier screening for specific founder mutations, like the exon 55 deletion in the Ashkenazi Jewish population, is available.
+
+### **Key Clinical Literature & Studies**
+- **Pelin K, et al. (1999) *Proc Natl Acad Sci U S A.*:** Landmark paper first identifying NEB mutations as a cause of autosomal recessive nemaline myopathy.
+- **Lehtokari VL, et al. (2006) *Am J Hum Genet.*:** Comprehensive study identifying numerous novel NEB mutations and expanding the mutational spectrum.
+- **Anderson SL, et al. (2004) *Am J Hum Genet.*:** Described the common Ashkenazi Jewish founder deletion in exon 55 and its associated phenotype.
+- **Ottenheijm CAC, et al. (2009) *Brain.*:** Characterized the muscle phenotype associated with the exon 55 deletion, linking it to reduced thin filament length and force generation.
+- **Lehtokari VL, et al. (2014) *Hum Mutat.*:** Provided an extensive update on the spectrum of over 200 NEB variants and highlighted genotype-phenotype correlations, noting variability in clinical severity.
+- **Laitila J & Wallgren-Pettersson C. (2021) *J Neuromuscul Dis.*:** A review summarizing the clinical features, genetics, and pathogenesis of nebulin-related myopathies.
+- **de Winter JM, et al. (2023) *Neurol Genet.*:** Presented a cohort of 33 patients, describing the progressive nature of the disease and identifying tongue atrophy in a triple furrow pattern as a novel clinical sign associated with dysphagia.
+- **Aguti S, et al. (2024) *Hum Mol Genet.*:** Characterized zebrafish models of NEB-related myopathy, providing a pre-clinical tool for studying genotype-phenotype correlations and potential therapies.
+- **Ottenheijm CAC, et al. (2024) *J Cachexia Sarcopenia Muscle.*:** Investigated a cohort of ten patients, revealing that pathogenic truncation variants often lead to NMD and identified a duplication variant causing a larger protein and longer thin filaments. This study also explored omecamtiv mecarbil as a potential therapeutic to improve muscle force.
+- **Jin et al. (2014) and Amburgey et al. (2021):** These studies noted associations between variants in specific exons (e.g., 27 and 143) and learning/intellectual disabilities.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** Biallelic null variants (nonsense, frameshift, canonical splice site) are strongly associated with the core phenotypes of nemaline myopathy (HP:0003712), congenital hypotonia (HP:0001252), and muscle weakness (HP:0003202). The homozygous exon 55 deletion is highly predictive of typical nemaline myopathy in the Ashkenazi Jewish population.
+- **Phenotype red flags:** The combination of severe congenital hypotonia, facial weakness, and respiratory insufficiency is highly suggestive of NEB-related myopathy. The presence of nemaline bodies on a muscle biopsy is the classic pathological hallmark. Fetal akinesia (HP:0001562) or multiple pterygia (HP:0100252) in a prenatal setting should prompt consideration of NEB.
+- **Differential diagnosis considerations:** The phenotype of NEB-related myopathy overlaps with other congenital myopathies caused by variants in genes such as *ACTA1*, *TPM3*, *TPM2*, *TNNT1*, *LMOD3*, and *KLHL40*/*KLHL41*. These genes also encode proteins of the muscle thin filament or are involved in its regulation.
+

@@ -1,0 +1,122 @@
+=== chr13:39750949G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs200866607
+• Chromosome: 13
+• Position: 39750949
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: COG6
+• Databases: rs200866607
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 7.188000000000001e-05
+• gnomADg Allele Frequency: 7.230000000000001e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0007908: traffic air pollution measurement - quantification of some aspect of air pollution through traffic, such as annual average NO2 exposure estimates derived using land use regression modeling
+GWAS_EFO_0004265: peripheral arterial disease - A disorder of the arteries supplying the upper and lower extremity and the visceral organs. This includes the mesenteric arteries, the renal arteries and the aorta and excludes cerebrovascular arterial disease. Patients experience cramping and pain usually in the calves and thighs while walking. The symptoms subside with rest.|Lack of perfusion in the EXTREMITIES resulting from atherosclerosis. It is characterized by INTERMITTENT CLAUDICATION, and an ANKLE BRACHIAL INDEX of 0.9 or less.
+GWAS_EFO_0000731: uterine fibroid - A benign smooth muscle neoplasm arising from the body of the uterus. It is characterized by the presence of spindle cells with cigar-shaped nuclei, interlacing fascicles, and a whorled pattern.
+GWAS_EFO_0000684: respiratory system disease - A body system disease that occurs in different organs functioning in respiration and consisting especially of the nose, nasal passages, nasopharynx, larynx, trachea, bronchi, and lungs.|A non-neoplastic or neoplastic disorder that affects the respiratory system. Representative examples include pneumonia, chronic obstructive pulmonary disease, pulmonary failure, lung adenoma, lung carcinoma, and tracheal carcinoma.
+GWAS_EFO_1002011: adult onset asthma - Asthma that starts in adulthood
+GWAS_EFO_0000270: obsolete_asthma - A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.|Tendency of the smooth muscle of the tracheobronchial tree to contract more intensely in response to a given stimulus than it does in the response seen in normal individuals. This condition is present in virtually all symptomatic patients with asthma. The most prominent manifestation of this smooth muscle contraction is a decrease in airway caliber that can be readily measured in the pulmonary function laboratory.|A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).|A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, excercise, stress, reflux disease, medications, foods and emotional anxiety.
+GWAS_EFO_0000676: psoriasis - An autoimmune condition characterized by red, well-delineated plaques with silvery scales that are usually on the extensor surfaces and scalp. They can occasionally present with these manifestations: pustules; erythema and scaling in intertriginous areas, and erythroderma, that are often distributed on extensor surfaces and scalp.|A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. The lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region. Accelerated epidermopoiesis is considered to be the fundamental pathologic feature in psoriasis.
+GWAS_EFO_0002690: systemic lupus erythematosus - An autoimmune multi-organ disease typically associated with vasculopathy and autoantibody production. Most patients have antinuclear antibodies (ANA). The presence of anti-dsDNA or anti-Smith antibodies are highly-specific.|A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+GWAS_EFO_0000685: rheumatoid arthritis - Rheumatoid arthritis is a rheumatologic disorder described as an autoimmune disease that is usually a chronic disease and is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints.|A chronic, systemic autoimmune disorder characterized by inflammation in the synovial membranes and articular surfaces. It manifests primarily as a symmetric, erosive polyarthritis that spares the axial skeleton and is typically associated with the presence in the serum of rheumatoid factor.|A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.|An arthritis that results_from an autoimmune disease which attacks healthy cells and tissue located_in joint.
+GWAS_EFO_0003885: obsolete_multiple sclerosis - An autoimmune disorder mainly affecting young adults and characterized by destruction of myelin in the central nervous system. Pathologic findings include multiple sharply demarcated areas of demyelination throughout the white matter of the central nervous system. Clinical manifestations include visual loss, extra-ocular movement disorders, paresthesias, loss of sensation, weakness, dysarthria, spasticity, ataxia, and bladder dysfunction. The usual pattern is one of recurrent attacks followed by partial recovery (see MULTIPLE SCLEROSIS, RELAPSING-REMITTING), but acute fulminating and chronic progressive forms (see MULTIPLE SCLEROSIS, CHRONIC PROGRESSIVE) also occur. (Adams et al., Principles of Neurology, 6th ed, p903)
+GWAS_EFO_0004842: eosinophil count - Is a quantification of eosinphils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0005090: basophil count - quantification of basophils in the blood|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0007996: eosinophil percentage of granulocytes - A calculated measurement in which the number of eosinophil granulocytes is divided by the number of all granulocytes in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage.
+GWAS_EFO_0007991: eosinophil percentage of leukocytes - A calculated measurement in which the number of eosinophil granulocytes is divided by the number of all white blood cells in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage. An eosinophil is a granular leukocyte having a nucleus with two lobes connected by a thread of chromatin, and cytoplasm containing coarse, round granules of uniform size that stain readily with eosin and other acid dyes.
+GWAS_EFO_0007994: neutrophil percentage of granulocytes - A calculated measurement in which the number of neutrophil granulocytes is divided by the number of all granulocytes in a specified sample of peripheral venous blood, and the result presented as a ratio, fraction, quotient or percentage.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16129923) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004703, GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0004339, GWAS_EFO_0003885, GWAS_EFO_0000685, GWAS_EFO_0000676, GWAS_EFO_0000270, GWAS_EFO_0004842, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0007996, GWAS_EFO_0007991, GWAS_EFO_0000685, GWAS_EFO_0007994, GWAS_EFO_0003885, GWAS_EFO_1002011
+Entity: Transcript (ID: 16194534) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004703, GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0004339, GWAS_EFO_0003885, GWAS_EFO_0000685, GWAS_EFO_0000676, GWAS_EFO_0000270, GWAS_EFO_0004842, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0007996, GWAS_EFO_0007991, GWAS_EFO_0000685, GWAS_EFO_0007994, GWAS_EFO_0003885, GWAS_EFO_1002011
+Entity: Transcript (ID: 16194552) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004703, GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270
+Entity: Transcript (ID: 16194563) -> Associated GWAS: GWAS_EFO_0004339, GWAS_EFO_0004703, GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270
+Entity: ChromHMM State (ID: 19322339) -> Associated GWAS: GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685
+Entity: ChromHMM State (ID: 19875024) -> Associated GWAS: GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270
+Entity: ChromHMM State (ID: 20451024) -> Associated GWAS: GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0004339, GWAS_EFO_0003885, GWAS_EFO_0000685, GWAS_EFO_0000676
+Entity: ChromHMM State (ID: 21056680) -> Associated GWAS: GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685
+Entity: ChromHMM State (ID: 21667238) -> Associated GWAS: GWAS_EFO_0007908, GWAS_EFO_0004265, GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685, GWAS_EFO_0004339, GWAS_EFO_0003885, GWAS_EFO_0000685, GWAS_EFO_0000676, GWAS_EFO_0000270, GWAS_EFO_0004842, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0007996, GWAS_EFO_0007991, GWAS_EFO_0000685, GWAS_EFO_0007994, GWAS_EFO_0003885, GWAS_EFO_1002011, GWAS_EFO_0000685
+Entity: ChromHMM State (ID: 22298352) -> Associated GWAS: GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270, GWAS_EFO_0000676, GWAS_EFO_0002690, GWAS_EFO_0000685
+Entity: ChromHMM State (ID: 22871618) -> Associated GWAS: GWAS_EFO_0000731, GWAS_EFO_0004703, GWAS_EFO_0000684, GWAS_EFO_1002011, GWAS_EFO_0000270, GWAS_EFO_0000270
+Entity: chr_chain (ID: 491083) -> Associated GWAS: GWAS_EFO_0000270
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2965
+• Pathogenic/Likely Pathogenic: 338
+• Benign/Likely Benign: 1039
+• Uncertain Significance: 1583
+• Other Classifications: 5
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• COG6-congenital disorder of glycosylation (n=904)
+• Inborn genetic diseases (n=510)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome (n=279)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|Inborn genetic diseases (n=93)
+• COG6-congenital disorder of glycosylation|not provided (n=68)
+• not provided|Inborn genetic diseases (n=60)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|COG6-congenital disorder of glycosylation (n=49)
+• COG6-congenital disorder of glycosylation|COG6-congenital disorder of glycosylation (n=46)
+• Congenital disorder of glycosylation (n=36)
+• not specified|Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome (n=32)
+• COG6-congenital disorder of glycosylation|COG6-congenital disorder of glycosylation|not provided (n=32)
+• COG6-congenital disorder of glycosylation|Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome (n=30)
+• COG6-congenital disorder of glycosylation|Inborn genetic diseases (n=28)
+• not provided|COG6-congenital disorder of glycosylation (n=25)
+• Congenital disorder of glycosylation|not provided (n=18)
+• COG6-related disorder (n=11)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|not provided|Inborn genetic diseases (n=10)
+• Inborn genetic diseases|Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome (n=10)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|Inborn genetic diseases|not specified (n=8)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|COG6-congenital disorder of glycosylation|Inborn genetic diseases (n=8)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|not provided|COG6-congenital disorder of glycosylation (n=7)
+• COG6-congenital disorder of glycosylation|not specified|COG6-related disorder|Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome (n=6)
+• COG6-congenital disorder of glycosylation|Inborn genetic diseases|COG6-congenital disorder of glycosylation (n=6)
+• Inborn genetic diseases|COG6-related disorder (n=6)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|Hypohidrosis (n=6)
+• Intellectual disability|not provided|COG6-related disorder|COG6-congenital disorder of glycosylation (n=6)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|not provided (n=6)
+• Inborn genetic diseases|COG6-congenital disorder of glycosylation (n=6)
+• COG6-congenital disorder of glycosylation|COG6-related disorder|not specified (n=4)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|Inborn genetic diseases|not provided (n=4)
+• See cases (n=4)
+• COG6-congenital disorder of glycosylation|not provided|COG6-related disorder (n=4)
+• Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome|COG6-congenital disorder of glycosylation|COG6-related disorder (n=4)
+• COG6-congenital disorder of glycosylation|COG6-related disorder (n=4)
+• COG6-congenital disorder of glycosylation|Inborn genetic diseases|not provided (n=4)
+• Congenital disorder of glycosylation|not specified|COG6-related disorder (n=3)
+
+

@@ -1,0 +1,75 @@
+MEPCE Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 20247
+*   **OMIM Gene ID:** 611478
+*   **Primary Disease Associations:** A heterozygous nonsense variant in *MEPCE* has been associated with a neurodevelopmental disorder characterized by developmental delay, seizures, and white matter abnormalities on brain MRI. Patients with *MEPCE* mutations can exhibit phenotypes similar to those with loss-of-function variants in *LARP7*.
+*   **Clinical Significance Level:** The evidence for *MEPCE*'s role in disease is emerging; currently, it would be considered moderate, based on limited case reports.
+*   **Inheritance Patterns:** An autosomal dominant pattern of inheritance is suggested by the identification of a heterozygous de novo nonsense variant in an affected individual.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   **pLI:** There is no pLI score available in gnomAD for *MEPCE*.
+    *   **LOEUF:** There is no LOEUF score available in gnomAD for *MEPCE*.
+    *   **pRec:** 0.107
+*   **Clinical Interpretation of Constraint Scores:** The absence of a high pLI score or a low LOEUF score in gnomAD means that population-level data does not currently suggest intolerance to loss-of-function variants. However, this can be due to factors like small gene size or insufficient data and does not rule out pathogenicity, especially for rare diseases. The pRec score is low, suggesting a low probability of being a recessive disease gene.
+*   **Variant Classes Most Likely to Be Pathogenic:** Based on current literature, heterozygous loss-of-function variants, specifically nonsense mutations, are implicated in pathogenicity.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Global developmental delay
+    *   Seizures
+    *   Intellectual disability
+    *   Impaired neuromuscular ability
+    *   Frontal white matter lesions on brain MRI
+    *   Motor delay
+*   **Secondary HPO terms:**
+    *   Telomere shortening
+    *   Reduced telomerase activity
+*   **Age of Onset Patterns:** The reported case indicates a childhood onset of developmental delay and seizures.
+*   **Phenotype Severity Spectrum:** The severity appears to be significant, given the reported global developmental delay and seizures.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A heterozygous nonsense variant (c.1552C>T; p.Arg518*) has been linked to a neurodevelopmental disorder. This variant leads to a roughly 50% reduction in MEPCE protein levels.
+*   **Protein Domain-Specific Phenotype Patterns:** The identified nonsense mutation occurs outside the conserved methyltransferase domain, suggesting that regions beyond the catalytic core are critical for in vivo function.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently based on a single published case, making it moderate. More cases are needed to establish a strong correlation.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Well-characterized pathogenic variants:**
+    *   **HGVS:** NM_020463.4:c.1552C>T
+    *   **Protein Change:** p.(Arg518*)
+    *   **ClinVar Significance:** A nonsense variant associated with a neurodevelopmental disorder.
+    *   **Reported Phenotypes:** Developmental delay, seizures, frontal white matter lesions.
+    *   **Allele Frequency:** Not reported in population databases, consistent with a rare disease variant.
+*   **Variants with Strongest Phenotype Evidence:** The c.1552C>T (p.Arg518*) variant is the only published pathogenic variant with detailed clinical information.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *MEPCE* shows low tissue specificity and is expressed broadly across many tissues. According to one source, the highest expression is in the testis, with lower levels in the brain, cerebellum, and other organs.
+*   **Tissue-Specific Phenotypes Expected:** The neurological phenotypes, including developmental delay and seizures, are consistent with the gene's expression in the brain.
+*   **Expression During Development:** Given its role in regulating transcription, expression during early development is critical, and defects could logically lead to the observed neurodevelopmental phenotype.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MEPCE is a methyltransferase that adds a methylphosphate cap to the 5' end of 7SK snRNA, stabilizing it and playing a key role in the 7SK snRNP complex.
+*   **Disease Mechanism:** The proposed disease mechanism is haploinsufficiency. The heterozygous nonsense mutation leads to reduced MEPCE protein levels, causing disintegration of the 7SK snRNP complex.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the 7SK snRNP complex leads to increased release and activation of the positive transcription elongation factor b (P-TEFb). This results in hyperphosphorylation of RNA polymerase II, leading to dysregulated transcription elongation, which is postulated to cause the observed neurodevelopmental defects. Additionally, MEPCE is involved in human telomerase RNA (hTR) biogenesis, and its disruption can lead to telomere shortening.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is currently unknown as it is not a standard gene on most diagnostic panels. The single reported case was identified through whole-exome sequencing in a research setting.
+*   **Most Common Reasons for Testing This Gene:** Testing for *MEPCE* would be considered in individuals with unexplained neurodevelopmental disorders, particularly those with developmental delay, seizures, and white matter abnormalities, especially if variants in more common genes have been excluded.
+*   **Clinical Actionability and Management Implications:** Currently, there are no specific therapies targeting the *MEPCE* pathway. Management would be supportive and symptomatic, focusing on seizure control and developmental therapies.
+*   **Genetic Counseling Considerations:** Counseling should address the likely de novo, autosomal dominant nature of the condition. Given the limited data, predicting the full phenotypic spectrum and prognosis is challenging.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31467295, Year: 2019:** Schneeberger et al. first described the association between a de novo heterozygous *MEPCE* nonsense variant and a neurodevelopmental disorder. They demonstrated that the variant leads to reduced MEPCE protein, disintegration of the 7SK snRNP, and enhanced RNA polymerase II activation, establishing the primary genotype-phenotype link.
+*   **PMID: 35140237, Year: 2022:** Paez-Moscoso et al. showed that MEPCE, along with LARP7, is involved in the biogenesis of human telomerase RNA (hTR). This study provided evidence that defects in MEPCE can impair hTR processing, leading to telomere shortening, which could contribute to the disease phenotype.
+*   **PMID: 32043444, Year: 2020:** Liu et al. revealed a mechanism where JMJD6 cleaves MEPCE to release P-TEFb, highlighting a key regulatory step in transcription elongation involving MEPCE. This further supports the role of MEPCE in controlling transcription, a process critical for normal development.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Heterozygous loss-of-function variants (e.g., nonsense mutations) are strongly associated with a phenotype combining **Global developmental delay (HP:0001263)**, **Seizures (HP:0001250)**, and **Abnormality of brain white matter (HP:0002500)**.
+*   **Phenotype red flags:**
+    *   The combination of developmental delay, seizures, and specifically frontal white matter lesions on MRI should raise suspicion for a pathogenic variant in *MEPCE* or functionally related genes.
+*   **Differential diagnosis considerations:**
+    *   **LARP7:** Biallelic loss-of-function variants in *LARP7*, which encodes a protein that interacts with MEPCE in the 7SK snRNP complex, cause Alazami syndrome, characterized by intellectual disability and a similar phenotype.
+    *   Other disorders of transcription regulation.
+    *   Syndromes involving telomere biology disorders, given MEPCE's role in hTR biogenesis.
+

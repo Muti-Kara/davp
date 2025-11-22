@@ -1,0 +1,119 @@
+=== chr11:72695450G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs199904660
+• Chromosome: 11
+• Position: 72695450
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: ARAP1
+• Databases: rs199904660
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0001108
+• gnomADg Allele Frequency: 7.222000000000001e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0000685: rheumatoid arthritis - Rheumatoid arthritis is a rheumatologic disorder described as an autoimmune disease that is usually a chronic disease and is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints.|A chronic, systemic autoimmune disorder characterized by inflammation in the synovial membranes and articular surfaces. It manifests primarily as a symmetric, erosive polyarthritis that spares the axial skeleton and is typically associated with the presence in the serum of rheumatoid factor.|A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.|An arthritis that results_from an autoimmune disease which attacks healthy cells and tissue located_in joint.
+GWAS_EFO_0004584: mean platelet volume - A measurement of mean platelet volume is a machine-calculated measurement of the average size of platelets found in blood
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0004568: serum non-albumin protein measurement - The measurement of the non-albumin portion of blood protein (globulin) in serum
+GWAS_EFO_0007800: body fat percentage - Quantification of the amount of body fat as a percentage of total body mass, calculated as either total mass of fat divided by total body mass or one of a number of more complex weighted equations. Body fat includes essential body fat and storage body fat. 
+GWAS_EFO_0004465: fasting blood glucose measurement - An fasting blood glucose measurement is a measurement of glucose in the blood of a patient at some defined time point after eating.
+GWAS_EFO_0004541: HbA1c measurement - A quantification of glycated A1c hemoglobin in blood used as an index for blood glucose level over several months.
+GWAS_EFO_0004467: insulin measurement - An insulin measurement is a measure of insulin typically performed in the diagnosis of patients
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0006831: acute insulin response measurement - quantification of insulin release in response to a controlled glucose intake, generally  calculated as the increase in insulin concentrations at 2–8 min above the basal (fasting) insulin level after the bolus glucose injection at 0–1 min
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0007835: alcohol dependence measurement - quantification of some aspect of alcohol dependence or misuse, eg using a cummulative symptom score to determine the severity of a case of alcohol dependence
+GWAS_EFO_0006804: alloimmunization - An immune response to foreign (donor) antigens.
+GWAS_EFO_0006802: response to red blood cell transfusion - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a red blood cell transfusion
+GWAS_Orphanet_232: Sickle cell anemia - None
+GWAS_EFO_0004468: glucose measurement - Is any quantification of glucose.
+GWAS_EFO_0009924: Drugs used in diabetes use measurement - Quantification of some aspect of the use of drugs used in diabetes.
+GWAS_EFO_0009695: household income - A demographic parameter indicating the amount of earning made by a family.
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0008354: cognitive function measurement - quantification of some aspect of cognitive function
+GWAS_EFO_0004342: waist circumference - The measurement around the body at the level of the ABDOMEN and just above the hip bone. The measurement is usually taken immediately after exhalation.
+GWAS_EFO_0007789: BMI-adjusted waist circumference - waist circumference measurement that has been adjusted by subjects’ body mass index
+GWAS_EFO_0004458: C-reactive protein measurement - C-reactive protein (CRP) measurement is a measurement of the level of C-reactive protein in the blood.  Levels are known to rise in response to inflammation, CRP is therefore used as a clinical measure of inflammation. The measurement is used in the process of clinical diagnosis as high levels of CRP are associated with cardiovascular disease, diabetes and hypertension and in some cancers.|is about MeSH:D002097
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0004735: serum alanine aminotransferase measurement - Is a quantification of serum alanine aminotransferase, most commonly found in liver, the test is used in ascertainment of liver function.
+GWAS_EFO_0004309: platelet count - The number of PLATELETS per unit volume in a sample of venous BLOOD.
+GWAS_EFO_0004696: sex hormone-binding globulin measurement - Is a quantification of sex hormone binding globulin. In men the test is used in when investigating testosterone deficiency.  The SHBG glycoprotein binds to circulating estradiol and testosterone, low levels of SHBG may be implicated in breast cancer etiology.
+GWAS_EFO_0004713: FEV/FEC ratio - None
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16146435) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: Gene (ID: 16182588) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340, GWAS_EFO_0001360, GWAS_EFO_0006831, GWAS_EFO_0004467, GWAS_EFO_0004875, GWAS_EFO_0004584, GWAS_EFO_0004340, GWAS_EFO_0007835, GWAS_EFO_0006804, GWAS_EFO_0006802, GWAS_Orphanet_232, GWAS_EFO_0004541, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0004468, GWAS_EFO_0009924, GWAS_EFO_0001360, GWAS_EFO_0004875, GWAS_EFO_0001360, GWAS_EFO_0009695, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0001360, GWAS_EFO_0004342, GWAS_EFO_0007789, GWAS_EFO_0004458, GWAS_EFO_0004526, GWAS_EFO_0004735, GWAS_EFO_0004458, GWAS_EFO_0004309, GWAS_EFO_0004584, GWAS_EFO_0004696, GWAS_EFO_0004735, GWAS_EFO_0004713
+Entity: Transcript (ID: 16251457) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: Transcript (ID: 16394395) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Transcript (ID: 16395085) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340, GWAS_EFO_0001360, GWAS_EFO_0006831, GWAS_EFO_0004467, GWAS_EFO_0004875, GWAS_EFO_0004584, GWAS_EFO_0004340, GWAS_EFO_0007835, GWAS_EFO_0006804, GWAS_EFO_0006802, GWAS_Orphanet_232, GWAS_EFO_0004541, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0004468, GWAS_EFO_0009924, GWAS_EFO_0001360, GWAS_EFO_0004875, GWAS_EFO_0001360, GWAS_EFO_0009695, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0008354, GWAS_EFO_0001360, GWAS_EFO_0004342, GWAS_EFO_0007789, GWAS_EFO_0004458, GWAS_EFO_0004526, GWAS_EFO_0004735, GWAS_EFO_0004458, GWAS_EFO_0004309, GWAS_EFO_0004584, GWAS_EFO_0004696, GWAS_EFO_0004735, GWAS_EFO_0004713
+Entity: Transcript (ID: 16395114) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340, GWAS_EFO_0001360, GWAS_EFO_0006831
+Entity: Transcript (ID: 16395131) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568
+Entity: Transcript (ID: 16395142) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340, GWAS_EFO_0001360, GWAS_EFO_0006831
+Entity: Transcript (ID: 16395144) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340, GWAS_EFO_0001360, GWAS_EFO_0006831, GWAS_EFO_0004467, GWAS_EFO_0004875, GWAS_EFO_0004584, GWAS_EFO_0004340, GWAS_EFO_0007835, GWAS_EFO_0006804, GWAS_EFO_0006802, GWAS_Orphanet_232, GWAS_EFO_0004541, GWAS_EFO_0004468, GWAS_EFO_0001360, GWAS_EFO_0004468, GWAS_EFO_0009924, GWAS_EFO_0001360, GWAS_EFO_0004875, GWAS_EFO_0001360
+Entity: Transcript (ID: 16395156) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340
+Entity: Transcript (ID: 16395152) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340
+Entity: Transcript (ID: 16395187) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Transcript (ID: 16395182) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: Transcript (ID: 16395215) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Non Coding RNA (ID: 17082630) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Non Coding RNA (ID: 17082627) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: Non Coding RNA (ID: 17082626) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: Histone Modification Site (ID: 90711855) -> Associated GWAS: GWAS_EFO_0004584
+Entity: Histone Modification Site (ID: 81967691) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Histone Modification Site (ID: 78879181) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: Histone Modification Site (ID: 69018844) -> Associated GWAS: GWAS_EFO_0001360
+Entity: Histone Modification Site (ID: 62193336) -> Associated GWAS: GWAS_EFO_0004584
+Entity: Histone Modification Site (ID: 53857971) -> Associated GWAS: GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Histone Modification Site (ID: 57489779) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: Histone Modification Site (ID: 58472591) -> Associated GWAS: GWAS_EFO_0004584
+Entity: ChromHMM State (ID: 19273175) -> Associated GWAS: GWAS_EFO_0004584
+Entity: ChromHMM State (ID: 19836004) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360, GWAS_EFO_0004568, GWAS_EFO_0001360, GWAS_EFO_0001360, GWAS_EFO_0007800, GWAS_EFO_0004465, GWAS_EFO_0004541, GWAS_EFO_0001360, GWAS_EFO_0004467, GWAS_EFO_0004340, GWAS_EFO_0001360, GWAS_EFO_0006831
+Entity: ChromHMM State (ID: 20405083) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 21008044) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 21621736) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584
+Entity: ChromHMM State (ID: 22248451) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: ChromHMM State (ID: 22826956) -> Associated GWAS: GWAS_EFO_0000685, GWAS_EFO_0004584, GWAS_EFO_0001360
+Entity: chr_chain (ID: 443998) -> Associated GWAS: GWAS_EFO_0001360
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3275
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 206
+• Uncertain Significance: 3069
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Autism (n=15)
+
+

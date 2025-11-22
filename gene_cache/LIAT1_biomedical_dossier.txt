@@ -1,0 +1,57 @@
+LIAT1 Gene Biomedical Dossier
+### **Gene Dossier: LIAT1 (Ligand Of ATE1)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 33800.
+*   **OMIM Gene ID:** No OMIM gene entry currently exists.
+*   **Primary Disease Associations:** There are no established disease associations for *LIAT1* in OMIM or other major clinical genetics databases. GeneCards lists a computational association with Benign Teratoma and Sweat Gland Cancer, though this is not clinically established.
+*   **Clinical Significance Level:** Not applicable. There is currently no evidence to support a role in human monogenic disease.
+*   **Inheritance Patterns:** No inheritance patterns have been described, as no associated Mendelian disease has been identified.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull (gnomAD v2.1.1):**
+    *   pLI = 0.00.
+    *   LOEUF = 1.13.
+    *   pRec = 0.68.
+    *   pNull = 1.00.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score of 0.00 indicates the gene is extremely tolerant to loss-of-function (LoF) variation. The LOEUF score is greater than 1.0, suggesting that more LoF variants are observed than expected, providing no evidence of haploinsufficiency.
+*   **Variant Classes Most Likely to be Pathogenic:** Based on constraint scores, loss-of-function variants (e.g., nonsense, frameshift) are not predicted to be a mechanism of disease for this gene. There is no evidence to suggest other variant classes are pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are currently associated with variants in the *LIAT1* gene in human patients.
+*   **Secondary HPO terms:** No secondary HPO terms are associated with *LIAT1* variants in humans.
+*   **Age of Onset Patterns:** Not applicable, as no associated phenotype has been described.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   No genotype-phenotype correlations have been established for *LIAT1* as no human phenotype has been linked to variants in this gene.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for *LIAT1* are listed in ClinVar. Therefore, there are no known clinical variants with associated phenotypes.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** *LIAT1* shows broad expression across many tissues. According to GeneCards, the highest expression is observed in skeletal muscle and skin.
+*   **Tissue-specific Phenotypes Expected:** The clinical relevance of tissue-specific expression is unknown due to the lack of an associated disease phenotype.
+*   **Expression During Development:** Data on developmental expression patterns and their relation to age-related phenotypes are not available.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *LIAT1* encodes the "Ligand of ATE1" protein, which interacts with arginyltransferase ATE1, a component of the N-end rule pathway of protein degradation.
+*   **Disease Mechanism:** No disease mechanism has been established. The gene's tolerance to LoF variants suggests haploinsufficiency is not a likely mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The LIAT1 protein is involved in nucleolar liquid-liquid phase separation and may play a role in rRNA processing. Disruption of these pathways has not been linked to a clinical phenotype.
+*   **Protein-Protein Interactions Relevant to Phenotype:** LIAT1 interacts with ATE1 and JMJD6. The functional and clinical significance of these interactions in the context of human disease remains unknown.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is zero, as *LIAT1* is not included in clinical testing panels for any known disorder.
+*   **Most Common Reasons for Testing This Gene:** This gene is not routinely tested in a clinical diagnostic setting.
+*   **Clinical Actionability and Management Implications:** None at present.
+*   **Genetic Counseling Considerations:** Given the lack of evidence for a role in Mendelian disease, variants identified in *LIAT1* should be interpreted with caution and are highly unlikely to be the cause of a patient's phenotype.
+
+**Key Clinical Literature & Studies**
+*   Currently, there are no publications describing a clinical phenotype or establishing genotype-phenotype correlations for *LIAT1* in humans. Research has focused on its molecular function and evolution.
+*   **PMID: 25352668, 2014:** This landmark study first described the discovery and molecular characterization of *Liat1* in mice, its interaction with Ate1, and its unique evolution in primates, noting the expansion of tandem repeats in the human protein. This paper did not associate the gene with a human disease.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** None. There are no reported associations between *LIAT1* variants and HPO terms.
+*   **Phenotype red flags:** None known.
+*   **Differential diagnosis considerations:** Not applicable.
+

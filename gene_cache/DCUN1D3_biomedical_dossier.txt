@@ -1,0 +1,55 @@
+DCUN1D3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 28734.
+- **OMIM Gene ID**: 616167.
+- **Primary Disease Associations**: Currently, no Mendelian diseases are definitively associated with DCUN1D3 in OMIM. However, research suggests a link to Lung Squamous Cell Carcinoma and a protective role in obesity.
+- **Clinical Significance Level**: The clinical significance is still under investigation, with no definitive disease association established for a Mendelian phenotype.
+- **Inheritance Patterns Observed in Patients**: No specific inheritance pattern for a Mendelian disease has been described.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI score of 0.00 and a LOEUF of 1.25. The pLI score indicates that the gene is not intolerant to loss-of-function (LoF) variation. The LOEUF score is above the 0.35 threshold, suggesting the gene is tolerant of LoF alleles.
+- **Clinical Interpretation of Constraint Scores**: The low pLI score and high LOEUF score from gnomAD suggest that heterozygous loss-of-function variants in DCUN1D3 are likely tolerated and may not be a common cause of severe dominant genetic diseases.
+- **Variant Classes Most Likely to be Pathogenic**: While there is no established disease association, a study on obesity suggests that protein-truncating variants (PTVs) may have a protective effect against obesity.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: No specific HPO terms are currently linked to DCUN1D3 in major databases like OMIM or ClinVar, as no definitive disease phenotype has been established.
+- **Secondary HPO terms**: A study identified that carriers of protein-truncating variants in DCUN1D3 were more likely to be underweight or have a normal BMI. Mouse models with homozygous knockout of Dcun1d3 showed decreased total body fat, increased lean mass, and improved glucose tolerance. Phenotypes observed in mouse models include decreased circulating HDL cholesterol level, decreased circulating cholesterol level, and decreased circulating glucose level.
+- **Age of Onset Patterns**: Not applicable as no specific Mendelian disease is currently associated with this gene.
+- **Phenotype Severity Spectrum**: Not applicable.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and their Typical Phenotypes**: Protein-truncating variants in DCUN1D3 have been associated with a decreased risk of obesity and a lower Body Mass Index (BMI). The effect size of these variants on BMI is comparable to some high-risk obesity genes.
+- **Protein domain-specific phenotype patterns**: The DCUN1 domain is crucial for interaction with cullin proteins; however, specific phenotype patterns related to this domain are not yet defined in a clinical context.
+- **Genotype-phenotype correlation strength**: The correlation between PTVs and protection from obesity is emerging from recent large-scale studies.
+- **Examples: specific variants → specific phenotypes**: Specific variants leading to defined clinical phenotypes have not yet been established.
+
+### **Clinical Variants & Phenotype Associations**
+- At present, there are no pathogenic or likely pathogenic variants listed in ClinVar for DCUN1D3 that are associated with a specific Mendelian disease phenotype. Most reported variants are of uncertain significance. A large-scale study identified an association between protein-truncating variants in DCUN1D3 and a lower BMI, but specific variants were not detailed in the summary.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM)**: According to the Human Protein Atlas, which incorporates GTEx data, DCUN1D3 shows broad expression across many tissues, with higher levels noted in tissues such as the breast and bone. It is also expressed in various cell lines, including those from lung carcinoma, colon carcinoma, and breast cancer.
+- **Tissue-specific phenotypes expected**: The broad expression pattern does not immediately suggest a highly tissue-specific phenotype. However, its role in obesity suggests relevance to adipose tissue, and mouse models show effects on body fat and glucose metabolism.
+- **Expression during development and age-related phenotypes**: The gene is expressed in embryonic tissues and stem cells, suggesting a role in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: DCUN1D3 contributes to the neddylation of cullin proteins, which is a key process for regulating ubiquitin E3 ligase complexes involved in cell cycle progression and protein turnover.
+- **Disease Mechanism**: A potential mechanism for its role in obesity is through loss-of-function. Protein-truncating variants are associated with protection from obesity, suggesting that reduced or absent DCUN1D3 function mediates this effect.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: The gene product antagonizes the neddylation and oncogenic activity of DCUN1D1 by sequestering cullins at the cell membrane, which can inhibit cell growth. Disruption of this process might influence metabolic pathways, as suggested by the association with BMI and observations in knockout mice.
+- **Protein-Protein Interactions Relevant to Phenotype**: DCUN1D3 interacts with cullins (CUL1, CUL2, CUL3, CUL4A, CUL5) and RBX1. Its preferential interaction with CUL3 at the cell membrane is important for CUL3 neddylation.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for DCUN1D3 is currently zero for Mendelian disorders, as no such disease has been associated with the gene.
+- **Most Common Reasons for Testing This Gene**: Testing for this gene is not standard clinical practice for any specific phenotype at present. It may be included in large gene panels or exome/genome sequencing for research purposes, particularly in studies of obesity or cancer.
+- **Clinical Actionability and Management Implications**: There are currently no clinical management guidelines based on DCUN1D3 variants. The finding that PTVs may be protective against obesity could spur research into therapeutic targets.
+- **Genetic Counseling Considerations**: Given the lack of a defined disease association, genetic counseling would focus on the uncertain significance of any identified variants and the current state of research, including its potential role in modifying obesity risk.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 38246146 (2024)**: A large cross-ancestry study identified that protein-truncating variants in DCUN1D3 are associated with a significant decrease in BMI, offering protection against obesity.
+- **PMID: 25349211 (2014)**: This study demonstrated that DCUN1D3 (also known as SCCRO3) antagonizes the oncogenic activity of DCUN1D1 by sequestering cullins at the cell membrane, thereby inhibiting neddylation.
+- **PMID: 18823379 (2008)**: Identified DCUN1D3 as a novel UVC-responsive gene involved in cell cycle regulation and cell growth. Overexpression was found to inhibit cell growth.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: Currently, there are no high-confidence associations between specific DCUN1D3 variants and HPO terms for a Mendelian disease.
+- **Phenotype red flags**: There are no established "red flag" HPO terms that would strongly suggest a pathogenic variant in DCUN1D3. However, a phenotype of being significantly underweight or having a very low BMI in the context of a family history might be of research interest.
+- **Differential diagnosis considerations**: Not applicable in the context of a specific Mendelian disorder. For the obesity phenotype, it would be one of many genes that can influence BMI.
+

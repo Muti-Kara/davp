@@ -1,0 +1,109 @@
+MN1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 7180
+*   **OMIM Gene ID:** 156100
+*   **Primary Disease Associations:**
+    *   MN1 C-Terminal Truncation (MCTT) Syndrome, also known as CEBALID Syndrome (OMIM #618774)
+    *   Familial Meningioma (OMIM #607174)
+    *   Associated with Acute Myeloid Leukemia (AML) prognosis
+*   **Clinical Significance Level:**
+    *   MCTT Syndrome: Definitive
+    *   Familial Meningioma: Candidate gene
+*   **Inheritance Patterns:**
+    *   MCTT syndrome is an autosomal dominant disorder, typically arising from a *de novo* pathogenic variant.
+    *   Parental somatic or germline mosaicism has been observed.
+
+### **Constraint & Variant Intolerance**
+*   **pLI:** 1.00
+*   **LOEUF:** 0.087
+*   **pRec:** Not specified.
+*   **pNull:** Not specified.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI (≥0.9) and low LOEUF scores indicate that *MN1* is extremely intolerant to loss-of-function (LoF) variation. This high level of constraint is a strong indicator that LoF variants are likely to be pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:**
+    *   Truncating variants in the C-terminal region are causative of MCTT syndrome.
+    *   N-terminal truncating variants are associated with a distinct, milder phenotype.
+    *   Large deletions including the *MN1* gene have been reported in individuals with developmental delay and craniofacial anomalies.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Intellectual disability (mild to moderate)
+    *   Expressive language delay (severe)
+    *   Motor delay
+    *   Midface retrusion / hypoplasia
+    *   Downslanted palpebral fissures
+    *   Hypertelorism
+    *   Exophthalmos
+    *   Short nose with upturned nasal tip
+    *   Low-set, posteriorly rotated ears
+    *   Polymicrogyria (especially perisylvian)
+    *   Rhombencephalosynapsis (atypical)
+    *   Hearing impairment (conductive or sensorineural)
+    *   Cleft palate / High-arched palate
+    *   Hypotonia
+    *   Feeding difficulties
+*   **Secondary HPO terms:**
+    *   Craniosynostosis
+    *   Seizures
+    *   Duane anomaly
+    *   Nystagmus
+    *   Strabismus
+    *   Scoliosis/Kyphosis/Lordosis
+    *   Atrial septal defect
+    *   Retrognathia / Micrognathia
+    *   Corpus callosum hypoplasia
+    *   Behavioral abnormalities (hyperactivity, aggression)
+*   **Age of Onset Patterns:** The phenotype is congenital, with features apparent from birth or early infancy. Developmental delays are typically noted in the first years of life.
+*   **Phenotype Severity Spectrum:** Severity can vary. MCTT syndrome typically involves mild-to-moderate intellectual disability. Atypical cases with C-terminal variants may present with milder developmental delay and normal brain MRI. N-terminal variants cause a less severe phenotype with speech defects and no significant intellectual disability.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   **C-terminal truncating variants:** Cause the classic MCTT syndrome, characterized by significant neurodevelopmental and craniofacial abnormalities. These variants escape nonsense-mediated decay, producing a truncated protein.
+    *   **N-terminal truncating variants:** Associated with a distinct and milder phenotype including speech defects and conductive hearing loss, with mild or no developmental delay and without the characteristic MCTT facial gestalt. These variants are predicted to undergo nonsense-mediated mRNA decay.
+    *   **Whole-gene deletions:** Result in variable neurodevelopmental and facial anomalies, including cleft palate, hypertelorism, and intellectual disability.
+*   **Protein Domain-specific Phenotype Patterns:** The location of the truncation is critical. The C-terminal region is essential for protein degradation via the ubiquitin-proteasome pathway. Its deletion leads to a stable, aggregated, and likely gain-of-function protein. The N-terminal region is involved in blocking megakaryocytic/erythroid differentiation in hematopoietic models.
+*   **Genotype-phenotype Correlation Strength:** Strong. There is a clear distinction between the clinical outcomes of C-terminal versus N-terminal truncating variants.
+
+### **Clinical Variants & Phenotype Associations**
+*   **p.Arg1295Ter (c.3883C>T):** ClinVar: Pathogenic; Reported Phenotypes: MCTT syndrome (CEBALID syndrome) including abnormal transcriptional regulation.; AF: Not reported in gnomAD.
+*   **p.Trp1227Ter (c.3680G>A):** Significance: Likely Pathogenic; Reported Phenotypes: Intellectual disability, severe developmental delay, dysmorphic facial features, skeletal deformities, hyperactivity, aggressive behavior.; AF: Not reported in gnomAD.
+*   **p.L1245fs (c.3734delT):** Significance: Pathogenic; Reported Phenotypes: Atypical MCTT with mild global developmental delay, cleft palate, and dysmorphic features but no hearing loss or brain MRI abnormalities.; AF: *de novo*.
+*   **p.Met1229Argfs*87 (c.3686_3698del):** Significance: Pathogenic; Reported Phenotypes: Rhombencephalosynapsis, craniofacial anomalies, consistent with MCTT syndrome.; AF: *de novo*.
+*   **Variants with Strongest Phenotype Evidence:** C-terminal truncating variants that escape nonsense-mediated decay, such as p.Arg1295Ter, are strongly and consistently associated with the core features of MCTT syndrome.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, *MN1* shows broad expression with highest levels in tissues such as the pituitary, testis, and thyroid, and notable expression in various brain regions.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the developing palate and calvarial osteoblasts aligns with observed phenotypes like cleft palate and skull abnormalities. Expression in the brain is consistent with the severe neurodevelopmental aspects of MCTT syndrome.
+*   **Expression During Development and Age-Related Phenotypes:** *MN1* is a developmentally expressed transcriptional co-regulator. It is required for later stages of palate development and for the normal development of the membranous bones of the skull, which explains the congenital nature of the craniofacial defects.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *MN1* encodes a transcriptional activator that regulates target genes, including *TBX22*, which is critical for palate development and osteoblast function.
+*   **Disease Mechanism:**
+    *   **MCTT Syndrome (C-terminal variants):** Gain-of-function. The truncated protein evades ubiquitin-proteasome degradation, leading to increased stability, nuclear aggregation, and aberrant transcriptional regulation.
+    *   **Milder phenotype (N-terminal variants):** Haploinsufficiency. These variants are thought to lead to nonsense-mediated mRNA decay, resulting in a loss of one functional copy of the protein.
+*   **Cellular/Molecular Pathways Disrupted:** The mutant C-terminal protein impairs binding with RING1, an E3 ubiquitin ligase, interfering with the ubiquitin-mediated proteasome pathway. This dysregulates target genes involved in craniofacial development, osteogenesis, and neuronal development.
+*   **Protein-Protein Interactions Relevant to Phenotype:** MN1 normally interacts with transcription factors such as PBX1 and PKNOX1. The mutant protein shows impaired binding to ZBTB24 and RING1, which is critical for its degradation and function.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** To date, over 25 individuals with MCTT syndrome caused by *MN1* variants have been identified through molecular genetic testing, primarily whole-exome or genome sequencing in cohorts with unexplained developmental delay and craniofacial anomalies.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with a phenotype comprising intellectual disability, severe speech delay, characteristic craniofacial features, and specific brain malformations like polymicrogyria and rhombencephalosynapsis.
+*   **Clinical Actionability and Management Implications:** Diagnosis allows for targeted surveillance for known complications, including hearing loss, seizures, and spinal anomalies. It also informs prognosis and allows for early implementation of speech, physical, and occupational therapies.
+*   **Genetic Counseling Considerations:** MCTT syndrome is an autosomal dominant condition. Most cases are *de novo*, but recurrence risk is slightly elevated due to the possibility of parental germline mosaicism. N-terminal variants are associated with a milder, distinct phenotype and likely have a different counseling profile focused on speech and hearing.
+
+### **Key Clinical Literature & Studies**
+*   **Mak et al., Brain, 2020 (PMID: 31899475):** First described MCTT syndrome in 22 individuals, establishing the core phenotype of craniofacial defects, brain abnormalities (including partial rhombencephalosynapsis), and neurodevelopmental delay linked to C-terminal truncating variants.
+*   **Miyake et al., Am J Hum Genet, 2020 (PMID: 31839115):** Reported three individuals with de novo C-terminal *MN1* variants, confirming the new syndrome and providing in-vitro evidence for a gain-of-function mechanism due to increased protein stability and aggregation.
+*   **Tian et al., Front Mol Neurosci, 2021 (PMID: 34924976):** Reported a patient with a C-terminal variant but an atypical, milder phenotype (mild delay, no brain MRI changes), expanding the clinical spectrum of MCTT syndrome.
+*   **Vegas et al., Mol Syndromol, 2021 (PMID: 34675765):** Described a patient with a novel C-terminal frameshift deletion, confirming the recognizable craniofacial phenotype and rhombencephalosynapsis.
+*   **Lai et al., PLoS One, 2014 (PMID: 25405891):** Dissected functional domains of MN1 in the context of leukemia, showing the C-terminus blocks myeloid differentiation while the N-terminus blocks megakaryocyte/erythroid differentiation.
+*   **Rehman et al., BMC Med Genomics, 2024 (PMID: 38951833):** Identified a novel nonsense variant (p.Trp1227Ter) in a family with intellectual disability, expanding the mutational spectrum.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   **C-terminal truncating variants (gain-of-function):** Strongly associated with a combination of severe expressive language delay (HP:0002474), midface retrusion (HP:0011800), hypertelorism (HP:0000316), polymicrogyria (HP:0002126), and rhombencephalosynapsis (HP:0007054).
+    *   **N-terminal truncating variants (haploinsufficiency):** Associated with conductive hearing impairment (HP:0000405) and speech articulation defects (HP:0001350) with otherwise mild or no intellectual disability.
+*   **Phenotype Red Flags:** The combination of partial or atypical rhombencephalosynapsis with characteristic facial features (midface hypoplasia, exophthalmos, short upturned nose) is highly suggestive of MCTT syndrome and should prompt sequencing of *MN1*.
+*   **Differential Diagnosis Considerations:**
+    *   **Gomez-Lopez-Hernandez syndrome (GLHS):** Overlaps with MCTT syndrome due to turricephaly and rhombencephalosynapsis, but GLHS has additional features like trigeminal anesthesia and scalp alopecia.
+    *   **Toriello-Carey syndrome:** Features include agenesis of the corpus callosum and Pierre Robin sequence, which can overlap with the craniofacial and brain anomalies seen in *MN1*-related disorders.
+    *   **22q11.2 Deletion Syndrome:** While whole *MN1* deletions can cause overlapping phenotypes, 22q11.2 deletion syndrome has a broader, distinct clinical picture including more frequent congenital heart defects and immune deficiency.
+

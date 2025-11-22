@@ -1,0 +1,67 @@
+RRP9 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 16829
+*   **OMIM Gene ID:** 620013
+*   **Primary Disease Associations:** Dystonia 35, Childhood-Onset (DYT35)
+*   **Clinical Significance Level:** While associated with DYT35, the overall evidence level is still being established. The Gene-Curation Coalition (GenCC) does not currently have a submission for this gene, indicating a need for more research.
+*   **Inheritance Patterns Observed in Patients:** The mode of inheritance for RRP9-associated disorders is not yet definitively established in the literature.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI score of 1.00, suggesting extreme intolerance to loss-of-function (LoF) variants. The loss-of-function observed/expected upper bound fraction (LOEUF) score is a more continuous metric; lower values indicate greater intolerance. Specific LOEUF, pRec, and pNull values for RRP9 require direct lookup in the latest gnomAD version.
+*   **Clinical Interpretation of Constraint Scores:** A pLI score near 1.0 strongly suggests that haploinsufficiency is a likely disease mechanism and that LoF variants are likely to be pathogenic. Genes with high pLI scores are often associated with dominant genetic disorders.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the high pLI score, protein-truncating variants (nonsense, frameshift) are expected to be pathogenic. Missense variants in critical functional domains are also candidates for pathogenicity.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As a specific HPO term list for RRP9-related disease is not well-established, a general approach involves using standardized HPO terms to describe patient phenotypes. Based on the associated disease, primary terms would likely include:
+    *   HP:0001332 Dystonia
+    *   HP:0002451 Childhood onset
+    *   HP:0001250 Seizures
+    *   HP:0001263 Global developmental delay
+    *   HP:0002011 Dysphagia
+    *   HP:0001257 Spasticity
+    *   HP:0000750 Delayed speech and language development
+    *   HP:0001251 Ataxia
+*   **Secondary HPO terms:** Less common but potentially associated phenotypes might include:
+    *   HP:0001638 Cardiomyopathy
+    *   HP:0000252 Microcephaly
+    *   HP:0001508 Failure to thrive
+    *   HP:0002015 Dysarthria
+*   **Age of Onset Patterns:** The primary associated disorder, DYT35, has a childhood onset.
+*   **Phenotype Severity Spectrum:** The severity can be heterogeneous, ranging from mild to severe, as seen in other genetic disorders with similar cellular functions.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Null variants (frameshift, nonsense) are often associated with more severe phenotypes compared to missense or in-frame variants in genes involved in similar pathways.
+*   **Protein Domain-Specific Phenotype Patterns:** The RRP9 protein contains seven WD domains and a U3 snoRNA binding domain. Variants within the WD repeats or the N-terminal region containing the nuclear localization signal could disrupt protein function and nucleolar localization, leading to disease.
+*   **Genotype-Phenotype Correlation Strength:** Currently, the genotype-phenotype correlation for *RRP9* is considered weak due to the limited number of reported cases.
+*   **Examples: Specific Variants → Specific Phenotypes:** Specific pathogenic variants and their direct phenotypic consequences are not yet well-documented in the literature.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar does not currently list any pathogenic or likely pathogenic variants for *RRP9* associated with a specific Mendelian disease phenotype. There are numerous variants of uncertain significance listed.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *RRP9* shows broad expression across many tissues. According to the Human Protein Atlas, which integrates GTEx data, expression is noted in the brain, which is consistent with the neurological phenotype (dystonia). Ubiquitous expression suggests that phenotypes could potentially manifest in other organ systems.
+*   **Tissue-Specific Phenotypes Expected:** Given its role in ribosome biogenesis, a fundamental cellular process, pathogenic variants might lead to a spectrum of clinical presentations beyond the nervous system. However, the primary reported phenotype is neurological.
+*   **Expression During Development and Age-Related Phenotypes:** Expression has been noted in embryonic tissues, including the neural layer of the retina and epiblast, suggesting a role in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *RRP9* is a component of the small subunit (SSU) processome, which is essential for the processing of pre-ribosomal RNA and the biogenesis of the 40S ribosomal subunit.
+*   **Disease Mechanism:** Given the high pLI score (1.00), haploinsufficiency is the most probable disease mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *RRP9* function impairs 18S rRNA processing, leading to defects in ribosome biogenesis. This can disproportionately affect certain cell types, such as neurons, leading to neurological phenotypes like dystonia. The AKT signaling pathway has also been implicated in processes involving RRP9 in the context of cancer.
+*   **Protein-Protein Interactions Relevant to Phenotype:** RRP9 interacts with other components of the SSU-processome, such as RRP36. A specific mutation (R289A) was shown to reduce the strength of this interaction, impacting pre-rRNA processing.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *RRP9* in cohorts of patients with dystonia or neurodevelopmental disorders is currently unknown but likely low.
+*   **Most Common Reasons for Testing This Gene:** Testing for *RRP9* would be considered in individuals with unexplained childhood-onset dystonia, particularly if exome sequencing is performed.
+*   **Clinical Actionability and Management Implications:** Currently, there are no specific management guidelines for *RRP9*-related disorders. Treatment would be symptomatic and supportive, tailored to the patient's specific dystonia and other neurological features.
+*   **Genetic Counseling Considerations:** Counseling would involve discussing the likelihood of haploinsufficiency as the disease mechanism, the current uncertainty about the full phenotypic spectrum, and the potential for variable expressivity.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31996908, Year: 2020:** This study on yeast Rrp9 and U3 snoRNA demonstrated that mutations in Rrp9 can lead to synergistic defects in pre-rRNA processing, highlighting the protein's critical role in ribosome biogenesis.
+*   **PMID: 32675279, Year: 2020:** Research on RRP9 neddylation by Smurf1 showed a role in promoting pre-rRNA processing and linked elevated RRP9 expression to colorectal cancer progression, suggesting broader cellular functions.
+*   **PMID: 38234394, Year: 2024:** Investigated the RRP9-JUN axis in breast cancer, showing RRP9 depletion inhibited cancer progression and that RRP9 interacts with the JUN protein and the AKT signaling pathway.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no established high-confidence HPO-variant associations due to the limited number of reported pathogenic variants.
+*   **Phenotype red flags:** A core phenotype of childhood-onset dystonia (HP:0001332, HP:0002451) should raise suspicion for a possible *RRP9*-related disorder, prompting gene analysis in the context of a broad differential diagnosis.
+*   **Differential diagnosis considerations:** The phenotype of childhood-onset dystonia overlaps with numerous other genetic causes of dystonia. The differential would include genes such as *TOR1A* (DYT1), *THAP1* (DYT6), *KMT2B* (DYT28), and many others causing complex dystonic syndromes.
+

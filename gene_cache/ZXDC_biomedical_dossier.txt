@@ -1,0 +1,60 @@
+ZXDC Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 28160.
+*   **OMIM Gene ID:** 615746.
+*   **Primary Disease Associations:** Currently, there is no established Mendelian disease definitively associated with variants in *ZXDC* in OMIM or ClinVar.
+*   **Clinical Significance Level:** No evidence or unknown clinical significance for a specific Mendelian disorder.
+*   **Inheritance Patterns:** No established inheritance pattern for a Mendelian disease has been reported.
+
+### **Constraint & Variant Intolerance**
+*   **pLI:** 0.00.
+*   **LOEUF:** 1.05.
+*   **pRec:** 0.86.
+*   **pNull:** 0.14.
+*   **Clinical Interpretation of Constraint Scores:** The gnomAD constraint scores show that *ZXDC* is tolerant of loss-of-function variation (pLI << 0.9; LOEUF > 0.6). This suggests that haploinsufficiency is not a common disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be missense variants with a gain-of-function or dominant-negative effect; however, there is currently no evidence to support this.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are consistently associated with pathogenic variants in *ZXDC* in the literature or clinical databases.
+*   **Secondary HPO terms:** No secondary HPO terms are documented in clinical reports in association with *ZXDC* variants.
+*   **Age of Onset Patterns:** Not applicable as no associated disease has been defined.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** There are no established genotype-phenotype correlations.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific phenotype patterns have been linked to variants in particular protein domains of ZXDC.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable due to the absence of a defined disease association.
+*   **Examples:** An expression quantitative trait locus (eQTL) in *ZXDC* is associated with interferon-gamma production following stimulation with *Mycobacterium tuberculosis* antigens, suggesting a role in immune response modulation.
+
+### **Clinical Variants & Phenotype Associations**
+*   No variants in *ZXDC* have been classified as "Pathogenic" or "Likely Pathogenic" in ClinVar with supporting clinical evidence.
+*   A large number of variants of uncertain significance (VUS) and benign/likely benign variants are listed in ClinVar.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** *ZXDC* shows ubiquitous expression, with the highest levels observed in spleen, bone marrow, and lymph nodes.
+*   **Tissue-Specific Phenotypes Expected:** High expression in immune cells is consistent with its role in MHC gene regulation, suggesting that pathogenic variants could theoretically lead to immunodeficiency or immune dysregulation phenotypes.
+*   **Expression During Development:** Data on developmental expression patterns and their relation to age-related phenotypes are not available.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *ZXDC* encodes a zinc finger protein that functions as a transcriptional coactivator for the master regulator CIITA, promoting the expression of MHC class I and MHC class II genes.
+*   **Disease Mechanism:** The mechanism of disease is unknown. Given the gene's tolerance to loss-of-function variants, haploinsufficiency is an unlikely mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The ZXDC protein forms a complex with a related protein, ZXDA, and this complex binds to CIITA to regulate antigen presentation pathways. Disruption could impair the adaptive immune response.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interaction with CIITA is critical for its function in MHC transcription. It also has been shown to regulate CCL2 gene expression by opposing BCL6-mediated repression, suggesting a role in myeloid cell differentiation and inflammation.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is effectively zero, as *ZXDC* is not currently associated with any known Mendelian disease and is not typically included in diagnostic gene panels.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene is generally not performed in a clinical diagnostic context.
+*   **Clinical Actionability and Management Implications:** There are no established clinical management guidelines related to *ZXDC* variants.
+*   **Genetic Counseling Considerations:** Given the lack of a disease association, genetic counseling for variants in *ZXDC* would focus on the uncertainty of the findings and the low likelihood of the variant being causative for a patient's phenotype.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 17493635, 2007:** Described that ZXDA and ZXDC form a complex that binds CIITA and is required for MHC class II gene regulation.
+*   **PMID: 16600381, 2006:** Identified ZXDC as a novel CIITA-binding protein and demonstrated its role in activating both MHC class I and class II gene transcription.
+*   **PMID: 24045051, 2013:** Showed that the ZXDC1 isoform regulates genes involved in myeloid cell differentiation and inflammation, including the chemokine CCL2.
+*   **PMID: 28983110, 2017:** Reported an association between an eQTL for *ZXDC* and IFN-gamma production after *M. tuberculosis* antigen stimulation, linking the gene to a quantitative immune phenotype.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence HPO-variant associations for *ZXDC*.
+*   **Phenotype Red Flags:** Based on the gene's function, theoretical red flags could include signs of immune dysregulation, such as susceptibility to infections or autoimmune phenomena. However, no such clinical cases have been reported.
+*   **Differential Diagnosis Considerations:** For patients with suspected immune deficiencies, particularly those with defective antigen presentation, other genes causing MHC class II deficiency (e.g., *CIITA, RFX5, RFXANK, RFXAP*) should be considered.
+

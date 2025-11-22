@@ -1,0 +1,49 @@
+RGPD3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID:** 32416
+– **OMIM Gene ID:** 612706
+– **Primary Disease Associations:** While some databases list associations with conditions like Sphenoorbital Meningioma and Cerebellopontine Angle Meningioma, these appear to be text-mining-based associations and there is currently no definitive, published evidence linking RGPD3 to a specific Mendelian disease.
+– **Clinical Significance Level:** The clinical significance of RGPD3 is not yet definitively established.
+– **Inheritance Patterns:** No clear inheritance pattern has been described in relation to a specific disease phenotype.
+
+### **Constraint & Variant Intolerance**
+– **pLI:** The probability of being loss-of-function intolerant (pLI) score for RGPD3 is not prominently high, suggesting it is not under strong selection against loss-of-function variants. A high pLI (typically ≥0.9) indicates a gene is intolerant to protein-truncating variants.
+– **LOEUF:** The loss-of-function observed/expected upper bound fraction (LOEUF) score provides a more continuous measure of intolerance. A low LOEUF score indicates intolerance to loss-of-function variation. Specific values for RGPD3 require direct database lookup.
+– **pRec, pNull:** These gnomAD metrics represent the probability of being intolerant to homozygous loss-of-function variants (pRec) and the probability of being tolerant to both heterozygous and homozygous LoF variants (pNull). Specific values for RGPD3 are needed for interpretation.
+– **Clinical Interpretation of Constraint Scores:** The available constraint metrics for RGPD3 do not strongly suggest it is a classic haploinsufficient disease gene.
+– **Variant Classes Most Likely to be Pathogenic:** Without a clear disease association, it is difficult to determine which variant classes are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+As RGPD3 is not yet definitively linked to a human disease, a formal phenotype spectrum based on clinical cases is not available. The Human Phenotype Ontology (HPO) is a standardized vocabulary used to describe phenotypic abnormalities in human disease.
+
+### **Genotype-Phenotype Correlations**
+There are no established genotype-phenotype correlations for RGPD3 at this time due to the lack of a confirmed disease association.
+
+### **Clinical Variants & Phenotype Associations**
+ClinVar, a public archive of reports of the relationships among human variations and phenotypes, does not currently list pathogenic or likely pathogenic variants in RGPD3 with a clear, consistent clinical phenotype.
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM):** According to the Genotype-Tissue Expression (GTEx) project, RGPD3 shows broad expression, with the highest levels observed in the testis and thyroid.
+– **Tissue-Specific Phenotypes Expected:** Based on expression data, pathogenic variants could theoretically lead to phenotypes related to testicular or thyroid function, though this is speculative.
+– **Expression During Development:** Expression patterns during fetal development have been noted, which could imply a role in developmental processes.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function:** The RGPD3 protein is predicted to be involved in the import of NLS-bearing proteins into the nucleus and is thought to be a component of the nuclear pore complex.
+– **Disease Mechanism:** The mechanism of disease, should one be established, is currently unknown.
+– **Cellular/Molecular Pathways Disrupted:** The gene is associated with the RNA transport pathway. Disruption of this pathway could lead to a variety of cellular dysfunctions. The encoded protein contains a TPR domain, two Ran-binding domains, and a C-terminal GRIP domain.
+– **Protein-Protein Interactions:** As a Ran-binding protein, RGPD3 likely interacts with components of the nuclear transport machinery.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for RGPD3 in clinical exome/genome sequencing is currently zero, as it is not a recognized disease gene.
+– **Most Common Reasons for Testing:** This gene would typically be sequenced as part of a larger panel or exome/genome sequencing, not as a targeted test.
+– **Clinical Actionability and Management Implications:** There are no specific clinical management guidelines related to variants in RGPD3.
+– **Genetic Counseling Considerations:** Genetic counseling would be based on the lack of evidence for pathogenicity for variants of uncertain significance found in this gene.
+
+### **Key Clinical Literature & Studies**
+There are no key clinical papers that have established a definitive link between variants in RGPD3 and a human phenotype. Existing literature focuses on its genomic location, evolution, and predicted function based on its protein domains.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations:** None established.
+– **Phenotype red flags:** None established.
+– **Differential diagnosis considerations:** Not applicable at this time.
+

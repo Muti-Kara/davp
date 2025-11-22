@@ -1,0 +1,79 @@
+NUTM2D Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**:
+    *   HGNC ID: 23447.
+    *   OMIM gene ID: There is currently no OMIM entry specifically for the NUTM2D gene.
+    *   Primary disease associations: Text mining has associated NUTM2D with Retinitis Pigmentosa.
+
+*   **Clinical significance level**: The clinical significance of NUTM2D is not yet definitively established due to a lack of extensive research and clinical case reports directly linking it to a specific Mendelian disorder.
+
+*   **Inheritance patterns observed in patients**: As there are no well-documented cases of Mendelian disease caused by NUTM2D variants, the inheritance patterns are unknown.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull (report exact numeric values)**:
+    *   As of recent gnomAD releases, specific constraint metrics like pLI and LOEUF are not available for NUTM2D.
+
+*   **Clinical interpretation of constraint scores**: The absence of constraint scores from gnomAD suggests that there is not enough data to confidently assess the gene's intolerance to loss-of-function variants. Generally, a pLI score ≥ 0.9 indicates a gene is intolerant to loss-of-function mutations. A low LOEUF score also indicates intolerance.
+
+*   **Variant classes most likely to be pathogenic**: Without established disease associations, the variant classes most likely to be pathogenic are unknown. For genes where haploinsufficiency is the mechanism, loss-of-function variants (nonsense, frameshift, and canonical splice site mutations) are typically pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**:
+    *   There are no established HPO terms directly linked to NUTM2D in major databases like OMIM or ClinVar. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+
+*   **Secondary HPO terms**:
+    *   No secondary HPO terms are currently documented for NUTM2D.
+
+*   **Age of onset patterns**: Information regarding the age of onset is not available.
+
+*   **Phenotype severity spectrum**: The spectrum of phenotype severity is unknown.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**: Due to the lack of identified pathogenic variants and associated clinical cases, there are no established correlations between variant classes and specific phenotypes for NUTM2D.
+
+*   **Protein domain-specific phenotype patterns**: The NUTM2D protein contains a NUT (Nuclear Testis-Specific) domain. However, no phenotype patterns have been linked to variants within this or any other domain of the protein.
+
+*   **Genotype-phenotype correlation strength**: The strength of any genotype-phenotype correlation for NUTM2D is currently unknown.
+
+*   **Examples: specific variants → specific phenotypes**: There are no documented examples of specific NUTM2D variants leading to particular phenotypes.
+
+### **Clinical Variants & Phenotype Associations**
+*   At present, there are no well-characterized pathogenic variants in NUTM2D with confirmed associations to specific phenotypes in ClinVar or other major databases.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation**:
+    *   NUTM2D shows ubiquitous expression, with the highest levels observed in the testis and brain. It is also expressed in various other tissues, including adrenal gland, muscle, pancreas, and stomach.
+    *   Expression has been noted in fetal tissues between 10 and 20 weeks of gestation.
+
+*   **Tissue-specific phenotypes expected**: Given its expression in the brain and retina, neurological or ophthalmological phenotypes could be anticipated if variants in this gene are found to be pathogenic. The association with Retinitis Pigmentosa from text-mining supports this.
+
+*   **Expression during development and age-related phenotypes**: Expression in fetal tissues suggests a potential role in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function in one sentence**: NUTM2D is a protein-coding gene, but its specific function is not well-characterized.
+
+*   **Disease mechanism**: The potential disease mechanism (e.g., haploinsufficiency, dominant-negative, gain-of-function) is currently unknown.
+
+*   **Cellular/molecular pathways disrupted → phenotype consequences**: The cellular and molecular pathways involving NUTM2D have not been fully elucidated, and thus the consequences of their disruption are not known.
+
+*   **Protein-protein interactions relevant to phenotype**: While interaction databases exist, specific protein-protein interactions for NUTM2D that are relevant to a human phenotype have not been established.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**: The diagnostic yield for NUTM2D is unknown as it is not typically included in standard clinical testing panels for specific disorders.
+
+*   **Most common reasons for testing this gene**: Currently, there are no common clinical indications for testing the NUTM2D gene.
+
+*   **Clinical actionability and management implications**: There is no information on clinical actionability or management related to NUTM2D variants.
+
+*   **Genetic counseling considerations**: Without known disease associations or inheritance patterns, specific genetic counseling considerations for NUTM2D cannot be formulated.
+
+### **Key Clinical Literature & Studies**
+*   Currently, there are no landmark clinical studies that have established a definitive link between NUTM2D variants and a human phenotype. Existing literature primarily consists of large-scale genomic studies and database entries.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: At this time, there are no high-confidence associations between HPO terms and NUTM2D variants.
+
+*   **Phenotype red flags**: There are currently no "red flag" HPO terms that would strongly suggest a pathogenic variant in NUTM2D.
+
+*   **Differential diagnosis considerations**: Given the text-mined association with Retinitis Pigmentosa, other genes known to cause this condition would be part of a differential diagnosis. Its paralog, NUTM2A, has been associated with sarcomas, but it is unknown if NUTM2D plays a role in similar conditions.
+

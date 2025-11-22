@@ -1,0 +1,65 @@
+ADGRA2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 17849
+- **OMIM Gene ID:** 606823
+- **Primary Disease Associations:** While associated with Glioma Susceptibility 1 and certain cancers in some contexts, its primary role in Mendelian disease appears to be related to cerebrovascular development. Mouse models show that loss of *Adgra2* leads to embryonic lethality due to severe central nervous system (CNS) hemorrhage and failed angiogenesis.
+- **Clinical Significance Level:** Evidence for its role in human disease is emerging, but based on severe phenotypes in animal models, it is of high clinical interest.
+- **Inheritance Patterns:** The mode of inheritance for disease-associated variants is not yet definitively established for humans, though knockout studies in mice suggest a recessive loss-of-function mechanism. Some databases list it as potentially associated with both dominant and recessive modes.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** Based on gnomAD v2.1.1, the probability of being loss-of-function intolerant (pLI) is 1.00, suggesting the gene is extremely intolerant to loss-of-function (LoF) variants. The observed/expected LoF upper bound fraction (LOEUF) is low, consistent with high constraint.
+- **Clinical Interpretation of Constraint Scores:** A pLI score close to 1 indicates that the gene is highly constrained against protein-truncating variants. This suggests that heterozygous LoF variants are likely to be pathogenic, consistent with a haploinsufficient disease mechanism.
+- **Variant Classes Most Likely to Be Pathogenic:** Given the high pLI score, protein-truncating variants (nonsense, frameshift, and essential splice site variants) are most likely to be pathogenic. Missense variants in critical functional domains may also be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As human case data is limited, primary HPO terms are inferred from mouse model phenotypes and related human conditions.
+    - Intracranial hemorrhage (HP:0001342)
+    - Abnormal cerebral vascular morphology (HP:0011402)
+    - Avascular necrosis of the telencephalon (inferred)
+    - Embryonic lethality (HP:0001626)
+    - Cleft palate (HP:0000175)
+    - Decreased lung size (inferred)
+- **Secondary HPO terms:**
+    - Abnormal blood-brain barrier permeability (inferred)
+    - Angiogenesis defect (inferred)
+- **Age of Onset Patterns:** Based on mouse models, the onset is prenatal, with severe defects observed from embryonic day 11.5 leading to lethality.
+- **Phenotype Severity Spectrum:** The phenotype observed in knockout mice is consistently severe and lethal.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Loss-of-function variants, as modeled by gene knockouts in mice, lead to a catastrophic failure of CNS angiogenesis, resulting in hemorrhage and embryonic death.
+- **Protein Domain-Specific Phenotype Patterns:** The N-terminal leucine-rich repeat (LRR) domain is critical for proper receptor trafficking to the cell surface. An aberrantly spliced variant lacking a single LRR unit in zebrafish results in an inactive receptor, highlighting the importance of this domain.
+- **Genotype-Phenotype Correlation Strength:** In animal models, the correlation between complete loss of *Adgra2* and the severe cerebrovascular phenotype is very strong and fully penetrant.
+
+### **Clinical Variants & Phenotype Associations**
+- **VAR_072079 / rs1804359300:** This natural variant has been found in a family with atypical autism and severe epilepsy; however, its significance is listed as uncertain.
+- **ClinVar Data:** While numerous variants are listed in ClinVar for *ADGRA2*, the vast majority are classified as variants of uncertain significance. There are currently no well-characterized pathogenic variants with clear phenotype associations in humans.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas and GTEx data, *ADGRA2* shows notable expression in the placenta and prostate, with lower levels in tissues like the ovary, heart, skeletal muscle, and small intestine. It is not typically detected in the brain of adults.
+- **Tissue-Specific Phenotypes Expected:** The severe CNS vascular defects in mouse embryos are linked to its specific expression in developing endothelial cells of the brain and spinal cord. Down-regulation in the placenta has been associated with early-onset preeclampsia.
+- **Expression During Development and Age-Related Phenotypes:** Expression is prominent in the developing vasculature of the CNS in mouse embryos. It is detected in vessels of the developing CNS and perineural vascular plexus between embryonic days 10.5 and 12.5.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *ADGRA2* is an endothelial receptor that acts as a WNT7-specific coactivator of the canonical Wnt/β-catenin signaling pathway, which is essential for proper CNS angiogenesis and blood-brain barrier formation.
+- **Disease Mechanism:** Based on the high pLI score and knockout model phenotypes, the primary disease mechanism is likely haploinsufficiency, where the loss of one functional copy of the gene is sufficient to cause disease.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *ADGRA2* function impairs the Wnt7-specific signaling required for endothelial cell sprouting and migration in the developing forebrain and neural tube. This leads to failed angiogenesis, compromised blood-brain barrier integrity, and subsequent hemorrhage.
+- **Protein-Protein Interactions Relevant to Phenotype:** *ADGRA2* functions in a complex with RECK to deliver Wnt7 (WNT7A or WNT7B) to Frizzled receptors, initiating the signaling cascade. It also interacts with DLG1 and a complex involving Elmo-Dock.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** Currently, the diagnostic yield for *ADGRA2* variants in clinical cohorts with relevant phenotypes (e.g., fetal intracranial hemorrhage) is not well established due to a lack of reported pathogenic human variants.
+- **Most Common Reasons for Testing This Gene:** Testing for this gene might be considered in cases of unexplained fetal or neonatal intracranial hemorrhage, severe brain angiogenesis defects, or as part of a broad sequencing panel for neurodevelopmental disorders or congenital anomalies.
+- **Clinical Actionability and Management Implications:** Given the severity of the phenotype in animal models, a confirmed pathogenic variant would have significant implications for prognosis and genetic counseling, including discussions about recurrence risk.
+- **Genetic Counseling Considerations:** Counseling would involve discussing the gene's critical role in brain development, the likely severe and lethal phenotype associated with LoF variants, and the autosomal recessive inheritance pattern suggested by animal models, though a dominant inheritance pattern cannot be ruled out.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 21421844 (2011):** A landmark mouse study demonstrating that *Gpr124* (the mouse homolog) is essential for CNS-specific vascularization and the establishment of the blood-brain barrier.
+- **PMID: 21071672 (2010):** Another key mouse study showing that *Gpr124* is required for angiogenic sprouting into neural tissues.
+- **PMID: 25373781 (2014):** This study identified *Gpr124* as a WNT7-specific coactivator of canonical β-catenin signaling, elucidating its role in CNS angiogenesis.
+- **PMID: 30026314 (2018):** Research demonstrating that *ADGRA2*'s function relies on its ability to interact with RECK extracellularly and recruit Dishevelled intracellularly, independent of its GPCR structure.
+- **Bostaille et al., 2017 (as cited in PMID: 27974353):** A study on the *ouchless* zebrafish mutant which identified an inactive *adgra2* receptor variant lacking a single LRR motif, highlighting the importance of this domain for protein function.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** In animal models, complete loss-of-function of *Adgra2* is strongly associated with **intracranial hemorrhage (HP:0001342)**, **abnormal cerebral vascular morphology (HP:0011402)**, and **embryonic lethality (HP:0001626)**.
+- **Phenotype red flags:** The presence of fetal or neonatal intracranial hemorrhage in the absence of other known causes should raise suspicion for variants in genes controlling CNS angiogenesis, including *ADGRA2*.
+- **Differential diagnosis considerations:** The phenotype observed in *Adgra2* knockout mice overlaps with other disorders of cerebrovascular development and fetal hemorrhage. Differential diagnosis should include genes involved in the Wnt signaling pathway and other causes of hemorrhagic stroke in the young.
+

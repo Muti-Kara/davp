@@ -1,0 +1,70 @@
+MYO10 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 7593.
+*   **OMIM Gene ID:** 601481.
+*   **Primary Disease Associations:** While not definitively linked to a Mendelian disease, *MYO10* has been associated with Intellectual Developmental Disorder, Autosomal Dominant 44, With Microcephaly and Chondrocalcinosis. It is also implicated in various cancers, including colorectal, breast, and lung cancer, often correlating with increased malignancy and poorer prognosis.
+*   **Clinical Significance Level:** The evidence for a direct role in a specific Mendelian disorder is still emerging. Its role in cancer progression is more established.
+*   **Inheritance Patterns:** For its association with developmental disorders, an autosomal dominant pattern has been suggested.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint score for *MYO10* shows a pLI of 0.00, indicating it is not highly intolerant to loss-of-function (LoF) variation. The LoF observed/expected upper bound fraction (LOEUF) score is a more continuous metric; a low LOEUF score suggests intolerance to LoF variation. Specific numeric values for LOEUF, pRec, and pNull were not found in the search results.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score suggests that haploinsufficiency is not a primary disease mechanism for this gene. Genes with low pLI scores are less likely to be associated with dominant disorders.
+*   **Variant Classes Most Likely to be Pathogenic:** While LoF variants are not under strong negative selection, missense variants or variants that lead to a gain-of-function or altered function could be pathogenic, particularly in the context of cancer where upregulation of MYO10 is common.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities. While a comprehensive, ranked list for *MYO10*-related disorders is not available, associated phenotypes from mouse models and human studies include:
+    *   Neural tube defects (Exencephaly)
+    *   Syndactyly
+    *   Pigmentation defects (White belly spots, Hypopigmentation)
+    *   Persistent hyaloid vasculature
+    *   Microcephaly
+    *   Intellectual disability
+    *   Chondrocalcinosis
+*   **Secondary HPO terms:**
+    *   Abnormal cell migration
+    *   Abnormal cell adhesion
+*   **Age of Onset Patterns:** Observed phenotypes, particularly from mouse models, suggest a prenatal onset for structural abnormalities like neural tube defects and syndactyly.
+*   **Phenotype Severity Spectrum:** The severity can range from relatively mild, such as pigmentation anomalies, to severe, like lethal neural tube defects.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous loss-of-function in mice leads to prenatal and postnatal developmental defects, including exencephaly, syndactyly, and pigmentation abnormalities. Upregulation or gain-of-function is associated with increased cancer cell invasion and metastasis.
+*   **Protein Domain-Specific Phenotype Patterns:** The MyTH4-FERM domains are crucial for filopodia formation. The FERM domain's interaction with N-cadherin is essential for neuronal migration. The motor domain is required for filopodia induction, while a naturally occurring headless isoform in the brain is not.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between homozygous *Myo10* knockout in mice and developmental defects is strong. The link between *MYO10* overexpression and cancer aggressiveness is moderate to strong, based on multiple studies.
+*   **Examples: Specific Variants → Specific Phenotypes:** Specific pathogenic variants in humans are not yet well-characterized with definitive phenotype correlations. Intronic variants (rs31506, rs253336, rs9312937) have been associated with an increased risk for Polycystic Ovary Syndrome (PCOS) and related metabolic traits like hip circumference and triglyceride levels.
+
+### **Clinical Variants & Phenotype Associations**
+*   Specific pathogenic variants with clear phenotype associations in ClinVar were not identified in the search results. Most information relates to cancer associations or findings in mouse models.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *MYO10* is broadly expressed at relatively low levels. Highest expression is noted in the gastrointestinal tract, central nervous system (CNS), and genitalia. High expression has also been observed in the thyroid, lung, and tibial arteries.
+*   **Tissue-Specific Phenotypes Expected:** Expression in the developing ectoderm and neural crest cells aligns with observed neural tube and pigmentation defects in knockout mice. Expression in the brain and its role in neuronal migration could relate to potential neurodevelopmental phenotypes in humans. Upregulation in heart failure suggests a role in cardiac remodeling.
+*   **Expression During Development and Age-Related Phenotypes:** *MYO10* is expressed in the developing embryo, including the head and branchial arches. It is critical for prenatal processes like neural tube closure and digit formation, as well as postnatal development, such as hyaloid vessel regression.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *MYO10* is an unconventional myosin that functions as an actin-based motor protein, playing key roles in filopodia formation, cell motility, and adhesion.
+*   **Disease Mechanism:** The mechanism appears to be context-dependent. Loss-of-function in mouse models causes developmental defects, suggesting a requirement for the gene's mechanical and transport functions. In cancer, the mechanism is likely a gain-of-function, where overexpression promotes cell invasion, metastasis, and genomic instability through pathways like integrin/Src/FAK signaling.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *MYO10* function impairs filopodia dynamics, which are crucial for cell migration and cell-cell communication. This can lead to failed neural tube closure, improper digit separation (syndactyly), and defects in melanocyte migration (pigmentation abnormalities). In cancer, MYO10-driven filopodia act as invasive structures, and its overexpression leads to activation of oncogenic pathways like PI3K/Akt and Wnt/β-catenin.
+*   **Protein-Protein Interactions Relevant to Phenotype:** *MYO10* interacts with β-integrins, VASP, and N-cadherin to regulate cell adhesion and migration. Its interaction with microtubules helps link the actin and microtubule cytoskeletons.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Currently, testing of *MYO10* is not standard for a specific Mendelian disorder, so diagnostic yield data is not available. Its primary clinical relevance is emerging in the context of cancer prognostics and somatic variant analysis.
+*   **Most Common Reasons for Testing This Gene:** Testing is primarily done in a research context to investigate its role in cancer progression or in cases of complex developmental anomalies where mouse model phenotypes overlap. It may also be included on large gene panels for neurodevelopmental disorders or skeletal dysplasias.
+*   **Clinical Actionability and Management Implications:** In oncology, high *MYO10* expression could serve as a biomarker for poor prognosis and metastatic potential in cancers like colorectal, breast, and cervical cancer. This could potentially guide treatment intensity, although specific targeted therapies are not yet developed.
+*   **Genetic Counseling Considerations:** Given the limited evidence for a clear Mendelian disease link, counseling should be approached with caution. Associations with PCOS are based on risk variants, not causative mutations. The phenotypes in knockout mice (neural tube defects, syndactyly, pigmentation issues) could be considered when interpreting variants of uncertain significance in patients with similar features.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 34526360, 2021:** This study revealed that *MYO10* upregulation, due to dysregulation of the β-TrCP1/UbcH7 ubiquitination axis, drives genomic instability and inflammation in cancer, causally linking its overexpression to cancer progression.
+*   **PMID: 30420601, 2019:** A key study on *Myo10* knockout mice that detailed the resulting phenotypes, including exencephaly, syndactyly, pigmentation defects, and persistent hyaloid vasculature, establishing its critical role in prenatal and postnatal development.
+*   **PMID: 29512211, 2018:** This paper described the pigmentation phenotype (white patches) and syndactyly in *Myo10* mutant mice from the Sanger Institute Mouse Genetics Project, corroborating its role in melanocyte function.
+*   **PMID: 32442475, 2020:** A genome-wide association study that identified novel associations between variants in regulatory regions near *MYO10* and the enlargement of the left ventricle over time, suggesting a role in cardiac disease progression.
+*   **biorxiv: https://doi.org/10.1101/2022.06.11.495811, 2022:** Reported an association between intronic *MYO10* risk variants and metabolic traits in women with Polycystic Ovary Syndrome (PCOS).
+*   **PMID: 26330543, 2015:** Showed that *Myo10* regulates neuronal radial migration in the developing cerebral cortex by interacting with and modulating the cell-surface expression of N-cadherin.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations established for *MYO10* in humans for Mendelian disease. The strongest evidence comes from mouse models where complete loss-of-function is associated with:
+    *   Exencephaly (HP:0002423)
+    *   Syndactyly (HP:0001159)
+    *   Hypopigmentation of the skin (HP:0001010)
+*   **Phenotype red flags:** A combination of a neural tube defect, syndactyly, and patchy pigmentation in a patient could be a red flag that warrants investigation of *MYO10*, especially in the absence of a diagnosis in more common genes associated with these features (e.g., Waardenburg syndrome genes).
+*   **Differential diagnosis considerations:** The combination of pigmentation defects and neurological issues can overlap with Waardenburg syndrome. Syndactyly is a feature of numerous genetic syndromes. Neural tube defects have a wide differential diagnosis, including folate metabolism disorders and other chromosomal and single-gene disorders.
+

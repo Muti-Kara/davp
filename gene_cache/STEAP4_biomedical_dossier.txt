@@ -1,0 +1,78 @@
+STEAP4 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 21923
+*   **OMIM Gene ID:** 611098
+*   **Primary Disease Associations:** While not linked to a definitive Mendelian disease, genetic variations in STEAP4 are associated with metabolic syndrome, obesity, insulin resistance, and inflammatory conditions like rheumatoid arthritis. Its role in various cancers, including prostate, gastric, and breast cancer, is also described.
+*   **Clinical Significance Level:** No definitive evidence for causing a monogenic disorder; evidence is primarily associative for complex/multifactorial diseases.
+*   **Inheritance Patterns:** Not applicable for a Mendelian disorder; associations are studied for common polymorphic variants.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v4.0 constraint metrics for STEAP4 show a pLI (probability of being loss-of-function intolerant) of 0.00, an observed/expected (o/e) ratio for LoF variants of 1.10, and a loss-of-function observed/expected upper bound fraction (LOEUF) of 1.25. These values are also reflected in gnomAD v2.1.1.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score near 0 and the LOEUF score greater than 1 indicate that the gene is tolerant to loss-of-function (LoF) variation. There is no statistical evidence to suggest that haploinsufficiency is a disease mechanism for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF variants, truncating variants (nonsense, frameshift) are unlikely to be a primary mechanism for a severe monogenic disease. Missense or regulatory variants influencing expression levels are more likely to contribute to its role in complex diseases.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** Although no specific Mendelian disease is linked to STEAP4, associated clinical features from literature can be mapped to HPO terms.
+    *   Obesity (HP:0001513)
+    *   Insulin resistance (HP:0000855)
+    *   Hypertriglyceridemia (HP:0002155)
+    *   Impaired glucose tolerance (HP:0000833)
+    *   Type II diabetes mellitus (HP:0005978)
+    *   Hypertension (HP:0000822)
+    *   Fatty liver (HP:0001397)
+    *   Rheumatoid arthritis (HP:0000922)
+*   **Secondary HPO terms:**
+    *   Metabolic syndrome (HP:0002071)
+    *   Increased waist circumference (HP:0045053)
+    *   Elevated fasting plasma glucose (HP:0003074)
+*   **Age of Onset Patterns:** Associations with metabolic and inflammatory conditions are typically identified in adult populations.
+*   **Phenotype Severity Spectrum:** The phenotypic contribution of STEAP4 variants appears to be as a risk factor in complex diseases, with variable expressivity influenced by genetic background and environmental factors.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Common non-synonymous variants, such as rs1981529 (Gly75Asp), and other SNPs have been associated with obesity, metabolic syndrome, and altered insulin response in specific populations, though findings are sometimes inconsistent across different cohorts.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific domain-phenotype correlations have been established for pathogenic variants. The protein contains a C-terminal heme-binding domain and an N-terminal NAD(P)H binding-reductase motif, essential for its reductase activity.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently weak to moderate and established for common polymorphisms as risk factors for complex traits rather than causative variants for monogenic disease.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   rs1981529 (Gly75Asp): Associated with obesity in the Uyghur population and with measures of acute insulin response to glucose in Hispanic Americans.
+    *   rs12386756: The GA genotype was associated with a decreased risk of developing metabolic syndrome in a Han Chinese population.
+    *   rs8122 and rs1981529: Significantly associated with metabolic syndrome in females in a Uygur population.
+
+### **Clinical Variants & Phenotype Associations**
+*   No variants in STEAP4 are classified as "pathogenic" or "likely pathogenic" for a Mendelian disorder in ClinVar as of the latest search. The variants listed are primarily common SNPs with uncertain significance or associations with multifactorial traits.
+*   **rs1981529 / p.Gly75Asp / VUS/Drug response:** Associated with obesity and insulin response. It is listed in dbSNP but lacks a definitive pathogenic classification in ClinVar.
+*   **rs34741656 / p.Thr122= / Benign:** A synonymous variant.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** STEAP4 shows high expression in adipose tissue, placenta, and lung. It is also expressed in the liver, prostate, and immune cells like monocytes and neutrophils.
+*   **Tissue-Specific Phenotypes Expected:** High expression in adipose tissue is consistent with its role in adipocyte development, obesity, and insulin resistance. Expression in the liver relates to its role in fatty liver disease, while expression in immune cells connects it to inflammatory conditions like arthritis.
+*   **Expression During Development:** In goat models, STEAP4 is expressed throughout adipocyte differentiation, suggesting a role in lipid accumulation. It is also highly expressed in human preadipocytes.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** STEAP4 is a metalloreductase that reduces iron (Fe³⁺ to Fe²⁺) and copper (Cu²⁺ to Cu¹⁺) and plays an integrative role in metabolic homeostasis and inflammatory responses.
+*   **Disease Mechanism:** For complex traits, the mechanism is likely altered protein function or expression, leading to dysregulation of metabolic and inflammatory pathways. There is no evidence for haploinsufficiency or dominant-negative mechanisms causing Mendelian disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Metabolic Pathways:** STEAP4 influences insulin sensitivity, glucose transport (via GLUT4), and adipocyte differentiation. Its dysregulation contributes to obesity and insulin resistance.
+    *   **Inflammatory Pathways:** The gene is inducible by TNF-α and involved in cytokine regulation (TNF-alpha, IL-6), linking it to inflammatory arthritis. In inflammatory bowel disease, it is induced by hypoxia and leads to mitochondrial iron dysregulation, potentiating colitis and colon cancer.
+*   **Protein-Protein Interactions Relevant to Phenotype:** STEAP4 interacts with focal adhesion kinase (FAK), regulating FAK activity, which may play a role in tumor malignancy.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Zero, as STEAP4 is not currently associated with a Mendelian disorder for which diagnostic testing is performed.
+*   **Most Common Reasons for Testing This Gene:** Testing is performed in a research context to investigate risk for complex diseases like metabolic syndrome, obesity, or its role in cancer progression.
+*   **Clinical Actionability and Management Implications:** None at present for clinical management based on genotype alone. Associated phenotypes like obesity and metabolic syndrome are managed according to standard clinical guidelines.
+*   **Genetic Counseling Considerations:** Counseling would focus on the multifactorial nature of associated conditions like obesity and metabolic syndrome, explaining that variants in this gene are considered minor risk factors among many genetic and environmental contributors.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 30337524 (2018):** Described the cryo-electron microscopy structures of human STEAP4, revealing it functions as a homotrimer to mediate transmembrane electron transfer, providing a structural basis for its reductase activity.
+*   **PMID: 28973907 (2017):** A quantitative proteomics study identified STEAP4 as a critical regulator of mitochondrial dysfunction in intestinal inflammation, linking mitochondrial iron dysregulation to colitis and colitis-associated colon cancer.
+*   **PMID: 26560946 (2015):** A study in a Han Chinese population identified an association between SNP rs12386756 in STEAP4 and a decreased risk of metabolic syndrome.
+*   **PMID: 21633911 (2012):** Found that a splice variant of STEAP4 is specifically up-regulated in rheumatoid arthritis monocytes and may play a crucial role in the production of pro-inflammatory cytokines TNF-alpha and IL-6.
+*   **PMID: 21933608 (2011):** A study that associated a common variant in STEAP4 (rs1981529) with obesity in the Uyghur population.
+*   **PMID: 21044749 (2010):** Reported that variations in the STEAP4 gene are associated with metabolic syndrome in a female Uygur general population.
+*   **PMID: 19787193 (2009):** Reported that STEAP4 expression can inhibit anchorage-independent cell growth and that its expression may be epigenetically regulated in prostate cancer cells.
+*   **PMID: 18430367 (2008):** One of the initial studies to report that downregulation of STEAP4 is associated with obesity in humans.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence associations between specific rare, pathogenic variants and HPO terms for a monogenic disorder. Associations exist for common polymorphisms and multifactorial traits.
+*   **Phenotype red flags:** The co-occurrence of metabolic phenotypes such as **Obesity (HP:0001513)**, **Insulin resistance (HP:0000855)**, and **Type II diabetes mellitus (HP:0005978)**, particularly in conjunction with inflammatory features like **Rheumatoid arthritis (HP:0000922)**, might warrant investigation of the STEAP4 gene in a research or polygenic risk score context.
+*   **Differential diagnosis considerations:** The metabolic phenotypes associated with STEAP4 variants are very common and have a broad differential diagnosis, including numerous other genetic syndromes and complex multifactorial conditions. There is significant phenotypic overlap with other genes implicated in monogenic forms of obesity, lipodystrophy, and diabetes.
+

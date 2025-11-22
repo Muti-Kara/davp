@@ -1,0 +1,59 @@
+WDFY1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:12745.
+*   **OMIM Gene ID:** 616262.
+*   **Primary Disease Associations:** WDFY1 has been associated with schizophrenia-like behaviors in mouse models, and aberrantly upregulated WDFY1 protein levels have been observed in post-mortem brain samples of schizophrenia patients. It has also been associated with Rett Syndrome and Basan Syndrome, though evidence for a causal monogenic link is not strongly established in the provided literature.
+*   **Clinical Significance Level:** The clinical significance for a specific Mendelian disorder is not yet definitively established; evidence currently points towards a role as a risk factor or contributor to complex neuropsychiatric disorders.
+*   **Inheritance Patterns:** No clear Mendelian inheritance pattern has been established for a WDFY1-related disorder in humans.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for WDFY1 are: pLI = 0.00, LOEUF = 1.25, pRec = 0.81, pNull = 0.19.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score (closer to 0) and high LOEUF score (greater than 1) suggest that WDFY1 is tolerant to loss-of-function (LoF) variation. This indicates that haploinsufficiency is not a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF variants, pathogenic variants, if they exist, might be gain-of-function or dominant-negative, rather than simple loss-of-function (e.g., nonsense or frameshift) variants. Upregulation, rather than loss, of WDFY1 has been associated with pathological phenotypes in research studies.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No definitive, recurrent human phenotype with associated HPO terms has been linked to variants in WDFY1. Phenotypes observed in mouse models or associated with complex human diseases include:
+    *   Schizophrenia (HP:0100753).
+    *   Psychosis (HP:0000709).
+    *   Impaired social memory.
+    *   Decreased social novelty preference.
+    *   Neuroinflammation (HP:0002175).
+    *   Cognitive impairment (HP:0100543).
+*   **Age of Onset Patterns:** In mouse models, schizophrenia-like behaviors were observed in young animals, suggesting a potential role during neurodevelopment.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No clear genotype-phenotype correlation for a Mendelian disease is established. Increased expression levels of WDFY1 have been correlated with schizophrenia-like phenotypes in mice and observed in brain tissue from human schizophrenia patients.
+*   **Protein Domain-Specific Phenotype Patterns:** The FYVE domain is crucial for endosomal localization and for WDFY1's function in recruiting TRIF to TLR3 and TLR4, a key step in the innate immune signaling pathway. Variants affecting this domain could disrupt immune signaling.
+*   **Genotype-Phenotype Correlation Strength:** Currently weak for any specific human monogenic disease.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists variants in WDFY1, but none are currently classified as pathogenic or likely pathogenic for a specific Mendelian disorder with strong evidence. Most reported variants are of uncertain significance.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** WDFY1 is expressed across a wide variety of tissues. Expression has been noted in multiple brain regions, including the hippocampus, striatum, dorsolateral prefrontal cortex, globus pallidus, and various ganglia, which is consistent with its potential role in neuropsychiatric disorders.
+*   **Tissue-Specific Phenotypes Expected:** Aberrant expression in the brain, particularly the hippocampus and cortex, may contribute to cognitive and behavioral phenotypes seen in conditions like schizophrenia. Its role in immune cells suggests a link to inflammatory responses.
+*   **Expression During Development:** WDFY1 is expressed during human fetal development, and its regulation by the transcription factor Helios during the development of the central nervous system may be critical. Dysregulation during this period could lead to long-lasting neurological deficits.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** WDFY1 is an endosomal protein that positively regulates the TLR3 and TLR4-mediated innate immune signaling pathways by bridging the interaction between the receptors and the TICAM1 (TRIF) adaptor protein.
+*   **Disease Mechanism:** The primary disease mechanism suggested by current research is related to aberrant gene expression levels rather than protein-truncating variants. Sustained upregulation of WDFY1 may promote pathological neuroinflammatory processes relevant to neuropsychiatric disorders.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Upregulation of WDFY1 enhances TLR3/4 signaling, leading to increased activation of NF-κB and IRF3, and subsequent production of inflammatory cytokines. In the brain, this may lead to chronic neuroinflammation, altered synaptic plasticity, and the behavioral and cognitive deficits associated with schizophrenia. WDFY1 is also involved in autophagy and endocytic trafficking.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield of testing WDFY1 for a specific Mendelian disorder is likely zero or extremely low, as it is not currently recognized as a single-gene cause of disease.
+*   **Most Common Reasons for Testing This Gene:** WDFY1 would typically be analyzed as part of a gene panel or exome/genome sequencing for complex neurological or immunological disorders, but it is not a primary target for single-gene testing.
+*   **Clinical Actionability and Management Implications:** There are currently no specific management guidelines based on WDFY1 variants.
+*   **Genetic Counseling Considerations:** Counseling should reflect the uncertain clinical significance of WDFY1 variants and the current lack of association with a specific Mendelian disease, emphasizing its potential role as a risk factor in complex disorders.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31897669, 2020:** Found that sustained upregulation of WDFY1 in specific mouse brain regions induces adult schizophrenia-like behaviors and that WDFY1 protein levels are elevated in post-mortem brain samples from schizophrenia patients.
+*   **PMID: 25736436, 2015:** Identified WDFY1 as a crucial adaptor protein in the TLR3/4 signaling pathway that mediates the recruitment of the TRIF adaptor, potentiating the innate immune response.
+*   **PMID: 26915352, 2016:** Showed that WDFY1 operates downstream of Neuropilin-2 (NRP2) to regulate autophagy and endocytic trafficking in cancer cells.
+*   **PMID: 35986874, 2022:** Showed that knockdown of WDFY1 can affect the differentiation of neural stem cells, potentially via a TLR4-dependent mechanism, linking it to neurogenesis.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Currently, there are no high-confidence associations between specific WDFY1 variants and specific HPO terms for a Mendelian disease.
+*   **Phenotype Red Flags:** The presence of schizophrenia (HP:0100753) or psychosis (HP:0000709) in a patient might warrant examination of WDFY1 expression or variants, but this is an area of active research and not yet a standard clinical correlation.
+*   **Differential Diagnosis Considerations:** Given its role in neuroinflammation and neurodevelopment, phenotypes overlapping with other genes implicated in schizophrenia or other neuropsychiatric disorders with an inflammatory component (e.g., DISC1) could be considered. The paralog WDFY3 is associated with autosomal dominant primary microcephaly, but the phenotype is distinct.
+
+***

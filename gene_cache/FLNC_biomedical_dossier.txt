@@ -1,0 +1,98 @@
+FLNC Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 3756.
+*   **OMIM Gene ID:** 102565.
+*   **Primary Disease Associations:** Myofibrillar myopathy 5 (MFM5), Dilated cardiomyopathy (DCM), Hypertrophic cardiomyopathy 26 (HCM), Arrhythmogenic cardiomyopathy (ACM), and Restrictive cardiomyopathy (RCM).
+*   **Clinical Significance Level:** The gene-disease associations are rated as "Definitive" for myofibrillar myopathy 5 and dilated cardiomyopathy, and "Strong" for hypertrophic cardiomyopathy by ClinGen and other expert groups.
+*   **Inheritance Patterns:** Primarily Autosomal Dominant. Biallelic mutations have been suggested to potentially cause a more severe phenotype.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The probability of being loss-of-function intolerant (pLI) score is 1.00, indicating extreme intolerance to loss-of-function (LoF) variants. The loss-of-function observed/expected upper bound fraction (LOEUF) score is low, further supporting intolerance to LoF variation.
+*   **Clinical Interpretation:** A pLI score near 1.0 strongly suggests that LoF variants in FLNC are subject to purifying selection and are likely to cause disease via haploinsufficiency. This gene is considered highly constrained.
+*   **Variant Classes Most Likely to be Pathogenic:** Truncating variants (nonsense, frameshift, and essential splice site) are highly likely to be pathogenic, particularly for dilated and arrhythmogenic cardiomyopathy phenotypes. Missense variants are more commonly associated with hypertrophic and restrictive cardiomyopathies, as well as myofibrillar myopathy.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:**
+    *   HP:0001644 - Dilated cardiomyopathy.
+    *   HP:0001639 - Hypertrophic cardiomyopathy.
+    *   HP:0001653 - Restrictive cardiomyopathy.
+    *   HP:0001695 - Cardiac arrhythmia.
+    *   HP:0001698 - Ventricular arrhythmia.
+    *   HP:0002376 - Skeletal muscle weakness.
+    *   HP:0001324 - Muscle weakness.
+    *   HP:0001270 - Motor delay.
+    *   HP:0004322 - Short stature.
+    *   HP:0001635 - Heart failure.
+    *   HP:0100744 - Myofibrillar myopathy.
+    *   HP:0001638 - Cardiomyopathy.
+    *   HP:0001697 - Sudden cardiac death.
+    *   HP:0005180 - Atrial fibrillation.
+    *   HP:0011675 - Arrhythmogenic right ventricular cardiomyopathy.
+*   **Secondary HPO Terms:**
+    *   HP:0003560 - Distal muscle weakness.
+    *   HP:0009053 - Proximal muscle weakness.
+    *   HP:0003202 - Elevated circulating creatine kinase concentration.
+    *   HP:0005200 - Left ventricular noncompaction.
+    *   HP:0001712 - Left ventricular systolic dysfunction.
+    *   HP:0006682 - Arthrogryposis multiplex congenita.
+    *   HP:0001634 - Atrial septal defect.
+    *   HP:0004313 - Syncope.
+*   **Age of Onset Patterns:** Onset is variable, ranging from congenital myopathy to adult-onset cardiomyopathy. Cardiomyopathies typically present in adulthood, often after age 40. Early-onset restrictive cardiomyopathy with congenital myopathy has been described in pediatric cases.
+*   **Phenotype Severity Spectrum:** The clinical spectrum is broad, ranging from asymptomatic carriers to severe, early-onset disease. FLNC truncating variants, in particular, are associated with a malignant clinical course and a high risk of sudden cardiac death.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Truncating variants are strongly associated with dilated cardiomyopathy (DCM) and arrhythmogenic cardiomyopathy (ACM), often with a high risk of ventricular arrhythmias and sudden cardiac death. Missense and in-frame indel variants are predominantly found in patients with hypertrophic cardiomyopathy (HCM), restrictive cardiomyopathy (RCM), and myofibrillar myopathy (MFM).
+*   **Protein Domain-Specific Phenotype Patterns:** Missense variants causing HCM often cluster in the ROD2 domain, which is crucial for binding to sarcomeric proteins. A specific missense variant, A1186V, in the Ig-like domain 10 has been identified as a mutational hotspot for a distinct phenotype of early-onset RCM and congenital myopathy. Variants in the dimerization domain can cause MFM.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between truncating variants and an aggressive DCM/ACM phenotype is strong and well-documented. The correlation for missense variants is more complex, as some are associated with MFM, while others in different locations are linked to HCM or RCM.
+*   **Examples: Specific Variants → Specific Phenotypes:** The amino acid substitution A1186V is linked to early-onset RCM with congenital myopathy. Truncating variants are associated with a high-risk DCM/ACM phenotype with extensive myocardial fibrosis and a high burden of ventricular arrhythmias.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Well-Characterized Pathogenic Variants:**
+    *   **c.3556A>G (p.Ala1186Val):** Pathogenic for early-onset restrictive cardiomyopathy and congenital myopathy.
+    *   **c.6889G>A (p.Val2297Met):** Associated with familial restrictive cardiomyopathy.
+    *   **c.8137C>T (p.Arg2713Trp):** Reported in a family with arrhythmogenic cardiomyopathy.
+    *   **c.721C>T (p.Gln241*):** A truncating variant associated with dilated cardiomyopathy.
+    *   **c.1743delG (p.Trp581Cysfs*21):** A truncating variant identified in patients with dilated and arrhythmogenic cardiomyopathy.
+    *   **c.5168del (p.Pro1723Hisfs*38):** A frameshift variant linked to arrhythmogenic cardiomyopathy.
+    *   **c.3800G>A (p.Arg1267Gln):** A missense variant associated with arrhythmogenic cardiomyopathy.
+    *   **c.6793C>T (p.Val2264Met):** A missense variant associated with restrictive cardiomyopathy.
+*   **Variants with Strongest Phenotype Evidence:** Truncating variants that lead to haploinsufficiency have strong evidence for causing a high-risk arrhythmogenic and dilated cardiomyopathy phenotype.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** FLNC is predominantly and highly expressed in cardiac muscle (heart - left ventricle and atrial appendage) and skeletal muscle. Lower levels of expression are seen in the aorta and tibial artery.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in heart and skeletal muscle directly corresponds to the primary phenotypes of cardiomyopathy and myopathy. Cardiac-specific phenotypes are often observed without skeletal muscle involvement, and vice versa.
+*   **Expression During Development:** FLNC is crucial for normal myogenesis (muscle development). Defects can lead to congenital myopathies.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** Filamin C is a large actin-crosslinking protein that is essential for maintaining the structural integrity of the sarcomere Z-discs and the sarcolemma in striated and cardiac muscle.
+*   **Disease Mechanism:** Two primary mechanisms are described: haploinsufficiency from protein-truncating variants leading to DCM/ACM, and a dominant-negative or toxic gain-of-function effect from missense variants that cause protein aggregation, leading to MFM, HCM, and RCM.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of FLNC's interaction with sarcomeric and sarcolemmal proteins (e.g., myotilin, sarcoglycans) impairs Z-disc stability and mechanosensing, leading to myocyte death, fibrosis, and contractile dysfunction. This can result in dilated, hypertrophic, or restrictive cardiac phenotypes, as well as skeletal muscle fiber breakdown. Abnormal proteostasis and activation of autophagic pathways are also implicated.
+*   **Protein-Protein Interactions Relevant to Phenotype:** FLNC interacts with numerous Z-disc proteins and signaling molecules. Its binding to γ- and δ-sarcoglycan anchors the cytoskeleton to the sarcolemma, and its interaction with myotilin is crucial for Z-disc integrity.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Pathogenic FLNC variants are found in approximately 1-8% of patients with various cardiomyopathies, depending on the subtype. The prevalence of truncating variants in DCM cohorts is about 1-4.5%.
+*   **Most Common Reasons for Testing:** The gene is tested in patients with a personal or family history of cardiomyopathy (dilated, hypertrophic, restrictive, arrhythmogenic), myofibrillar myopathy, or unexplained sudden cardiac death.
+*   **Clinical Actionability and Management Implications:** Identifying a pathogenic FLNC variant, especially a truncating one, indicates a high risk for malignant ventricular arrhythmias and sudden cardiac death, which may warrant early consideration for an implantable cardioverter-defibrillator (ICD). This makes FLNC a gene with high clinical actionability.
+*   **Genetic Counseling Considerations:** Autosomal dominant inheritance implies a 50% risk to offspring. Penetrance is age-dependent and may exceed 97% in carriers of truncating variants over age 40. Family screening is crucial for identifying at-risk relatives who may benefit from cardiac surveillance.
+
+### **Key Clinical Literature & Studies**
+*   **Ortiz-Genga MF, et al. (2016, PMID: 27884268):** A landmark study establishing that truncating FLNC mutations are associated with a high-risk dilated and arrhythmogenic cardiomyopathy phenotype with high penetrance and frequent sudden cardiac death.
+*   **Valdés-Mas R, et al. (2014, PMID: 25351925):** First described FLNC mutations as a cause of familial hypertrophic cardiomyopathy, associating them with a higher probability of sudden cardiac death.
+*   **Vorgerd M, et al. (2005, PMID: 16007722):** Identified a mutation in the dimerization domain of filamin C as a cause for autosomal dominant myofibrillar myopathy.
+*   **Ader F, et al. (2019, PMID: 31220351):** Assessed the prevalence of FLNC variants in 1150 cardiomyopathy patients, confirming the strong genotype-phenotype correlation where truncating variants cause DCM and missense variants cause other phenotypes.
+*   **Verdonschot JAJ, et al. (2020, PMID: 32247909):** Provided a mutation update reviewing genotype-phenotype correlations, highlighting haploinsufficiency in DCM and protein aggregation in HCM and MFM.
+*   **Reinstein E, et al. (2016, PMID: 26718420):** Reported missense mutations in FLNC as a cause of restrictive cardiomyopathy, expanding the cardiac phenotype.
+*   **Begay RL, et al. (2022, PMID: 35698308):** Showed that FLNC loss-of-function variants are associated with arrhythmogenic cardiomyopathy phenotypes in an unselected clinical population, supporting the gene's inclusion in genomic screening.
+*   **Gigli M, et al. (2022, PMID: 34743916):** Characterized the clinical phenotype of FLNC cardiomyopathies, noting that sudden cardiac death is associated with late gadolinium enhancement but not necessarily with severely reduced ejection fraction.
+*   **Kiselev A, et al. (2022, PMID: 36100874):** Described a distinct clinical form of filaminopathy in 12 pediatric cases with early-onset restrictive cardiomyopathy and congenital myopathy, identifying a mutational hotspot.
+*   **Seidman CE & Seidman, J. G. (2001, PMID: 11520934):** This review, while older, provides foundational context on the genetics of cardiomyopathy, the framework into which discoveries like FLNC's role fit.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:**
+    *   **Truncating Variants (Frameshift, Nonsense, Splice):** Strongly predict a phenotype of Dilated Cardiomyopathy (HP:0001644), Arrhythmogenic Cardiomyopathy, Left Ventricular Systolic Dysfunction (HP:0001712), Ventricular Arrhythmia (HP:0001698), and a high risk of Sudden Cardiac Death (HP:0001697).
+    *   **Missense/In-Frame Variants:** Associated with a broader, more heterogeneous spectrum including Hypertrophic Cardiomyopathy (HP:0001639), Restrictive Cardiomyopathy (HP:0001653), and Myofibrillar Myopathy (HP:0100744).
+*   **Phenotype Red Flags:** The co-occurrence of cardiomyopathy with myopathy should raise suspicion for FLNC. More specifically, an aggressive, arrhythmogenic DCM phenotype with extensive myocardial fibrosis is a strong indicator for a truncating FLNC variant. Early-onset restrictive cardiomyopathy combined with congenital myopathy points toward specific missense mutations like p.Ala1186Val.
+*   **Differential Diagnosis Considerations:** The phenotype of FLNC-related cardiomyopathy can overlap with diseases caused by variants in other sarcomeric genes (e.g., TTN, MYH7, MYBPC3) and genes associated with desmosomal integrity and Z-disc function (e.g., DES, LMNA, DSP). Distinguishing features for FLNC include the specific genotype-phenotype correlations (truncating vs. missense) and the high arrhythmia burden that may occur even with preserved ventricular function.
+
+***
+

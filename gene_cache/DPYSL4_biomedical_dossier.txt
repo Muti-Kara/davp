@@ -1,0 +1,67 @@
+DPYSL4 Gene Biomedical Dossier
+### **Gene Dossier: DPYSL4**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 3016
+*   **OMIM Gene ID:** 608407
+*   **Primary Disease Associations:** While no definitive disease association is listed in OMIM, DPYSL4 has been associated with Autism Spectrum Disorder. It has also been implicated in neurodevelopmental processes. Autoantibodies against DPYSL4 (also known as CRMP3) have been found in patients with paraneoplastic neurologic diseases.
+*   **Clinical Significance Level:** The clinical significance is currently not well-established for Mendelian disease; more research is needed to define its role.
+*   **Inheritance Patterns:** No clear inheritance pattern for a specific Mendelian disorder has been established.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI (gnomAD v2.1.1): 0.00 (The closer pLI is to one, the more intolerant the gene is to protein-truncating variants).
+    *   LOEUF (gnomAD v4.0): 1.13 (Lower LOEUF scores indicate greater intolerance to loss-of-function variation).
+    *   pRec: Not prominently reported in standard databases.
+    *   pNull: Not prominently reported in standard databases.
+*   **Clinical Interpretation of Constraint Scores:** The high LOEUF and very low pLI scores suggest that DPYSL4 is tolerant to loss-of-function variants. This means that heterozygous inactivating variants are not expected to cause disease (i.e., not haploinsufficient).
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or dominant-negative, though this is speculative.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As there is no definitively associated Mendelian disease, a ranked list of HPO terms is not available. However, based on its function and associations, relevant phenotypes would fall under neurodevelopmental and neurological categories.
+*   **Secondary HPO terms:** Based on mouse models and functional data, potential HPO terms could include:
+    *   Nervous system phenotype
+    *   Abnormality of nervous system physiology
+    *   Impaired neuronal migration
+    *   Abnormality of dendritic patterning
+    *   Abnormality of spine development
+*   **Age of Onset Patterns:** Given its role in nervous system development, any related phenotype would likely manifest from the prenatal period through childhood.
+*   **Phenotype Severity Spectrum:** Currently undefined due to the lack of a clear disease association.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and their Typical Phenotypes:** No established correlations exist between specific variant classes and clinical phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** Deletion of the dihydropyrimidinase-like domain in experimental models abolished the protein's ability to stimulate ATP production and suppress cancer cell invasion, suggesting this domain is critical for its metabolic function.
+*   **Genotype-Phenotype Correlation Strength:** Weak to nonexistent based on current evidence.
+*   **Examples: specific variants → specific phenotypes:** No specific variants have been consistently linked to a distinct phenotype in humans.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants in DPYSL4 are currently classified as Pathogenic or Likely Pathogenic in ClinVar for a Mendelian disorder. The database primarily contains Variants of Uncertain Significance (VUS).
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** DPYSL4 shows the highest expression in the brain, particularly the cortex, and also in the heart (left ventricle). It is also expressed in fetal brain tissue.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in the brain and during fetal development suggests that pathogenic variants, if identified, would likely lead to neurodevelopmental disorders. Its role in cardiac tissue is less clear but could imply a potential for cardiac phenotypes.
+*   **Expression During Development and Age-Related Phenotypes:** RNA dot blot analysis in developing rat brain showed increased DPYSL4 expression between embryonic and perinatal stages, with slightly lower levels in adults, supporting its role in early brain development.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** DPYSL4 is necessary for signaling by class 3 semaphorins, which leads to cytoskeleton remodeling and plays a role in axon guidance, neuronal growth cone collapse, and cell migration.
+*   **Disease Mechanism:** The mechanism is not established for a specific disease. Given the gnomAD constraint data, haploinsufficiency is an unlikely mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is involved in Semaphorin signaling and axon guidance pathways. Disruption could logically lead to impaired neuronal connectivity and neurodevelopmental defects. It is also a p53-inducible gene that localizes to mitochondria and regulates energy metabolism, linking it to cellular energy supply.
+*   **Protein-Protein Interactions Relevant to Phenotype:** DPYSL4 can form homotetramers and heterotetramers with other CRMP family members (CRMP1, DPYSL2, DPYSL3, DPYSL5) and interacts with PLEXA1, which is crucial for semaphorin signaling.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for this gene is expected to be very low to zero for developmental disorders, given the lack of pathogenic variants and its tolerance to LoF variation.
+*   **Most Common Reasons for Testing This Gene:** Testing for DPYSL4 would typically occur as part of a large gene panel or whole-exome/genome sequencing for individuals with unexplained neurodevelopmental disorders, such as autism spectrum disorder.
+*   **Clinical Actionability and Management Implications:** Currently, there is no known clinical actionability based on variants in DPYSL4.
+*   **Genetic Counseling Considerations:** Counselors should emphasize the uncertain role of DPYSL4 in disease. Variants of Uncertain Significance (VUS) are common and should be interpreted with caution, as the gene is tolerant to variation.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 30042220, Year: 2018:** Showed DPYSL4 is a p53-inducible regulator of energy metabolism that associates with mitochondrial supercomplexes, suggesting a role in both cancer and metabolic disorders.
+*   **PMID: 37089904, Year: 2023:** A review on the DPYSL protein family highlights their role in synaptic physiology and neurodevelopmental disorders, noting DPYSL4's function in regulating ion currents and promoting dendrite morphogenesis.
+*   **PMID: 10602419, Year: 1999:** Identified autoantibodies against ULIP4 (DPYSL4) in patients with paraneoplastic neurologic diseases.
+*   **PMID: 9811853, Year: 1998:** First identified human ESTs for ULIP4 (DPYSL4) and cloned the mouse ortholog, noting its expression was specific to the brain.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no high-confidence associations between specific DPYSL4 variants and HPO terms.
+*   **Phenotype red flags:** While not definitive, the presence of neurodevelopmental features, particularly those related to abnormal neuronal migration or axon guidance, might warrant a closer look at this gene in a research context, though its tolerance to variation makes a causal link unlikely.
+*   **Differential diagnosis considerations:** The broader functions of the DPYSL family in neurodevelopment mean that phenotypes overlapping with those caused by variants in other DPYSL genes (e.g., DPYSL2, DPYSL3, DPYSL5) could be considered, although these genes have more established disease associations.
+

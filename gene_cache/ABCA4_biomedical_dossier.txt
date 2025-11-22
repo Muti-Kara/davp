@@ -1,0 +1,107 @@
+ABCA4 Gene Biomedical Dossier
+### **Gene Dossier: ABCA4**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:34.
+*   **OMIM Gene ID:** 601691.
+*   **Primary Disease Associations:** Stargardt disease 1 (STGD1), Cone-rod dystrophy 3 (CRD3), Retinitis pigmentosa 19 (RP19), and age-related macular degeneration 2 (ARMD2).
+*   **Clinical Significance Level:** ClinGen has classified the gene-disease relationship for *ABCA4*-related retinopathy as **Definitive**.
+*   **Inheritance Patterns:** Primarily autosomal recessive. Some reports suggest a potential autosomal dominant inheritance for certain phenotypes, but this is less common.
+
+**Constraint & Variant Intolerance**
+*   **pLI:** 0.00 (gnomAD v2.1.1).
+*   **LOEUF:** 1.15 (gnomAD v2.1.1).
+*   **pRec:** 0.698 (gnomAD v2.1.1).
+*   **pNull:** 0.302 (gnomAD v2.1.1).
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that *ABCA4* is tolerant to loss-of-function variation in the heterozygous state, which is consistent with its primarily recessive mode of inheritance. The gene is not under strong selective pressure against heterozygous protein-truncating variants.
+*   **Variant Classes Most Likely to be Pathogenic:** A wide spectrum of variant types are pathogenic, including missense, nonsense, frameshift, splice-site, and copy number variants. The severity of the phenotype often correlates with the residual function of the ABCA4 protein.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Macular dystrophy (HP:0007754)
+    *   Cone-rod dystrophy (HP:0000534)
+    *   Retinitis pigmentosa (HP:0000510)
+    *   Flecked retina (HP:0007742)
+    *   Bull's-eye maculopathy (HP:0001100)
+    *   Reduced visual acuity (HP:0007663)
+    *   Central scotoma (HP:0000603)
+    *   Photophobia (HP:0000613)
+    *   Abnormal electroretinogram (HP:0000512)
+    *   Macular atrophy (HP:0007656)
+    *   Nyctalopia (HP:0000662)
+    *   Impaired color vision (HP:0000548)
+    *   Chorioretinal atrophy (HP:0000593)
+    *   Foveal sparing (HP:0007639)
+    *   Peripheral visual field loss (HP:0007997)
+*   **Secondary HPO terms:**
+    *   Nystagmus (HP:0000639)
+    *   Optic disc drusen (HP:0012426)
+    *   Choroidal neovascularization (HP:0007802)
+    *   Late-onset congenital macular dystrophy (HP:0001124)
+*   **Age of Onset Patterns:** Highly variable, ranging from aggressive childhood-onset chorioretinopathy to milder, late-onset macular disease in adulthood (after age 50). The typical onset for Stargardt disease is in the first or second decade of life.
+*   **Phenotype Severity Spectrum:** Ranges from mild (late-onset disease, foveal sparing) to severe (early-onset cone-rod dystrophy or retinitis pigmentosa). The severity is generally correlated with the combination of alleles and the resulting residual protein function.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Two severe or null alleles (e.g., nonsense, frameshift) typically result in the most severe phenotypes like early-onset cone-rod dystrophy or retinitis pigmentosa. Combinations of a severe variant with a mild or hypomorphic missense variant often lead to classic Stargardt disease. Two mild or hypomorphic variants are associated with late-onset and milder macular phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns:** Variants in the ATP-binding cassette domain and the ABC-2 family transporter protein domain can lead to severe disease. The specific location can influence the residual activity of the protein.
+*   **Genotype-Phenotype Correlation Strength:** Moderate to strong. While a clear trend exists where residual ABCA4 function predicts severity, the vast number of variants (>1500) and the influence of modifier alleles create a complex landscape.
+*   **Examples: specific variants → specific phenotypes:**
+    *   The p.(Gly1961Glu) variant, often in combination with a severe allele, is typically associated with central atrophy but preserved retina-wide cone and rod function and slower extrafoveal disease progression.
+    *   The hypomorphic p.(Asn1868Ile) variant is associated with late-onset disease and is only considered pathogenic when in *trans* with a severe allele.
+    *   The c.4253+43G>A deep intronic variant is considered a hypomorphic allele associated with a milder, late-onset phenotype with foveal sparing.
+    *   Biallelic truncating variants are strongly associated with a cone-rod dystrophy phenotype and an earlier age of onset.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.5882G>A (p.Gly1961Glu):** Pathogenic, associated with Stargardt disease, often with slower progression and preserved peripheral function.
+*   **c.5461-10T>C:** Pathogenic, frequently found in Stargardt disease.
+*   **c.2588G>C (p.Gly863Ala):** Pathogenic, associated with Stargardt disease.
+*   **c.5603A>T (p.Asn1868Ile):** Pathogenic (hypomorphic allele), associated with late-onset ABCA4 disease when paired with a severe allele.
+*   **c.3386G>T (p.Arg1129Leu):** Pathogenic, correlated with later onset Stargardt disease and foveal sparing in a Spanish cohort.
+*   **c.1804C>T (p.Arg602Trp):** Pathogenic, associated with cone-rod dystrophy and noted as highly frequent in a Taiwanese cohort.
+*   **c.6320G>A (p.Arg2107His):** Pathogenic/Likely Pathogenic, associated with cone-rod dystrophy.
+*   **c.4253+43G>A:** Likely Pathogenic (hypomorphic), associated with milder, late-onset Stargardt disease with foveal sparing.
+*   **c.768G>T (p.Val256=):** Pathogenic, associated with Stargardt disease.
+*   **c.4539+2064C>T:** Pathogenic (deep intronic), associated with Stargardt disease.
+*   **c.302+1G>A:** Pathogenic, splice donor variant associated with severe disease.
+*   **c.6089G>A (p.Arg2030Gln):** Pathogenic, associated with milder disease phenotypes.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues:** The ABCA4 protein is primarily and highly expressed in the retina, specifically in the outer segment disc membranes of rod and cone photoreceptors. GTEx data also shows some mRNA expression in the kidney cortex.
+*   **Tissue-Specific Phenotypes Expected:** The high and specific expression in photoreceptors directly correlates with the exclusively retinal phenotypes observed in patients, as the protein's function is critical to the visual cycle.
+*   **Expression During Development and Age-Related Phenotypes:** The gene is essential for photoreceptor maintenance throughout life. The accumulation of toxic byproducts due to its dysfunction is a progressive process, explaining the range of onset from childhood to late adulthood.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ABCA4 is an ATP-dependent flippase that transports N-retinylidene-phosphatidylethanolamine (N-Ret-PE) and all-trans-retinal from the intradiscal lumen to the photoreceptor cytoplasm as part of the visual cycle.
+*   **Disease Mechanism:** The primary disease mechanism is loss-of-function, consistent with its autosomal recessive inheritance. Pathogenic variants impair the protein's ability to clear retinoid substrates from the disc lumen.
+*   **Cellular/Molecular Pathways Disrupted:** The dysfunction of ABCA4 disrupts the visual cycle. This leads to the accumulation of toxic bis-retinoid compounds like A2E in retinal pigment epithelium (RPE) cells, causing lipofuscin accumulation, RPE cell death, and subsequent photoreceptor degeneration.
+*   **Protein-Protein Interactions Relevant to Phenotype:** While the primary function is transport, its interaction with the cellular machinery responsible for disc morphogenesis and protein trafficking is crucial for its proper localization and function.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Targeted sequencing of *ABCA4* is a high-yield test for patients with a clinical diagnosis of Stargardt disease, cone-rod dystrophy, or autosomal recessive retinitis pigmentosa. Identifying two pathogenic variants confirms the diagnosis.
+*   **Most Common Reasons for Testing This Gene:** Clinical suspicion of Stargardt disease (e.g., juvenile-onset macular dystrophy with flecks), cone-rod dystrophy, or autosomal recessive retinitis pigmentosa.
+*   **Clinical Actionability and Management Implications:** A confirmed diagnosis allows for accurate genetic counseling, prognostic assessment based on genotype, and avoidance of high-dose Vitamin A supplementation, which can be harmful. It is also a prerequisite for enrollment in gene-specific clinical trials.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal recessive inheritance pattern, the risk to future offspring (25% for parents who are both carriers), the high degree of clinical variability, and the prognostic implications of the specific allelic combination.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 34877398 (2022):** Established a genotype-phenotype correlation matrix to provide quantifiable probabilities of long-term disease outcomes based on specific *ABCA4* genotypes, classifying alleles as hypomorphic, moderate, or severe.
+*   **PMID: 32619608 (2020):** In the largest cohort reported at the time (506 families), confirmed that biallelic truncating variants are associated with CRD and earlier onset, and identified specific missense variants correlated with STGD1 vs. CRD.
+*   **PMID: 33256079 (2020):** Provided a comprehensive overview of *ABCA4* retinopathies, detailing the disease mechanism, spectrum of variants, and the concept of residual function correlating with phenotype severity.
+*   **PMID: 33267597 (2020):** Analyzed a Taiwanese cohort, highlighting a high frequency of the p.Arg602Trp variant and reinforcing the correlation between severe/null variant combinations and more extensive phenotypes like RP.
+*   **PMID: 30643219 (2019):** Identified and characterized deep intronic variants, such as c.4253+43G>A, as hypomorphic alleles that explain some of the missing heritability in Stargardt disease and are associated with milder, late-onset phenotypes.
+*   **PMID: 9284253 (1997):** Landmark paper that first identified mutations in *ABCA4* (then called ABCR) as the cause of Stargardt disease.
+*   **PMID: 35050302 (2022):** Highlighted the importance of functional studies for promoter variants and missense variants, showing that some variants decrease protein expression on the plasma membrane.
+*   **PMID: 35503079 (2022):** Reported on the clinical course of five patients, demonstrating that the same *ABCA4* mutation can lead to different clinical phenotypes (STGD, CRD, RP), emphasizing the gene's heterogeneity.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Two null/severe variants (frameshift, nonsense, canonical splice site) are strongly associated with **Cone-rod dystrophy (HP:0000534)** or **Retinitis pigmentosa (HP:0000510)** with early-onset and severe progression.
+    *   A combination of one severe variant and one known mild/hypomorphic missense variant (e.g., p.Gly1961Glu) is strongly associated with classic **Macular dystrophy (HP:0007754)**, **Flecked retina (HP:0007742)**, and **Bull's-eye maculopathy (HP:0001100)**.
+    *   Two mild/hypomorphic variants (e.g., compound heterozygous for p.Asn1868Ile and another mild variant) are associated with late-onset disease and **Foveal sparing (HP:0007639)**.
+*   **Phenotype red flags:**
+    *   The combination of juvenile-onset **Central scotoma (HP:0000603)** with funduscopic findings of **Flecked retina (HP:0007742)** is highly suggestive of *ABCA4*-related disease.
+    *   The presence of peripapillary sparing on fundus autofluorescence is a characteristic feature.
+*   **Differential diagnosis considerations:**
+    *   Other genes causing Stargardt-like phenotypes include *PRPH2*, *ELOVL4*, and *BEST1*.
+    *   The phenotype of cone-rod dystrophy can be caused by mutations in numerous other genes, requiring a panel-based or whole-exome sequencing approach for differential diagnosis if *ABCA4* testing is inconclusive.
+    *   Overlap with other macular dystrophies necessitates careful clinical examination and imaging to guide genetic testing.
+

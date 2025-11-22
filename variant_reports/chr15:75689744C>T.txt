@@ -1,0 +1,91 @@
+=== chr15:75689744C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs79463888
+• Chromosome: 15
+• Position: 75689744
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: CSPG4
+• Databases: rs79463888, COSV57890918
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.031560000000000005
+• gnomADg Allele Frequency: 0.004208
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_GO_1903491: response to simvastatin - "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a simvastatin stimulus." [GO_REF:0000071, GOC:TermGenie, PMID:23100282]comment: Simvastatin is a statin  used as a cholesterol-lowering and anti-cardiovascular disease drug.
+GWAS_EFO_0004145: myopathy - A disease of the muscle in which the muscle fibers do not function properly. This results in muscular weakness.|A muscular disease in which the muscle fibers do not function resulting in muscular weakness.|Editor note: TODO check this, relationship to myotonic disorder/syndrome, also check HP definition
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16149616) -> Associated GWAS: GWAS_EFO_0004305, GWAS_GO_1903491, GWAS_EFO_0004145
+Entity: Transcript (ID: 16262987) -> Associated GWAS: GWAS_EFO_0004305, GWAS_GO_1903491, GWAS_EFO_0004145
+Entity: ChromHMM State (ID: 19367326) -> Associated GWAS: GWAS_EFO_0004305
+Entity: ChromHMM State (ID: 20493491) -> Associated GWAS: GWAS_EFO_0004305
+Entity: ChromHMM State (ID: 21099782) -> Associated GWAS: GWAS_EFO_0004305
+Entity: ChromHMM State (ID: 21707011) -> Associated GWAS: GWAS_EFO_0004305
+Entity: ChromHMM State (ID: 22343796) -> Associated GWAS: GWAS_EFO_0004305
+Entity: ChromHMM State (ID: 22913380) -> Associated GWAS: GWAS_EFO_0004305
+Entity: chr_chain (ID: 542552) -> Associated GWAS: GWAS_EFO_0004305
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 4040
+• Pathogenic/Likely Pathogenic: 314
+• Benign/Likely Benign: 877
+• Uncertain Significance: 2847
+• Other Classifications: 2
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• SIN3A-related intellectual disability syndrome due to a point mutation (n=126)
+• Inborn genetic diseases (n=95)
+• not provided|Inborn genetic diseases (n=24)
+• Inborn genetic diseases|not provided (n=17)
+• not provided|SIN3A-related intellectual disability syndrome due to a point mutation (n=16)
+• SIN3A-related intellectual disability syndrome (n=9)
+• not provided|SIN3A-related disorder (n=6)
+• SIN3A-related disorder (n=6)
+• not provided|SIN3A-related intellectual disability syndrome due to a point mutation|SIN3A-related disorder (n=6)
+• Inborn genetic diseases|not provided|SIN3A-related intellectual disability syndrome (n=5)
+• not specified|not provided (n=4)
+• See cases (n=4)
+• See cases|not provided (n=2)
+• Inborn genetic diseases|not specified (n=2)
+• not provided|SIN3A-related intellectual disability syndrome due to a point mutation|Inborn genetic diseases (n=2)
+• Chromosome 15q24 deletion syndrome (n=2)
+• Rare genetic intellectual disability (n=2)
+• Inborn genetic diseases|SIN3A-related disorder|not provided|not specified (n=2)
+• not specified|not provided|Inborn genetic diseases (n=2)
+• SIN3A-related intellectual disability syndrome due to a point mutation|not provided (n=2)
+• SIN3A-related intellectual disability syndrome|not provided|SIN3A-related intellectual disability syndrome due to a point mutation (n=2)
+• Neurodevelopmental disorder (n=2)
+
+

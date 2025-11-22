@@ -7,6 +7,7 @@ import matplotlib
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 
 
 def empirical_cdf(values: np.ndarray) -> tuple[np.ndarray, np.ndarray]:
@@ -57,6 +58,14 @@ def plot_and_save_cdf(values: np.ndarray, xlabel: str, title: str, out_path: Pat
     plt.xlabel(xlabel)
     plt.ylabel("CDF")
     plt.title(title)
+    plt.xlim(left=0)
+    plt.ylim(0, 1)
+    
+    # Set integer ticks only
+    ax = plt.gca()
+    ax.xaxis.set_major_locator(MaxNLocator(integer=True))
+    ax.yaxis.set_ticks(np.arange(0, 1.1, 0.1))  # Ticks at 0.1 intervals
+    
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
     plt.savefig(out_path, dpi=200)

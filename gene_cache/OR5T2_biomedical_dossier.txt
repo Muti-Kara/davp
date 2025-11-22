@@ -1,0 +1,53 @@
+OR5T2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 15296.
+*   **OMIM Gene ID:** No OMIM entry exists for this gene.
+*   **Primary Disease Associations:** There are no established or definitive disease associations for OR5T2.
+*   **Clinical Significance Level:** Not applicable as there are no confirmed disease associations.
+*   **Inheritance Patterns:** No Mendelian inheritance pattern has been established.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI (gnomAD v2.1.1): 0.00.
+    *   LOEUF (gnomAD v2.1.1): 1.15.
+    *   pRec: 0.0
+    *   pNull: 1.0
+*   **Clinical Interpretation of Constraint Scores:** The pLI score is close to 0, and the LOEUF score is greater than 1.0, indicating that the gene is tolerant to loss-of-function variation. Pathogenic loss-of-function variants are not expected for this gene.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the high tolerance for loss-of-function variants, it is unlikely that variants in this gene are a cause of monogenic disease.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are definitively associated with pathogenic variants in OR5T2.
+*   **Secondary HPO terms:** No secondary HPO terms are documented in clinical case literature.
+*   **Age of Onset Patterns:** Not applicable due to the lack of an associated disease phenotype.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   No robust genotype-phenotype correlations have been established for OR5T2 in the scientific literature.
+
+### **Clinical Variants & Phenotype Associations**
+*   No variants in OR5T2 have been classified as pathogenic or likely pathogenic in ClinVar. Numerous variants of uncertain significance have been reported, but none have sufficient evidence for a clinical assertion.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The highest expression of OR5T2 is observed in the olfactory epithelium.
+*   **Tissue-Specific Phenotypes Expected:** As an olfactory receptor, variants would theoretically be associated with olfaction-related phenotypes; however, no such associations have been clinically confirmed.
+*   **Expression During Development and Age-Related Phenotypes:** Specific data on developmental expression and its relation to age-related phenotypes is not available.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** OR5T2 functions as an odorant receptor in the nose, initiating a neuronal response upon binding with odorant molecules.
+*   **Disease Mechanism:** No disease mechanism has been defined as there is no established link to a monogenic disorder.
+*   **Cellular/Molecular Pathways Disrupted:** The gene is involved in the Olfactory Signaling Pathway and G protein-coupled receptor (GPCR) signaling. Disruption of this gene is not known to cause a specific disease phenotype.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for OR5T2 in clinical cohorts is effectively zero, as it is not associated with any known disease.
+*   **Most Common Reasons for Testing This Gene:** This gene is generally not a target for clinical diagnostic testing.
+*   **Clinical Actionability and Management Implications:** There are no clinical actionability or management guidelines associated with this gene.
+*   **Genetic Counseling Considerations:** Variants found in OR5T2 should be interpreted with caution and are highly unlikely to be the cause of a patient's primary clinical phenotype.
+
+### **Key Clinical Literature & Studies**
+*   There are no landmark clinical genetics studies that establish a definitive genotype-phenotype correlation for OR5T2 and a Mendelian disease. Research on this gene is primarily in the context of olfactory biology and genome-wide association studies that have not yielded clinically actionable findings.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence HPO-variant associations for OR5T2.
+*   **Phenotype Red Flags:** There are no known "red flag" HPO terms that would suggest a pathogenic variant in OR5T2.
+*   **Differential Diagnosis Considerations:** Not applicable, as OR5T2 is not associated with a recognized clinical syndrome.
+

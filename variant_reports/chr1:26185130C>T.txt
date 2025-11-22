@@ -1,0 +1,69 @@
+=== chr1:26185130C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs367906743
+• Chromosome: 1
+• Position: 26185130
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CNKSR1
+• Databases: rs367906743, COSV100836764
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.00016439999999999998
+• gnomADg Allele Frequency: 0.0001708
+• 1KG Frequency: 0.001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0007626: emphysema imaging measurement - Quantification of some aspect, eg the presence/absence or severity of emphysema through the use of imaging techniques such as CT scans
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16143909) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: Transcript (ID: 16242057) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: Transcript (ID: 16242255) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: Transcript (ID: 16242358) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: Transcript (ID: 16242370) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: ChromHMM State (ID: 18901254) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: ChromHMM State (ID: 20064255) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+Entity: ChromHMM State (ID: 22492701) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0007626
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2017
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 452
+• Uncertain Significance: 1565
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Neurodevelopmental disorder (n=9)
+• not specified|not provided (n=7)
+
+

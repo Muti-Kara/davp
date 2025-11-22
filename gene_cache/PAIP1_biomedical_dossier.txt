@@ -1,0 +1,59 @@
+PAIP1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 16945
+*   **OMIM Gene ID:** 605184
+*   **Primary Disease Associations:** No established association with a Mendelian disorder has been reported. Overexpression and upregulation of PAIP1 are associated with poor prognosis and promotion of tumorigenesis in various cancers, including gallbladder, liver, breast, and cervical cancer.
+*   **Clinical Significance Level:** There is currently no evidence to support a role in Mendelian disease.
+*   **Inheritance Patterns:** No inheritance patterns have been established for any disease.
+
+### **Constraint & Variant Intolerance**
+*   **pLI:** 9.99e-10 (gnomAD v2.1.1)
+*   **LOEUF:** 1.13 (gnomAD v2.1.1)
+*   **pRec:** 0.822 (gnomAD v2.1.1)
+*   **pNull:** 0.178 (gnomAD v2.1.1)
+*   **Clinical Interpretation of Constraint Scores:** The pLI score is very low (close to 0), and the LOEUF score is greater than 1, indicating that the gene is not intolerant to loss-of-function (LoF) variants. The observed number of LoF variants in the general population is higher than expected, suggesting that haploinsufficiency is not a disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the lack of constraint against LoF variants, truncating variants such as nonsense and frameshift are unlikely to be pathogenic for a developmental disorder. The gene's role in cancer is associated with overexpression, suggesting a gain-of-function or dosage-sensitive mechanism in that context.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** None established. No specific germline disease phenotypes are currently associated with variants in PAIP1.
+*   **Secondary HPO terms:** None established.
+*   **Age of Onset Patterns:** Not applicable as no Mendelian disease is associated.
+*   **Phenotype Severity Spectrum:** Not applicable as no Mendelian disease is associated.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No genotype-phenotype correlations have been established for germline variants.
+*   **Protein Domain-Specific Phenotype Patterns:** Not established. The PAIP1 protein contains two motifs for binding PABP (PAM1 and PAM2), and only the PAM1 motif is known to stimulate translation.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+*   **Examples:** There are no known examples of specific germline variants leading to specific phenotypes.
+
+### **Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants are listed in ClinVar for PAIP1 in the context of Mendelian disease. The database contains variants of uncertain significance or with conflicting interpretations.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas which incorporates GTEx data, PAIP1 shows broad expression across all analyzed tissues, with the highest levels observed in the testis and salivary gland.
+*   **Tissue-Specific Phenotypes Expected:** The ubiquitous expression is consistent with its fundamental role in protein translation, a process essential for all cells. No tissue-specific germline phenotypes are expected or have been reported.
+*   **Expression During Development and Age-Related Phenotypes:** In mice, top expression is noted in the zygote, oocytes, and ventricular zone, suggesting a role in early development. However, this has not been correlated with any human developmental phenotype.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PAIP1 acts as a coactivator in the regulation of translation initiation for poly(A)-containing mRNAs by interacting with Poly(A) Binding Protein (PABPC1) and the initiation factor eIF4A.
+*   **Disease Mechanism:** The mechanism implicated in disease (cancer) is overexpression or upregulation, which enhances translation and promotes cell proliferation and survival. There is no evidence for haploinsufficiency or dominant-negative mechanisms in germline disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In cancer, PAIP1 upregulation contributes to tumorigenesis by affecting the cell cycle and signaling pathways such as AKT, mTOR, and HIF-1. It also interacts with and regulates the level of PLK1, a key cell cycle regulator. Recent evidence shows PAIP1 also binds pre-mRNA and regulates alternative splicing of genes involved in cancer pathways.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The key interaction is with PABPC1, which stimulates translation. It also interacts with eIF4A and eIF3 to stabilize the circularization of mRNA for efficient translation. Its interaction with spliceosome components is relevant to its newly discovered role in alternative splicing.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is zero for developmental disorders or other Mendelian diseases, as PAIP1 has not been validated as a disease-causing gene.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene is not standard clinical practice for inherited disorders. It is primarily a subject of cancer research.
+*   **Clinical Actionability and Management Implications:** None for germline variants. In oncology, its high expression may serve as a prognostic biomarker for poor outcomes in cancers like liver and breast cancer.
+*   **Genetic Counseling Considerations:** Counselors should be aware that there is no established link between pathogenic germline variants in PAIP1 and any Mendelian disease. The low constraint scores argue against a role for loss-of-function variants in causing disease.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 39363305, 2024:** Revealed that PAIP1 binds to pre-mRNAs and regulates alternative splicing of cancer-related genes, including VEGFA, suggesting a broader role in post-transcriptional gene regulation beyond translation initiation.
+*   **PMID: 37089163, 2023:** Showed that in liver cancer cells, PAIP1 knockdown inhibited cell viability and regulated the expression of numerous immune and inflammatory response genes at the transcript level.
+*   **PMID: 34518451, 2021:** Demonstrated that upregulation of PAIP1 promotes gallbladder tumorigenesis by regulating the level of PLK1 kinase, a key cell cycle protein.
+*   **PMID: 9548782, 1998:** A landmark study that first described PAIP-1 as a PABP-interacting protein that stimulates translation, proposing it provides a link between the mRNA termini.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no known high-confidence associations between any HPO term and pathogenic variants in PAIP1.
+*   **Phenotype Red Flags:** There are no HPO terms that would strongly suggest testing for pathogenic variants in PAIP1 for a Mendelian disorder.
+*   **Differential Diagnosis Considerations:** Not applicable, as no primary disease phenotype is associated with PAIP1.
+

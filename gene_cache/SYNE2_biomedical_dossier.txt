@@ -1,0 +1,90 @@
+SYNE2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 17084.
+*   **OMIM Gene ID:** 608442.
+*   **Primary Disease Associations:** Emery-Dreifuss muscular dystrophy 5, autosomal dominant (EDMD5) [MIM:612999]. More recently, biallelic variants have been associated with neurodevelopmental disorders, including intellectual disability and autism spectrum disorder.
+*   **Clinical Significance Level:** The association with autosomal dominant Emery-Dreifuss muscular dystrophy is considered established. The association with autosomal recessive neurodevelopmental disorders is emerging.
+*   **Inheritance Patterns Observed in Patients:** Autosomal dominant inheritance is established for Emery-Dreifuss muscular dystrophy type 5 (EDMD5). Autosomal recessive inheritance, specifically compound heterozygosity, has been reported in cases of intellectual disability and autism.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pNull:** The gnomAD v2.1.1 probability of being loss-of-function intolerant (pLI) score is 0.00, and the loss-of-function observed/expected upper bound fraction (LOEUF) is 1.1. The Z score for missense variations is -1.45.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score near 0 and LOEUF score > 1.0 indicate that the gene is tolerant to heterozygous protein-truncating variants in the general population. This suggests that haploinsufficiency is not a common disease mechanism, and that pathogenic variants are more likely to act through a dominant-negative or gain-of-function mechanism, or that disease manifests primarily through biallelic inheritance.
+*   **Variant Classes Most Likely to be Pathogenic:** For Emery-Dreifuss muscular dystrophy, heterozygous missense variants are the primary reported pathogenic class. For neurodevelopmental disorders, compound heterozygous missense mutations have been identified, suggesting biallelic missense or hypomorphic variants are pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Proximal muscle weakness.
+    *   Limb muscle weakness.
+    *   Elevated serum creatine phosphokinase.
+    *   Cardiomyopathy.
+    *   Arrhythmia.
+    *   Dilated cardiomyopathy.
+    *   Scapular winging.
+    *   Respiratory insufficiency.
+    *   Muscular dystrophy.
+    *   Congestive heart failure.
+    *   Intellectual disability (in biallelic cases).
+    *   Autism spectrum disorder (in biallelic cases).
+    *   Global developmental delay (in biallelic cases).
+*   **Secondary HPO terms:**
+    *   Ptosis.
+    *   Arthrogryposis.
+    *   Muscle weakness.
+    *   Atrial fibrillation.
+*   **Age of Onset Patterns:** Emery-Dreifuss muscular dystrophy typically has a childhood or adolescent onset. The neurodevelopmental phenotype associated with biallelic variants is apparent in early childhood.
+*   **Phenotype Severity Spectrum:** Severity is variable. Some individuals with heterozygous variants may only develop late-onset atrial fibrillation. Classic EDMD presentation involves progressive muscle weakness and life-threatening cardiac complications. The neurodevelopmental phenotype associated with biallelic variants can be severe.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Heterozygous missense or truncating variants are primarily associated with Emery-Dreifuss muscular dystrophy (EDMD) and related cardiac phenotypes. Biallelic (compound heterozygous) missense variants located within spectrin repeat domains have been associated with a distinct phenotype of intellectual disability and autism spectrum disorder.
+*   **Protein Domain-Specific Phenotype Patterns:** The giant isoform of nesprin-2 contains multiple spectrin repeats (SR); variants p.(Val828Gly) and p.(Glu788Lys) within the SR5 domain were found in a patient with a neurodevelopmental disorder. Another variant, p.(I574T), in the third spectrin repeat has been linked to an accelerated progression of DYT1 dystonia.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is moderate. Heterozygous variants are linked to myopathies/cardiomyopathies, while emerging evidence strongly suggests biallelic variants cause neurodevelopmental disorders. Identical mutations can lead to different conditions, complicating predictions.
+*   **Examples: specific variants → specific phenotypes:**
+    *   Compound heterozygous missense variants (c.2483T>G; p.Val828Gly and c.2362G>A; p.Glu788Lys) were identified in a male with autism, developmental delay, and intellectual disability.
+    *   A common variant, rs1152591, is associated with a lower expression of the SYNE2α1 isoform and increased risk for atrial fibrillation.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Well-characterized pathogenic variants:**
+    *   **HGVS:** NM_182914.3:c.2362G>A (p.Glu788Lys) / **ClinVar Significance:** Uncertain Significance / **Reported Phenotypes:** Autism spectrum disorder, Global developmental delay, Intellectual disability (HP:0000717, HP:0001263, HP:0001249) / **AF:** Novel.
+    *   **HGVS:** NM_182914.3:c.2483T>G (p.Val828Gly) / **ClinVar Significance:** Uncertain Significance / **Reported Phenotypes:** Autism spectrum disorder, Global developmental delay, Intellectual disability (HP:0000717, HP:0001263, HP:0001249) / **AF:** Novel.
+    *   **rsID:** rs1152591 / **ClinVar Significance:** Benign/Likely benign for EDMD5, but associated with disease risk for Atrial Fibrillation / **Reported Phenotypes:** Atrial Fibrillation (HP:0005110) / **AF (gnomAD):** ~0.26 (G allele).
+    *   **HGVS:** c.1721T>C (p.I574T) / **ClinVar Significance:** Uncertain Significance / **Reported Phenotypes:** Associated with accelerated progression of DYT1 early-onset isolated dystonia.
+    *   **HGVS:** c.12001T>C (p.W4001R) / **ClinVar Significance:** Uncertain Significance / **Reported Phenotypes:** Associated with accelerated progression of DYT1 early-onset isolated dystonia.
+*   **Variants with Strongest Phenotype Evidence:** The compound heterozygous missense mutations p.(Val828Gly) and p.(Glu788Lys) have strong functional evidence linking them to a significant reduction in nesprin-2 giant protein levels and a severe neurodevelopmental phenotype. The atrial fibrillation risk allele rs1152591 has strong evidence showing it reduces the expression of a specific isoform, SYNE2α1.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the GTEx portal, *SYNE2* shows broad expression, with the highest levels in the testis, esophagus (muscularis), and heart (atrial appendage and left ventricle).
+*   **Tissue-Specific Phenotypes Expected:** High expression in heart and muscle tissue correlates directly with the clinical phenotypes of cardiomyopathy and muscular dystrophy seen in EDMD5. Expression in the brain is consistent with the neurodevelopmental phenotypes observed in patients with biallelic mutations.
+*   **Expression During Development and Age-Related Phenotypes:** Nesprins are known to play a crucial role in neurogenesis, neuronal migration, and synapse formation, which aligns with the presentation of developmental delay in patients with biallelic mutations.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SYNE2 encodes nesprin-2, a multi-isomeric protein that is a key component of the LINC complex, which connects the nuclear envelope to the actin cytoskeleton, thereby maintaining nuclear structure, position, and mediating mechanotransduction.
+*   **Disease Mechanism:** For EDMD, a dominant-negative mechanism is suspected. For the neurodevelopmental phenotype, a hypomorphic effect from compound heterozygous mutations leads to reduced levels of the nesprin-2 giant protein, impairing LINC complex function.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the LINC complex compromises the mechanical integrity of the nucleus and cellular signaling. In cardiomyocytes, altered nesprin-2 levels lead to increased nuclear area, decreased nuclear stiffness, and abnormal calcium handling and action potential duration, contributing to arrhythmias. In neurons, impaired LINC function likely disrupts nuclear migration and positioning, critical for proper brain development.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Nesprin-2 (SYNE2) directly binds to SUN1/SUN2 in the LINC complex and also interacts with lamin A/C and emerin at the nuclear envelope. It also physically interacts with Torsin-A (encoded by *TOR1A*), the protein associated with DYT1 dystonia.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *SYNE2* in cohorts with muscular dystrophy is low, as mutations are a rare cause of EDMD compared to genes like *EMD* and *LMNA*. In a study of 410 trios with neurodevelopmental disorders, only one case was identified with biallelic *SYNE2* mutations.
+*   **Most Common Reasons for Testing This Gene:** Testing is typically considered in patients with a clinical diagnosis of Emery-Dreifuss muscular dystrophy (especially if *EMD* and *LMNA* are negative) or certain limb-girdle muscular dystrophies. It may also be considered in complex, unsolved neurodevelopmental cases.
+*   **Clinical Actionability and Management Implications:** For patients with EDMD5, management focuses on regular cardiac surveillance with ECG and echocardiogram to monitor for conduction defects and cardiomyopathy, which may require pacemaker or ICD implantation. Physiotherapy is used to manage contractures. For neurodevelopmental phenotypes, management is supportive.
+*   **Genetic Counseling Considerations:** For autosomal dominant EDMD5, affected individuals have a 50% chance of passing the variant to offspring; clinical variability is significant. For the autosomal recessive neurodevelopmental phenotype, parents are typically carriers, and the recurrence risk for future children is 25%.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 17761684** (2007): Landmark paper first linking heterozygous mutations in *SYNE2* to autosomal dominant Emery-Dreifuss muscular dystrophy (EDMD5), establishing it as a cause of the disease.
+*   **PMID: 35017255** (2022): A systematic review of LINC-complex-associated diseases, summarizing mutations in *SYNE1* and *SYNE2* and highlighting the phenotypic overlap and complexity.
+*   **PMID: 34427495** (2021): This study identified novel compound heterozygous *SYNE2* mutations as a cause of intellectual disability and autism, defining a new autosomal recessive neurodevelopmental phenotype and proposing a hypomorphic disease mechanism.
+*   **PMID: 31637373** (2019): A case report suggesting that variants in *SYNE2* can act as modifiers that accelerate the disease course of DYT1 early-onset dystonia, highlighting its interaction with *TOR1A*.
+*   **PMID: 34698533** (2024): This study identified rs1152591 as a causal variant for atrial fibrillation, showing the risk allele decreases expression of the *SYNE2α1* isoform, which leads to changes in cardiomyocyte nuclear stiffness and electrophysiology.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Heterozygous missense variants are strongly associated with a phenotype combining **Cardiomyopathy (HP:0001638)**, **Arrhythmia (HP:0011675)**, and progressive **Proximal muscle weakness (HP:0003701)**, consistent with EDMD5.
+    *   Biallelic (compound heterozygous) missense variants in spectrin repeat domains are strongly associated with **Global developmental delay (HP:0001263)**, **Intellectual disability (HP:0001249)**, and **Autism spectrum disorder (HP:0000717)**.
+*   **Phenotype red flags:**
+    *   The classic triad of early-onset joint contractures (especially elbow and Achilles), progressive humeroperoneal muscle weakness, and significant cardiac involvement (conduction block, arrhythmia, cardiomyopathy) is a strong indicator for an EDMD-related gene, including *SYNE2*.
+    *   The presence of a severe, unexplained neurodevelopmental disorder should prompt consideration of biallelic *SYNE2* variants if more common causes are excluded.
+*   **Differential diagnosis considerations:**
+    *   **Emery-Dreifuss muscular dystrophy:** The phenotype overlaps extensively with EDMD caused by mutations in *EMD* (X-linked) and *LMNA* (autosomal dominant). *LMNA* mutations can cause a wider range of laminopathies.
+    *   **Limb-girdle muscular dystrophy:** Overlaps with numerous LGMD subtypes. Panels for muscular dystrophy often include *SYNE2*.
+    *   **Atrial Fibrillation:** Common variants in *SYNE2* contribute to risk, but this is a complex genetic trait with many other associated loci.
+    *   **Autism/Intellectual Disability:** The differential is vast, but the biallelic inheritance pattern and hypomorphic mechanism for *SYNE2* are distinguishing features.
+

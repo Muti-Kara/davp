@@ -1,0 +1,70 @@
+CNKSR1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+– **HGNC ID:** 19700
+– **OMIM Gene ID:** 603272
+– **Primary Disease Associations:** Syndromic autosomal recessive intellectual disability. Other associations listed in some databases include Epilepsy and Autism Spectrum Disorder, but these are less well-established.
+– **Clinical Significance Level:** The evidence for its role in autosomal recessive intellectual disability is currently considered moderate, based on limited case reports.
+– **Inheritance Patterns Observed in Patients:** Autosomal recessive inheritance has been documented.
+
+### **Constraint & Variant Intolerance**
+– **pLI, LOEUF, pRec, pNull:** According to the gnomAD database, the probability of being loss-of-function intolerant (pLI) score is not reported. The loss-of-function observed/expected upper bound fraction (LOEUF) score is also not available in the search results. Similarly, pRec and pNull values are not provided.
+– **Clinical Interpretation of Constraint Scores:** A high pLI (typically >0.9) suggests a gene is intolerant to loss-of-function (LoF) variants, making heterozygous LoF variants more likely to be pathogenic. A low LOEUF score (e.g., <0.35 in gnomAD v2) also indicates intolerance to LoF variation. The absence of these scores for *CNKSR1* suggests that, based on the large population data in gnomAD, there isn't sufficient statistical evidence to classify it as definitively intolerant to loss-of-function mutations.
+– **Variant Classes Most Likely to Be Pathogenic:** Based on published case reports, frameshift mutations leading to protein truncation or nonsense-mediated decay (NMD) are associated with pathogenicity.
+
+### **Phenotype Spectrum & HPO Terms**
+– **Primary HPO terms:**
+  – Intellectual disability, profound (HP:0002187)
+  - Microcephaly (HP:0000252)
+  - Cerebellar hypoplasia (HP:0001321)
+  - Quadrupedal gait (HP:0030219)
+  - Delayed speech and language development (HP:0000750)
+  - Hypotonia (HP:0001290)
+  - Seizures (HP:0001250)
+  - Autism spectrum disorder (HP:0000729)
+– **Secondary HPO terms:**
+  - Scoliosis (HP:0002650)
+  - Pes planus (HP:0001763)
+  - Clinodactyly (HP:0030084)
+– **Age of Onset Patterns:** The documented cases indicate a congenital or early infantile onset of developmental delay and other associated features.
+– **Phenotype Severity Spectrum:** The severity appears to be on the severe to profound end of the spectrum, particularly concerning intellectual disability.
+
+### **Genotype-Phenotype Correlations**
+– **Variant Classes and their Typical Phenotypes:** Homozygous frameshift mutations, such as the T282fs variant, have been linked to syndromic intellectual disability, characterized by profound intellectual impairment, microcephaly, and cerebellar hypoplasia. These mutations are expected to result in a loss of protein function.
+– **Protein Domain-Specific Phenotype Patterns:** The CNKSR1 protein contains several domains crucial for protein-protein interactions, including SAM, CRIC, PDZ, and PH domains. Variants disrupting these domains are predicted to abolish interactions with key proteins in the MAPK signaling pathway, leading to the observed neurological phenotypes.
+– **Genotype-Phenotype Correlation Strength:** The correlation between homozygous loss-of-function variants and syndromic intellectual disability is considered moderate, based on the limited number of reported families.
+
+### **Clinical Variants & Phenotype Associations**
+– **c.843dupT (p.Thr282fs):**
+  – **HGVS:** NM_001365313.1:c.843dupT
+  – **ClinVar Significance:** Not explicitly found in ClinVar search, but described as a pathogenic frameshift mutation in literature.
+  – **Reported Phenotypes (HPO terms):** Profound intellectual disability (HP:0002187), microcephaly (HP:0000252), cerebellar hypoplasia (HP:0001321), quadrupedal gait (HP:0030219), delayed speech and language development (HP:0000750).
+  – **AF (Allele Frequency):** Extremely rare, observed in a single consanguineous family.
+
+### **Tissue Expression & Clinical Relevance**
+– **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *CNKSR1* is ubiquitously expressed, with higher levels noted in skeletal muscle, frontal cortex, and placenta. The expression in the brain, particularly the frontal cortex, is consistent with its role in cognitive development and the neurological phenotypes observed in patients.
+– **Tissue-Specific Phenotypes Expected:** Given its role in brain development, pathogenic variants are expected to primarily manifest with neurological and cognitive phenotypes. Knockdown of the *CNKSR1* orthologue in Drosophila results in defects in eye and mushroom body structures, further supporting its importance in neural development.
+– **Expression During Development and Age-Related Phenotypes:** The gene plays a critical role during development, as evidenced by the severe congenital phenotypes. Studies in Drosophila suggest a role in cell migration, which is fundamental to brain development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+– **Normal Gene Function in One Sentence:** CNKSR1 is a scaffold protein that modulates the mitogen-activated protein kinase (MAPK) signaling pathway, which is crucial for cell migration, proliferation, and differentiation.
+– **Disease Mechanism:** The primary disease mechanism appears to be loss-of-function due to biallelic pathogenic variants, leading to an absence of functional CNKSR1 protein. This disrupts the integrity of the MAPK signaling pathway.
+– **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the MAPK and RhoA-JNK signaling pathways due to CNKSR1 deficiency is thought to impair neuronal cell migration. This impairment during brain development likely leads to the observed phenotypes of microcephaly, cerebellar hypoplasia, and profound intellectual disability.
+– **Protein-Protein Interactions Relevant to Phenotype:** CNKSR1 interacts with several proteins within the MAPK pathway that are themselves associated with intellectual disability. It also interacts with RhoA, which is involved in cell migration.
+
+### **Diagnostic Yield & Clinical Utility**
+– **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *CNKSR1* variants is likely low and primarily relevant in cohorts with syndromic autosomal recessive intellectual disability, especially those with consanguinity.
+– **Most Common Reasons for Testing This Gene:** Testing for *CNKSR1* would be considered in individuals presenting with profound intellectual disability, microcephaly, cerebellar hypoplasia, and a suspected autosomal recessive inheritance pattern.
+– **Clinical Actionability and Management Implications:** Currently, there are no specific therapies that target the underlying molecular defect. Management is supportive and focuses on managing symptoms such as seizures and providing educational and therapeutic support for developmental delay.
+– **Genetic Counseling Considerations:** For couples who have a child with a *CNKSR1*-related disorder, the recurrence risk for future pregnancies is 25%. Carrier testing for at-risk family members and prenatal or preimplantation genetic diagnosis are options to be discussed.
+
+### **Key Clinical Literature & Studies**
+– **PMID: 30450701, 2018:** Fattahi et al. reported a novel homozygous frameshift mutation in *CNKSR1* in an Iranian family with syndromic autosomal recessive intellectual disability, profound intellectual disability, microcephaly, and cerebellar hypoplasia. This study provided strong evidence for the gene-disease association.
+– **PMID: 28732488, 2017:** This study by Rudloff et al. found that increased *CNKSR1* expression correlated with clinical outcomes in pancreatic cancer, highlighting a different, oncogenic role for the protein.
+– **PMID: 36798030, 2023:** Li et al. identified CNKSR1 as a regulator of resistance to MAPK inhibition in pancreatic cancer through its interaction with the AKT signaling pathway, further detailing its role in cancer biology.
+– **Najmabadi et al., 2011 (as referenced in Fattahi et al., 2018):** This large-scale study on autosomal recessive intellectual disability first identified *CNKSR1* as a candidate gene, laying the groundwork for later validation.
+
+### **HPO-Variant Matching Summary**
+– **High-confidence HPO-variant associations:** Homozygous loss-of-function variants, such as frameshift mutations, are strongly associated with a core phenotype of profound intellectual disability (HP:0002187), microcephaly (HP:0000252), and cerebellar hypoplasia (HP:0001321).
+– **Phenotype red flags:** The combination of profound intellectual disability, significant microcephaly, cerebellar hypoplasia, and quadrupedal gait in a patient from a consanguineous family should raise strong suspicion for pathogenic variants in *CNKSR1*.
+– **Differential diagnosis considerations:** The phenotype of *CNKSR1*-related neurodevelopmental disorder overlaps with other syndromes characterized by severe to profound intellectual disability and microcephaly. The differential diagnosis includes other genes involved in the MAPK signaling pathway. Additionally, the related gene *CNKSR2* is associated with an X-linked intellectual developmental disorder (MRXHF1), which can present with seizures and language impairment, providing a potential overlap but with a different inheritance pattern.
+

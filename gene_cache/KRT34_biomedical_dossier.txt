@@ -1,0 +1,59 @@
+KRT34 Gene Biomedical Dossier
+### **Gene Dossier: KRT34 (keratin 34)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 6452
+*   **OMIM Gene ID:** 602763
+*   **Primary Disease Associations:** Currently, no definitive Mendelian disease is associated with variants in KRT34 in the OMIM or ClinVar databases. GeneCards lists potential associations with Sarcomatoid Squamous Cell Skin Carcinoma and Juvenile Glaucoma, though evidence for a direct causal link is not established in the provided literature.
+*   **Clinical Significance Level:** Evidence for association with a monogenic disorder is limited or absent.
+*   **Inheritance Patterns Observed in Patients:** No specific inheritance patterns are described due to the lack of confirmed disease-causing variants in the literature reviewed.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Constraint scores from the gnomAD database were not available in the performed web searches. General information suggests that metrics like pLI and LOEUF are used to assess a gene's tolerance to variation.
+*   **Clinical Interpretation of Constraint Scores:** Low LOEUF scores or a high pLI (e.g., >0.9) would suggest a gene is intolerant to loss-of-function variation; however, these values are not available for KRT34 in the search results. For many keratin disorders, the mechanism is not loss-of-function but rather dominant-negative.
+*   **Variant Classes Most Likely to Be Pathogenic:** For keratin genes in general, missense variants located in functionally important domains are a common cause of disease, often acting through a dominant-negative mechanism.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are linked to pathogenic KRT34 variants in the reviewed clinical literature or databases. The Human Phenotype Ontology (HPO) is a standardized vocabulary for human disease phenotypes.
+*   **Secondary HPO terms:** No secondary HPO terms are documented in relation to confirmed KRT34 variants.
+*   **Age of Onset Patterns:** Not applicable, as no associated disease has been defined.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** As no confirmed pathogenic variants are described, there are no established correlations between variant classes and specific phenotypes for KRT34.
+*   **Protein Domain-Specific Phenotype Patterns:** For other keratin genes, mutations in the highly conserved rod domain helix-initiation and helix-termination motifs are often associated with more severe phenotypes. This pattern has not been documented for KRT34.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable.
+*   **Examples:** No specific variant-phenotype examples could be retrieved from the literature search.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants classified as "pathogenic" or "likely pathogenic" for KRT34 were identified in the ClinVar database from the performed searches.
+*   UniProt lists several natural variants from dbSNP (e.g., rs2239710, rs2071599), but none have an established pathogenic role in a Mendelian disorder.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx) and Clinical Correlation:** KRT34 shows low to no expression in most tissues available in the GTEx portal. The GTEx database notably lacks data for hair, nails, and tongue, tissues where high expression of hair keratins like KRT34 would be expected.
+*   **Tissue-Specific Phenotypes Expected:** Based on its function as a type I hair keratin, variants in KRT34 would be expected to cause phenotypes affecting the hair and potentially the nails.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression was not found. Phenotypes, if they exist, would likely be congenital or appear in early childhood, consistent with other keratinopathies.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** KRT34 encodes a type I acidic keratin that forms heterodimers with type II basic keratins to create the intermediate filament network essential for the structural integrity of hair and nails.
+*   **Disease Mechanism:** While not documented for KRT34, the predominant disease mechanism for pathogenic variants in other keratin genes is dominant-negative interference, where the mutant protein disrupts the entire intermediate filament network.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of KRT34 function would impair the "Keratinization" (R-HSA-6805567) and "Formation of the cornified envelope" (R-HSA-6809371) pathways, leading to fragile hair shafts susceptible to breakage.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The primary interaction is with type II hair keratins (e.g., KRT81, KRT83, KRT86) to form obligatory heterodimers, which are the fundamental building blocks of the keratin filament.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield is unknown, as KRT34 is not currently linked to a specific, well-defined genetic disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing for KRT34 would likely occur as part of large, next-generation sequencing panels for patients with unexplained hair disorders (e.g., alopecia, monilethrix-like phenotypes) or other ectodermal dysplasias.
+*   **Clinical Actionability and Management Implications:** No specific management guidelines exist. If a pathogenic variant were identified, management would be supportive and symptomatic, similar to other hair shaft disorders.
+*   **Genetic Counseling Considerations:** Counseling would be challenging due to the lack of evidence. If a variant of uncertain significance is found, counseling would emphasize the current uncertainty and the inability to predict phenotype or recurrence risk without further evidence.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 35049386 (2022):** This review of the keratin gene family notes that KRT34, along with many other hair keratins, lacks significant expression in GTEx tissues, highlighting the need for expression data from tissues like hair and nails.
+*   **PMID: 32296183 (2020):** A study presenting a human reference interactome map (HuRI) which can be used to explore protein-protein interactions and link genomic variation to tissue-specific phenotypes.
+*   **PMID: 29979951 (2018):** This review details numerous keratin gene mutations linked to disorders of the skin, hair, and nails, providing a framework for how KRT34 variants *might* behave, although KRT34 itself is not associated with a specific disease therein.
+*   **PMID: 36987625 (2023):** This study discusses the role of various keratins as cancer biomarkers, which may provide context for some database associations of KRT34 with cancer but does not establish a role in Mendelian disease.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** At present, there are no high-confidence associations between specific HPO terms and pathogenic variants in KRT34 based on the reviewed literature.
+*   **Phenotype Red Flags:** Given its function, "phenotype red flags" would theoretically include HPO terms related to hair shaft abnormalities such as *Pili torti (HP:0002474)*, *Monilethrix (HP:0009756)*, *Trichorrhexis nodosa (HP:0009758)*, or *Alopecia (HP:0001596)*. However, these are speculative and not currently supported by clinical evidence for KRT34.
+*   **Differential Diagnosis Considerations:** Phenotypes overlapping with potential KRT34-related disorders would include those caused by mutations in other hair keratin genes (e.g., *KRT81, KRT83, KRT86* in Monilethrix; *KRT85* in Ectodermal dysplasia) and other genes associated with isolated congenital alopecia or hair shaft defects.
+

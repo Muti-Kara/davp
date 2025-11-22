@@ -1,0 +1,75 @@
+PTCH2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 9586.
+*   **OMIM Gene ID:** 603673.
+*   **Primary Disease Associations:** The association of PTCH2 with disease is disputed. It has been historically linked to Nevoid Basal Cell Carcinoma Syndrome (NBCCS), also known as Gorlin Syndrome. Somatic mutations have been implicated in Basal Cell Carcinoma (BCC) and Medulloblastoma.
+*   **Clinical Significance Level:** The role of germline PTCH2 variants in causing Gorlin Syndrome is controversial, with evidence considered limited or moderate by some groups and strongly refuted by others. ClinGen's gene-disease validity classification is "Limited". Recent studies argue it should not be considered a Gorlin Syndrome gene.
+*   **Inheritance Patterns:** In the few families reported, the inheritance pattern is described as autosomal dominant.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific numeric scores from gnomAD are not available in the provided search results.
+*   **Clinical Interpretation:** Studies note a high frequency of loss-of-function (LoF) variants in the general population, including the presence of healthy homozygous LoF individuals in gnomAD. This indicates the gene is tolerant to inactivation, suggesting a very low probability of being loss-of-function intolerant (pLI << 0.9) and a high loss-of-function observed/expected upper bound fraction (LOEUF).
+*   **Variant Classes Most Likely to Be Pathogenic:** While both frameshift and missense variants have been reported in affected individuals, their pathogenicity is highly questionable due to their presence in healthy individuals. There is currently insufficient evidence to designate any variant class as definitively pathogenic for a Mendelian disorder.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** These terms are from case reports where a potential link was suggested, but causality is not confirmed.
+    *   Basal cell carcinoma (HP:0002672).
+    *   Medulloblastoma (HP:0002884).
+    *   Macrocephaly (HP:0000256).
+    *   Palmar pit (HP:0001057).
+    *   Hypertelorism (HP:0000316).
+    *   Prominent forehead (HP:0000356).
+    *   Cleft lip and palate (HP:0000202).
+    *   Odontogenic keratocyst of the jaw (HP:0002715).
+    *   Bifid rib (HP:0000909).
+*   **Secondary HPO terms:**
+    *   Broad face (HP:0000283).
+    *   Macrostomia (HP:0000154).
+    *   Alopecia (HP:0001596) - noted in male mice.
+    *   Skin ulceration (HP:0000985) - noted in male mice.
+    *   Leukocytosis (HP:0001974) - noted in mice.
+    *   Splenomegaly (HP:0001744) - noted in mice.
+*   **Age of Onset Patterns:** In reported cases with Gorlin-like features, the onset of congenital malformations is from birth. Tumor predisposition would manifest later in life.
+*   **Phenotype Severity Spectrum:** When PTCH2 has been implicated, phenotypes are generally described as milder ("Gorlin-like") compared to those caused by pathogenic variants in *PTCH1* or *SUFU*.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** There are no established correlations. Both missense (p.Pro1116Leu) and frameshift (p.Ser391Terfs*1) variants have been reported in individuals with Gorlin-like features, but the significance of these findings is unclear or refuted.
+*   **Protein Domain-Specific Phenotype Patterns:** No domain-specific patterns have been established.
+*   **Genotype-Phenotype Correlation Strength:** Weak to non-existent. Recent comprehensive analyses have failed to identify pathogenic variants in Gorlin Syndrome cohorts, suggesting previous reports may be coincidental.
+*   **Examples:** A heterozygous frameshift deletion (c.1172_1173del) was identified in a patient with NBCCS, but this variant is now considered benign or of uncertain significance due to its frequency in the general population. A heterozygous missense variant (c.3347C>T) was found in a family with mild Gorlin-like features, but the variant's role is uncertain.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1172_1173delCT / p.Phe390_Ser391insTer / VUS:** Initially reported in a patient with Nevoid Basal Cell Carcinoma Syndrome. However, it was subsequently found in 64 of 282,846 alleles in the gnomAD database, including in a homozygous state, leading to its reclassification and questioning its role in disease.
+*   **c.3347C>T / p.Pro1116Leu / VUS:** Reported in a proband with Gorlin-like features (macrocephaly, cleft lip/palate, hypertelorism) and his mildly affected father (macrocephaly, palmar pit). Its significance is unclear.
+*   **c.2157G>A / p.Arg719Gln / VUS:** Reported in six members of a Chinese family with autosomal dominant Nevoid Basal Cell Carcinoma syndrome. This variant's pathogenicity has not been confirmed under current guidelines.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues & Clinical Correlation:** Mouse models show *Ptch2* is expressed in the skin (epidermis and hair follicles) and bone. Skin expression provides a potential link to the basal cell carcinoma phenotype, a key feature of Gorlin Syndrome.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression, variants could theoretically manifest in skin (carcinomas), the cerebellum (medulloblastoma), and the skeletal system.
+*   **Expression During Development:** *PTCH2* is involved in epidermal development and plays a role in skin morphogenesis. Its role is partially overlapping with *PTCH1*.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PTCH2 is a receptor for Sonic hedgehog (SHH) and other Hedgehog family ligands, and it functions as a negative regulator of the Hedgehog signaling pathway by inhibiting the G-protein coupled receptor, Smoothened (SMO).
+*   **Disease Mechanism:** The proposed, but unproven, mechanism is loss-of-function, leading to constitutive activation of the Hedgehog pathway. Given the tolerance to LoF variants, haploinsufficiency is not considered a valid mechanism for a distinct clinical syndrome. Some evidence suggests PTCH2 may modulate PTCH1 activity, and its loss may exacerbate phenotypes in the context of *PTCH1* haploinsufficiency.
+*   **Cellular/Molecular Pathways Disrupted:** Disruption of *PTCH2* leads to dysregulation of the Hedgehog (Hh) signaling pathway. This can result in abnormal activation of GLI transcription factors, promoting cell proliferation and tumorigenesis, particularly in the development of basal cell carcinoma and medulloblastoma.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** Very low to none. A 2021 study of a large cohort of *PTCH1*/*SUFU*-negative Gorlin Syndrome patients found no pathogenic or likely pathogenic *PTCH2* variants.
+*   **Most Common Reasons for Testing:** This gene may be included on large gene panels for cancer predisposition or for individuals with features of Gorlin Syndrome who are negative for variants in *PTCH1* and *SUFU*.
+*   **Clinical Actionability:** Given the disputed association with disease, clinical actionability is uncertain. Management should not be altered based solely on a *PTCH2* variant of uncertain significance.
+*   **Genetic Counseling Considerations:** It is critical to communicate that *PTCH2* is not considered a strong candidate gene for Gorlin Syndrome. The high frequency of LoF variants in the general population should be discussed when a variant is identified.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31945512 (2020):** Casano K, et al. Reported a patient with a "Gorlin-like phenotype" and a novel *PTCH2* variant, suggesting it may cause a milder form of the disease.
+*   **PMID: 34170365 & 10.1007/s10689-021-00269-7 (2021):** Smith MJ, Evans DG. Argued that *PTCH2* is not a strong candidate gene for Gorlin Syndrome predisposition after finding no pathogenic variants in their cohort and noting the high frequency of LoF variants in population databases.
+*   **PMID: 23479190 (2013):** Fujii K, et al. Reported a frameshift mutation in *PTCH2* in a patient with NBCCS, proposing it as a cause of the syndrome. This variant's significance is now disputed.
+*   **PMID: 9931336 (1999):** Smyth I, et al. First isolated and characterized human *PTCH2*, identifying it as a putative tumor suppressor gene in basal cell carcinoma and medulloblastoma.
+*   **PMID: 35497298 (2022):** Binder et al. Showed that loss of *Ptch2* in mice leads to an increase in mesenchymal stem cells and affects bone and skin, suggesting a role in organ regenerative potential.
+*   **PMID: 37351658 (2023):** Alföldi et al. A study of a Hungarian BCNS cohort did not identify any pathogenic *PTCH2* variants, further questioning its direct involvement in the syndrome.
+*   **PMID: 18285427 (2008):** Fan Z, et al. Identified a missense mutation in a Chinese family with NBCCS, suggesting it was a cause of the syndrome.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence HPO-variant associations for *PTCH2*. The link between any germline variant and a specific phenotype remains unconfirmed and is widely considered tentative or disproven.
+*   **Phenotype Red Flags:** The presence of a mild "Gorlin-like" phenotype (e.g., macrocephaly, multiple basal cell carcinomas, palmar pits) in a patient who has tested negative for pathogenic variants in *PTCH1* and *SUFU* might lead a clinician to consider *PTCH2*, although the likelihood of it being the cause is very low.
+*   **Differential Diagnosis Considerations:** The primary differential diagnosis for a *PTCH2*-associated phenotype is Gorlin Syndrome (NBCCS) caused by pathogenic variants in *PTCH1* or, less commonly, *SUFU*. The phenotype of *PTCH1*-related disease is typically more severe.
+

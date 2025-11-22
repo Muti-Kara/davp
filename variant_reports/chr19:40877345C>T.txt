@@ -1,0 +1,305 @@
+=== chr19:40877345C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs201592579
+• Chromosome: 19
+• Position: 40877345
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: CYP2A7
+• Databases: rs201592579, COSV108084588
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 1.7800000000000002e-05
+• gnomADg Allele Frequency: 3.9590000000000006e-05
+• 1KG Frequency: 0.0006000000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_GO_0097366: response to bronchodilator - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus with a bronchodilator agent. (CHEBI:35523 bronchodilator agent)
+GWAS_EFO_0004314: forced expiratory volume - Measure of the maximum amount of air that can be expelled in a given number of seconds during aÂ FORCED VITAL CAPACITYÂ determination . It is usually given asÂ FEVÂ followed by a subscript indicating the number of seconds over which the measurement is made, although it is sometimes given as a percentage of forced vital capacity.
+GWAS_EFO_0004318: smoking behavior - Inhaling and exhaling the smoke of tobacco or something similar to tobacco.
+GWAS_EFO_0006525: cigarettes per day measurement - the quantification of the number of cigarettes that a subject smoked on average per day
+GWAS_EFO_0007794: nicotine metabolite ratio - quantification of the ratio of 3’-trans-hydroxycotinine to cotinine in a sample, typically in a urine or blood sample
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0009262: nicotine dependence symptom count - Quantification of symptom associated with nicotine dependence.
+GWAS_EFO_0004763: p-tau measurement - Is a quantification of phosphorylated tau protein, used as a biomarker for Alzheimer's disease.
+GWAS_EFO_0006794: cerebrospinal fluid biomarker measurement - A cerebrospinal fluid biomarker measurement is a quantification in cerebrospinal fluid of some molecule e.g. protein or metabolite that acts as a biomarker for some disease, eg Alzheimer's disease
+GWAS_EFO_0007709: p-tau:beta-amyloid 1-42 ratio measurement - quantification of the ratio of p-tau protein to beta-amyloid 1-42 protein in a sample
+GWAS_EFO_0007872: caffeine metabolite measurement - quantification of caffeine (1,3,7 trimethylxanthine) or any metabolite derived from caffeine, including paraxanthine (1,7 dimethylxanthine), theophylline (1,3 dimethylxanthine), and theobromine (3,7 dimethylxanthine) in a sample
+GWAS_EFO_0004348: hematocrit - The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0004533: alkaline phosphatase measurement - Alkaline phosphatase measurement is a quantification of alkaline phosphatase in blood. AP is a marker for bone and liver disease.
+GWAS_EFO_0007117: carotid artery intima media thickness - quantification of the thickness of tunica intima and tunica media, the innermost two layers of the wall of the carotid artery, usually by carotid ultrasound
+GWAS_EFO_0000341: chronic obstructive pulmonary disease - A group of disorders affecting the bronchi and the lung parenchyma. It is characterized by chronic and irreversible obstruction of the airflow. It includes chronic bronchitis and pulmonary emphysema.|A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA.|A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema.
+GWAS_EFO_0004736: aspartate aminotransferase measurement - Is a quantification of aspartate aminotransferase, and is commonly used as a marker for liver function.
+GWAS_EFO_0004735: serum alanine aminotransferase measurement - Is a quantification of serum alanine aminotransferase, most commonly found in liver, the test is used in ascertainment of liver function.
+GWAS_EFO_0004612: high density lipoprotein cholesterol measurement - The measurement of HDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0008229: melanoma-derived growth regulatory protein measurement - quantification of the amount of melanoma-derived growth regulatory protein in a sample
+GWAS_EFO_0004611: low density lipoprotein cholesterol measurement - The measurement of LDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0004615: apolipoprotein B measurement - The measurement of ApoB in blood. Apolipoprotein B is a major protein constituent of chylomicrons (apo B-48), LDL (apo B-100) and VLDL (apo B-100). Apo B-100 functions as a recognition signal for the cellular binding and internalization of LDL particles by the apoB/E receptor, and is upregulated in response to enterovirus 71.
+GWAS_EFO_0007778: urinary albumin to creatinine ratio - quantification of the ratio of albumin to creatinine in a urine sample
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0007796: parental longevity - length of an individual's parents' life, either taken individually (paternal or maternal longevity) or in combination and sometimes used as an indicator of an individual longevity
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0009282: sodium measurement - A quantitative measurement of the amount of sodium present in a sample.
+GWAS_EFO_0004319: smoking cessation - Discontinuation of the habit of smoking, the inhaling and exhaling of tobacco smoke.
+GWAS_EFO_0007813: cotinine measurement - quantification of cotinine in a sample
+GWAS_EFO_0010093: bitter non-alcoholic beverage consumption measurement - Quantification of some bitter non-alcoholic beverage consumption or bitter non-alcoholic beverage consumption-related behaviour, usually self-reported via a questionnaire.
+GWAS_EFO_0009115: tobacco smoke exposure measurement - Quantification of some aspect of tobacco smoke exposure.
+GWAS_EFO_0003768: nicotine dependence - Inhaling and exhaling the smoke of tobacco or something similar to tobacco.|Physical and psychological dependence on nicotine.|Tobacco used to the detriment of a person's health or social functioning. Tobacco dependence is included.
+GWAS_EFO_0010091: tea consumption measurement - Quantification of some tea consumption or tea consumption-related behaviour, usually self-reported via a questionnaire.
+GWAS_EFO_0001071: lung carcinoma - A carcinoma that arises from epithelial cells of the lung
+GWAS_EFO_0005850: emphysema pattern measurement - quantification by computed tomography scans of distinct pathologic patterns in the lungs that occur in emphysema
+GWAS_EFO_0000571: lung adenocarcinoma - A carcinoma that arises from the lung and is characterized by the presence of malignant glandular epithelial cells. There is a male predilection with a male to female ratio of 2:1. Usually lung adenocarcinoma is asymptomatic and is identified through screening studies or as an incidental radiologic finding. If clinical symptoms are present they include shortness of breath, cough, hemoptysis, chest pain, and fever. Tobacco smoke is a known risk factor.
+GWAS_EFO_0008328: chronotype measurement - quantification of some aspect of chronotype such as ease of getting up in the morning
+GWAS_EFO_0000708: squamous cell lung carcinoma - A carcinoma arising from squamous bronchial epithelial cells. It may be keratinizing or non-keratinizing. Keratinizing squamous cell carcinoma is characterized by the presence of keratinization, pearl formation, and/or intercellular bridges. Non-keratinizing squamous cell carcinoma is characterized by the absence of keratinization, pearl formation, and intercellular bridges. Cigarette smoking and arsenic exposure are strongly associated with squamous cell lung carcinoma.|In DO this is classified as nscLC, but this leads to logical issues as we have a distinct class for squamous nscLC
+GWAS_EFO_0003060: non-small cell lung carcinoma - A group of at least three distinct histological types of lung cancer, including non-small cell squamous cell carcinoma, adenocarcinoma, and large cell carcinoma. Non-small cell lung carcinomas have a poor response to conventional chemotherapy.
+GWAS_EFO_0006781: coffee consumption measurement - the quantification of some coffee consumption or coffee consumption-related behaviour, usually self-reported via a questionnaire
+GWAS_EFO_0010089: bitter beverage consumption measurement - Quantification of some bitter beverage consumption or bitter beverage consumption-related behaviour, usually self-reported via a questionnaire.
+GWAS_EFO_0004458: C-reactive protein measurement - C-reactive protein (CRP) measurement is a measurement of the level of C-reactive protein in the blood.  Levels are known to rise in response to inflammation, CRP is therefore used as a clinical measure of inflammation. The measurement is used in the process of clinical diagnosis as high levels of CRP are associated with cardiovascular disease, diabetes and hypertension and in some cancers.|is about MeSH:D002097
+GWAS_EFO_0004614: apolipoprotein A 1 measurement - Is a quantification of serum lipoprotein A. Apolipoprotein A-I, encoded in humans by the APOA1 gene and  is the major protein component of high density lipoprotein (HDL) in plasma.   It is is implicated as a risk factor for atherosclerotic diseases such as coronary heart disease and stroke.
+GWAS_EFO_0004265: peripheral arterial disease - A disorder of the arteries supplying the upper and lower extremity and the visceral organs. This includes the mesenteric arteries, the renal arteries and the aorta and excludes cerebrovascular arterial disease. Patients experience cramping and pain usually in the calves and thighs while walking. The symptoms subside with rest.|Lack of perfusion in the EXTREMITIES resulting from atherosclerosis. It is characterized by INTERMITTENT CLAUDICATION, and an ANKLE BRACHIAL INDEX of 0.9 or less.
+GWAS_EFO_0000764: HIV infection - A Lentivirus infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_agent Human immunodeficiency virus 1 or has_agent Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.|Includes the spectrum of human immunodeficiency virus infections that range from asymptomatic seropositivity, thru AIDS-related complex (ARC), to acquired immunodeficiency syndrome (AIDS).|An infection caused by the human immunodeficiency virus.
+GWAS_EFO_0007886: DDT metabolite measurement - quantification in a sample of the organochlorine pesticide dichlorodiphenyltrichloroethane (DDT) or any metabolite derived from DDT, eg 2, 2-bis (4-chlorophenyl)-1, 1-dichloroethene (p,p′-DDE)
+GWAS_EFO_1000886: cutaneous mastocytosis - Cutaneous mastocytosis is a term referring to a group of diseases characterized by abnormal accumulation and proliferation of skin mastocytes. In some cases (most commonly in adults), cutaneous mastocytosis may occur in association with mast cell infiltration of various extracutaneous organs, in which case the disorder is referred to as systemic mastocytosis.
+GWAS_EFO_0009001: Mastocytosis - A clonal myeloproliferative neoplasm characterized by the proliferation and accumulation of neoplastic mast cells in one or multiple organs or organ systems. It is a heterogeneous group of neoplasms, ranging from cutaneous proliferations which may regress spontaneously, to aggressive neoplasms associated with organ failure and short survival.
+GWAS_EFO_0007962: polybrominated diphenyl ether measurement - quantification in a sample of some polybrominated diphenyl ethers, a group of man-made environmental pollutants which accumulate in humans with adverse health effects
+GWAS_EFO_0007961: polybrominated biphenyl measurement - quantification in a sample of some polybrominated biphenyls, a group of man-made environmental pollutants which accumulate in humans with adverse health effects
+GWAS_EFO_0007960: organochlorine pesticide measurement - quantification of organochlorine pesticides or metabolites derived from organochloride pesticides in a sample
+GWAS_EFO_0007964: gestational serum measurement - quantification of some chemical compound such as a metabolite or environmental pollutant in a serum sample taken from a women at some stage during pregnancy
+GWAS_EFO_0007042: polychlorinated biphenyls measurement - quantification in a sample of some polychlorinated biphenyls, a group of man-made environmental pollutants which accumulate in humans with adverse health effects
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16147798) -> Associated GWAS: GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0006525, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004509, GWAS_EFO_0009262, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004763, GWAS_EFO_0006794, GWAS_EFO_0007709, GWAS_EFO_0007872, GWAS_EFO_0004348, GWAS_EFO_0007937, GWAS_EFO_0004533, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0007872, GWAS_EFO_0007117, GWAS_EFO_0000341, GWAS_EFO_0004533, GWAS_EFO_0004318, GWAS_EFO_0004736, GWAS_EFO_0007794, GWAS_EFO_0004735, GWAS_EFO_0004612, GWAS_EFO_0008229, GWAS_EFO_0004736, GWAS_EFO_0004533, GWAS_EFO_0004611, GWAS_EFO_0004615, GWAS_EFO_0006525, GWAS_EFO_0007778, GWAS_EFO_0006525, GWAS_EFO_0000341, GWAS_EFO_0006527, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0006525, GWAS_EFO_0007796, GWAS_EFO_0004533, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0009282, GWAS_EFO_0004533, GWAS_EFO_0004319, GWAS_EFO_0006525, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004713, GWAS_EFO_0007813, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0010093, GWAS_EFO_0009115, GWAS_EFO_0003768, GWAS_EFO_0010091, GWAS_EFO_0004611, GWAS_EFO_0001071, GWAS_EFO_0006527, GWAS_GO_0097366, GWAS_EFO_0005850, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0000571, GWAS_EFO_0004318, GWAS_EFO_0008328, GWAS_EFO_0000708, GWAS_EFO_0003060, GWAS_EFO_0004615, GWAS_EFO_0007794, GWAS_EFO_0006525, GWAS_EFO_0006781, GWAS_EFO_0004735, GWAS_EFO_0010089, GWAS_EFO_0004713, GWAS_EFO_0004319, GWAS_EFO_0007813, GWAS_EFO_0004611, GWAS_EFO_0007872, GWAS_EFO_0004533, GWAS_EFO_0007872, GWAS_EFO_0006525, GWAS_EFO_0006525, GWAS_EFO_0004318, GWAS_EFO_0004458, GWAS_EFO_0007872, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0006527, GWAS_EFO_0007794, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004533, GWAS_EFO_0006525, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004614, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0007778
+Entity: Gene (ID: 16181624) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: Transcript (ID: 16256054) -> Associated GWAS: GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0006525, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004305, GWAS_EFO_0004509, GWAS_EFO_0009262, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004763, GWAS_EFO_0006794, GWAS_EFO_0007709, GWAS_EFO_0007872, GWAS_EFO_0004348, GWAS_EFO_0007937, GWAS_EFO_0004533, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0007872, GWAS_EFO_0007117, GWAS_EFO_0000341, GWAS_EFO_0004533, GWAS_EFO_0004318, GWAS_EFO_0004736, GWAS_EFO_0007794, GWAS_EFO_0004735, GWAS_EFO_0004612, GWAS_EFO_0008229, GWAS_EFO_0004736, GWAS_EFO_0004533, GWAS_EFO_0004611, GWAS_EFO_0004615, GWAS_EFO_0006525, GWAS_EFO_0007778, GWAS_EFO_0006525, GWAS_EFO_0000341, GWAS_EFO_0006527, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0006525, GWAS_EFO_0007796, GWAS_EFO_0004533, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0009282, GWAS_EFO_0004533, GWAS_EFO_0004319, GWAS_EFO_0006525, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004713, GWAS_EFO_0007813, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0010093, GWAS_EFO_0009115, GWAS_EFO_0003768, GWAS_EFO_0010091, GWAS_EFO_0004611, GWAS_EFO_0001071, GWAS_EFO_0006527, GWAS_GO_0097366, GWAS_EFO_0005850, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0000571, GWAS_EFO_0004318, GWAS_EFO_0008328, GWAS_EFO_0000708, GWAS_EFO_0003060, GWAS_EFO_0004615, GWAS_EFO_0007794, GWAS_EFO_0006525, GWAS_EFO_0006781, GWAS_EFO_0004735, GWAS_EFO_0010089, GWAS_EFO_0004713, GWAS_EFO_0004319, GWAS_EFO_0007813, GWAS_EFO_0004611, GWAS_EFO_0007872, GWAS_EFO_0004533, GWAS_EFO_0007872, GWAS_EFO_0006525, GWAS_EFO_0006525, GWAS_EFO_0004318, GWAS_EFO_0004458, GWAS_EFO_0007872, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0006527, GWAS_EFO_0007794, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004533, GWAS_EFO_0006525, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004614, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0007778
+Entity: Transcript (ID: 16388731) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: Transcript (ID: 16388741) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: Transcript (ID: 16388736) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: Non Coding RNA (ID: 17194367) -> Associated GWAS: GWAS_EFO_0004611, GWAS_EFO_0007872, GWAS_EFO_0004533, GWAS_EFO_0007872, GWAS_EFO_0006525, GWAS_EFO_0006525, GWAS_EFO_0004318, GWAS_EFO_0004458, GWAS_EFO_0007872, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0006527, GWAS_EFO_0007794, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004533, GWAS_EFO_0006525, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004614, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0007778, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004533, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0006781, GWAS_EFO_0004265, GWAS_EFO_0000341, GWAS_EFO_0006525, GWAS_EFO_0006525, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004533, GWAS_EFO_0007872, GWAS_EFO_0004612, GWAS_EFO_0000764, GWAS_EFO_0007886, GWAS_EFO_1000886, GWAS_EFO_0009001, GWAS_EFO_0007886, GWAS_EFO_0007962, GWAS_EFO_0007961, GWAS_EFO_0007960, GWAS_EFO_0007964, GWAS_EFO_0004318, GWAS_EFO_0007042, GWAS_EFO_0007042
+Entity: ChromHMM State (ID: 22983454) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: ChromHMM State (ID: 22424284) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: ChromHMM State (ID: 21176577) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0004713
+Entity: ChromHMM State (ID: 20571053) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0007778, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004533, GWAS_EFO_0007872
+Entity: ChromHMM State (ID: 19999082) -> Associated GWAS: GWAS_EFO_0010093, GWAS_EFO_0009115, GWAS_EFO_0003768, GWAS_EFO_0010091, GWAS_EFO_0004611, GWAS_EFO_0001071, GWAS_EFO_0006527, GWAS_GO_0097366, GWAS_EFO_0005850, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0000571, GWAS_EFO_0004318, GWAS_EFO_0008328, GWAS_EFO_0000708, GWAS_EFO_0003060, GWAS_EFO_0004615, GWAS_EFO_0007794, GWAS_EFO_0006525, GWAS_EFO_0006781, GWAS_EFO_0004735, GWAS_EFO_0010089, GWAS_EFO_0004713, GWAS_EFO_0004319, GWAS_EFO_0007813, GWAS_EFO_0004611, GWAS_EFO_0007872, GWAS_EFO_0004533, GWAS_EFO_0007872, GWAS_EFO_0006525, GWAS_EFO_0006525, GWAS_EFO_0004318, GWAS_EFO_0004458, GWAS_EFO_0007872, GWAS_EFO_0007872, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0006527, GWAS_EFO_0007794, GWAS_EFO_0007872, GWAS_EFO_0004318, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004713, GWAS_GO_0097366, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0004533, GWAS_EFO_0006525, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_EFO_0004614, GWAS_EFO_0004319, GWAS_EFO_0004318, GWAS_EFO_0007794, GWAS_GO_0097366, GWAS_EFO_0007872, GWAS_EFO_0004314, GWAS_EFO_0004713, GWAS_EFO_0007872, GWAS_EFO_0007778
+Entity: ChromHMM State (ID: 19451592) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+Entity: chr_chain (ID: 606784) -> Associated GWAS: GWAS_EFO_0004318, GWAS_EFO_0007794
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 7204
+• Pathogenic/Likely Pathogenic: 390
+• Benign/Likely Benign: 2031
+• Uncertain Significance: 4755
+• Other Classifications: 28
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Charcot-Marie-Tooth disease type 4 (n=716)
+• Inborn genetic diseases (n=302)
+• Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=144)
+• Charcot-Marie-Tooth disease (n=83)
+• Charcot-Marie-Tooth disease type 4F (n=65)
+• Spinocerebellar ataxia 46 (n=46)
+• not provided|not specified (n=44)
+• not specified|not provided (n=40)
+• Charcot-Marie-Tooth disease type 4|not provided (n=37)
+• Inborn genetic diseases|Charcot-Marie-Tooth disease type 4 (n=32)
+• Charcot-Marie-Tooth disease type 4|not provided|Inborn genetic diseases (n=31)
+• not provided|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=25)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4 (n=20)
+• not provided|Charcot-Marie-Tooth disease type 4 (n=18)
+• Dejerine-Sottas disease (n=16)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4 (n=16)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases (n=12)
+• Neurodevelopmental disorder with hypotonia, neuropathy, and deafness (n=12)
+• PLD3-related disorder (n=11)
+• Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|not provided (n=10)
+• not provided|Inborn genetic diseases (n=10)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease (n=10)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|not provided (n=10)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F (n=10)
+• Spinocerebellar ataxia 46|not specified (n=8)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=8)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=8)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease (n=8)
+• Efavirenz response (n=7)
+• not specified|Spinocerebellar ataxia 46 (n=6)
+• not provided|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=6)
+• Charcot-Marie-Tooth disease type 4|not provided|Inborn genetic diseases|PRX-related disorder (n=6)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=6)
+• Prostate cancer (n=5)
+• Inborn genetic diseases|not provided (n=5)
+• not provided|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4 (n=5)
+• Neurodevelopmental disorder with hypotonia, neuropathy, and deafness|Inborn genetic diseases (n=5)
+• Warfarin response|Nicotine, poor metabolism of (n=4)
+• Warfarin response|CYP2A6*12A (n=4)
+• Preeclampsia|Gestational diabetes mellitus uncontrolled|Large for gestational age (n=4)
+• APC-mutation negative familial colorectal cancer (n=4)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|not provided|Inborn genetic diseases (n=4)
+• not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4 (n=4)
+• Charcot-Marie-Tooth disease|Inborn genetic diseases (n=4)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F (n=4)
+• Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F (n=4)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|not provided (n=4)
+• Charcot-Marie-Tooth disease type 4|not specified (n=4)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases (n=4)
+• Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease type 4 (n=4)
+• Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4 (n=4)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F|not provided (n=4)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|not provided (n=4)
+• not provided|Charcot-Marie-Tooth disease type 4F (n=4)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|not provided (n=4)
+• Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases (n=4)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease (n=4)
+• Distal spinal muscular atrophy (n=4)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases (n=4)
+• Tip-toe gait (n=4)
+• Charcot-Marie-Tooth disease, type I|Charcot-Marie-Tooth disease type 4 (n=4)
+• PRX-related disorder (n=4)
+• Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=4)
+• Tegafur response (n=3)
+• Charcot-Marie-Tooth disease type 4F|not provided (n=3)
+• not specified|Inborn genetic diseases (n=3)
+• Charcot-Marie-Tooth disease, type I (n=3)
+• not specified|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=3)
+• Gestational diabetes mellitus uncontrolled (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|not specified|not provided (n=2)
+• Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Dejerine-Sottas disease (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F|not provided|Inborn genetic diseases|Dejerine-Sottas disease (n=2)
+• Dejerine-Sottas disease|not provided (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Tip-toe gait|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|not provided (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases|not provided|PRX-related disorder (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease (n=2)
+• Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F|not provided (n=2)
+• not provided|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|not specified|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|PRX-related disorder (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|not specified|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|not provided|PRX-related disorder (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F|not provided|Inborn genetic diseases (n=2)
+• Progressive peripheral neuropathy (n=2)
+• Progressive gait ataxia|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F (n=2)
+• not specified|not provided|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F|Tip-toe gait|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|not specified|Dejerine-Sottas disease (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases|not provided|Dejerine-Sottas disease (n=2)
+• Charcot-Marie-Tooth disease type 4|not specified|not provided|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases (n=2)
+• Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4 (n=2)
+• Spinocerebellar ataxia 46|not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4 (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|not specified|Tip-toe gait|Inborn genetic diseases (n=2)
+• Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F|not provided (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4 (n=2)
+• Autosomal recessive Dejerine-Sottas syndrome|not provided|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|PRX-related disorder (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|PRX-related disorder (n=2)
+• Charcot-Marie-Tooth disease type 4|Dejerine-Sottas disease|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F (n=2)
+• Autosomal recessive Dejerine-Sottas syndrome|not provided|Charcot-Marie-Tooth disease type 4 (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|not provided (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|Charcot-Marie-Tooth disease (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease, type I|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|not provided|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease|Distal spinal muscular atrophy|Charcot-Marie-Tooth disease, type I (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Inborn genetic diseases|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|Tip-toe gait|not provided (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|PRX-related disorder (n=2)
+• Peripheral neuropathy|Charcot-Marie-Tooth disease type 4 (n=2)
+• Charcot-Marie-Tooth disease type 4F|not provided|Charcot-Marie-Tooth disease type 4|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|Charcot-Marie-Tooth disease|not provided (n=2)
+• Autosomal recessive Dejerine-Sottas syndrome|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4 (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|not specified (n=2)
+• not provided|Charcot-Marie-Tooth disease|not specified|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|PRX-related disorder (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|Dejerine-Sottas disease (n=2)
+• Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|Dejerine-Sottas disease (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=2)
+• not provided|PRX-related disorder (n=2)
+• Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|not provided|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|not provided|Inborn genetic diseases|PRX-related disorder|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|not specified|not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|not specified|Charcot-Marie-Tooth disease type 4 (n=2)
+• Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|Dejerine-Sottas disease (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease (n=2)
+• not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F|PRX-related disorder (n=2)
+• not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|not provided|not specified|Charcot-Marie-Tooth disease (n=2)
+• not provided|Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4 (n=2)
+• Autosomal recessive Dejerine-Sottas syndrome|not provided|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Peripheral neuropathy|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|not provided|Dejerine-Sottas disease (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|not provided|not specified|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|not provided (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|PRX-related disorder|Inborn genetic diseases|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|not provided|not specified|Charcot-Marie-Tooth disease (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|Charcot-Marie-Tooth disease|PRX-related disorder (n=2)
+• Distal spinal muscular atrophy|Charcot-Marie-Tooth disease type 4 (n=2)
+• not provided|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|not provided|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|not provided|not specified|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Tip-toe gait|Inborn genetic diseases|PRX-related disorder (n=2)
+• not provided|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Inborn genetic diseases|not provided|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Dejerine-Sottas disease|Inborn genetic diseases|not provided|not specified (n=2)
+• not provided|Charcot-Marie-Tooth disease, type I|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4 (n=2)
+• Inborn genetic diseases|Charcot-Marie-Tooth disease type 4|Dejerine-Sottas disease (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4F (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|Inborn genetic diseases|not provided (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|not provided (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|PRX-related disorder (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Inborn genetic diseases|not provided (n=2)
+• Inborn genetic diseases|Charcot-Marie-Tooth disease|not specified|Charcot-Marie-Tooth disease type 4 (n=2)
+• not provided|Charcot-Marie-Tooth disease|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases|PRX-related disorder (n=2)
+• Developmental cataract (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease (n=2)
+• not provided|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease|Inborn genetic diseases (n=2)
+• not provided|Inborn genetic diseases|Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease|not specified (n=2)
+• Charcot-Marie-Tooth disease type 4F|Dejerine-Sottas disease|Autosomal recessive Dejerine-Sottas syndrome (n=2)
+• not specified|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|Inborn genetic diseases (n=2)
+• Charcot-Marie-Tooth disease type 4|Charcot-Marie-Tooth disease type 4F|Gaucher disease|PRX-related disorder (n=2)
+• Inborn genetic diseases|Neurodevelopmental disorder with hypotonia, neuropathy, and deafness (n=2)
+• Charcot-Marie-Tooth disease|Inborn genetic diseases|not specified (n=1)
+• Dejerine-Sottas disease|Charcot-Marie-Tooth disease type 4F|Charcot-Marie-Tooth disease type 4|not provided (n=1)
+• Charcot-Marie-Tooth disease type 4F|PRX-related disorder (n=1)
+• Charcot-Marie-Tooth disease type 4|not specified|Charcot-Marie-Tooth disease (n=1)
+• not provided|Inborn genetic diseases|SPTBN4-related disorder (n=1)
+• CYP2B6-related disorder (n=1)
+• Efavirenz response|efavirenz response - Metabolism/PK|efavirenz response - Toxicity|nevirapine response - Metabolism/PK|CYP2B6-related disorder (n=1)
+• Inborn genetic diseases|Neurodevelopmental disorder with hypotonia, neuropathy, and deafness|not provided (n=1)
+• Neurodevelopmental disorder with hypotonia, neuropathy, and deafness|Inborn genetic diseases|not provided (n=1)
+• Inborn genetic diseases|SPTBN4-related disorder (n=1)
+• not provided|Neurodevelopmental disorder with hypotonia, neuropathy, and deafness (n=1)
+• nevirapine response - Toxicity|CYP2B6-related disorder (n=1)
+• not specified|Neurodevelopmental disorder with hypotonia, neuropathy, and deafness (n=1)
+
+

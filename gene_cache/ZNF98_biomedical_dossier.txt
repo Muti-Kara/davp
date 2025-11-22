@@ -1,0 +1,53 @@
+ZNF98 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 13174
+- **OMIM Gene ID**: 603980
+- **Primary Disease Associations**: At present, ZNF98 has not been definitively associated with a specific Mendelian disease. One source mentions a possible association with Ehlers-Danlos Syndrome, vascular type, but this is not consistently reported and requires further validation.
+- **Clinical Significance Level**: The clinical significance of ZNF98 is currently uncertain as there are no definitive links to a monogenic disorder established in major clinical databases.
+- **Inheritance Patterns**: No clear inheritance patterns have been described due to the lack of a confirmed disease association.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: Based on gnomAD v4.0 data, the probability of being loss-of-function intolerant (pLI) is not well-established for definitive interpretation, and specific values for LOEUF, pRec, and pNull are not prominently available in the search results. Generally, a pLI score greater than 0.9 is considered to indicate intolerance to loss-of-function variants.
+- **Clinical Interpretation of Constraint Scores**: The absence of a high pLI score suggests that the gene may be more tolerant to heterozygous loss-of-function variants, though this requires careful interpretation in a clinical context. The LOEUF score is a continuous metric, with lower values indicating greater intolerance to loss-of-function variation.
+- **Variant Classes Most Likely to be Pathogenic**: For many zinc finger proteins, loss-of-function variants (such as nonsense and frameshift) and missense variants affecting critical domains (like the zinc finger motifs or KRAB domain) are often pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: As ZNF98 is not yet linked to a specific disease, there are no established primary HPO terms.
+- **Secondary HPO terms**: No secondary HPO terms are currently documented in the literature for ZNF98.
+- **Age of Onset Patterns**: Not applicable.
+- **Phenotype Severity Spectrum**: Not applicable.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**: No specific genotype-phenotype correlations have been established for ZNF98.
+- **Protein Domain-Specific Phenotype Patterns**: The ZNF98 protein contains multiple C2H2-type zinc finger domains and a KRAB domain. Variants in these domains would be of higher suspicion.
+- **Genotype-Phenotype Correlation Strength**: Not applicable.
+- **Examples: specific variants → specific phenotypes**: No examples are available in the current literature.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic or likely pathogenic variants with clear phenotype associations are reported in ClinVar for ZNF98 at this time.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: According to the GTEx portal, ZNF98 shows the highest expression in the testis and is also expressed in various other tissues, including the brain. The clinical relevance of this expression pattern is yet to be determined.
+- **Tissue-Specific Phenotypes Expected**: Given its expression pattern, variants in ZNF98 could potentially lead to phenotypes related to male infertility or neurological development, though this is speculative.
+- **Expression During Development and Age-Related Phenotypes**: Information on developmental expression is not detailed in the search results.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: ZNF98 is predicted to be a DNA-binding transcription factor involved in the regulation of transcription by RNA polymerase II.
+- **Disease Mechanism**: The potential disease mechanism is unknown. For many transcription factors, haploinsufficiency due to loss-of-function variants is a common mechanism.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: The specific pathways regulated by ZNF98 and how their disruption could lead to a phenotype are not yet elucidated.
+- **Protein-Protein Interactions Relevant to Phenotype**: ZNF98 contains a KRAB domain, which typically functions as a transcriptional repressor.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for ZNF98 is currently zero, as it has not been associated with any disease.
+- **Most Common Reasons for Testing This Gene**: Testing for ZNF98 would likely only occur in a research setting or as part of a large gene panel in individuals with undiagnosed developmental or other disorders.
+- **Clinical Actionability and Management Implications**: There are no known clinical actionability or management guidelines related to ZNF98 variants.
+- **Genetic Counseling Considerations**: Genetic counseling would be challenging due to the lack of a defined phenotype and inheritance pattern.
+
+### **Key Clinical Literature & Studies**
+- As of the current search, there are no key clinical papers that have established a definitive genotype-phenotype correlation for ZNF98. The available information is primarily from large-scale genomic databases and predictive studies.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: None established.
+- **Phenotype red flags**: None established.
+- **Differential diagnosis considerations**: Not applicable, as no primary phenotype has been linked to ZNF98.
+

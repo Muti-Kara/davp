@@ -1,0 +1,61 @@
+TRAPPC8 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:29169.
+*   **OMIM Gene ID:** 614136.
+*   **Primary Disease Associations:** As of early 2025, no specific Mendelian disease has been definitively associated with pathogenic variants in *TRAPPC8*. It is a component of the TRAPPIII complex, and variants in other TRAPP genes cause a group of disorders known as TRAPPopathies, which are typically severe, early-onset neurological, skeletal, and/or muscular disorders.
+*   **Clinical Significance Level:** The level of evidence for a specific *TRAPPC8*-related disorder is currently limited.
+*   **Inheritance Patterns:** While diseases associated with other TRAPP complex subunits are often autosomal recessive, the inheritance pattern for any potential *TRAPPC8*-related disorder is not yet established.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI (v2.1.1): 0.00.
+    *   LOEUF (v4.0): 1.09 (90% CI: 0.89 - 1.36).
+    *   pRec (v2.1.1): 0.77.
+    *   pNull (v2.1.1): 0.23.
+*   **Clinical Interpretation:** The gnomAD constraint scores show that *TRAPPC8* is not significantly intolerant to loss-of-function (LoF) variation. The low pLI and high LOEUF score suggest that heterozygous LoF variants are tolerated in the general population, making a haploinsufficiency mechanism unlikely.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to single LoF variants, pathogenic variants, if they exist, might be hypomorphic missense variants, occur in biallelic states (autosomal recessive), or act through a dominant-negative or gain-of-function mechanism.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are currently linked to *TRAPPC8* variants due to the lack of confirmed disease association.
+*   **Secondary HPO terms:** Based on the phenotypes of related TRAPPopathies, potential HPO terms could include: Microcephaly, Seizures, Global developmental delay, Cerebral atrophy, Cerebellar atrophy, Spasticity, and Muscular dystrophy.
+*   **Age of Onset Patterns:** TRAPPopathies associated with other subunits typically present in infancy or early childhood.
+*   **Phenotype Severity Spectrum:** The severity of related TRAPPopathies ranges from moderate to severe, often with progressive neurological and muscular features.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Typical Phenotypes:** There are no established genotype-phenotype correlations for *TRAPPC8*.
+*   **Protein Domain-Specific Phenotype Patterns:** The functional domains of TRAPPC8 are not yet linked to specific phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable due to a lack of confirmed disease-causing variants.
+*   **Examples:** No specific variant-phenotype examples are available.
+
+### **Clinical Variants & Phenotype Associations**
+*   There are currently no variants in *TRAPPC8* classified as pathogenic or likely pathogenic in ClinVar.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx):** According to the Human Protein Atlas, which integrates GTEx data, *TRAPPC8* mRNA shows low tissue specificity and is expressed across a wide range of tissues.
+*   **Tissue-Specific Phenotypes Expected:** The ubiquitous expression is consistent with the gene's role in fundamental cellular processes like vesicle transport. Disruption would be expected to cause a multi-system disorder, which is observed in other TRAPPopathies.
+*   **Expression During Development:** *TRAPPC8* is expressed during human fetal development, suggesting a role in organogenesis. Its broad expression pattern makes predicting specific tissue phenotypes challenging without clinical data.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *TRAPPC8* encodes a subunit of the TRAPPIII (Transport Protein Particle III) complex, which functions as a guanine nucleotide exchange factor (GEF) for the Rab1 GTPase, a key regulator of ER-to-Golgi vesicular transport and autophagy.
+*   **Disease Mechanism:** The disease mechanism for *TRAPPC8* is unknown. Based on related disorders, it could involve loss-of-function leading to impaired vesicle trafficking and/or autophagy.
+*   **Cellular/Molecular Pathways Disrupted:** Disruption of TRAPPIII function impairs the tethering of COPII vesicles and the initiation of autophagy. *TRAPPC8* also plays a role in primary ciliogenesis through its interaction with the ciliopathy protein OFD1.
+*   **Protein-Protein Interactions:** TRAPPC8 is a core component of the TRAPPIII complex, interacting with other subunits like TRAPPC11 and TRAPPC12. It also interacts with TBC1D14, a regulator of autophagy, and OFD1, linking it to ciliogenesis.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** The diagnostic yield for *TRAPPC8* is currently zero, as it is not yet established as a disease-causing gene.
+*   **Most Common Reasons for Testing:** This gene may be included in broad exome or genome sequencing panels for patients with complex, unspecific neurodevelopmental disorders, particularly those with features overlapping with other TRAPPopathies like microcephaly and brain atrophy.
+*   **Clinical Actionability:** There is no specific clinical actionability or management guideline for *TRAPPC8* variants.
+*   **Genetic Counseling Considerations:** Counseling should emphasize the uncertain significance of any identified *TRAPPC8* variants, the lack of a defined disease association, and the possibility of future reclassification as more data becomes available.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35436814 (2022):** Reviews the expanding spectrum of TRAPPopathies, highlighting the severe neurological and musculoskeletal symptoms. It notes that at the time of publication, no disease associations were known for *TRAPPC8*.
+*   **PMID: 31215162 (2019):** First comprehensive review coining the term "TRAPPopathies" and summarizing the disease-related variations in TRAPP-associated proteins, setting the stage for classifying this group of disorders.
+*   **PMID: 31797825 (2020):** Study on the role of *TRAPPC8* and *TRAPPC12* in ciliogenesis, showing they interact with the ciliopathy protein OFD1 and are necessary for the proper assembly of centriolar satellites, suggesting a potential link to ciliopathy phenotypes.
+*   **PMID: 27129532 (2016):** Research identifying that TRAPPC8 modulates autophagy and is required for the TBC1D14 protein to bind to the TRAPPIII complex, establishing a key functional link between TRAPP and autophagy regulation.
+*   **PMID: 37701768 (2023):** A case series of Turkish patients with TRAPPopathies, illustrating the common clinical findings of microcephaly, developmental delay, epilepsy, and cerebral-cerebellar atrophy associated with variants in other TRAPP genes (*TRAPPC4*, *TRAPPC6B*).
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for *TRAPPC8*.
+*   **Phenotype red flags:** While not specific to *TRAPPC8*, a combination of severe infantile-onset neurodevelopmental delay, progressive microcephaly, intractable epilepsy, and cerebral/cerebellar atrophy should raise suspicion for a TRAPPopathy in general.
+*   **Differential diagnosis considerations:** The differential diagnosis for a suspected TRAPPopathy includes disorders caused by variants in other TRAPP complex genes (*TRAPPC2*, *TRAPPC4*, *TRAPPC6B*, *TRAPPC9*, *TRAPPC10*, *TRAPPC11*, *TRAPPC12*) and other disorders of intracellular trafficking and autophagy. Phenotypes may also overlap with various ciliopathies.
+

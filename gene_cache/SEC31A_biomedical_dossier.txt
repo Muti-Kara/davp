@@ -1,0 +1,78 @@
+SEC31A Gene Biomedical Dossier
+### **Gene Dossier: SEC31A**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 17052
+*   **OMIM Gene ID:** 610257
+*   **Primary Disease Associations:**
+    *   Halperin-Birk syndrome (HLBKS), also described as a neurodevelopmental disorder with spastic quadriplegia, optic atrophy, seizures, and structural brain anomalies (OMIM Phenotype: 618651).
+    *   Somatic fusions involving *SEC31A* (e.g., *SEC31A-ALK*) are associated with ALK-positive large B-cell lymphomas.
+*   **Clinical Significance Level:** The association between biallelic loss-of-function variants in *SEC31A* and Halperin-Birk syndrome is supported by strong evidence from detailed clinical and functional studies in multiple affected individuals from a family.
+*   **Inheritance Patterns Observed in Patients:** Halperin-Birk syndrome is an autosomal recessive disorder.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint scores for *SEC31A* from gnomAD are not provided in the search results, but these metrics are critical for interpreting variants in this gene.
+*   **Clinical Interpretation of Constraint Scores:** Genes with a high probability of being loss-of-function intolerant (pLI ≥ 0.9) or a low LOEUF score (e.g., < 0.35 in gnomAD v2 or < 0.6 in gnomAD v4) are under strong selective pressure, and loss-of-function variants are likely to be pathogenic. Given the severity of the autosomal recessive disease, high constraint against homozygous loss-of-function would be expected.
+*   **Variant Classes Most Likely to be Pathogenic:** Null variants (e.g., nonsense, frameshift, and canonical splice site variants) that lead to loss-of-function through mechanisms like nonsense-mediated decay are the primary established pathogenic variant class for the recessive neurodevelopmental disorder.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Spastic quadriplegia (HP:0002510)
+    *   Profound global developmental delay (HP:0011344)
+    *   Agenesis of corpus callosum (HP:0001274)
+    *   Microcephaly (HP:0000252)
+    *   Seizures (HP:0001250)
+    *   Optic atrophy (HP:0000648)
+    *   Failure to thrive (HP:0001508) / Intrauterine growth retardation (HP:0001511)
+    *   Arthrogryposis multiplex congenita (HP:0002804) / Multiple joint contractures
+    *   Sensorineural hearing impairment (HP:0000407)
+    *   Aspiration (HP:0002098) / Pseudobulbar palsy
+    *   Holoprosencephaly (HP:0001360)
+    *   Death in childhood (HP:0003819)
+*   **Secondary HPO terms:**
+    *   Facial dysmorphism (HP:0001999)
+    *   Colpocephaly (HP:0007133)
+    *   Developmental cataract (HP:0001103)
+    *   Hip dislocation (HP:0002827)
+*   **Age of Onset Patterns:** The phenotype of Halperin-Birk syndrome is congenital, with features such as intrauterine growth retardation apparent at birth.
+*   **Phenotype Severity Spectrum:** The reported phenotype for biallelic null mutations is uniformly severe, leading to profound disability and death in early childhood.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous null mutations (nonsense or frameshift) have been shown to cause the severe, multi-systemic neurodevelopmental disorder, Halperin-Birk syndrome.
+*   **Protein Domain-Specific Phenotype Patterns:** A homozygous nonsense mutation has been identified, which truncates the protein and leads to nonsense-mediated decay of the transcript, effectively creating a null allele. The specific domains affected by other variant types are not detailed in the provided literature.
+*   **Genotype-Phenotype Correlation Strength:** There is a strong correlation between homozygous loss-of-function of *SEC31A* and the severe congenital neurological syndrome.
+*   **Examples: specific variants → specific phenotypes:** A homozygous nonsense mutation in *SEC31A* was identified in two siblings with Halperin-Birk syndrome, characterized by spastic quadriplegia, profound developmental delay, seizures, and structural brain defects.
+
+**Clinical Variants & Phenotype Associations**
+*   A specific pathogenic variant has been reported in the literature as a "disease-associated homozygous nonsense mutation". Without access to the specific variant information (e.g., HGVS nomenclature) from the source, a general description is provided.
+    *   **HGVS:** Not specified in abstracts
+    *   **ClinVar Significance:** Pathogenic
+    *   **Reported Phenotypes (HPO terms):** HP:0002510, HP:0011344, HP:0001274, HP:0000252, HP:0001250, HP:0000648, HP:0001511, HP:0002804, HP:0000407, HP:0001360.
+    *   **Allele Frequency (AF):** Expected to be extremely rare in the general population.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *SEC31A* is ubiquitously expressed across human tissues. This broad expression is consistent with its essential housekeeping function in the secretory pathway of all cells.
+*   **Tissue-Specific Phenotypes Expected:** The ubiquitous expression pattern explains the multi-systemic nature of the associated disease. However, the most severe manifestations are neurological, suggesting a particular sensitivity of the developing brain to defects in COPII-mediated transport.
+*   **Expression During Development and Age-Related Phenotypes:** The gene's fundamental role in protein transport is critical during development, which is consistent with the congenital and severe neurodevelopmental phenotype observed in patients.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *SEC31A* encodes an essential subunit of the coat protein complex II (COPII), which mediates the budding of transport vesicles from the endoplasmic reticulum (ER).
+*   **Disease Mechanism:** The established mechanism for Halperin-Birk syndrome is biallelic loss-of-function. This leads to compromised COPII function, disrupting the transport of newly synthesized proteins from the ER to the Golgi.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of COPII-mediated transport leads to an accumulation of unfolded or misfolded proteins in the ER, triggering the ER-stress response. This cellular stress results in reduced cell viability and is thought to underlie the severe neurodevelopmental defects and early lethality.
+*   **Protein-Protein Interactions Relevant to Phenotype:** *SEC31A* forms a complex with SEC13 to create the outer layer of the COPII coat. Its function is also modulated by interactions with proteins like KLHL12, ALG-2, and USP8, which regulate COPII carrier size and stability.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Diagnostic yield would be highest in individuals with a specific constellation of severe, congenital neurological features, particularly those with consanguineous parents.
+*   **Most Common Reasons for Testing This Gene:** Testing for *SEC31A* is indicated for individuals presenting with a severe, congenital neurodevelopmental disorder characterized by spastic quadriplegia, structural brain abnormalities (especially agenesis of the corpus callosum or holoprosencephaly), profound developmental delay, and seizures.
+*   **Clinical Actionability and Management Implications:** Currently, there are no specific treatments for Halperin-Birk syndrome. Management is supportive and focused on symptoms such as seizures, contractures, and feeding difficulties.
+*   **Genetic Counseling Considerations:** Halperin-Birk syndrome is an autosomal recessive condition. Parents of an affected child are obligate carriers and have a 25% recurrence risk in subsequent pregnancies. Carrier testing for at-risk family members and prenatal or preimplantation genetic testing are options.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 30464055 (Halperin D, et al. 2019):** This landmark paper first described the clinical and genetic basis of Halperin-Birk syndrome. It established that homozygous null mutations in *SEC31A* cause a severe neurological syndrome by disrupting ER homeostasis and inducing ER stress.
+*   The search results consistently point to this single key publication as the primary source for the genotype-phenotype correlation in the germline disorder. Other referenced studies focus on the protein's function, its role in somatic cancers, or general genetic principles.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Homozygous null variants (nonsense, frameshift) are strongly associated with a severe, congenital phenotype that includes spastic quadriplegia (HP:0002510), profound global developmental delay (HP:0011344), and major structural brain anomalies such as agenesis of the corpus callosum (HP:0001274) and holoprosencephaly (HP:0001360).
+*   **Phenotype Red Flags:** The combination of congenital spastic quadriplegia, arthrogryposis, and severe structural brain malformations (especially agenesis of the corpus callosum or holoprosencephaly) in the context of a suspected autosomal recessive inheritance pattern should strongly prompt consideration of *SEC31A*.
+*   **Differential Diagnosis Considerations:** The phenotype overlaps with other severe congenital neurological disorders, including other COPII-related defects and syndromes involving lissencephaly, holoprosencephaly, or severe arthrogryposis.
+

@@ -1,0 +1,60 @@
+SLC16A6 Gene Biomedical Dossier
+### **Gene Dossier: SLC16A6 (MCT6)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:10926
+*   **OMIM Gene ID:** 603765
+*   **Primary Disease Associations:** While some databases associate the gene with broader categories, current evidence most strongly links *SLC16A6* variants to variation in human height as a quantitative trait locus. There is no definitive monogenic disease associated with this gene.
+*   **Clinical Significance Level:** The association with human height is based on population-level genetic studies. Its role in monogenic disease is not established.
+*   **Inheritance Patterns:** Not applicable for a monogenic disease context; variants contribute to a complex trait (height).
+
+**Constraint & Variant Intolerance**
+*   **pLI:** 0.00 (gnomAD v2.1.1)
+*   **LOEUF:** 1.13 (gnomAD v2.1.1)
+*   **Clinical Interpretation of Constraint Scores:** The probability of being loss-of-function intolerant (pLI) is very low, and the loss-of-function observed/expected upper bound fraction (LOEUF) is high. This indicates that the gene is highly tolerant of inactivating variants and is not under strong selection against heterozygous loss-of-function, making it an unlikely candidate for a haploinsufficient disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Currently, no specific variant classes are defined as pathogenic for a monogenic disease. Variants associated with height are found in non-coding (5'-UTR, intron 1) and coding (exon 5) regions.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are definitively associated with pathogenic variants in *SLC16A6* for a Mendelian disorder. The primary associated phenotype is a quantitative trait:
+    *   Tall stature (HP:0000098) - Inferred from population studies showing association with increased adult height.
+*   **Secondary HPO terms:** No secondary HPO terms are currently documented in clinical cases. Zebrafish models with loss-of-function mutations exhibit:
+    *   Hepatic steatosis (HP:0001397) - Observed in zebrafish larvae and adults under specific dietary conditions due to impaired ketone body export from the liver.
+*   **Age of Onset Patterns:** The association with height is measured in adults.
+*   **Phenotype Severity Spectrum:** Not applicable in a monogenic disease context. The effect on height is a statistical contribution, not a spectrum of disease severity.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Loss-of-function in zebrafish models leads to increased body length. In humans, variants in the 5'-UTR, first intron, and a missense variant in the fifth exon are significantly associated with increased adult height.
+*   **Protein Domain-Specific Phenotype Patterns:** No specific domain-phenotype correlations have been established.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between certain *SLC16A6* variants and human height is statistically significant in large population cohorts, but this does not represent a deterministic cause for a Mendelian disorder.
+
+**Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic variants in *SLC16A6* are listed in ClinVar as causative for a monogenic disease. The gene's primary association is with the complex trait of height.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** Population genetics data suggest primary expression sites relevant to its phenotype are the liver, brain, and endocrine pancreas. The GTEx portal shows expression across many tissues, with notable levels in the testis, skeletal muscle, and heart.
+*   **Tissue-Specific Phenotypes Expected:** Liver-specific dysfunction in zebrafish models causes hepatic steatosis due to an inability to export ketone bodies. The effect on height is likely regulated by its function in several tissues.
+*   **Expression During Development and Age-Related Phenotypes:** The role of expression during development has not been fully elucidated, but its impact on adult height suggests a role during growth periods.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *SLC16A6* encodes a proton-linked monocarboxylate transporter that moves substrates such as ketone bodies across the plasma membrane.
+*   **Disease Mechanism:** The mechanism appears to be related to loss-of-function. In zebrafish, complete loss of the protein promotes linear growth.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of ketone body metabolism is the primary known pathway effect. In zebrafish liver, impaired export of β-hydroxybutyrate diverts ketogenic carbons into triacylglycerol synthesis, causing steatosis. The precise pathway linking monocarboxylate transport to human height is not yet understood.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Monocarboxylate transporters can require an ancillary protein, such as basigin, for proper localization and function.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Zero, as *SLC16A6* is not currently associated with a Mendelian disease for which clinical testing is performed.
+*   **Most Common Reasons for Testing This Gene:** Testing is not common in a clinical diagnostic setting. It is primarily analyzed in a research context for genome-wide association studies (GWAS) of complex traits like height.
+*   **Clinical Actionability and Management Implications:** None at present.
+*   **Genetic Counseling Considerations:** Counsel should emphasize that variants in this gene are considered modifiers of complex traits (like height) and are not known to cause a single-gene disorder. Distinguishing this from other *SLC16A* family members that do cause severe Mendelian diseases (e.g., *SLC16A2* and Allan-Herndon-Dudley Syndrome) is critical.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 30692942, 2019:** Established the primary link between *SLC16A6* and adult height through studies in both zebrafish and humans, demonstrating that loss of function in zebrafish promotes increased length.
+*   **PMID: 32445851, 2020:** A bioinformatic analysis of the *SLC16A* family in pancreatic cancer found that *SLC16A6* was generally expressed at lower levels in tumors compared to normal tissues.
+*   **PMID: 29596541, 2018:** Described the function of related monocarboxylate transporters and the disease mechanisms associated with other members of the SLC16 family, providing context for the gene family.
+*   **NCBI Gene ID: 9120 (updated 2025):** The gene summary notes that genetic variants in *SLC16A6* of the ketone body metabolic pathway may predict cutaneous melanoma-specific survival.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** At present, the only association is between certain common and non-coding variants and the quantitative trait of increased adult height, which could be mapped inferentially to Tall stature (HP:0000098). There are no high-confidence associations for a monogenic disorder.
+*   **Phenotype Red Flags:** There are no "red flag" HPO terms that would strongly suggest a pathogenic variant in *SLC16A6*. Its contribution to height is part of normal variation and not indicative of a syndromic overgrowth disorder.
+*   **Differential Diagnosis Considerations:** Because there is no defined *SLC16A6*-related disease, it would not typically be part of a differential diagnosis. It is crucial to differentiate from other genes in the same family, such as *SLC16A1*, which causes recurrent ketoacidosis, and *SLC16A2*, which causes Allan-Herndon-Dudley syndrome characterized by severe psychomotor disability (Global developmental delay, HP:0001263; Generalized hypotonia, HP:0001290).
+

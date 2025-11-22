@@ -1,0 +1,62 @@
+ALDH1B1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 407
+- **OMIM Gene ID**: 100670
+- **Primary Disease Associations**: While not definitively linked to a Mendelian disease, *ALDH1B1* has been associated with Mitochondrial Disease and Epilepsy in some databases. It is also studied in the context of alcohol dependence and various cancers.
+- **Clinical Significance Level**: The direct role of *ALDH1B1* in inherited disease is not yet definitively established; it is often considered in the context of complex traits and cancer.
+- **Inheritance Patterns Observed in Patients**: For conditions like alcohol dependence, inheritance patterns are complex and multifactorial.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI of 0.00, a LOEUF of 1.05, pRec of 0.639, and pNull of 0.361.
+- **Clinical Interpretation of Constraint Scores**: The low pLI (<<0.9) and high LOEUF (>0.35) scores suggest that *ALDH1B1* is tolerant to loss-of-function variation. This means that heterozygous loss-of-function variants are not expected to cause disease (the gene is not haploinsufficient).
+- **Variant Classes Most Likely to be Pathogenic**: Given the tolerance to loss-of-function variants, pathogenic variants, if any, might be gain-of-function or have specific dominant-negative effects not captured by constraint metrics.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: Currently, there are no established, frequently reported HPO terms directly and consistently linked to pathogenic variants in *ALDH1B1* for a specific Mendelian disorder.
+- **Secondary HPO terms**: Associations are largely from cancer studies or complex diseases like alcohol dependence, which are not typically defined by single HPO terms.
+- **Age of Onset Patterns**: Not applicable for a specific Mendelian disease.
+- **Phenotype Severity Spectrum**: Not applicable for a specific Mendelian disease.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**: A stop-gain variant (rs142427338, Gln378Ter) has been investigated for a potential association with alcohol dependence, though the association was not statistically significant in the studied population. Missense variants such as rs2228093 (Ala86Val) have been shown to abolish enzyme activity in vitro, and some studies suggest an association with alcohol consumption patterns.
+- **Protein Domain-specific Phenotype Patterns**: The ALDH1B1*2 variant, characterized by poor NAD(+) binding, is catalytically inactive and may impact ethanol metabolism and stem cell functions.
+- **Genotype-phenotype Correlation Strength**: The correlation between known variants and specific clinical phenotypes is currently considered weak to non-existent for Mendelian disease.
+- **Examples: specific variants → specific phenotypes**: The rs2228093 T allele (Val86) has a suggested protective effect against high alcohol consumption.
+
+### **Clinical Variants & Phenotype Associations**
+- **rs2228093 (p.Ala86Val)**: Significance: Benign/Likely benign (in ClinVar for other conditions), Association with alcohol consumption. AF (gnomAD): Varies by population.
+- **rs2073478 (p.Arg107Leu)**: Significance: Benign/Likely benign. Investigated for association with alcohol dependence with no robust findings. AF (gnomAD): Varies by population.
+- **rs142427338 (p.Gln378Ter)**: Significance: Uncertain significance. The minor allele frequency was higher in alcohol-dependent cases than in controls, but the result was not statistically significant. AF (gnomAD): Very rare.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: *ALDH1B1* is highly expressed in the liver and colon. Its high expression in the liver is relevant to its role in alcohol metabolism. Expression is also noted in the small intestine and pancreas.
+- **Tissue-specific Phenotypes Expected**: Given its high expression in the liver, variants could theoretically impact alcohol metabolism and liver-related pathways. Its role in the colon has led to its investigation as a biomarker for colorectal cancer.
+- **Expression during Development and Age-related Phenotypes**: *ALDH1B1* expression is correlated with the granulocytic development of hematopoietic stem cells.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: *ALDH1B1* is a mitochondrial enzyme that plays a key role in the detoxification of acetaldehyde, a toxic byproduct of alcohol metabolism, by oxidizing it to acetate.
+- **Disease Mechanism**: The primary mechanism discussed in the literature relates to altered enzyme activity affecting metabolism. In cancer, its role is complex, involving chemoresistance and modulation of signaling pathways.
+- **Cellular/molecular Pathways Disrupted → Phenotype Consequences**: Altered *ALDH1B1* function can impact alcohol metabolism. In cancer, it has been shown to modulate Wnt/β-catenin, Notch, and PI3K/Akt signaling pathways, which can promote tumorigenesis, particularly in colorectal cancer. It's also implicated in the DNA damage response.
+- **Protein-protein Interactions Relevant to Phenotype**: It is predicted that ALDH1B1 can form heterotetramers with ALDH2, which may have implications for individuals with inactivating *ALDH2* variants.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: Testing for *ALDH1B1* is not standard for diagnosing Mendelian diseases due to a lack of a clear disease association.
+- **Most Common Reasons for Testing This Gene**: The gene is primarily studied in research settings for its association with alcohol dependence and as a potential biomarker or therapeutic target in various cancers, such as colorectal, lung, and pancreatic cancer.
+- **Clinical Actionability and Management Implications**: Currently, there are no specific clinical actions or management guidelines based on *ALDH1B1* genotype for Mendelian disorders.
+- **Genetic Counseling Considerations**: Counseling would focus on the complex, multifactorial nature of associated traits like alcohol dependence and the gene's uncertain role in Mendelian disease.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 28594833 (2017)**: Investigated missense and stop-gain variants in *ALDH1B1* in a large alcohol-dependent population, finding no significant association, though a rare stop-gain variant showed a trend.
+- **PMID: 34095646 (2021)**: A genome-wide association study meta-analysis that identified *ALDH1B1* as a locus associated with alcohol consumption, particularly in individuals heterozygous for the *ALDH2* rs671 variant.
+- **PMID: 26053150 (2015)**: Demonstrated that *ALDH1B1* knockdown suppresses colon cancer cell proliferation and modulates Wnt/β-catenin, Notch, and PI3K/Akt signaling.
+- **PMID: 29435210 (2018)**: Showed that *ALDH1B1* is overexpressed in osteosarcoma, associated with poor prognosis, and promotes tumor progression.
+- **PMID: 33488579 (2021)**: Explored *ALDH1B1* overexpression in colorectal adenocarcinoma cells, linking it to decreased proliferation but increased migration and chemoresistance.
+- **PMID: 20602976 (2010)**: One of the first studies to characterize the biochemical properties of the human ALDH1B1 protein.
+- **PMID: 34544520 (2021)**: Provides an annotation of common genetic variants across the entire ALDH multigene family, including *ALDH1B1*.
+- **PMID: 36676159 (2023)**: A review discussing the emerging role of *ALDH1B1* as a marker of cancer progression and its contribution to the cancer stem cell phenotype.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: At present, there are no high-confidence associations between specific *ALDH1B1* variants and HPO terms for Mendelian disease.
+- **Phenotype red flags**: There are currently no "red flag" HPO terms that would strongly suggest pathogenic variants in *ALDH1B1*.
+- **Differential diagnosis considerations**: Given the general mention of "Mitochondrial disease" and "Epilepsy," differential diagnosis would be extremely broad. The gene *ALDH7A1* is associated with pyridoxine-dependent epilepsy (OMIM: 266100), which presents with seizures, but this is a distinct clinical entity caused by a different aldehyde dehydrogenase family member.
+

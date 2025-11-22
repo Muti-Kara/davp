@@ -1,0 +1,56 @@
+FAM124A Gene Biomedical Dossier
+### **FAM124A: Clinical Genetics Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 26413.
+*   **OMIM Gene ID:** FAM124A does not currently have an assigned OMIM number.
+*   **Primary Disease Associations:** Currently, there are no definitive Mendelian disease associations for FAM124A. It has been implicated in a complex deletion syndrome and noted in association with intellectual disability in a single case.
+*   **Clinical Significance Level:** The evidence for FAM124A's role in a specific Mendelian disorder is limited/disputed.
+*   **Inheritance Patterns Observed in Patients:** The inheritance pattern is not well-established due to a lack of defined disease association. A *de novo* deletion including this gene has been reported.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for FAM124A are pLI = 0.00, LOEUF = 1.15, pRec = 0.81, and pNull = 0.19.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score (closer to 0) and high LOEUF score (greater than the recommended <0.35 cutoff) suggest that FAM124A is tolerant to loss-of-function (LoF) variation. This indicates that haploinsufficiency is not a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF variants, pathogenic variants, if they exist, might be other types, but this is currently unknown.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As there is no defined FAM124A-related disorder, a ranked list of HPO terms is not available. A single case with a large deletion including FAM124A reported Intellectual disability (HP:0001249).
+*   **Secondary HPO terms:** In the same deletion case, other reported features included Large face (HP:0000272), Large ears (HP:0000400), Short philtrum (HP:0000322), Congenital cataract (HP:0000519), Short stature (HP:0004322), Joint hypermobility (HP:0001382), Hypotonia (HP:0001252), and Arachnodactyly (HP:0001166).
+*   **Age of Onset Patterns:** Not established. The single deletion case presented with congenital and developmental features.
+*   **Phenotype Severity Spectrum:** Not established.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Due to the lack of characterized pathogenic variants, no correlations between variant classes and specific phenotypes have been established.
+*   **Protein Domain-Specific Phenotype Patterns:** No protein domain-specific phenotype patterns are currently known.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable due to insufficient data.
+*   **Examples: specific variants → specific phenotypes:** A *de novo* deletion at 13q14.2-q21.1, encompassing FAM124A and other genes, was associated with moderate intellectual disability and other physical anomalies.
+
+**Clinical Variants & Phenotype Associations**
+*   There are currently no well-characterized pathogenic or likely pathogenic single nucleotide variants (SNVs) or small indels in FAM124A reported in ClinVar.
+*   A large deletion including FAM124A was reported in two siblings with intellectual disability and other features. The contribution of FAM124A haploinsufficiency to this phenotype is uncertain.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Genotype-Tissue Expression (GTEx) portal, FAM124A shows the highest expression in the spinal cord (cervical C-1), cerebellum, and tibial nerve.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in the central and peripheral nervous systems could suggest a potential role in neurological function.
+*   **Expression During Development and Age-Related Phenotypes:** Expression data from Xenopus suggests FAM124A is expressed in various developing structures, including the brain, spinal cord, and eye (lens). This aligns with the potential for neurodevelopmental phenotypes.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** FAM124A is a protein-coding gene, and the encoded protein is known to have protein binding capabilities, though its precise function is not fully elucidated.
+*   **Disease Mechanism:** The disease mechanism, if any, is unknown. Given its tolerance to LoF variants, haploinsufficiency is unlikely.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The specific pathways involving FAM124A and their connection to potential phenotypes are not yet defined.
+*   **Protein-Protein Interactions Relevant to Phenotype:** FAM124A is documented to interact with other proteins, but the clinical relevance of these interactions is not yet established.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for FAM124A variants is effectively zero, as it is not currently associated with a Mendelian disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would typically occur as part of a larger gene panel or exome/genome sequencing for individuals with complex, undiagnosed phenotypes, such as the intellectual disability case where a large deletion was found.
+*   **Clinical Actionability and Management Implications:** There is no known clinical actionability or specific management related to FAM124A variants at this time.
+*   **Genetic Counseling Considerations:** Counseling would focus on the uncertainty of the gene's role in disease and the difficulty in interpreting variants of uncertain significance. The tolerance to LoF variants should be noted.
+
+**Key Clinical Literature & Studies**
+*   **PMID: not available (ClinVar Accession: SCV000570535.1), 2017**: A clinical report in ClinVar describes a *de novo* deletion at 13q14.2-q21.1 encompassing multiple genes, including FAM124A, in two siblings with moderate intellectual disability, large face, congenital cataracts, and other anomalies. This is the primary source suggesting a potential, though not confirmed, link to a clinical phenotype.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are no high-confidence HPO-variant associations for FAM124A.
+*   **Phenotype red flags:** Due to the lack of a defined disease association, there are no specific HPO terms that strongly suggest pathogenic variants in this gene. The features reported in the single deletion case (e.g., Intellectual disability, congenital cataracts) could be considered but are very nonspecific.
+*   **Differential Diagnosis Considerations:** If a patient presents with phenotypes overlapping the single deletion case, the differential would be very broad and would include other genes and syndromes associated with intellectual disability and multiple congenital anomalies. The other genes within the deleted 13q14.2-q21.1 region would be primary candidates for causing the phenotype.
+

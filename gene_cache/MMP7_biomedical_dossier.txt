@@ -1,0 +1,103 @@
+MMP7 Gene Biomedical Dossier
+### **MMP7 Clinical Genetics Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 7174.
+*   **OMIM Gene ID:** 178990.
+*   **Primary Disease Associations:** While not linked to a classic Mendelian disease, *MMP7* variants and expression level changes are associated with susceptibility to and progression of various complex diseases, including multiple types of cancer (colorectal, stomach, lung, esophageal, breast, prostate), biliary atresia, liver cirrhosis, and endometriosis.
+*   **Clinical Significance Level:** The evidence for its role in disease is still developing, but it could be considered moderate for its influence on cancer risk and progression and other specific conditions like biliary atresia.
+*   **Inheritance Patterns:** Associations are typically based on polymorphic risk alleles rather than classic Mendelian inheritance patterns. For complex diseases, the inheritance is multifactorial.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for *MMP7* are a pLI score of 1.11e-10 and a loss-of-function observed/expected (o/e) of 0.98.
+*   **Clinical Interpretation of Constraint Scores:** The high o/e ratio (close to 1.0) and very low pLI score indicate that the gene is tolerant of loss-of-function variants. This suggests that haploinsufficiency is not a common disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Gain-of-function variants or regulatory variants (e.g., promoter polymorphisms) that alter gene expression are more likely to be associated with disease phenotypes than loss-of-function variants.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:** As *MMP7* is not linked to a single Mendelian disorder, a definitive list of HPO terms is not established. However, based on its disease associations, relevant phenotypes would include:
+    *   HP:0002616 - Colorectal carcinoma
+    *   HP:0002597 - Gastric cancer
+    *   HP:0030358 - Esophageal squamous cell carcinoma
+    *   HP:0003002 - Breast carcinoma
+    *   HP:0002664 - Prostate cancer
+    *   HP:0001402 - Biliary atresia
+    *   HP:0001394 - Liver cirrhosis
+    *   HP:0000136 - Endometriosis
+    *   HP:0002092 - Pulmonary fibrosis
+    *   HP:0001298 - Encephalopathy (General term, further specification needed)
+    *   HP:0001250 - Seizures (General term, further specification needed)
+    *   HP:0001249 - Intellectual disability (Associated in some large-scale developmental disorder studies)
+    *   HP:0002123 - Arterial hypertension
+*   **Secondary HPO Terms:**
+    *   HP:0002621 - Nasopharyngeal carcinoma
+    *   HP:0002890 - Bladder cancer
+    *   HP:0006721 - Renal cell carcinoma
+    *   HP:0100525 - Pterygium
+    *   HP:0001541 - Ascites
+    *   HP:0001399 - Hepatic failure
+*   **Age of Onset Patterns:** The age of onset for associated conditions is variable; biliary atresia presents in the neonatal period, while cancers typically have an adult onset.
+*   **Phenotype Severity Spectrum:** Severity is dependent on the specific disease, ranging from manageable conditions to life-threatening malignancies and organ failure.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Promoter variants, such as A-181G (rs11568818), are associated with increased gene expression and have been linked to a higher risk for hypertension, various cancers, and endometriosis.
+    *   A nonsynonymous variant resulting in a Gly-137-Asp substitution (rs11568817) confers a gain-of-function phenotype and is strongly associated with the development of liver cirrhosis.
+*   **Protein Domain-Specific Phenotype Patterns:** Information on specific protein domain-phenotype correlations is limited. The functional consequences appear related to altered enzymatic activity or expression levels.
+*   **Genotype-Phenotype Correlation Strength:** The correlation strength is generally considered moderate for complex diseases, with specific polymorphisms acting as risk modifiers rather than deterministic causes. The A-181G promoter polymorphism shows a consistent association with increased MMP-7 activity and disease risk.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   **rs11568818 (A-181G):** The G allele is associated with higher MMP7 expression. It increases the risk for hypertension, nasopharyngeal carcinoma (especially in smokers), and endometriosis.
+    *   **rs11568817 (Gly137Asp):** This variant is linked to a gain-of-function and an increased risk of liver cirrhosis.
+
+**Clinical Variants & Phenotype Associations**
+*   ClinVar lists 15 pathogenic and 1 likely pathogenic allele for *MMP7*; however, these are largely related to somatic mutations in cancer and are not typically associated with germline syndromes. Most documented associations relate to common polymorphisms.
+    *   **rs11568818 (c.-181A>G):** Significance: Risk modifier. Reported Phenotypes: Hypertension, increased risk for various cancers (nasopharyngeal, esophageal, gastric, colorectal), endometriosis. Allele Frequency: Minor allele frequency (G allele) is common, for example, ~0.41-0.47 in Indian populations.
+    *   **rs11568817 (p.Gly137Asp):** Significance: Risk modifier. Reported Phenotypes: Liver cirrhosis. Allele Frequency: Less common than promoter variants.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, *MMP7* shows the highest expression in the gallbladder, minor salivary gland, endometrium, kidney cortex, and pancreas.
+*   **Tissue-Specific Phenotypes Expected:**
+    *   **Gallbladder/Liver:** High expression is consistent with associations with biliary atresia and liver cirrhosis.
+    *   **Endometrium:** High expression correlates with its role in endometriosis risk.
+    *   **Kidney:** Upregulation in the kidney is linked to both acute kidney injury and chronic kidney disease progression.
+    *   **Intestine/Stomach:** Expression in the gastrointestinal tract aligns with its association with colorectal and gastric cancers.
+*   **Expression During Development and Age-Related Phenotypes:** *MMP7* is involved in embryonic development and tissue remodeling. Its role in age-related diseases is primarily through its involvement in chronic inflammation, fibrosis, and cancer.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MMP7 is a secreted zinc-dependent endopeptidase that degrades a wide range of extracellular matrix proteins, playing a key role in tissue remodeling, wound healing, and inflammation.
+*   **Disease Mechanism:** The primary disease mechanism appears to be gain-of-function or altered expression, rather than haploinsufficiency. Overexpression or increased activity contributes to pathological tissue degradation, fibrosis, and tumor progression.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Wnt/β-catenin Signaling:** *MMP7* is a downstream target of this pathway. Its activation can lead to increased cell proliferation and invasion in cancer.
+    *   **Extracellular Matrix Degradation:** Excessive degradation of proteins like collagen IV, fibronectin, and laminin facilitates cancer cell invasion and metastasis.
+    *   **E-cadherin Shedding:** Cleavage of E-cadherin by MMP7 reduces cell-cell adhesion, promoting cell migration and epithelial-to-mesenchymal transition (EMT), which is crucial for tumor progression and fibrosis.
+    *   **Fas Ligand (FasL) Processing:** MMP7 can cleave FasL, which may alter apoptotic signaling and contribute to tumor survival.
+*   **Protein-Protein Interactions Relevant to Phenotype:** MMP7 can activate other MMPs, such as proMMP-2 and proMMP-9, amplifying the proteolytic cascade involved in tissue remodeling and disease.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for germline pathogenic variants in *MMP7* is not standard practice for a specific Mendelian disease. Its utility is more in the context of risk assessment for complex diseases.
+*   **Most Common Reasons for Testing This Gene:** Testing is primarily done in a research setting to investigate susceptibility to cancers, endometriosis, or fibrotic diseases. Elevated protein levels in urine or serum are being investigated as potential biomarkers for diseases like biliary atresia, polycystic kidney disease, and various cancers.
+*   **Clinical Actionability and Management Implications:** Genotype information (e.g., for rs11568818) could potentially be used for risk stratification, especially in conjunction with environmental factors like smoking for nasopharyngeal carcinoma. Elevated MMP7 protein levels may serve as a prognostic biomarker.
+*   **Genetic Counseling Considerations:** Counseling would focus on the concept of genetic risk modifiers for complex diseases, emphasizing that these variants increase susceptibility but are not deterministic.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 31657954, 2019:** Established a link between the *MMP7* promoter variant A-181G (rs11568818), increased gene expression, and a higher risk for hypertension.
+*   **PMID: 18287514, 2008:** Identified a nonsynonymous variant (Gly137Asp) that confers a gain-of-function phenotype and is strongly associated with the risk of liver cirrhosis.
+*   **PMID: 35756083, 2022:** A comprehensive pan-cancer analysis showing *MMP7* is upregulated in most cancers and associated with tumor progression and clinical outcomes.
+*   **PMID: 33734139, 2021:** Showed that the *MMP7* rs11568818 GG genotype was associated with an increased risk of endometriosis in a Taiwanese population.
+*   **PMID: 30873836, 2019:** Described the dual role of MMP7 in kidney disease, protecting against acute injury but promoting chronic fibrosis.
+*   **PMID: 15858066, 2005:** A key early study linking the -181A/G polymorphism to increased susceptibility for esophageal squamous cell carcinoma.
+*   **PMID: 34383431, 2021:** Found no significant association between the *MMP7* A-181G polymorphism and colorectal cancer risk in a Taiwanese population, highlighting population-specific effects.
+*   **PMID: 38240212, 2024:** Investigated the association of *MMP7* genotypes with nasopharyngeal carcinoma risk, finding a synergistic effect with smoking.
+*   **PMID: 34382598, 2021:** Proposed that serum MMP-7 levels could assist in the diagnosis of biliary atresia.
+*   **PMID: 29215037, 2018:** Showed that elevated MMP7 levels are associated with pulmonary involvement in patients with systemic sclerosis.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   Variants that increase *MMP7* expression or activity (e.g., promoter variant **rs11568818 G-allele**) are associated with phenotypes related to tissue fibrosis and cancer, such as **HP:0001394 (Liver cirrhosis)**, **HP:0002092 (Pulmonary fibrosis)**, and various cancer terms like **HP:0002616 (Colorectal carcinoma)**.
+    *   The gain-of-function missense variant **rs11568817 (p.Gly137Asp)** has a specific association with **HP:0001394 (Liver cirrhosis)**.
+*   **Phenotype red flags:**
+    *   A combination of phenotypes related to fibrosis in multiple organs (e.g., liver, lung, kidney) might suggest a systemic process where *MMP7* could be a contributing factor.
+    *   Early-onset biliary atresia (**HP:0001402**) is a strong indicator to investigate *MMP7* expression levels as a potential biomarker.
+*   **Differential diagnosis considerations:**
+    *   Phenotypes of fibrosis overlap with those caused by variants in genes from the TGF-β signaling pathway or other matrix metalloproteinases (*MMPs*) and their inhibitors (*TIMPs*).
+    *   Cancer susceptibility overlaps with numerous well-established cancer predisposition genes. *MMP7* variants should be considered as risk modifiers in the absence of pathogenic variants in high-penetrance genes.
+

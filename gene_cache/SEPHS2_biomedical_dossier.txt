@@ -1,0 +1,57 @@
+SEPHS2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID**: 19686
+*   **OMIM Gene ID**: 606218
+*   **Primary Disease Associations**: Diseases associated with SEPHS2 include Keshan Disease and Congenital Myopathy 3 With Rigid Spine.
+*   **Clinical Significance Level**: The clinical significance for specific variants is not yet well-established in public databases, though the gene is associated with disease.
+*   **Inheritance Patterns**: The specific inheritance patterns for SEPHS2-related disorders are not clearly detailed in the provided search results.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI score of 0.00, a pRec score of 0.00, and a pNull score of 1.00. The LOEUF score is 1.21. These scores suggest the gene is tolerant to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores**: A low pLI score (closer to 0) and a LOEUF score greater than 0.35 indicate that the gene is not highly intolerant to protein-truncating variants. The gene does not appear to be under strong selective pressure against loss-of-function variants in the general population.
+*   **Variant Classes Most Likely to Be Pathogenic**: While constraint scores are low, pathogenic variants have been identified in other selenoprotein synthesis genes, including missense and protein-truncating variants. The clinical impact is likely dependent on the specific variant's effect on protein function.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities but specific, frequently reported HPO terms for SEPHS2 are not detailed in the search results.
+*   **Secondary HPO terms**: Mouse models with mutations in SEPHS2 exhibit behavior/neurological phenotypes and mortality/aging phenotypes. Human cellular studies have shown decreased viability and resistance to certain viral infections.
+*   **Age of Onset Patterns**: The age of onset for SEPHS2-related disorders is not specified in the provided search results.
+*   **Phenotype Severity Spectrum**: The severity spectrum is not well-defined, though related disorders involving selenoprotein synthesis can range from affecting thyroid function and muscle to severe neurological phenotypes.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: There is currently insufficient data from the search results to establish clear correlations between specific SEPHS2 variant classes and distinct phenotypes.
+*   **Protein Domain-Specific Phenotype Patterns**: Information on phenotype patterns related to specific protein domains of SEPHS2 is not available in the search results.
+*   **Genotype-Phenotype Correlation Strength**: The correlation strength is currently considered weak due to the limited number of reported cases and variants.
+*   **Examples: specific variants → specific phenotypes**: The search results do not provide examples of specific SEPHS2 variants leading to particular phenotypes.
+
+### **Clinical Variants & Phenotype Associations**
+*   The ClinVar database contains variants for SEPHS2, but the search results do not list specific pathogenic variants with detailed phenotype associations. The provided data focuses more on the gene's role in cancer and selenoprotein synthesis in general.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: SEPHS2 mRNA and protein are widely expressed across various normal human tissues without clear tissue specificity. It is preferentially expressed in tissues involved in selenoprotein synthesis and at sites of blood cell development.
+*   **Tissue-Specific Phenotypes Expected**: Given its role in the general selenoprotein synthesis pathway, defects might lead to systemic effects rather than tissue-specific phenotypes. However, deficiencies in related synthesis pathway genes can cause tissue-dependent features, particularly affecting the brain, thyroid, and muscle.
+*   **Expression During Development and Age-Related Phenotypes**: Data from the GTEx portal shows expression in various tissues, but specific information on developmental expression and its link to age-related phenotypes is not detailed.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: SEPHS2 catalyzes the synthesis of selenophosphate from selenide and ATP, which is the essential selenium donor for the synthesis of selenocysteine (Sec).
+*   **Disease Mechanism**: The disease mechanism for SEPHS2 variants is likely loss-of-function, leading to impaired selenophosphate production and a subsequent global deficiency in the synthesis of all 25 human selenoproteins.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: Disruption of the selenocysteine biosynthesis pathway affects the production of selenoproteins, which are critical for protecting against oxidative damage, regulating redox homeostasis, and controlling inflammation. This deficiency can lead to multisystemic clinical manifestations.
+*   **Protein-Protein Interactions Relevant to Phenotype**: SEPHS2 is known to interact with other components of the selenocysteine synthesis machinery, including SEPHS1 and selenocysteine synthase (SEPSECS), forming a complex to facilitate Sec synthesis.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The search results do not contain specific data on the diagnostic yield of SEPHS2 gene testing.
+*   **Most Common Reasons for Testing This Gene**: Testing for SEPHS2 would be considered in patients with complex, multisystem disorders suggestive of a defect in selenoprotein synthesis, potentially with overlapping features of other known selenoprotein synthesis disorders like those caused by SEPSECS or SECISBP2 mutations.
+*   **Clinical Actionability and Management Implications**: Management would likely focus on supportive care for the observed clinical features. Selenium supplementation has been explored in other related disorders, but its efficacy for SEPHS2-deficiency is unknown.
+*   **Genetic Counseling Considerations**: Counseling would be challenging due to the limited data. Given the systemic importance of selenoproteins, pathogenic variants could lead to complex and severe clinical outcomes.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31695057, 2019**: This study analyzed the structure of the human SEPHS2 protein and found it to be overexpressed in triple-negative breast cancer, correlating with aggressiveness and malignant tumor grade.
+*   **PMID: 34691459, 2021**: A bioinformatics analysis revealed that high SEPHS2 expression is associated with poor prognosis in several cancers, including lower-grade glioma, and is linked to immune infiltration and tumor mutational burden.
+*   **PMID: 34850555, 2021**: This review discusses human genetic disorders from systemic selenoprotein deficiency due to mutations in synthesis machinery genes like *SECISBP2*, *TRU-TCA1-1*, and *SEPSECS*, highlighting the severe neurological and myopathic phenotypes that can arise.
+*   **PMID: 33145455, 2020**: A review on pathogenic variants in selenoproteins and their synthesis machinery notes that defects in different components can lead to surprisingly different phenotypes, with *SEPSECS* mutations causing particularly severe brain-related symptoms.
+*   **PMID: 28415712, 2017**: This study details interactions between components of the selenocysteine biosynthesis pathway, confirming that SEPHS2 interacts with SEPHS1 and SEPSECS.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: Currently, there are no established high-confidence HPO-variant associations for SEPHS2 due to a lack of published clinical cases with pathogenic variants.
+*   **Phenotype red flags**: Based on related disorders, red flags suggesting a possible SEPHS2-related disorder could include a combination of neurological symptoms (developmental delay, spasticity, epilepsy), myopathy, and evidence of multisystem disease with no other explanation.
+*   **Differential diagnosis considerations**: The primary differential diagnoses would include other disorders of selenoprotein synthesis caused by pathogenic variants in genes such as *SEPSECS*, *SECISBP2*, and *TRU-TCA1-1*. It would also overlap with congenital myopathies and disorders presenting with progressive neurological deterioration.
+

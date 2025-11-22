@@ -115,9 +115,12 @@ def load_gene_cache(gene_cache_dir: str) -> Dict[str, str]:
     """Load all gene cache files into a dictionary."""
     gene_cache = {}
     for path in glob.glob(os.path.join(gene_cache_dir, "*")):
-        gene_name = os.path.basename(path).replace("_biomedical_dossier.txt", "")
+        gene_name = os.path.basename(path)
+        if gene_name.endswith('.txt'):
+            gene_name = gene_name[:-4]
         with open(path, "r") as f:
             gene_cache[gene_name] = f.read()
+    print(f"Loaded {len(gene_cache)} gene cache files")
     return gene_cache
 
 

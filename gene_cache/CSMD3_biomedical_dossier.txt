@@ -1,0 +1,76 @@
+CSMD3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 19291.
+*   **OMIM Gene ID:** 608399.
+*   **Primary Disease Associations:** While initially investigated as a candidate gene for benign adult familial myoclonic epilepsy (BAFME1), no mutations were found in the coding sequence in a study of seven patients. Subsequent research has associated variants in *CSMD3* with a spectrum of epilepsies, including focal epilepsy, febrile seizures plus, and infantile spasms. It is also considered a candidate gene for autism spectrum disorder (ASD) and has been implicated in other neurodevelopmental disorders such as schizophrenia.
+*   **Clinical Significance Level:** The evidence for its role in a spectrum of epilepsies is growing, but a definitive, universally accepted classification is still emerging; currently, it might be considered moderate to strong for certain epilepsy phenotypes. Its association with ASD is categorized as suggestive.
+*   **Inheritance Patterns:** Both de novo and inherited variants have been observed. Inheritance patterns appear to be complex, with reports of de novo heterozygous, homozygous, and compound heterozygous variants in affected individuals.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Based on gnomAD data, the probability of being loss-of-function intolerant (pLI) for *CSMD3* is 0.97, and the missense Z-score is 2.24, suggesting the gene is intolerant to both loss-of-function and missense variation.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI score (≥ 0.9 is considered extremely intolerant) indicates that heterozygous protein-truncating variants in *CSMD3* are likely subject to negative selection and may not be tolerated. This suggests that haploinsufficiency is a potential disease mechanism. The positive missense Z-score also points towards intolerance to missense variants.
+*   **Variant Classes Most Likely to be Pathogenic:** Based on constraint scores and case reports, loss-of-function (nonsense, frameshift) and damaging missense variants are the most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Focal-onset seizure.
+    *   Febrile seizure plus.
+    *   Infantile spasms.
+    *   Autism spectrum disorder.
+    *   Motor delay.
+    *   Intellectual disability.
+    *   Global developmental delay.
+    *   Repetitive stereotyped behaviors.
+    *   Impaired social interactions.
+    *   Epileptic encephalopathy.
+*   **Secondary HPO terms:**
+    *   Generalized epilepsy.
+    *   Schizophrenia.
+    *   Abnormal cerebral cortex morphology.
+    *   Abnormal dendrite morphology.
+    *   Ataxia.
+*   **Age of Onset Patterns:** The age of onset varies depending on the phenotype, ranging from infantile (infantile spasms) to early childhood (febrile seizures, autism) and can also include adult-onset conditions.
+*   **Phenotype Severity Spectrum:** The severity ranges from relatively benign conditions like febrile seizures plus to severe developmental and epileptic encephalopathies (DEE). A correlation between the predicted damage of a variant and the severity of the phenotype has been suggested.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Truncating variants are suggested to lead to non-functional proteins or haploinsufficiency. Missense variants have been identified across the epilepsy spectrum, including focal epilepsy, febrile seizures plus, and infantile spasms.
+*   **Protein Domain-Specific Phenotype Patterns:** The CSMD3 protein contains multiple CUB and Sushi domains which are involved in protein-protein interactions. Specific phenotype correlations with variants in these domains are still being investigated, but variants are distributed across the protein.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is currently considered moderate. While different epilepsy types have been linked to *CSMD3* variants, the same type of variant (e.g., missense) can be seen in patients with different epilepsy syndromes.
+*   **Examples: specific variants → specific phenotypes:** A de novo missense variant has been associated with a more severe phenotype. Compound heterozygous missense variants have been reported in cases of focal epilepsy and febrile seizures plus.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *CSMD3* is highly expressed in the brain, particularly in the nucleus accumbens, hypothalamus, anterior cingulate cortex, and frontal cortex. This high level of brain expression is consistent with its association with neurodevelopmental disorders like epilepsy and autism.
+*   **Tissue-Specific Phenotypes Expected:** Given its primary expression in the brain, the expected phenotypes are predominantly neurological, including various forms of seizures, developmental delay, and behavioral abnormalities.
+*   **Expression During Development and Age-Related Phenotypes:** The gene is expressed in both the fetal and adult brain. Its expression during early developmental stages is consistent with its role in neurodevelopmental disorders and DEEs.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *CSMD3* is involved in the regulation of dendrite development and plays a role in neuronal maturation and synapse formation.
+*   **Disease Mechanism:** Haploinsufficiency due to truncating variants is a likely disease mechanism. The pathogenicity of missense variants could result from altered protein function or stability.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of *CSMD3* function impairs the development and function of cerebellar Purkinje cells and can lead to abnormal dendritic branching. These disruptions in neuronal morphology and synaptic plasticity likely underlie the observed phenotypes of motor deficits, seizures, and autistic-like behaviors. The protein's CUB and Sushi domains are thought to mediate protein-protein interactions critical for these processes.
+*   **Protein-Protein Interactions Relevant to Phenotype:** *CSMD3* is predicted to act as a coreceptor for other membrane proteins to regulate dendrite development. Its interactions are crucial for proper neuronal network formation.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In a study of patients with focal epilepsy, *CSMD3* variants were identified in four cases. In another cohort with various neurodevelopmental disorders, rare and potentially deleterious missense variants were found.
+*   **Most Common Reasons for Testing This Gene:** Testing for *CSMD3* is typically considered in individuals with unexplained epilepsy (particularly focal epilepsy, febrile seizures plus, and infantile spasms), autism spectrum disorder, or other neurodevelopmental delays.
+*   **Clinical Actionability and Management Implications:** Identifying a pathogenic variant in *CSMD3* can help confirm a diagnosis, guide anti-seizure medication selection, and provide prognostic information.
+*   **Genetic Counseling Considerations:** Counseling should address the variable expressivity and incomplete penetrance that may be associated with *CSMD3* variants. Both autosomal dominant (de novo) and recessive inheritance patterns have been suggested, which has implications for recurrence risk counseling.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 40632521, Year: 2025 (Epub ahead of print):** Established a significant association between *CSMD3* variants and a spectrum of epilepsies, including focal epilepsy, febrile seizures plus, and infantile spasms, through a study of multiple families.
+*   **PMID: 37225492, Year: 2023:** Demonstrated in a mouse model that loss of *CSMD3* leads to motor impairments and autism-like behaviors through dysfunction of cerebellar Purkinje cells.
+*   **PMID: 35583908, Year: 2022:** Identified rare and potentially damaging missense variants in *CSMD3* in patients with a range of neurodevelopmental disorders, including ASD and intellectual disability, and showed that disruption in mice caused neurodevelopmental deficits.
+*   **PMID: 27588396, Year: 2016:** Showed that overexpression of *CSMD3* induces dendritic branching in cultured hippocampal neurons, supporting its role in neuronal development.
+*   **PMID: 18668478, Year: 2008:** First proposed *CSMD3* as a candidate gene for autism based on two patients with de novo balanced translocations near the gene.
+*   **PMID: 12935749, Year: 2003:** Identified *CSMD3* as a novel giant gene and a candidate for benign adult familial myoclonic epilepsy, though no mutations were found in the initial patient cohort.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:**
+    *   De novo, homozygous, or compound heterozygous loss-of-function or damaging missense variants are strongly associated with a spectrum of epilepsy phenotypes, including **Focal-onset seizure (HP:0000722)**, **Febrile seizures plus (HP:0002462)**, and **Infantile spasms (HP:0002278)**.
+    *   Deleterious missense variants are also associated with **Autism spectrum disorder (HP:0000729)** and **Intellectual disability (HP:0001249)**.
+*   **Phenotype red flags:**
+    *   The co-occurrence of early-onset epilepsy (infantile or childhood) with features of autism spectrum disorder should raise suspicion for pathogenic variants in *CSMD3*.
+    *   A family history consistent with febrile seizures plus or various focal epilepsies could also point towards this gene.
+*   **Differential diagnosis considerations:**
+    *   The phenotype of *CSMD3*-related epilepsy can overlap with that caused by variants in other genes associated with focal epilepsy, DEEs, and febrile seizures.
+    *   For the autism and intellectual disability phenotypes, the differential diagnosis is broad and includes numerous other syndromic and non-syndromic neurodevelopmental disorders.
+

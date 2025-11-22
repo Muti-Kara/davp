@@ -1,0 +1,55 @@
+SSU72L4 Gene Biomedical Dossier
+### **Gene Dossier: SSU72L4**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: HGNC:43623.
+*   **OMIM Gene ID**: Not listed in OMIM as associated with a specific phenotype.
+*   **Primary Disease Associations**: No established disease association in OMIM or Orphanet.
+*   **Clinical Significance Level**: Evidence for disease causality is currently undetermined.
+*   **Inheritance Patterns**: No clear inheritance pattern has been established due to a lack of defined disease association.
+
+**Constraint & Variant Intolerance**
+*   **pLI**: 0.99 (gnomAD v4.1.0).
+*   **LOEUF**: 0.28 (gnomAD v4.1.0).
+*   **pRec**: 0.
+*   **pNull**: 0.983.
+*   **Clinical Interpretation of Constraint Scores**: The high pLI score (≥ 0.9) indicates that *SSU72L4* is extremely intolerant to loss-of-function (LoF) variation. The low LOEUF score further supports that the gene is under strong selective pressure against protein-truncating variants.
+*   **Variant Classes Most Likely to be Pathogenic**: Based on constraint scores, loss-of-function variants (e.g., nonsense, frameshift, and canonical splice site variants) are most likely to be pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: A defined phenotype spectrum has not been established for variants in *SSU72L4*.
+*   **Secondary HPO terms**: No specific HPO terms are consistently reported in the literature in association with *SSU72L4* variants.
+*   **Age of Onset Patterns**: Not applicable as no disease is currently associated.
+*   **Phenotype Severity Spectrum**: Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   No specific genotype-phenotype correlations for *SSU72L4* have been described in the medical literature.
+
+**Clinical Variants & Phenotype Associations**
+*   ClinVar lists variants in *SSU72L4*, but none are classified as pathogenic or likely pathogenic with a clear associated phenotype. Submissions are primarily variants of uncertain significance (VUS).
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx V8 TPM)**: Testis shows the highest expression, followed by skeletal muscle, heart (atrial appendage and left ventricle), and brain (cerebellum).
+*   **Tissue-Specific Phenotypes Expected**: Based on expression data, pathogenic variants could potentially manifest in the reproductive, muscular, cardiac, or neurological systems.
+*   **Expression During Development**: Data on developmental expression patterns are not readily available in primary clinical genetics resources.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: The SSU72L4 protein functions as a protein phosphatase that dephosphorylates the C-terminal domain of RNA polymerase II, playing a role in RNA processing and transcription termination.
+*   **Disease Mechanism**: Given the high intolerance to LoF variants, haploinsufficiency is the most probable disease mechanism.
+*   **Cellular/Molecular Pathways Disrupted**: Disruption of SSU72L4 function would likely interfere with the fundamental process of gene transcription and RNA processing, potentially leading to widespread cellular dysfunction.
+*   **Protein-Protein Interactions Relevant to Phenotype**: The protein is predicted to be part of the mRNA cleavage and polyadenylation specificity factor (CPSF) complex, essential for processing the 3' end of messenger RNAs.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for *SSU72L4* is unknown, as it is not typically included in clinical gene panels for specific disorders.
+*   **Most Common Reasons for Testing This Gene**: Testing for this gene would likely occur in a research context or as part of large-scale genomic sequencing (e.g., whole-exome or whole-genome sequencing) for individuals with complex, undiagnosed conditions.
+*   **Clinical Actionability and Management Implications**: There are no established clinical management guidelines for patients with variants in *SSU72L4*.
+*   **Genetic Counseling Considerations**: Counseling would focus on the uncertainty of the findings, the gene's intolerance to variation suggesting its importance, and the lack of a defined clinical syndrome.
+
+**Key Clinical Literature & Studies**
+*   No key clinical or landmark publications directly associating pathogenic variants in *SSU72L4* with a human phenotype were identified. Literature is currently limited to gene function and large-scale genomic studies.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: There are currently no high-confidence HPO-variant associations for *SSU72L4*.
+*   **Phenotype Red Flags**: No "red flag" HPO terms have been established that would strongly suggest pathogenic variants in this gene.
+*   **Differential Diagnosis Considerations**: Not applicable.
+

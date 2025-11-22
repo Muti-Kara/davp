@@ -1,0 +1,58 @@
+OR2A1 Gene Biomedical Dossier
+### **Gene Dossier: OR2A1**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 8229.
+*   **OMIM Gene ID**: No OMIM entry for this gene exists.
+*   **Primary Disease Associations**: No established disease associations have been documented for OR2A1 in OMIM or other major clinical databases.
+*   **Clinical Significance Level**: Evidence for clinical significance is currently lacking; it is not associated with a known Mendelian disease.
+*   **Inheritance Patterns**: No Mendelian inheritance patterns have been described.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a probability of being loss-of-function intolerant (pLI) score of 0.00, an observed/expected (o/e) LoF upper bound fraction (LOEUF) of 1.13, a pRec score of 0.207, and a pNull score of 0.706.
+*   **Clinical Interpretation of Constraint Scores**: The extremely low pLI score and high LOEUF score indicate that the gene is highly tolerant of loss-of-function variation and is not under strong purifying selection.
+*   **Variant Classes Most Likely to be Pathogenic**: Given the tolerance to LoF variation, it is unlikely that nonsense or frameshift variants would be pathogenic for a severe Mendelian disorder. The role of missense variants remains largely uncharacterized.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No specific HPO terms are definitively associated with variants in OR2A1. The gene's function in smell perception suggests potential relevance for abnormalities of olfaction (e.g., Anosmia, HP:0000458; Hyposmia, HP:0004409).
+*   **Secondary HPO terms**: There are no documented secondary HPO terms.
+*   **Age of Onset Patterns**: Not applicable, as no associated disease has been defined.
+*   **Phenotype Severity Spectrum**: Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: No consistent genotype-phenotype correlations have been established.
+*   **Protein Domain-Specific Phenotype Patterns**: Information is not available due to the lack of associated clinical phenotypes.
+*   **Genotype-Phenotype Correlation Strength**: Weak to nonexistent for any specific Mendelian disease.
+*   **Examples: Specific Variants → Specific Phenotypes**: Copy-number variation (CNV) across the olfactory receptor gene family is common and may contribute to individual differences in olfactory ability, but specific variant-to-phenotype links for OR2A1 are not well-defined. One study noted ambiguous results when trying to assay copy number for OR2A1/OR2A42.
+
+**Clinical Variants & Phenotype Associations**
+*   **Well-Characterized Pathogenic Variants**: There are no variants in OR2A1 classified as pathogenic or likely pathogenic with associated clinical phenotypes in the ClinVar database.
+*   **Variants with Strongest Phenotype Evidence**: None documented.
+*   **Novel Variants from Recent Case Reports**: No recent case reports linking novel variants in OR2A1 to a specific clinical phenotype were identified.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM)**: Primarily expressed in the olfactory mucosa. However, low levels of expression have been reported in a wide range of other tissues, including the testis, thyroid, and heart.
+*   **Tissue-Specific Phenotypes Expected**: The primary expected phenotype relates to the sense of smell due to its high expression in the olfactory epithelium.
+*   **Expression During Development and Age-Related Phenotypes**: Ectopic expression (expression outside the olfactory system) has been observed. A 2023 study noted low expression of OR2A1 in the human heart and suggested that cardiac olfactory receptor signaling may be altered in heart failure.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: OR2A1 encodes an odorant receptor, a G-protein coupled receptor (GPCR) that interacts with odorant molecules in the nose to initiate a neuronal response, leading to the perception of smell.
+*   **Disease Mechanism**: Not associated with a known monogenic disease mechanism. Any phenotypic effect is more likely related to quantitative trait variation (e.g., in smell perception) rather than a pathogenic disease mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: The gene is a component of the Olfactory Signaling Pathway. Disruption could theoretically alter the ability to detect specific odorants.
+*   **Protein-Protein Interactions Relevant to Phenotype**: As a GPCR, it is expected to interact with G-proteins (such as GNAL and GNG13) and kinases (such as GRK2 and GRK3) to mediate signal transduction.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: Zero. This gene is not included in standard diagnostic panels for rare diseases as it is not associated with a Mendelian phenotype.
+*   **Most Common Reasons for Testing This Gene**: Testing is generally performed in a research context, for example in studies of olfactory receptor diversity, copy-number variation, or ectopic gene expression.
+*   **Clinical Actionability and Management Implications**: None.
+*   **Genetic Counseling Considerations**: Not applicable for Mendelian disease counseling. Counseling might address the contribution of OR gene family variation to individual differences in smell perception.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 37681559, 2023**: Reported low but detectable expression of OR2A1 in human heart tissue and noted that its expression, along with other ORs, was altered in heart failure, suggesting a potential ectopic function.
+*   **PMID: 18775914, 2008**: Investigated copy-number variation (CNV) across the human olfactory receptor gene family and highlighted that these CNVs likely contribute to variation in olfactory abilities among individuals.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations**: No high-confidence HPO-variant associations currently exist for OR2A1.
+*   **Phenotype Red Flags**: There are no HPO terms that strongly suggest the presence of a pathogenic variant in OR2A1 for a Mendelian disorder.
+*   **Differential Diagnosis Considerations**: For patients presenting with congenital anosmia or hyposmia, other genes with definitive associations to these phenotypes should be considered first. OR2A1 is not currently a candidate for causing these conditions in a monogenic fashion.
+

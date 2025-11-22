@@ -1,0 +1,110 @@
+RANBP2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:9840.
+*   **OMIM Gene ID:** 601181.
+*   **Primary Disease Associations:**
+    *   Acute necrotizing encephalopathy type 1 (ANE1), also known as infection-induced encephalopathy 3 (IIAE3) (OMIM: 608033). This is a susceptibility to a rare, rapidly progressive encephalopathy often triggered by viral infections like influenza.
+    *   Somatic gene fusions involving *RANBP2* (e.g., *RANBP2-ALK*) are associated with inflammatory myofibroblastic tumors.
+*   **Clinical Significance Level:** The association between *RANBP2* and ANE1 is considered a major susceptibility factor.
+*   **Inheritance Patterns:**
+    *   ANE1 is typically inherited in an autosomal dominant pattern with incomplete penetrance (estimated at 40%). This means that an individual who inherits the pathogenic variant may not develop the disease, and can be an unaffected carrier.
+    *   A rare case of a severe, early-onset ANE phenotype has been reported with a homozygous (biallelic) *RANBP2* variant, suggesting a possible autosomal recessive inheritance pattern with increased severity.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:**
+    *   pLI (v2.1.1): 0.00. This score indicates the gene is not highly intolerant to loss-of-function (LoF) variants.
+    *   LOEUF (v4.0): 1.13. A LOEUF score greater than 0.6 suggests the gene is tolerant of LoF variation.
+    *   gnomAD does not provide specific pRec or pNull values.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores suggest that haploinsufficiency (loss of one gene copy) is not a common disease mechanism for *RANBP2*-related disorders. This aligns with the observation that the primary disease, ANE1, is caused by specific missense mutations rather than protein-truncating variants.
+*   **Variant Classes Most Likely to Be Pathogenic:**
+    *   Heterozygous missense mutations are the established pathogenic variant class for ANE1 susceptibility.
+    *   Gene fusions (translocations) acquired somatically are pathogenic for inflammatory myofibroblastic tumors.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:**
+    *   Encephalopathy (HP:0001298)
+    *   Seizures (HP:0001250)
+    *   Coma (HP:0001259)
+    *   Thalamic lesion (HP:0012170) (Typically bilateral and symmetric)
+    *   Brainstem dysfunction (HP:0006872)
+    *   Fever (HP:0001945) (Often preceding neurological symptoms)
+    *   Acute necrotizing encephalopathy (HP:0007133)
+    *   Recurrent infections (HP:0002719)
+    *   Reduced penetrance (HP:0003829)
+    *   Altered consciousness (HP:0007185)
+    *   Hyperammonemia (HP:0001987)
+    *   Ataxia (HP:0001251)
+*   **Secondary HPO Terms:**
+    *   Temporal lobe lesion (HP:0030953)
+    *   Cerebellar lesion (HP:0100259)
+    *   Myofibroblastic tumor (HP:0030419) (Somatic context)
+    *   Polyneuritis (HP:0000754)
+    *   Gastrointestinal dysmotility (HP:0002019) (Prodromal symptom)
+    *   Otitis media (HP:0000388) (Prodromal symptom)
+*   **Age of Onset Patterns:** The majority of ANE1 episodes occur in early childhood, typically before age 6, following a common viral illness. However, onset has been reported from 3 months to adulthood.
+*   **Phenotype Severity Spectrum:** Severity is highly variable. Some individuals with pathogenic variants remain asymptomatic. In those who develop ANE, the outcome ranges from full recovery to severe, persistent neurological deficits or death (mortality rate up to 30%).
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Heterozygous missense variants are associated with susceptibility to infection-triggered acute necrotizing encephalopathy (ANE1).
+    *   Biallelic (homozygous) missense variants may lead to a more severe, early-onset ANE phenotype with increased penetrance.
+    *   Somatic translocations resulting in a *RANBP2-ALK* fusion gene cause inflammatory myofibroblastic tumors, which can be aggressive.
+*   **Protein Domain-Specific Phenotype Patterns:** Most pathogenic missense mutations causing ANE1, such as p.Thr585Met, are located in the leucine-rich domain (LRD) of the protein.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between specific heterozygous missense mutations (e.g., p.Thr585Met) and susceptibility to ANE1 is strong, though penetrance is incomplete. The correlation for other, rarer variants is still being established.
+*   **Examples: specific variants → specific phenotypes:**
+    *   The c.1754C>T (p.Thr585Met) missense mutation is the most frequently reported variant associated with autosomal dominant susceptibility to ANE1.
+    *   A homozygous p.Ile656V variant was identified in two siblings with severe, early-onset ANE.
+
+### **Clinical Variants & Phenotype Associations**
+*   **Well-characterized pathogenic variants:**
+    *   **c.1754C>T (p.Thr585Met) / rs121434502 / Pathogenic/Risk Factor / Acute necrotizing encephalopathy type 1 (HP:0007133), Encephalopathy (HP:0001298), Seizures (HP:0001250) / Not present in gnomAD.** This is the most common ANE1-associated variant.
+    *   **c.1967C>T (p.Thr653Ile) / Not specified / Likely Pathogenic / Acute necrotizing encephalopathy.**
+    *   **c.1966A>G (p.Ile656Val) / Not specified / Pathogenic (when homozygous) / Severe acute necrotizing encephalopathy (HP:0007133) with early onset.**
+    *   **c.2042G>A (p.Trp681Cys) / Not specified / Likely Pathogenic / Acute necrotizing encephalopathy.**
+    *   **c.1350A>T (p.Leu450Phe) / Not specified / Variant of Uncertain Significance (predicted deleterious) / Acute necrotizing encephalopathy, Seizures, Status epilepticus.**
+    *   **c.872A>G / Not specified / Not specified / Acute necrotizing encephalopathy.**
+    *   **c.7454G>T / Not specified / Not specified / Acute necrotizing encephalopathy.**
+    *   **c.7474A>G / Not specified / Not specified / Acute necrotizing encephalopathy.**
+    *   **c.7807C>T / Not specified / Not specified / Acute necrotizing encephalopathy.**
+    *   **c.7918C>A / Not specified / Not specified / Acute necrotizing encephalopathy.**
+*   **Variants with Strongest Phenotype Evidence:** The p.Thr585Met variant has the most extensive documentation and is strongly associated with ANE1 susceptibility across multiple families.
+*   **Novel Variants:** Recent reports have identified novel mutations like c.7454G>T and c.7474A>G, expanding the known pathogenic spectrum.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The Human Protein Atlas reports ubiquitous expression of *RANBP2*. GTEx data highlights expression in tissues like the vagina, testis, and various brain regions, but the broad expression is consistent with its fundamental cellular role.
+*   **Tissue-Specific Phenotypes Expected:** The primary phenotype is neurological, affecting the central nervous system, particularly the thalami and brainstem. This is thought to be due to a localized "cytokine storm" in the brain following systemic infection.
+*   **Expression During Development and Age-Related Phenotypes:** The gene is critical for fundamental cellular processes like mitosis, suggesting its importance throughout development. The age-related penetrance, with most ANE1 cases in childhood, suggests a developmental window of susceptibility.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** RANBP2 (also Nup358) is a large, multifunctional protein of the nuclear pore complex that regulates nucleocytoplasmic transport, protein sumoylation, and microtubule dynamics.
+*   **Disease Mechanism:**
+    *   For ANE1, the mechanism is likely a dominant-negative or gain-of-function effect of specific missense mutations, rather than haploinsufficiency. These mutations are thought to predispose individuals to a hyperinflammatory response (cytokine storm) within the CNS when triggered by an infection.
+    *   Somatic translocations create a fusion protein (e.g., RANBP2-ALK) with oncogenic, gain-of-function properties that drive uncontrolled cell growth.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Nucleocytoplasmic Transport:** Disruption of protein import/export could impair cellular homeostasis, particularly under stress like infection.
+    *   **Immune Regulation:** Mutations may lead to an inappropriate cytokine response to infection, causing localized inflammation and neuronal damage in the brain.
+    *   **Mitochondrial Function:** RANBP2 has been implicated in regulating the contacts between the ER and mitochondria, and its disruption may lead to dysregulated energy metabolism and cellular stress responses.
+*   **Protein-Protein Interactions Relevant to Phenotype:** RANBP2 interacts with Ran GTPase, importin-beta, exportin-1, and the E2 SUMO-conjugating enzyme UBE2I (Ubc9), all critical for transport and protein modification pathways that, when disrupted, could contribute to the ANE1 phenotype.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Genetic testing for *RANBP2* mutations is recommended for individuals with a clinical and radiological diagnosis of ANE, especially in cases that are familial or recurrent. Not all familial or recurrent ANE is caused by *RANBP2* variants, indicating other genetic factors exist.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for children presenting with acute, severe encephalopathy with characteristic bilateral thalamic lesions on MRI, particularly following a febrile illness. A family history of similar episodes increases the indication.
+*   **Clinical Actionability and Management Implications:** Identifying a pathogenic *RANBP2* variant confirms ANE1 susceptibility, guiding management during subsequent febrile illnesses. Early and aggressive treatment with therapies like high-dose steroids during an acute episode may be associated with more favorable outcomes.
+*   **Genetic Counseling Considerations:** Counseling is important due to autosomal dominant inheritance and incomplete penetrance. Asymptomatic carriers exist and can pass the variant to their offspring. Predictive testing for at-risk family members is possible.
+
+### **Key Clinical Literature & Studies**
+*   **Neilson DE, et al. (2009) *Am J Hum Genet*. PMID: 19118815:** Landmark paper that first identified heterozygous missense mutations in *RANBP2* as the cause of familial acute necrotizing encephalopathy (ANE1), linking a nuclear pore protein to an infection-triggered neurological disease.
+*   **Levin ML, et al. (2020) *Mult Scler Relat Disord*. PMID: 32426208:** Review summarizing clinical features, therapeutic implications, and hypotheses on the pathomechanism of *RANBP2*-associated ANE1, highlighting the role of cytokine storm and mitochondrial dysfunction.
+*   **Ayaz A, et al. (2022) *Clin Neurol Neurosurg*. PMID: 36029610:** First report of a homozygous *RANBP2* mutation (p.Ile656Val) in siblings with a severe ANE phenotype, suggesting a potential autosomal recessive inheritance and a gene-dosage effect on severity.
+*   **Fan C, et al. (2025) *Neurol Sci*. PMID: 39710814:** Recent study identifying novel *RANBP2* mutation sites in ANE children and correlating mutations with slightly elevated blood ammonia and a broader range of infectious triggers beyond influenza.
+*   **Al-Mubarak B, et al. (2021) *Childs Nerv Syst*. PMID: 33777749:** Case report and review discussing the clinical presentation and management of ANE1, reinforcing the characteristic clinical course from prodromal illness to acute neurological decline.
+*   **Palazzo AF, et al. (2022) *Front Cell Dev Biol*. PMID: 35574347:** Workshop report summarizing research on the role of RANBP2 in ANE, discussing links between its mutations, viral infections, and the innate immune response.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:**
+    *   Heterozygous missense variants (especially p.Thr585Met) are strongly associated with susceptibility to **Acute necrotizing encephalopathy (HP:0007133)**, which manifests as **Encephalopathy (HP:0001298)**, **Seizures (HP:0001250)**, and **Coma (HP:0001259)** following a febrile illness.
+*   **Phenotype Red Flags:**
+    *   The presence of bilateral, symmetric **Thalamic lesions (HP:0012170)** on brain MRI in a patient with acute encephalopathy following a viral infection is a major red flag for ANE1 and warrants investigation of the *RANBP2* gene.
+    *   A personal or family history of recurrent, infection-triggered encephalopathy is highly suggestive.
+*   **Differential Diagnosis Considerations:** The phenotype of ANE overlaps with other acute encephalopathies. Differential diagnoses include viral encephalitis, other mitochondrial diseases, metabolic disorders (e.g., CPT2 deficiency), and other genetic leukoencephalopathies. The characteristic neuroimaging is key to distinguishing ANE.
+

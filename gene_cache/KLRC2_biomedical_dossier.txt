@@ -1,0 +1,59 @@
+KLRC2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 6375
+- **OMIM Gene ID:** 602891
+- **Primary Disease Associations:** While not linked to a Mendelian disease, KLRC2 variation, particularly gene deletion, is associated with susceptibility to and severity of viral infections, including Human Cytomegalovirus (HCMV) and severe COVID-19. It has also been investigated in the context of psoriasis and HIV, with some studies suggesting an association.
+- **Clinical Significance Level:** The clinical significance of KLRC2 variants is currently considered associative, influencing susceptibility and response to infectious diseases rather than causing a monogenic disorder.
+- **Inheritance Patterns:** The KLRC2 gene can be deleted in a heterozygous or homozygous state, which is a common polymorphism in the general population. The deletion allele frequency varies across different populations.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI (probability of being loss-of-function intolerant) of 0.00, an observed/expected (o/e) LoF upper bound fraction (LOEUF) of 1.13, a pRec of 0.61, and a pNull of 0.39.
+- **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores indicate that the KLRC2 gene is highly tolerant to loss-of-function (LoF) variation. This is consistent with the observation that homozygous deletion of KLRC2 is found in healthy individuals. These scores suggest that LoF variants are not expected to cause a severe Mendelian disease.
+- **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to LoF, pathogenic variants are less likely to be simple null alleles. However, variants affecting the protein's function, such as missense or in-frame deletions that alter interactions with other proteins like KLRD1 (CD94), could have clinical consequences related to immune response.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As KLRC2 is not associated with a Mendelian disorder, a standard HPO-based phenotype spectrum is not applicable. Phenotypes are primarily related to altered immune function.
+- **Secondary HPO terms:** Phenotypic consequences relate to "Increased susceptibility to viral infections."
+- **Age of Onset Patterns:** The impact of KLRC2 variants, such as the deletion, can become apparent at any age upon exposure to specific viral pathogens like HCMV or SARS-CoV-2.
+- **Phenotype Severity Spectrum:** The severity associated with KLRC2 deletion ranges from no clinical phenotype to increased severity of viral infections, such as severe COVID-19.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Homozygous or heterozygous deletion of the KLRC2 gene is the most studied variation. This deletion is associated with an altered adaptive Natural Killer (NK) cell response and can lead to poorer control of viral infections.
+- **Protein Domain-Specific Phenotype Patterns:** The KLRC2 protein forms a heterodimer with KLRD1 (CD94) to recognize HLA-E molecules on target cells. Variants disrupting the C-type lectin domain or the interaction with KLRD1 would be expected to impair NK cell activation.
+- **Genotype-Phenotype Correlation Strength:** The correlation between KLRC2 deletion and susceptibility to severe viral infections is considered moderate, as it is a risk factor rather than a deterministic cause. The presence of the deletion has been linked to lower counts of adaptive NK cells.
+- **Examples: specific variants → specific phenotypes:** The 16-kb deletion of the KLRC2 gene is associated with the absence of the NKG2C receptor on the cell surface in homozygous individuals, leading to a diminished adaptive NK cell response to HCMV.
+
+### **Clinical Variants & Phenotype Associations**
+- Characterization of pathogenic single nucleotide variants or small indels is limited, as the most significant known variation is the whole gene deletion.
+- **KLRC2 gene deletion (del/del):** Associated with an increased risk of severe COVID-19 and impaired control of HCMV infection. Allele frequency is variable across populations.
+- **KLRC2 gene deletion (wt/del):** Heterozygous carriers may have a reduced number of adaptive NK cells compared to wild-type individuals.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** KLRC2 shows the highest expression in whole blood.
+- **Tissue-Specific Phenotypes Expected:** Given its primary expression in NK cells and some T-cell subsets, phenotypes are expected to be confined to the immune system, specifically affecting anti-viral and anti-tumor surveillance.
+- **Expression During Development and Age-Related Phenotypes:** Expression is tied to the maturation and activation of NK cells. The consequences of KLRC2 variation can manifest throughout life, particularly in response to infections that trigger adaptive NK cell responses.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** The KLRC2 gene encodes the NKG2C protein, an activating receptor on NK cells and some cytotoxic T-cells that recognizes HLA-E molecules on target cells, playing a role in the immune response to viral infections and cellular stress.
+- **Disease Mechanism:** The primary mechanism associated with clinical phenotypes is loss of function due to gene deletion, leading to an impaired or absent adaptive NK cell response. This can be considered a form of haploinsufficiency in heterozygotes, though the clinical impact is variable.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the Natural Killer cell mediated cytotoxicity pathway (KEGG: hsa04650) and DAP12 signaling impairs the ability of the immune system to recognize and eliminate virally infected cells, leading to increased susceptibility and severity of infections.
+- **Protein-Protein Interactions Relevant to Phenotype:** The interaction between KLRC2 (NKG2C) and KLRD1 (CD94) is essential for forming the functional receptor. This receptor complex then interacts with TYROBP (DAP12) for signal transduction. Disruption of these interactions prevents the activation of NK cells.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** Testing for KLRC2 is generally not performed for diagnostic purposes of a specific disease but rather in research settings to assess immune function or risk for severe infections.
+- **Most Common Reasons for Testing This Gene:** Testing is primarily done to investigate the immune response to viral infections like HCMV, HIV, or SARS-CoV-2, and in the context of hematopoietic stem cell transplantation.
+- **Clinical Actionability and Management Implications:** Knowledge of KLRC2 deletion status could potentially inform risk stratification for patients with certain viral infections, although this is not yet standard clinical practice.
+- **Genetic Counseling Considerations:** Genetic counseling would involve explaining that the KLRC2 deletion is a common polymorphism with variable penetrance for infection susceptibility and does not cause a classic Mendelian disease.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 35018659, 2022:** Reported that KLRC2 deletion was associated with significantly lower adaptive NK cells and tended to be associated with CMV viremia in patients with severe COVID-19.
+- **PMID: 27311985, 2016:** Found that the frequency of homozygous KLRC2 deletion varies significantly between African populations but found no association with trachoma.
+- **PMID: 27508088, 2016:** Describes molecular genetic analyses for detecting KLRC2 gene deletion and discusses its association with various diseases, including HIV and psoriasis.
+- **PMID: 31215112, 2019:** Reports a new KLRC2 allele (NKG2C*03) and highlights the presence of both complete gene deletions and sequence polymorphism in the population.
+- **PMID: 38454238, 2024:** A recent study showing that KLRC2 expression in glioblastoma tumor cells is associated with a better response to immunotherapy (PD-1 blockade).
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** No high-confidence HPO-variant associations exist in the traditional sense for a Mendelian disease. The primary association is between the KLRC2 gene deletion and increased susceptibility to severe viral infections.
+- **Phenotype red flags:** A history of severe or recurrent HCMV infection, or severe COVID-19, particularly in the context of CMV reactivation, could suggest that investigating the KLRC2 deletion status may be relevant.
+- **Differential diagnosis considerations:** The clinical picture of immunodeficiency associated with KLRC2 deletion overlaps with other primary and secondary immunodeficiencies affecting NK cell function. Therefore, a broader immunological workup would be necessary.
+

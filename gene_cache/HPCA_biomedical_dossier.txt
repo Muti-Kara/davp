@@ -1,0 +1,83 @@
+HPCA Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 5144.
+- **OMIM Gene ID:** 142622.
+- **Primary Disease Associations:** Dystonia 2, torsion, autosomal recessive (DYT2) (MIM:224500).
+- **Clinical Significance Level:** Strong evidence for association with autosomal recessive torsion dystonia 2.
+- **Inheritance Patterns Observed in Patients:** Autosomal recessive inheritance is the established pattern for HPCA-related disease.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for HPCA are a pLI score of 0.00, a pRec score of 0.86, and a pNull score of 0.14. The LOEUF is 1.13.
+- **Clinical Interpretation of Constraint Scores:** The low pLI score and high LOEUF score indicate that the gene is tolerant to loss-of-function variants. This is consistent with a recessive mode of inheritance, where heterozygous loss-of-function variants are not expected to cause disease.
+- **Variant Classes Most Likely to be Pathogenic:** Biallelic missense variants are the most frequently reported pathogenic class. Truncating variants have also been identified.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:**
+    - HP:0001332 - Dystonia.
+    - HP:0002451 - Limb dystonia.
+    - HP:0001250 - Seizures.
+    - HP:0001263 - Global developmental delay.
+    - HP:0001249 - Intellectual disability.
+    - HP:0002376 - Developmental regression.
+    - HP:0002069 - Bilateral tonic-clonic seizure.
+    - HP:0002123 - Generalized non-motor seizure.
+    - HP:0001344 - Trigonocephaly.
+    - HP:0000252 - Microcephaly.
+- **Secondary HPO terms:**
+    - HP:0001336 - Myoclonus.
+    - HP:0002072 - Oromandibular dystonia.
+    - HP:0000518 - Cataract.
+    - HP:0000639 - Nystagmus.
+    - HP:0001257 - Spasticity.
+    - HP:0001251 - Ataxia.
+    - HP:0002013 - Dysphagia.
+    - HP:0001288 - Language impairment.
+    - HP:0000750 - Delayed speech and language development.
+- **Age of Onset Patterns:** Onset is typically in childhood or adolescence.
+- **Phenotype Severity Spectrum:** The severity can range from a slowly progressive dystonia affecting the limbs to a broader phenotype including epilepsy and neurodevelopmental disorders. A severe hyperkinetic movement disorder with potential life-threatening exacerbations has been described.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** While most variants are missense, both missense and truncating variants have been associated with dystonia. A broader clinical phenotype encompassing movement disorder, epilepsy, and neurodevelopmental disorders is emerging.
+- **Protein Domain-Specific Phenotype Patterns:** The dystonia-causing missense mutations T71N and A190T do not affect protein stability but do impair calcium-dependent oligomerization. The A190T mutant also shows increased intracellular calcium influx.
+- **Genotype-Phenotype Correlation Strength:** Currently, the genotype-phenotype correlation is considered moderate, as a broader spectrum of phenotypes is being recognized.
+- **Examples: Specific Variants → Specific Phenotypes:**
+    - c.211A>G (p.Thr71Asn): Associated with autosomal recessive dystonia 2. This variant impairs calcium-dependent oligomerization.
+    - c.568G>A (p.Ala190Thr): Associated with autosomal recessive dystonia 2. This variant impairs calcium-dependent oligomerization and increases intracellular calcium influx.
+
+### **Clinical Variants & Phenotype Associations**
+- **Up to 15 Well-Characterized Pathogenic Variants:**
+    - **rs775863165 / c.211A>G (p.Thr71Asn) / Pathogenic /** Dystonia 2, torsion, autosomal recessive (HP:0001332) / AF (gnomAD): Very low.
+    - **rs550921485 / c.568G>A (p.Ala190Thr) / Pathogenic /** Dystonia 2, torsion, autosomal recessive (HP:0001332) / AF (gnomAD): Very low.
+    - **rs786205675 / c.224A>G (p.Asn75Lys) / Pathogenic /** Dystonia 2, torsion, autosomal recessive (HP:0001332) / AF (gnomAD): Very low.
+    - **c.340G>A (p.Gly114Ser) / Uncertain significance /** Not provided / AF (gnomAD): Very low.
+- **Variants with Strongest Phenotype Evidence:** The missense variants p.Thr71Asn and p.Ala190Thr have been functionally characterized and shown to disrupt protein function, providing strong evidence for their pathogenicity in dystonia.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** HPCA is highly expressed in the brain, particularly in the cerebellum, cortex, and basal ganglia (including the putamen and caudate). This expression pattern is consistent with the neurological phenotype, especially the movement disorders like dystonia.
+- **Tissue-Specific Phenotypes Expected:** The high expression in the striatum and its role in modulating dopamine signaling directly relates to the dystonia phenotype. Expression in the cerebellum aligns with reports of ataxia in some individuals.
+- **Expression During Development and Age-Related Phenotypes:** While specific developmental expression data is limited in these searches, the onset of symptoms in childhood and adolescence suggests a critical role for HPCA in the maturation and function of motor circuits.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** HPCA encodes hippocalcin, a neuron-specific calcium-binding protein that acts as a calcium sensor, modulating voltage-dependent calcium channels and neuronal excitability.
+- **Disease Mechanism:** The primary disease mechanism for HPCA-related dystonia is loss-of-function, consistent with its autosomal recessive inheritance. Pathogenic missense mutations impair the protein's ability to oligomerize in a calcium-dependent manner, leading to dysregulated calcium influx.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** HPCA is involved in the G-protein-coupled receptor (GPCR)-cAMP signaling pathway, which is crucial for modulating dopaminergic signaling in the striatum. Disruption of this pathway is thought to alter basal ganglia activity, leading to movement disorders like dystonia.
+- **Protein-Protein Interactions Relevant to Phenotype:** HPCA interacts with voltage-gated calcium channels. Pathogenic variants can alter this interaction, leading to abnormal calcium signaling.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** In a cohort of 42 families with dystonia, pathogenic variants in HPCA were identified in one family (2.4%). This suggests that HPCA mutations are a rare cause of dystonia.
+- **Most Common Reasons for Testing This Gene:** Testing for HPCA is typically considered in individuals with early-onset, autosomal recessive dystonia, particularly when other more common genetic causes have been excluded.
+- **Clinical Actionability and Management Implications:** The identification of a pathogenic HPCA variant confirms a diagnosis of DYT2, which can guide prognosis and management. The recognizable clinical phenotype, including a severe hyperkinetic movement disorder, may prompt early diagnostic suspicion and has implications for therapeutic management.
+- **Genetic Counseling Considerations:** Given the autosomal recessive inheritance pattern, genetic counseling for affected families should include a discussion of the 25% recurrence risk for future pregnancies and the option of carrier testing for at-risk family members.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 35942488, 2022:** This review provides a comprehensive overview of the clinical and genetic features of disorders affecting the GPCR-cAMP signaling pathway, including HPCA-related disease, highlighting the broader phenotype of movement disorders, epilepsy, and neurodevelopmental issues.
+- **PMID: 38456073, 2024:** A study on the genetic architecture of rare dystonia identified HPCA variants in a diagnostic group, contributing to a 36% overall diagnostic yield in their cohort of 42 families.
+- **PMID: 28398555, 2017:** This study provided biophysical and functional characterization of dystonia-causing HPCA mutants, demonstrating that they impair calcium-dependent oligomerization.
+- **PMID: 25799108, 2015:** A foundational study that identified mutations in HPCA as a cause of autosomal-recessive primary isolated dystonia.
+- **PMID: 29932313, 2018:** This paper confirmed HPCA as a genetic cause of a DYT2-like dystonia phenotype.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** Biallelic missense mutations, such as p.Thr71Asn and p.Ala190Thr, are strongly associated with a phenotype of early-onset limb and generalized dystonia (HP:0001332, HP:0002451).
+- **Phenotype red flags:** The presence of early-onset, slowly progressive torsion dystonia with an apparent autosomal recessive inheritance pattern should raise suspicion for HPCA mutations. A broader phenotype including seizures and developmental delay may also be indicative.
+- **Differential diagnosis considerations:** The phenotype of HPCA-related disease overlaps with other genetic causes of early-onset dystonia, including those involving the GPCR-cAMP signaling pathway such as GNAO1, GNB1, ADCY5, GNAL, PDE2A, and PDE10A.
+

@@ -1,0 +1,77 @@
+PAN2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 20074.
+*   **OMIM Gene ID:** 617447.
+*   **Primary Disease Associations:** PAN2-related neurodevelopmental disorder with multiple congenital anomalies. This is also described as a syndromic neurodevelopmental disorder.
+*   **Clinical Significance Level:** Definitive evidence for association with multiple congenital anomalies/dysmorphic syndrome-intellectual disability.
+*   **Inheritance Patterns:** Autosomal recessive. Biallelic loss-of-function variants are causative.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 probability of being loss-of-function intolerant (pLI) score is 0.94. The observed/expected (oe) metric is 0.19 (with a 90% confidence interval of 0.12–0.32). The pRec score, which measures the probability of being a recessive gene, has not gained significant traction due to challenges in identifying a deficit of biallelic variants even in large datasets.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI score (≥0.9) and low LOEUF value indicate that PAN2 is extremely intolerant to loss-of-function variation. Genes with high pLI scores are often associated with haploinsufficiency and dominant diseases, but this study shows highly constrained genes can also be associated with recessive inheritance.
+*   **Variant Classes Most Likely to be Pathogenic:** Loss-of-function variants (such as frameshift and nonsense mutations) are the established pathogenic class. Recently, a homozygous missense variant has also been reported as likely pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Global developmental delay
+    *   Intellectual disability
+    *   Sensorineural hearing impairment
+    *   Hypotonia
+    *   Short stature
+    *   Congenital heart defects (including Tetralogy of Fallot, septal defects, dilated aortic root)
+    *   Abnormality of the cardiovascular system
+    *   Urinary tract malformations / Abnormality of the genitourinary system
+    *   Ophthalmological anomalies
+    *   Abnormality of the eye
+    *   EEG abnormality
+    *   Craniofacial features (including flat occiput, ptosis, long philtrum, short neck)
+    *   Abnormality of head or neck
+*   **Secondary HPO terms:**
+    *   Skeletal anomalies
+    *   Abnormality of the skeletal system
+    *   Seizures
+    *   Anorectal anomaly
+    *   Abnormality of blood and blood-forming tissues
+*   **Age of Onset Patterns:** The onset is typically congenital or in early childhood, with developmental delay and multiple anomalies present from an early age.
+*   **Phenotype Severity Spectrum:** The phenotype is generally severe, characterized by mild-to-moderate intellectual disability and multiple congenital anomalies affecting various organ systems.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous predicted loss-of-function variants are consistently associated with a syndromic neurodevelopmental disorder involving intellectual disability and multiple congenital anomalies. A homozygous missense variant has been linked to a similar phenotype of developmental delay and multiple congenital anomalies.
+*   **Protein Domain-Specific Phenotype Patterns:** Current literature does not yet delineate clear phenotype patterns specific to different protein domains.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between biallelic loss-of-function *PAN2* variants and the syndromic neurodevelopmental phenotype is strong, based on consistent findings across multiple unrelated families.
+*   **Examples: specific variants → specific phenotypes:** Four rare homozygous variants (c.321_322del, c.994C>T, c.1800del, c.3026T>A) are associated with the core phenotype of mild-to-moderate intellectual disability, hypotonia, sensorineural hearing loss, and various congenital anomalies.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.3026T>A (p.Val1009Asp):** Likely Pathogenic; Associated with multiple congenital anomalies and neuromotor developmental delay.
+*   **c.321_322del (p.Asp107Glufs*14):** Pathogenic; Associated with intellectual disability, hypotonia, sensorineural hearing loss, tetralogy of Fallot, and craniofacial dysmorphism.
+*   **c.994C>T (p.Arg332*):** Pathogenic; Linked to intellectual disability, hypotonia, sensorineural hearing loss, atrial septal defect, and urinary tract malformations.
+*   **c.1800del (p.Gly601Glufs*36):** Pathogenic; Reported in an individual with intellectual disability, hypotonia, hearing loss, and dilated aortic root.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** The Genotype-Tissue Expression (GTEx) project aims to link genetic variants to gene expression changes across numerous tissues, which helps identify the most disease-relevant tissues. While specific TPM data for *PAN2* was not retrieved, its ubiquitous function in mRNA deadenylation suggests broad expression is likely.
+*   **Tissue-Specific Phenotypes Expected:** The observed clinical phenotype suggests that the developing brain, heart, and urogenital structures are particularly vulnerable to *PAN2* deficiency. This implies critical roles for PAN2-mediated mRNA regulation in the development of these systems.
+*   **Expression During Development and Age-Related Phenotypes:** The congenital nature of the associated disorder points to a crucial role for *PAN2* during embryonic and fetal development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *PAN2* encodes the catalytic subunit of the PAN deadenylation complex, which shortens the poly(A) tails of mRNAs, a key step in post-transcriptional gene regulation.
+*   **Disease Mechanism:** The established disease mechanism is loss-of-function, resulting from biallelic inactivating variants. This leads to impaired mRNA deadenylation and subsequent dysregulation of gene expression. Haploinsufficiency is unlikely given the recessive inheritance pattern.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the PAN2-PAN3 deadenylation complex impairs the initial, efficient shortening of mRNA poly(A) tails. This dysregulation of mRNA stability and translation is a known cause of neurodevelopmental disorders, likely underlying the observed intellectual disability and congenital anomalies.
+*   **Protein-Protein Interactions Relevant to Phenotype:** PAN2 functions as a complex with PAN3, which is required for efficient mRNA binding and deadenylation. Defects in PAN2 disrupt the function of this entire complex.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Diagnostic yield has not been systematically reported, but the gene is included in panels for fetal anomalies, developmental delay, and intellectual disability, suggesting it is a cause to be considered in these cohorts.
+*   **Most Common Reasons for Testing This Gene:** Testing for *PAN2* is indicated in individuals presenting with a combination of developmental delay or intellectual disability and multiple congenital anomalies, particularly affecting the heart, urinary system, and hearing.
+*   **Clinical Actionability and Management Implications:** There are currently no specific treatments for PAN2-related disorders. Management is supportive and tailored to the specific congenital anomalies and developmental needs of the patient.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal recessive inheritance pattern, with a 25% recurrence risk for parents of an affected child. The high constraint scores for *PAN2* support the pathogenic nature of loss-of-function variants.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35304602, 2022:** Described five individuals from three families with homozygous loss-of-function *PAN2* variants, confirming its role in a syndromic neurodevelopmental disorder with multiple congenital anomalies. This paper solidified the genotype-phenotype correlation.
+*   **PMID: 40491293, 2025 (ePub ahead of print):** Reported the first case of a homozygous missense variant in *PAN2* causing a similar phenotype of congenital anomalies and neurodevelopmental delay, expanding the mutational spectrum.
+*   **PMID: 11239395, 2001 (cited in 2023 review):** A foundational study in yeast showing that severe phenotypes are only observed upon deletion of both *PAN2* and *CCR4*, indicating some functional redundancy in the deadenylation process.
+*   **PMID: 23932717, 2014:** Elucidated the structural basis of the PAN2-PAN3 interaction, showing that PAN3 is essential for recruiting mRNA substrate to the PAN2 catalytic subunit.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Biallelic loss-of-function variants (frameshift, nonsense) are strongly associated with a core phenotype cluster including Intellectual disability (HP:0001249), Global developmental delay (HP:0001263), Sensorineural hearing impairment (HP:0000407), Congenital heart defects (HP:0001627), and Abnormality of the urinary system (HP:0000077).
+*   **Phenotype Red Flags:** The co-occurrence of moderate intellectual disability with significant congenital heart defects (especially Tetralogy of Fallot) and sensorineural hearing loss should strongly raise suspicion for a *PAN2*-related disorder.
+*   **Differential Diagnosis Considerations:** The phenotype of *PAN2*-related disorder overlaps with numerous other syndromes involving intellectual disability and multiple congenital anomalies. Careful phenotyping using standardized HPO terms is crucial for computational differential diagnosis. The broadness of the phenotype requires distinguishing it from other disorders caused by variants in genes involved in general RNA metabolism.
+

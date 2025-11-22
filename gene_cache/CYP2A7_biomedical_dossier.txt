@@ -1,0 +1,57 @@
+CYP2A7 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 2611.
+- **OMIM Gene ID:** 608054.
+- **Primary Disease Associations:** While directly linked to drug and nicotine metabolism, its role in Mendelian disease is not clearly established. It has been associated with susceptibility to tobacco addiction. A deletion involving *CYP2A7* has been linked to an FAP-like phenotype (familial adenomatous polyposis).
+- **Clinical Significance Level:** The evidence for a direct role in a Mendelian disorder is limited or emerging.
+- **Inheritance Patterns Observed in Patients:** An autosomal dominant inheritance pattern was observed for the FAP-like phenotype associated with a deletion that includes *CYP2A7*.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** gnomAD data shows a pLI of 0.00, and a LOEUF of 1.1.
+- **Clinical Interpretation of Constraint Scores:** The low pLI score (closer to 0) and high LOEUF score suggest that the gene is tolerant to loss-of-function variation. This indicates that haploinsufficiency is not a common disease mechanism for this gene.
+- **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants are less likely to be simple protein-truncating variants. Missense variants or variants affecting regulatory regions could be relevant, though this is speculative.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** No well-established primary HPO terms are directly associated with pathogenic variants in *CYP2A7* in major databases like OMIM or ClinVar.
+- **Secondary HPO terms:** In a family with a deletion including *CYP2A7*, an attenuated familial adenomatous polyposis-like phenotype was observed, which could be associated with HPO terms such as **Colorectal cancer (HP:0100216)** and **Colonic polyposis (HP:0002573)**.
+- **Age of Onset Patterns:** The FAP-like phenotype associated with the *CYP2A7* deletion presented in adulthood.
+- **Phenotype Severity Spectrum:** The colorectal cancer phenotype observed was described as an attenuated polyposis, suggesting a moderate severity.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** A 32 kb genomic deletion at chromosome 19q13, which includes *CYP2A7*, was associated with a familial adenomatous polyposis-like phenotype in a family negative for *APC* mutations.
+- **Protein Domain-Specific Phenotype Patterns:** There are four common missense mutations (SNPs) in the *CYP2A7* gene; however, their direct correlation with specific clinical phenotypes is still under investigation. The reference sequence (CYP2A7*1) contains amino acid changes that are less common in the general population.
+- **Genotype-Phenotype Correlation Strength:** The correlation between the 19q13 deletion involving *CYP2A7* and the FAP-like phenotype is considered moderate, as it's based on a single family study. The correlation for other variant types is weak to nonexistent at present.
+- **Examples: specific variants → specific phenotypes:** A 32 kb deletion at 19q13 involving *CYP2A7* was linked to an FAP-like phenotype with downregulated *CYP2A7* expression in polyps.
+
+### **Clinical Variants & Phenotype Associations**
+- At present, there are no variants in *CYP2A7* classified as pathogenic or likely pathogenic in ClinVar with associated clinical phenotypes. The focus of variation studies has been on pharmacogenomics and its influence on the metabolism of substances like nicotine, rather than on Mendelian diseases.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** *CYP2A7* is most highly expressed in the liver.
+- **Tissue-Specific Phenotypes Expected:** Given its high expression in the liver, variants might be expected to lead to phenotypes related to liver function or drug metabolism. The FAP-like phenotype linked to a *CYP2A7* deletion suggests a potential role in the colon.
+- **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is not detailed in the provided results. The associated FAP-like phenotype has an adult onset.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *CYP2A7* encodes a member of the cytochrome P450 superfamily of monooxygenases, which are involved in drug metabolism and the synthesis of cholesterol, steroids, and other lipids.
+- **Disease Mechanism:** In the case of the FAP-like phenotype, the disease mechanism appears to be related to a genomic deletion that disrupts a chromatin boundary, leading to altered expression of neighboring genes, including *CYP2A7* downregulation and upregulation of others like *MIA* and *MIA-RAB4B*. This suggests a complex regulatory effect rather than simple haploinsufficiency of *CYP2A7*.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is involved in xenobiotic and drug metabolism pathways. The 19q13 deletion appears to disrupt local gene regulation, potentially affecting pathways related to cell growth and tumorigenesis in the colon.
+- **Protein-Protein Interactions Relevant to Phenotype:** *CYP2A7* shares high sequence similarity and is located in a cluster with *CYP2A6*, another important drug-metabolizing enzyme. Gene conversion events between *CYP2A6* and *CYP2A7* are known to occur, creating hybrid alleles that can alter enzyme activity and affect phenotypes like nicotine metabolism.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *CYP2A7* variants in causing Mendelian disease is currently unknown and likely very low, as it is not a standard gene on most clinical testing panels for specific disorders.
+- **Most Common Reasons for Testing This Gene:** Testing for *CYP2A7* is primarily done in a research context, especially for pharmacogenomic studies related to nicotine and drug metabolism, and often in conjunction with *CYP2A6* genotyping.
+- **Clinical Actionability and Management Implications:** Currently, there are no specific clinical management guidelines based on *CYP2A7* genotype alone. The association with an FAP-like phenotype might suggest a need for colorectal cancer surveillance in individuals with similar deletions, but this is not yet established practice.
+- **Genetic Counseling Considerations:** Genetic counseling would focus on the uncertain clinical significance of *CYP2A7* variants. For the reported 19q13 deletion, counseling would involve discussion of the potential for an increased risk of colorectal polyps and cancer and the autosomal dominant inheritance pattern observed in the reported family.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 28273092, 2017:** Reported a 32 kb genomic deletion at chromosome 19q13, including *CYP2A7*, in a family with an *APC*-mutation negative, FAP-like phenotype, suggesting a novel mechanism for colorectal cancer predisposition.
+- **PMID: 38718978, 2024:** A recent study identified new substrates for CYP2A7, including the drug diclofenac, providing the first evidence that it is a drug-metabolizing enzyme and highlighting differences between the reference (*1) and wild-type alleles.
+- **PMID: 16636685, 2006:** Described how polymorphic alleles of *CYP2A7* can interfere with the genotyping of the *CYP2A6* deletion allele (*CYP2A6*4A), which is important for phenotype correlations in nicotine metabolism.
+- **PMID: 11950989, 2002:** Characterized a novel *CYP2A7/CYP2A6* hybrid allele (*CYP2A6*12) that results from an unequal crossover event and leads to impaired enzyme activity, contributing to the poor metabolizer phenotype.
+- **PMID: 7581481, 1995:** One of the initial studies that cloned and characterized the *CYP2A* gene subfamily, including *CYP2A7*, on chromosome 19.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for *CYP2A7* as it relates to Mendelian disease.
+- **Phenotype red flags:** An attenuated or FAP-like colorectal polyposis phenotype in a patient who is negative for mutations in established colorectal cancer genes (*APC*, *MUTYH*, etc.) could suggest investigating the 19q13 region that includes *CYP2A7*.
+- **Differential diagnosis considerations:** The FAP-like phenotype overlaps with classic Familial Adenomatous Polyposis (caused by *APC* mutations) and MUTYH-Associated Polyposis (caused by *MUTYH* mutations). Additionally, its role in metabolism brings up pharmacogenomic considerations overlapping with phenotypes related to *CYP2A6* activity, such as variations in nicotine metabolism and drug response.
+

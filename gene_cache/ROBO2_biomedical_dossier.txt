@@ -1,0 +1,72 @@
+ROBO2 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** ROBO2 (HGNC: 10250).
+*   **OMIM Gene ID:** 602431.
+*   **Primary Disease Associations:** Vesicoureteral reflux 2 (VUR2; OMIM:610878) and Familial vesicoureteral reflux (ORPHA:289365). Mutations are also associated with a broader spectrum of congenital anomalies of the kidney and urinary tract (CAKUT). A variant in ROBO2 has been identified as a susceptibility factor for anthracycline-related cardiomyopathy.
+*   **Clinical Significance Level:** The association between ROBO2 and vesicoureteral reflux is classified as "Strong" by multiple clinical laboratories. Orphanet also curates it as a disease-causing gene for familial vesicoureteral reflux.
+*   **Inheritance Patterns:** The mode of inheritance is primarily autosomal dominant with incomplete penetrance and variable expressivity.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 data shows a probability of being loss-of-function intolerant (pLI) score of 1.00, indicating extreme intolerance to protein-truncating variants. The loss-of-function observed/expected upper-bound fraction (LOEUF) score is 0.11 (CI: 0.08-0.16), which also signifies strong constraint. The probability of being a recessive gene (pRec) is 0 and the probability of being null (pNull) is 0.
+*   **Clinical Interpretation:** The very high pLI score and low LOEUF score suggest that ROBO2 is a haploinsufficient gene. Loss-of-function variants are likely to be pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:** Protein-truncating variants (nonsense, frameshift, and canonical splice site variants) are expected to be pathogenic due to haploinsufficiency. Pathogenic missense variants have also been reported and likely disrupt protein function.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** The most frequently associated phenotypes are related to congenital anomalies of the kidney and urinary tract (CAKUT).
+    *   Vesicoureteral reflux (HP:0000076).
+    *   Renal hypoplasia (HP:0000089).
+    *   Duplex kidney (HP:0000072) / Duplicated collecting system.
+    *   Renal agenesis (unilateral) (HP:0000122).
+    *   Multicystic kidney dysplasia (HP:0000003).
+    *   Hydronephrosis (HP:0000786).
+    *   Hydroureter (HP:0000070).
+*   **Secondary HPO terms:** Less common, but documented, phenotypes include:
+    *   Congenital diaphragmatic hernia (in animal models).
+    *   Cardiomyopathy, anthracycline-related (in individuals with a specific susceptibility SNP).
+    *   Asthenia (HP:0025406).
+    *   Fatigue (HP:0012378).
+*   **Age of Onset Patterns:** Phenotypes are typically congenital, with anomalies present at birth and often detected prenatally or in early childhood during investigations for urinary tract infections.
+*   **Phenotype Severity Spectrum:** The clinical presentation is highly variable, ranging from asymptomatic individuals to those with severe renal dysfunction requiring significant medical intervention. The penetrance of pathogenic variants is incomplete.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Heterozygous loss-of-function mutations (e.g., frameshift, nonsense, deletions) are associated with the full spectrum of CAKUT phenotypes, most notably vesicoureteral reflux.
+*   **Protein Domain-Specific Phenotype Patterns:** The ROBO2 protein contains five immunoglobulin-like (Ig) domains. Deletion of the first two Ig domains in animal models disrupts Slit binding and function, suggesting variants in this region are critical.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between heterozygous loss-of-function variants in *ROBO2* and the presence of CAKUT, particularly VUR, is strong, though the specific manifestation is variable. No clear correlation between the location of a mutation and the severity or type of CAKUT has been established.
+*   **Examples: Specific Variants → Specific Phenotypes:** Disruption of ROBO2 through balanced translocations or intragenic mutations has been shown to cause VUR and other urinary tract anomalies. Specific missense variants have been linked to cystic dysplastic kidneys and unilateral renal agenesis.
+
+### **Clinical Variants & Phenotype Associations**
+A curated list of pathogenic variants is not readily available from the search results in the requested format. ClinVar lists variants but detailed phenotype associations and frequencies require deeper database access. Landmark studies report pathogenic variants but often at the family level without specific rsIDs.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Human Protein Atlas, which incorporates GTEx data, ROBO2 shows enhanced RNA expression in the cerebral cortex. The GTEx portal itself indicates expression in various tissues including the brain, kidney, lung, and heart.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the developing kidney is consistent with the CAKUT phenotype. Expression in the heart provides a potential biological basis for the observed association with anthracycline-related cardiomyopathy. Expression in the brain and its role in axon guidance suggests a potential for neurological phenotypes, although this is not a primary feature of ROBO2-related disease in humans.
+*   **Expression During Development:** ROBO2 plays a critical role during embryonic development, particularly in axon guidance, cell migration, and kidney morphogenesis. Its expression is crucial for the proper formation of the ureteric bud.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ROBO2 is a transmembrane receptor for secreted SLIT ligands (SLIT1 and SLIT2) that mediates signals for axon guidance and cell migration during development.
+*   **Disease Mechanism:** The primary disease mechanism is haploinsufficiency, where the loss of one functional copy of the gene is sufficient to cause disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The SLIT-ROBO signaling pathway is essential for normal kidney development. SLIT2-ROBO2 signaling restricts the expression of growth factors (like GDNF) to ensure only a single ureteric bud forms at the correct location; disruption of this pathway can lead to supernumerary kidneys or ectopic ureters. In podocytes, the SLIT2/ROBO2 pathway, via SRGAP1, regulates the cytoskeleton and cell adhesion, which is critical for the integrity of the glomerular filtration barrier.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The key interaction is between the ROBO2 receptor and its SLIT2 ligand. Downstream signaling involves SRGAP1, a Rho GTPase-activating protein, which has also been implicated in CAKUT.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield:** The diagnostic yield of ROBO2 sequencing in CAKUT cohorts is generally low. Mutations in known monogenic causes, including ROBO2, explain approximately 12% of CAKUT cases overall.
+*   **Most Common Reasons for Testing:** Genetic testing for ROBO2 is typically considered in individuals with a personal or family history of vesicoureteral reflux or other anomalies of the kidney and urinary tract, especially when multiple family members are affected.
+*   **Clinical Actionability and Management Implications:** A diagnosis can help guide management, which may include surveillance for urinary tract infections, monitoring of renal function, and renal ultrasonography for at-risk family members. It can also provide a definitive etiology, ending the diagnostic odyssey.
+*   **Genetic Counseling Considerations:** Counseling should address the autosomal dominant inheritance pattern, the high variability in clinical presentation (variable expressivity), and the fact that some individuals with a pathogenic variant may be asymptomatic (incomplete penetrance).
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 36508697, 2023:** Identified a SNP in ROBO2 (rs17736312) that confers a significantly higher risk of anthracycline-related cardiomyopathy in childhood cancer survivors, suggesting a role in cardiac health.
+*   **PMID: 34984218, 2022:** A mouse model study showed that double heterozygous mutations in *Robo2* and *Gen1* significantly increase the incidence of CAKUT, supporting an oligogenic model for this condition.
+*   **PMID: 33171804, 2020:** Demonstrated that ROBO2 signaling is involved in lung branching morphogenesis in animal models, suggesting a broader role in organ development.
+*   **PMID: 27882344, 2016:** Elucidated a SLIT2/ROBO2/SRGAP1 signaling pathway in kidney podocytes that regulates cell adhesion, providing a molecular mechanism for its role in kidney function and disease.
+*   **PMID: 25987447, 2015:** Identified mutations in *SLIT2* and its downstream effector *SRGAP1* in individuals with CAKUT, cementing the importance of the entire SLIT2-ROBO2 pathway in human kidney development.
+*   **PMID: 17357069, 2007:** A landmark study that first established the link between heterozygous mutations and chromosomal disruptions of *ROBO2* and a predisposition to vesicoureteral reflux (VUR) and other urinary tract anomalies in humans.
+*   **PMID: 15130495, 2004:** A key developmental biology study in mice demonstrating that SLIT2-mediated ROBO2 signaling is crucial for restricting kidney induction to a single site, preventing the formation of supernumerary kidneys.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Heterozygous loss-of-function variants (nonsense, frameshift, splice-site, or whole-gene deletions) are strongly associated with Vesicoureteral reflux (HP:0000076), Duplex kidney (HP:0000072), and Unilateral renal agenesis (HP:0000122).
+*   **Phenotype red flags:** The presence of vesicoureteral reflux (HP:0000076) in a patient, especially with a positive family history of VUR or other kidney anomalies, is a strong indicator for considering *ROBO2* variants. The combination of VUR with a duplicated collecting system (HP:0000072) further increases suspicion.
+*   **Differential Diagnosis Considerations:** The phenotypic spectrum of ROBO2 overlaps significantly with other genes associated with CAKUT. Key differential diagnoses include genes in the same pathway (*SLIT2*, *SRGAP1*) and other major CAKUT-associated genes such as *PAX2*, *HNF1B*, *GATA3*, and *SALL1*.
+
+***
+

@@ -1,0 +1,307 @@
+=== chr2:151659071C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs184262608
+• Chromosome: 2
+• Position: 151659071
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: NEB
+• Databases: rs184262608
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign, benign/likely_benign
+• ACMG Classification: Likely benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.008447
+• gnomADg Allele Frequency: 0.006483
+• 1KG Frequency: 0.0018000000000000002
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0003829: obsolete_alcohol dependence - A primary, chronic disease with genetic, psychosocial, and environmental factors influencing its development and manifestations. The disease is often progressive and fatal. It is characterized by impaired control over drinking, preoccupation with the drug alcohol, use of alcohol despite adverse consequences, and distortions in thinking, most notably denial. Each of these symptoms may be continuous or periodic. (Morse & Flavin for the Joint Commission of the National Council on Alcoholism and Drug Dependence and the American Society of Addiction Medicine to Study the Definition and Criteria for the Diagnosis of Alcoholism: in JAMA 1992;268:1012-4)|Disorders related to or resulting from abuse or mis-use of alcohol.
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0005208: glomerular filtration rate - measurement of the flow rate of filtered fluid through the kidney, calculated either by comparative measurements of substances in the blood and urine, or estimated from a blood test
+GWAS_EFO_0010701: mean reticulocyte volume - Mean volume of reticulocyte cells
+GWAS_EFO_0007789: BMI-adjusted waist circumference - waist circumference measurement that has been adjusted by subjects’ body mass index
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0000708: squamous cell lung carcinoma - A carcinoma arising from squamous bronchial epithelial cells. It may be keratinizing or non-keratinizing. Keratinizing squamous cell carcinoma is characterized by the presence of keratinization, pearl formation, and/or intercellular bridges. Non-keratinizing squamous cell carcinoma is characterized by the absence of keratinization, pearl formation, and intercellular bridges. Cigarette smoking and arsenic exposure are strongly associated with squamous cell lung carcinoma.|In DO this is classified as nscLC, but this leads to logical issues as we have a distinct class for squamous nscLC
+GWAS_EFO_0004534: creatine kinase measurement - A creatine kinase measurement is a quantification of creatine kinase in blood. Creatine kinase is a marker for tissue damage and  is assayed in blood tests as a marker of myocardial infarction (heart attack), rhabdomyolysis (severe muscle breakdown), muscular dystrophy, the autoimmune myositides and in acute renal failure.
+GWAS_EFO_0004874: memory performance - Is a quantification of a subject's activities involved in the mental information processing system that receives (registers), modifies, stores, and retrieves informational stimuli. Memory performance is typically assessed by some clinical memory test and is used in the diagnosis of diseases such as Alzheimer's disease.
+GWAS_EFO_0005301: reading and spelling ability - reading and spelling ability refers to the complex cognitive processes involved in assembling and decoding symbols in order to construct or derive words
+GWAS_EFO_0000220: acute lymphoblastic leukemia - Leukemia with an acute onset, characterized by the presence of lymphoblasts in the bone marrow and the peripheral blood. It includes the acute B lymphoblastic leukemia and acute T lymphoblastic leukemia.
+GWAS_EFO_1001507: asparaginase-induced acute pancreatitis - acute pancreatits that is the result of treatment with asparaginase, an enzyme used in some cancer treatments
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16187576) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0003829, GWAS_EFO_0004527, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005208, GWAS_EFO_0004527, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007789, GWAS_EFO_0004713, GWAS_EFO_0000708, GWAS_EFO_0005208, GWAS_EFO_0004534, GWAS_EFO_0004874, GWAS_EFO_0005301, GWAS_EFO_0000220, GWAS_EFO_1001507
+Entity: Transcript (ID: 16422435) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0003829, GWAS_EFO_0004527, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005208, GWAS_EFO_0004527, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007789, GWAS_EFO_0004713, GWAS_EFO_0000708, GWAS_EFO_0005208, GWAS_EFO_0004534, GWAS_EFO_0004874, GWAS_EFO_0005301, GWAS_EFO_0000220, GWAS_EFO_1001507
+Entity: Transcript (ID: 16422446) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0003829, GWAS_EFO_0004527, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005208, GWAS_EFO_0004527, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007789, GWAS_EFO_0004713, GWAS_EFO_0000708, GWAS_EFO_0005208, GWAS_EFO_0004534, GWAS_EFO_0004874, GWAS_EFO_0005301, GWAS_EFO_0000220, GWAS_EFO_1001507
+Entity: Transcript (ID: 16422447) -> Associated GWAS: GWAS_EFO_0003761, GWAS_EFO_0003829, GWAS_EFO_0004527, GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0005208, GWAS_EFO_0004527, GWAS_EFO_0005208, GWAS_EFO_0010701, GWAS_EFO_0007789, GWAS_EFO_0004713, GWAS_EFO_0000708, GWAS_EFO_0005208, GWAS_EFO_0004534, GWAS_EFO_0004874, GWAS_EFO_0005301, GWAS_EFO_0000220, GWAS_EFO_1001507
+Entity: Non Coding RNA (ID: 17220983) -> Associated GWAS: GWAS_EFO_0000708, GWAS_EFO_0005208, GWAS_EFO_0004534
+Entity: ChromHMM State (ID: 18979253) -> Associated GWAS: GWAS_EFO_0004534
+Entity: ChromHMM State (ID: 19591581) -> Associated GWAS: GWAS_EFO_0004874, GWAS_EFO_0005301
+Entity: ChromHMM State (ID: 20715496) -> Associated GWAS: GWAS_EFO_0004534, GWAS_EFO_0004874, GWAS_EFO_0005301, GWAS_EFO_0000220, GWAS_EFO_1001507
+Entity: ChromHMM State (ID: 21950472) -> Associated GWAS: GWAS_EFO_0004534, GWAS_EFO_0004874, GWAS_EFO_0005301
+Entity: ChromHMM State (ID: 22562484) -> Associated GWAS: GWAS_EFO_0004534
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 64919
+• Pathogenic/Likely Pathogenic: 14754
+• Benign/Likely Benign: 32708
+• Uncertain Significance: 17452
+• Other Classifications: 5
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Nemaline myopathy 2 (n=17440)
+• Nemaline myopathy 2|not provided (n=2056)
+• Arthrogryposis multiplex congenita 6 (n=2024)
+• Inborn genetic diseases (n=1338)
+• Nemaline myopathy 2|Inborn genetic diseases (n=1153)
+• not provided|Nemaline myopathy 2 (n=945)
+• Nemaline myopathy 2|not provided|Inborn genetic diseases (n=650)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=646)
+• Nemaline myopathy 2|Nemaline myopathy (n=420)
+• Nemaline myopathy (n=313)
+• Nemaline myopathy 2|Inborn genetic diseases|not provided (n=266)
+• Nemaline myopathy 2|Nemaline myopathy 2 (n=265)
+• not provided|Nemaline myopathy 2|Inborn genetic diseases (n=237)
+• Inborn genetic diseases|Nemaline myopathy 2 (n=217)
+• not specified|Nemaline myopathy 2 (n=164)
+• not provided|Inborn genetic diseases (n=123)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy (n=122)
+• Nemaline myopathy 2|not specified (n=112)
+• not specified|Nemaline myopathy 2|not provided (n=109)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=99)
+• Nemaline myopathy 2|NEB-related disorder (n=83)
+• NEB-related disorder (n=83)
+• not specified|not provided|Nemaline myopathy 2 (n=81)
+• not provided|Inborn genetic diseases|Nemaline myopathy 2 (n=73)
+• Nemaline myopathy 2|not provided|NEB-related disorder (n=72)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6 (n=70)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy (n=62)
+• Nemaline myopathy 2|not provided|Nemaline myopathy (n=61)
+• Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6 (n=57)
+• not specified|Nemaline myopathy 2|not provided|Inborn genetic diseases (n=56)
+• not specified|not provided (n=56)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=52)
+• not provided|Nemaline myopathy 2|NEB-related disorder (n=51)
+• Nemaline myopathy 2|not provided|Nemaline myopathy 2 (n=50)
+• not specified|Nemaline myopathy 2|Inborn genetic diseases (n=49)
+• Nemaline myopathy 2|not specified|not provided (n=46)
+• not specified|not provided|Nemaline myopathy 2|NEB-related disorder (n=44)
+• Nemaline myopathy 2|NEB-related disorder|not provided (n=42)
+• not provided|Nemaline myopathy 2|not specified (n=42)
+• Nemaline myopathy|Nemaline myopathy 2 (n=41)
+• NEB-related disorder|Nemaline myopathy 2|Inborn genetic diseases (n=41)
+• not provided|Arthrogryposis multiplex congenita 6 (n=38)
+• not provided|Nemaline myopathy 2|Nemaline myopathy (n=37)
+• Nemaline myopathy 2|not provided|Inborn genetic diseases|NEB-related disorder (n=37)
+• Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=36)
+• Inborn genetic diseases|Nemaline myopathy 2|not provided (n=35)
+• Nemaline myopathy 2|not provided|not specified (n=35)
+• Inborn genetic diseases|not provided (n=35)
+• Arthrogryposis multiplex congenita 6|not provided (n=34)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=34)
+• Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=32)
+• not provided|Nemaline myopathy 2|Nemaline myopathy 2 (n=31)
+• Nemaline myopathy 2|Inborn genetic diseases|Nemaline myopathy 2 (n=31)
+• not provided|Nemaline myopathy (n=30)
+• Nemaline myopathy 2|Nemaline myopathy|Nemaline myopathy 2 (n=28)
+• not provided|Nemaline myopathy 2|Inborn genetic diseases|NEB-related disorder (n=28)
+• Arthrogryposis multiplex congenita 6|not provided|Inborn genetic diseases (n=27)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6 (n=26)
+• Nemaline myopathy 2|Nemaline myopathy|not provided|Arthrogryposis multiplex congenita 6 (n=25)
+• Nemaline myopathy 2|not provided|Inborn genetic diseases|Nemaline myopathy 2 (n=24)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy 2|Nemaline myopathy (n=24)
+• Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=22)
+• not specified|Nemaline myopathy 2|not provided|NEB-related disorder (n=20)
+• Inborn genetic diseases|not provided|Nemaline myopathy 2 (n=19)
+• Nemaline myopathy 2|Inborn genetic diseases|NEB-related disorder (n=18)
+• not provided|Nemaline myopathy 2|Inborn genetic diseases|not specified (n=18)
+• not specified|not provided|Nemaline myopathy 2|Inborn genetic diseases (n=18)
+• Nemaline myopathy 2|not provided|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=17)
+• Nemaline myopathy|Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6 (n=17)
+• Arthrogryposis multiplex congenita 6|Inborn genetic diseases (n=17)
+• Nemaline myopathy 2|not provided|Nemaline myopathy|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=16)
+• Nemaline myopathy|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=15)
+• Congenital muscular dystrophy (n=14)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy|Nemaline myopathy 2 (n=14)
+• Nemaline myopathy 2|not provided|See cases|NEB-related disorder (n=14)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=14)
+• not provided|Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=13)
+• Inborn genetic diseases|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=13)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=13)
+• Nemaline myopathy 2|Nemaline myopathy|not provided (n=13)
+• Nemaline myopathy 2|not specified|Inborn genetic diseases (n=13)
+• not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=12)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy (n=12)
+• Nemaline myopathy 2|Nemaline myopathy|not provided|Nemaline myopathy 2 (n=12)
+• Nemaline myopathy 2|Inborn genetic diseases|NEB-related disorder|not provided (n=12)
+• Nemaline myopathy 2|Inborn genetic diseases|not specified|not provided (n=11)
+• Muscle weakness|Nemaline myopathy 2 (n=10)
+• Nemaline myopathy|not specified|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=10)
+• Nemaline myopathy 2|Nemaline myopathy|NEB-related disorder (n=10)
+• not provided|NEB-related disorder|Nemaline myopathy 2|Inborn genetic diseases (n=10)
+• Nemaline myopathy 2|NEB-related disorder|Inborn genetic diseases (n=9)
+• Nemaline myopathy 2|not provided|not specified|Inborn genetic diseases (n=9)
+• not specified|not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=9)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=9)
+• not specified|not provided|Inborn genetic diseases|Nemaline myopathy 2 (n=9)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy 2|Inborn genetic diseases (n=9)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy 2|NEB-related disorder|not provided|Arthrogryposis multiplex congenita 6 (n=9)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy (n=9)
+• not provided|not specified|Nemaline myopathy 2|NEB-related disorder|Inborn genetic diseases (n=9)
+• NEB-related disorder|Nemaline myopathy 2 (n=9)
+• Nemaline myopathy|not provided (n=9)
+• Nemaline Myopathy, Recessive|Nemaline myopathy 2|not provided|NEB-related disorder (n=9)
+• not provided|not specified|Nemaline myopathy 2 (n=9)
+• Nemaline myopathy 2|not specified|not provided|NEB-related disorder (n=9)
+• Nemaline myopathy 2|not provided|Nemaline myopathy|Nemaline myopathy 2 (n=8)
+• Nemaline myopathy 2|not provided|Inborn genetic diseases|not specified (n=8)
+• Limb pain (n=8)
+• not specified|Nemaline myopathy 2|NEB-related disorder (n=8)
+• Nemaline Myopathy, Recessive|Nemaline myopathy 2 (n=8)
+• Nemaline myopathy 2|not provided|NEB-related disorder|Inborn genetic diseases (n=8)
+• not provided|not specified (n=8)
+• not provided|Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6 (n=8)
+• not specified|Nemaline myopathy 2|Nebulin-related early-onset distal myopathy (n=7)
+• Inborn genetic diseases|not provided|Nemaline myopathy 2|not specified (n=7)
+• Nemaline myopathy 2|not provided|not specified|NEB-related disorder|Inborn genetic diseases (n=7)
+• Nemaline myopathy 2|not provided|Actin accumulation myopathy|Nemaline myopathy 2 (n=7)
+• Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6|not provided (n=7)
+• not provided|Nemaline myopathy 2|NEB-related disorder|Inborn genetic diseases (n=6)
+• not specified|Nemaline myopathy 2|not provided|Nemaline myopathy (n=5)
+• Nemaline myopathy 2|NEB-related disorder|Nemaline myopathy (n=5)
+• not provided|not specified|Nemaline myopathy 2|NEB-related disorder (n=5)
+• not specified|Inborn genetic diseases|Nemaline myopathy 2 (n=5)
+• not specified|Nemaline myopathy 2|Inborn genetic diseases|not provided (n=5)
+• not specified|not provided|NEB-related disorder|Nemaline myopathy 2 (n=5)
+• Nemaline myopathy 2|Congenital structural myopathy|Inborn genetic diseases (n=5)
+• Nemaline myopathy 2|not provided|Inborn genetic diseases|not specified|NEB-related disorder (n=5)
+• Nemaline myopathy 2|Inborn genetic diseases|not provided|Nemaline myopathy (n=5)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=5)
+• not specified|Nemaline myopathy 2|not provided|NEB-related disorder|Inborn genetic diseases (n=5)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy|Nemaline myopathy 2 (n=5)
+• Nemaline myopathy 2|not specified|Arthrogryposis multiplex congenita 6|not provided|Nemaline myopathy (n=5)
+• not provided|NEB-related disorder|Nemaline myopathy 2 (n=5)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Inborn genetic diseases (n=5)
+• Nemaline myopathy 2|not specified|Inborn genetic diseases|NEB-related disorder|not provided (n=5)
+• Nebulin-related early-onset distal myopathy (n=5)
+• not provided|Nemaline myopathy 2|See cases|Nemaline myopathy (n=5)
+• Nemaline myopathy 2|See cases (n=5)
+• not provided|Nemaline myopathy 2|Nemaline myopathy|Congenital myopathy (n=5)
+• Nemaline myopathy 2|not specified|Nemaline myopathy (n=5)
+• Nemaline myopathy 2|not provided|Nemaline myopathy|not specified|Arthrogryposis multiplex congenita 6 (n=5)
+• not provided|Nemaline myopathy 2|NEB-related disorder|Nemaline myopathy 2 (n=5)
+• Inborn genetic diseases|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=5)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|not provided|not specified|Nemaline myopathy (n=5)
+• Nemaline myopathy 2|not provided|not specified|Nemaline myopathy (n=5)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy|Nemaline myopathy 2 (n=5)
+• Nemaline Myopathy, Recessive|Nemaline myopathy 2|not provided (n=5)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|not provided (n=5)
+• Muscle weakness|not provided|not specified|Nemaline myopathy 2|NEB-related disorder (n=4)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|NEB-related disorder (n=4)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy (n=4)
+• Nemaline myopathy|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|not provided|Nemaline myopathy (n=4)
+• Inborn genetic diseases|NEB-related disorder|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|NEB-related disorder|Inborn genetic diseases|not provided (n=4)
+• not provided|Inborn genetic diseases|not specified (n=4)
+• not provided|Nemaline myopathy 2|Nemaline myopathy|Low-set ears (n=4)
+• Abnormality of the neck (n=4)
+• Dysphagia|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy|not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|Abnormality of the musculature|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy|NEB-related disorder|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy|Arthrogryposis multiplex congenita 6|not provided|Nemaline myopathy 2|Nemaline myopathy 2 (n=4)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|See cases|not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy (n=4)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not specified|Nemaline myopathy 2 (n=4)
+• not provided|Nemaline myopathy|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|not provided|NEB-related disorder|Arthrogryposis multiplex congenita 6 (n=4)
+• Nebulin-related early-onset distal myopathy|Nemaline myopathy 2|not provided (n=4)
+• See cases|Nemaline myopathy 2 (n=4)
+• not provided|Progressive proximal muscle weakness (n=4)
+• Muscular dystrophy|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6|NEB-related disorder (n=4)
+• Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy 2|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|NEB-related disorder|not provided|Inborn genetic diseases (n=4)
+• not specified|not provided|Inborn genetic diseases|NEB-related disorder|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not specified|not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not specified|not provided|Inborn genetic diseases (n=4)
+• not provided|Nemaline myopathy 2|Inborn genetic diseases|Nemaline myopathy (n=4)
+• not specified|Inborn genetic diseases|not provided (n=4)
+• See cases|Arthrogryposis multiplex congenita 6 (n=4)
+• Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6|Nemaline myopathy (n=4)
+• Congenital structural myopathy|Arthrogryposis multiplex congenita 6 (n=4)
+• Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6|not provided (n=4)
+• not provided|Inborn genetic diseases|Nemaline myopathy|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not provided|not specified|NEB-related disorder (n=4)
+• not specified|Peripheral neuropathy|Nemaline myopathy 2|Actin accumulation myopathy|not provided|Inborn genetic diseases (n=4)
+• Nemaline myopathy|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6 (n=4)
+• not specified|Inborn genetic diseases|not provided|Nemaline myopathy 2 (n=4)
+• not provided|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy|Nemaline myopathy 2 (n=4)
+• Non-immune hydrops fetalis|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6 (n=4)
+• Arthrogryposis multiplex congenita 6|NEB-related disorder|Inborn genetic diseases (n=4)
+• Nemaline myopathy 2|Nemaline myopathy|Inborn genetic diseases|Arthrogryposis multiplex congenita 6|not provided (n=4)
+• Nemaline Myopathy, Recessive|not provided|not specified (n=4)
+• Nemaline Myopathy, Recessive|Nemaline myopathy 2|not specified (n=4)
+• not specified|Nemaline Myopathy, Recessive (n=4)
+• not specified|Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|Nemaline myopathy (n=4)
+• Nemaline myopathy 2|not specified|not provided|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|Inborn genetic diseases|not specified|not provided|NEB-related disorder (n=4)
+• not specified|not provided|Nemaline myopathy 2|Progressive proximal muscle weakness (n=4)
+• Muscular dystrophy|Inborn genetic diseases (n=4)
+• not provided|Inborn genetic diseases|Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy 2 (n=4)
+• Arthrogryposis multiplex congenita 6|Nemaline myopathy 2|not provided (n=4)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|NEB-related disorder|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|Nemaline myopathy|Arthrogryposis multiplex congenita 6|Arthrogryposis multiplex congenita 6 (n=4)
+• Nemaline myopathy 2|NEB-related disorder|not specified|Inborn genetic diseases (n=4)
+• Nemaline myopathy|not provided|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|Inborn genetic diseases|not provided|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not provided|Inborn genetic diseases|Arthrogryposis multiplex congenita 6 (n=4)
+• not specified|Nemaline Myopathy, Recessive|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not provided|Arthrogryposis multiplex congenita 6|Inborn genetic diseases (n=4)
+• Nemaline Myopathy, Recessive (n=4)
+• Nemaline myopathy 2|Inborn genetic diseases|Congenital structural myopathy (n=4)
+• not specified|Peripheral neuropathy|not provided (n=4)
+• See cases (n=4)
+• Nemaline myopathy 2|Arthrogryposis multiplex congenita 6|NEB-related disorder (n=4)
+• not provided|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy 2 (n=4)
+• Nemaline myopathy 2|not specified|NEB-related disorder (n=4)
+• not provided|Nemaline myopathy 2|NEB-related disorder|Arthrogryposis multiplex congenita 6 (n=4)
+• not specified|Nemaline myopathy (n=4)
+• not provided|Nemaline myopathy 2|Congenital structural myopathy|Arthrogryposis multiplex congenita 6|not specified (n=4)
+• Nemaline myopathy 2|Nemaline myopathy|not provided|Arthrogryposis multiplex congenita 6|NEB-related disorder|Nemaline myopathy 2 (n=4)
+
+

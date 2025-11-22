@@ -1,0 +1,53 @@
+PRAMEF18 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 30693.
+- **OMIM gene ID**: No OMIM entry for PRAMEF18 could be located.
+- **Primary disease associations**: Currently, no definitive disease associations have been established in databases like OMIM or GenCC. GeneCards lists a potential association with Amebiasis, though this is likely not a Mendelian disease context.
+- **Clinical significance level**: No evidence of clinical significance has been submitted or curated by resources like GenCC or ClinVar at this time.
+- **Inheritance patterns observed in patients**: No established inheritance patterns are documented due to the lack of confirmed disease-associated variants in patients.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: Specific constraint metrics for PRAMEF18 from gnomAD were not found in the search results. General information indicates pLI scores closer to 1 suggest intolerance to protein-truncating variants, and for gnomAD v4.0, a LOEUF < 0.6 is a recommended threshold for defining loss-of-function constrained genes.
+- **Clinical interpretation of constraint scores**: Genes with high pLI scores (e.g., ≥ 0.9) are often intolerant to loss-of-function variants and may be associated with dominant diseases through haploinsufficiency. A low LOEUF score indicates a gene is under strong selection against loss-of-function variants.
+- **Variant classes most likely to be pathogenic**: Without known pathogenic variants, this is speculative. However, for genes intolerant to loss-of-function, nonsense, frameshift, and canonical splice site variants are most likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: No specific HPO terms are linked to PRAMEF18 in clinical databases.
+- **Secondary HPO terms**: Mouse model data from MGI suggests potential phenotypic areas if the gene function is conserved, including homeostasis/metabolism, growth/size, cellular phenotypes, and abnormalities of the cardiovascular, renal, endocrine, visual, and auditory systems.
+- **Age of onset patterns**: No information available for PRAMEF18.
+- **Phenotype severity spectrum**: No information available for PRAMEF18.
+
+### **Genotype-Phenotype Correlations**
+- **Variant classes and their typical phenotypes**: No genotype-phenotype correlations have been established for PRAMEF18 as no pathogenic variants with associated clinical descriptions have been reported.
+- **Protein domain-specific phenotype patterns**: This is not applicable as no variant-phenotype associations are known. UniProt describes a PRAME domain within the protein.
+- **Genotype-phenotype correlation strength**: Not applicable.
+- **Examples**: Not applicable.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic or likely pathogenic variants for PRAMEF18 are listed in ClinVar or other public databases. UniProt's viewer lists 787 variants from various sources, but none have established clinical significance.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest expressing tissues (GTEx TPM) and clinical correlation**: A comprehensive transcriptomic landscape analysis using GTEx data has been performed, but specific expression data for PRAMEF18 was not retrieved. The GTEx project aims to link gene expression in various tissues to genetic variation to understand disease.
+- **Tissue-specific phenotypes expected**: Based on mouse model phenotypes, one might expect abnormalities in systems where the gene is highly expressed, but specific human tissue expression data is needed.
+- **Expression during development and age-related phenotypes**: One study in NCBI's Gene database notes a project analyzing tissue-specific circular RNA induction during human fetal development, which might contain relevant data.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal gene function in one sentence**: The PRAMEF18 protein is predicted to function as a substrate adaptor in a Cul2-RING ubiquitin ligase complex, playing a role in proteasome-mediated protein degradation.
+- **Disease mechanism**: Given the predicted function, pathogenic loss-of-function variants could lead to disease through haploinsufficiency, where 50% of the protein product is insufficient for normal function.
+- **Cellular/molecular pathways disrupted → phenotype consequences**: Disruption of ubiquitin-dependent protein catabolism could lead to the accumulation of substrate proteins, affecting processes like cell proliferation, apoptosis, and differentiation, as suggested by GO terms.
+- **Protein-protein interactions relevant to phenotype**: PRAMEF18 belongs to the PRAME family and is predicted to be part of a Cul2-RING ubiquitin ligase complex; interactions within this complex would be critical to its function.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic yield in clinical cohorts**: The diagnostic yield is currently zero, as no diseases have been definitively linked to this gene.
+- **Most common reasons for testing this gene**: There are currently no established clinical reasons to order testing for this gene.
+- **Clinical actionability and management implications**: Not applicable.
+- **Genetic counseling considerations**: Not applicable.
+
+### **Key Clinical Literature & Studies**
+- No specific clinical genetics publications focused on PRAMEF18 and human disease phenotypes were identified in the search. General studies on genotype-phenotype correlation, the Human Phenotype Ontology, and large-scale sequencing databases provide the framework for how such a gene would be evaluated if a disease link were suspected.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: No high-confidence associations exist for PRAMEF18.
+- **Phenotype red flags**: None are known. Based on mouse models, a combination of phenotypes across multiple systems (cardiovascular, renal, auditory, visual) could be a starting point for investigation.
+- **Differential diagnosis considerations**: Not applicable.
+

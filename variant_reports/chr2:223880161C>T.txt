@@ -1,0 +1,77 @@
+=== chr2:223880161C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs149953771
+• Chromosome: 2
+• Position: 223880161
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: WDFY1
+• Databases: rs149953771
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0002298
+• gnomADg Allele Frequency: 0.0002298
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0010638: atopic asthma - An asthma that is characterized by symptoms that are triggered by an allergic reaction caused by inhaled allergens such as dust mite allergen, pet dander, pollen and mold.
+GWAS_EFO_0000270: obsolete_asthma - A chronic respiratory disease manifested as difficulty breathing due to the narrowing of bronchial passageways.|Tendency of the smooth muscle of the tracheobronchial tree to contract more intensely in response to a given stimulus than it does in the response seen in normal individuals. This condition is present in virtually all symptomatic patients with asthma. The most prominent manifestation of this smooth muscle contraction is a decrease in airway caliber that can be readily measured in the pulmonary function laboratory.|A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL).|A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, excercise, stress, reflux disease, medications, foods and emotional anxiety.
+GWAS_EFO_0004591: obsolete_childhood onset asthma - Asthma that starts in childhood.
+GWAS_EFO_0008184: interleukin 4 measurement - quantification of the amount of interleukin 4 in a sample
+GWAS_EFO_0004810: interleukin-6 measurement - Is a quantification of interleukin-6, a  pro-inflammatory and anti-inflammatory cytokine.
+GWAS_EFO_0004750: interleukin 10 measurement - interleukin 10 levels|Is a quantification of interleukin 10, typically in blood. Inhibits the synthesis of a number of cytokines, including IFN-gamma, IL-2, IL-3, TNF and GM-CSF produced by activated macrophages and by helper T-cells.
+GWAS_EFO_0008174: interleukin 17 measurement - quantification of the amount of interleukin 17 in a sample
+GWAS_EFO_0004762: vascular endothelial growth factor measurement - Is a quantification of VEGF, a growth factor involved in angiogenesis and a biomarker for cancer.
+GWAS_EFO_0008165: interferon gamma measurement - quantification of the amount of interferon gamma in a sample
+GWAS_EFO_0004753: interleukin 12 measurement - Is a quantification of interleukin 12. Interleukin 12 (IL-12) is an interleukin that is naturally produced by dendritic cells, macrophages and human B-lymphoblastoid cells (NC-37) in response to antigenic stimulation.
+GWAS_EFO_0008264: platelet-derived growth factor BB measurement - quantification of the amount of platelet-derived growth factor BB in a sample
+GWAS_EFO_0008130: fibroblast growth factor basic measurement - quantification of the amount of fibroblast growth factor basic in a sample
+GWAS_EFO_0008293: stromal cell-derived factor 1 alpha measurement - quantification of the amount of stromal cell-derived factor 1 alpha in a sample
+GWAS_EFO_0008142: granulocyte colony-stimulating factor measurement - quantification of the amount of granulocyte colony-stimulating factor in a sample
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16167285) -> Associated GWAS: GWAS_EFO_0010638, GWAS_EFO_0000270, GWAS_EFO_0004591, GWAS_EFO_0000270, GWAS_EFO_0008184, GWAS_EFO_0004810, GWAS_EFO_0004750, GWAS_EFO_0008174, GWAS_EFO_0004762, GWAS_EFO_0008165, GWAS_EFO_0004753, GWAS_EFO_0008264, GWAS_EFO_0008130, GWAS_EFO_0008293, GWAS_EFO_0008142, GWAS_EFO_0005192
+Entity: Gene (ID: 16169899) -> Associated GWAS: GWAS_EFO_0005192
+Entity: Transcript (ID: 16327198) -> Associated GWAS: GWAS_EFO_0010638, GWAS_EFO_0000270, GWAS_EFO_0004591, GWAS_EFO_0000270, GWAS_EFO_0008184, GWAS_EFO_0004810, GWAS_EFO_0004750, GWAS_EFO_0008174, GWAS_EFO_0004762, GWAS_EFO_0008165, GWAS_EFO_0004753, GWAS_EFO_0008264, GWAS_EFO_0008130, GWAS_EFO_0008293, GWAS_EFO_0008142, GWAS_EFO_0005192
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 682
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 52
+• Uncertain Significance: 628
+• Other Classifications: 2
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=4)
+• Preeclampsia (n=2)
+
+

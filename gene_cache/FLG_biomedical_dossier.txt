@@ -1,0 +1,77 @@
+FLG Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** HGNC:3747.
+*   **OMIM Gene ID:** 135940.
+*   **Primary Disease Associations:** Ichthyosis Vulgaris (IV) and Atopic Dermatitis (AD).
+*   **Clinical Significance Level:** Loss-of-function (LoF) variants in *FLG* are the strongest known genetic risk factor for atopic dermatitis. *FLG* mutations are a well-established cause of ichthyosis vulgaris.
+*   **Inheritance Patterns:** Ichthyosis vulgaris is inherited in an autosomal semi-dominant pattern, where individuals with two null mutations have a more severe phenotype than those with one. Atopic dermatitis risk is also dose-dependent.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint scores for *FLG* are pLI = 0.00, LOEUF = 1.15. The probability of being loss-of-function intolerant (pLI) is low.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score indicates that the gene is tolerant to heterozygous loss-of-function variation in the general population, which is consistent with the high prevalence of heterozygous carriers. Disease is associated with biallelic LoF mutations (more severe) or heterozygous LoF mutations (milder phenotype or risk factor).
+*   **Variant Classes Most Likely to Be Pathogenic:** Loss-of-function variants (nonsense, frameshift) are the established pathogenic class. These mutations typically lead to a truncated, non-functional profilaggrin protein.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:**
+    *   Ichthyosis (HP:0008064).
+    *   Atopic dermatitis (HP:0000964).
+    *   Palmar hyperlinearity (HP:0001053).
+    *   Keratosis pilaris (HP:0000995).
+    *   Xerosis (HP:0000934).
+    *   Asthma (HP:0002099).
+    *   Allergic rhinitis (HP:0003192).
+    *   Food allergy (HP:0002097).
+    *   Flexural eczema (HP:0010582).
+*   **Secondary HPO Terms:**
+    *   Pityriasis alba (HP:0001056).
+    *   Pulpitis sicca (dry fingertips).
+    *   Elevated circulating IgE level (HP:0003212).
+    *   Dirty neck (hyperlinearity and hyperpigmentation of the neck).
+*   **Age of Onset Patterns:** Onset is typically in early childhood.
+*   **Phenotype Severity Spectrum:** Severity is variable and correlates with the number of *FLG* null alleles; homozygous or compound heterozygous individuals have more severe ichthyosis vulgaris than heterozygotes. The presence of LoF variants is associated with moderate-to-severe atopic dermatitis.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Loss-of-function (null) mutations reduce the amount of functional filaggrin protein, leading to impaired skin barrier function.
+*   **Protein Domain-Specific Phenotype Patterns:** The *FLG* gene consists of a large third exon with 10-12 tandem repeats, each coding for a filaggrin monomer. Loss-of-function mutations affecting the profilaggrin protein result in an absence of functional filaggrin.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is strong; having two LoF mutations (homozygous or compound heterozygous) is highly correlated with the clinical diagnosis of ichthyosis vulgaris. Heterozygous carriers have a milder phenotype or are predisposed to atopic dermatitis.
+*   **Examples: specific variants → specific phenotypes:** The common European null mutations R501X and 2282del4 are strongly associated with ichthyosis vulgaris and atopic dermatitis. Children with the R501X mutation may be less responsive to therapy for atopic dermatitis.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.1501C>T (p.Arg501Ter) / rs61816761 / Pathogenic:** Associated with ichthyosis vulgaris and atopic dermatitis. Homozygotes or compound heterozygotes exhibit a more severe phenotype.
+*   **c.6843del4 (p.Ser2282fs) / 2282del4 / Pathogenic:** Associated with ichthyosis vulgaris and atopic dermatitis.
+*   **c.7339C>T (p.Arg2447Ter) / rs138669348 / Pathogenic:** Associated with ichthyosis vulgaris and atopic dermatitis.
+*   **c.9739T>X (p.Ser3247Ter) / S3247X / Pathogenic:** Associated with ichthyosis vulgaris and atopic dermatitis.
+*   **c.3321delA / Pathogenic:** Reported in Chinese populations with ichthyosis vulgaris.
+*   **c.477-478insA / Pathogenic (novel):** Identified in a Chinese pedigree with ichthyosis vulgaris.
+*   **c.6218-6219delAA / Pathogenic (novel):** Identified as a de novo mutation in a Chinese individual with ichthyosis vulgaris.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *FLG* is most highly expressed in the skin. This tissue-specific expression directly correlates with the dermatological phenotypes seen in patients with pathogenic variants.
+*   **Tissue-Specific Phenotypes Expected:** The primary phenotypes are cutaneous, including skin dryness (xerosis), scaling (ichthyosis), and inflammation (eczema), due to the protein's role in epidermal barrier formation.
+*   **Expression During Development and Age-Related Phenotypes:** Filaggrin is expressed in terminally differentiating keratinocytes in the outermost layers of the epidermis. The clinical presentation often begins in early childhood.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The *FLG* gene encodes profilaggrin, which is cleaved into multiple filaggrin protein monomers that are critical for bundling keratin filaments and forming the cornified cell envelope of the epidermis.
+*   **Disease Mechanism:** The primary mechanism is loss-of-function, leading to filaggrin haploinsufficiency. This results in a reduced amount of functional filaggrin protein, with a gene-dosage effect observed.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Reduced filaggrin impairs keratin aggregation and the formation of the skin's barrier, leading to increased transepidermal water loss (TEWL) and enhanced penetration of allergens and irritants. This contributes to dry skin, ichthyosis, and atopic conditions.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Filaggrin aggregates keratin intermediate filaments, a crucial step in the terminal differentiation of epidermal cells to form a flattened, strong physical barrier.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Up to half of patients with atopic dermatitis may carry an *FLG* mutation. Testing for common mutations like R501X and 2282del4 has a high yield in European patients with ichthyosis vulgaris.
+*   **Most Common Reasons for Testing This Gene:** Testing is indicated for individuals with clinical signs of ichthyosis vulgaris or moderate-to-severe, early-onset atopic dermatitis, particularly with a family history of atopy.
+*   **Clinical Actionability and Management Implications:** Identifying *FLG* mutations can confirm a diagnosis, inform prognosis (e.g., risk of persistent atopic dermatitis), and guide management focused on aggressive skin barrier repair and moisturization.
+*   **Genetic Counseling Considerations:** Counseling should address the semi-dominant inheritance pattern, the variable expressivity, and the increased risk for associated atopic conditions like asthma, allergic rhinitis, and food allergies.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 35368383 (2024):** Identified novel and established *FLG* LoF variants in a pediatric cohort, associating them with higher transepidermal water loss and moderate-to-severe atopic dermatitis.
+*   **PMID: 23421459 (2013):** Confirmed associations between *FLG* null mutations and specific phenotypes including flexural eczema, xerosis, hyperlinear palms, and keratosis pilaris in a cohort with occupational eczema.
+*   **PMID: 22299762 (2012):** Identified two novel *FLG* null mutations in Chinese pedigrees with ichthyosis vulgaris, expanding the mutational spectrum.
+*   **PMID: 22154943 (2012):** A landmark review detailing filaggrin's multifunctional role in skin barrier maintenance and its association with ichthyosis vulgaris, atopic eczema, asthma, and allergies.
+*   **PMID: 22002933 (2011):** Demonstrated that intragenic copy number variation (CNV) in *FLG* contributes to atopic dermatitis risk in a dose-dependent manner, independent of null mutations.
+*   **PMID: 16444271 (2006):** A foundational study that identified loss-of-function mutations in *FLG* as the underlying cause of ichthyosis vulgaris.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Homozygous or compound heterozygous loss-of-function variants (e.g., R501X, 2282del4) are strongly associated with Ichthyosis (HP:0008064), Palmar hyperlinearity (HP:0001053), and Keratosis pilaris (HP:0000995).
+*   **Phenotype red flags:** The combination of early-onset ichthyosis or severe atopic dermatitis with prominent palmar hyperlinearity and keratosis pilaris is highly suggestive of pathogenic variants in *FLG*.
+*   **Differential diagnosis considerations:** The atopic manifestations overlap with those caused by variants in other immune-pathway genes, but the prominent ichthyosis and barrier-defect features are more specific to *FLG*.
+

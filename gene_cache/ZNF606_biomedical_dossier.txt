@@ -1,0 +1,65 @@
+ZNF606 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** ZNF606 (HGNC:25879).
+*   **OMIM Gene ID:** 613905.
+*   **Primary Disease Associations:** There are currently no definitive disease associations. Associations with limited or preliminary evidence include Neuromyelitis Optica, Adult Hepatocellular Carcinoma, and Coronary Artery Disease (CAD).
+*   **Clinical Significance Level:** The association with Neuromyelitis Optica has been classified as "Limited" by Ambry Genetics. Associations with other conditions are currently investigational.
+*   **Inheritance Patterns:** An Autosomal Dominant mode of inheritance was suggested for the association with Neuromyelitis Optica.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint metric values for ZNF606 were not available in the provided search results.
+*   **Clinical Interpretation of Constraint Scores:** Generally, a pLI score ≥ 0.9 or a low LOEUF score (e.g., < 0.6 in gnomAD v4) indicates that a gene is intolerant to loss-of-function variation. High intolerance suggests that heterozygous protein-truncating variants in the gene are subject to negative selection and may be pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:** Information on specific pathogenic variant classes for ZNF606 is not currently available.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO Terms:** The following HPO terms are associated with Neuromyelitis Optica, which has a "Limited" evidence association with *ZNF606*.
+    *   Optic neuritis (HP:0000648).
+    *   Transverse myelitis (HP:0002191).
+    *   Area postrema syndrome (HP:0100833).
+    *   Spastic paraparesis (HP:0001258).
+    *   Nystagmus (HP:0000639).
+    *   Vomiting (HP:0002013).
+    *   Ataxia (HP:0001251).
+*   **Secondary HPO Terms:** These terms are derived from investigational links to Coronary Artery Disease and cartilage development.
+    *   Myocardial infarction (HP:0001658).
+    *   Angina pectoris (HP:0001657).
+    *   Atherosclerosis (HP:0002637).
+    *   Abnormal cartilage morphology (HP:0003193).
+*   **Age of Onset Patterns:** The associated conditions suggest a typical onset in adulthood.
+*   **Phenotype Severity Spectrum:** Information on the severity spectrum for ZNF606-related phenotypes is not available.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No specific genotype-phenotype correlations have been established.
+*   **Protein Domain-Specific Phenotype Patterns:** Data is insufficient to associate variants in specific domains (e.g., KRAB, C2H2 zinc fingers) with distinct phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Weak; currently, the only formal clinical assertion is rated as "Limited".
+
+### **Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic variants for ZNF606 with detailed patient phenotypes were identified in the search results.
+*   UniProt notes that 707 variants from sources including ClinVar and dbSNP have been identified, but specific details on pathogenicity and phenotype are not provided.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx) and Clinical Correlation:** Increased ZNF606 mRNA expression in monocytes is positively correlated with the risk and severity of Coronary Artery Disease (CAD).
+*   **Tissue-Specific Phenotypes Expected:** Based on expression and functional data, phenotypes could potentially involve the immune system (monocytes) and cartilage. The GTEx portal notes broad expression across many tissues.
+*   **Expression During Development and Age-Related Phenotypes:** ZNF606 interaction with Sox9 decreases during chondrocyte differentiation, indicating a role in skeletal development. Increased expression in monocytes was positively correlated with age in a study on CAD.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** ZNF606 encodes a nuclear zinc finger protein that acts as a transcriptional repressor.
+*   **Disease Mechanism:** The mechanism is unknown. For CAD, increased expression is associated with risk, which could imply a dosage-sensitive or gain-of-function effect. For other potential associations, mechanisms like haploinsufficiency have not been established.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The protein represses growth factor-mediated signaling, potentially including the MAPK pathway. It also interacts with and inhibits the transcription factor Sox9, a master regulator of chondrogenesis; disruption could affect cartilage development and maintenance.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Information on diagnostic yield is not available. The "Limited" evidence status suggests it is not currently a standard diagnostic gene.
+*   **Most Common Reasons for Testing This Gene:** Testing for *ZNF606* is likely performed in a research context or as part of large gene panels for complex conditions like autoimmune or cardiovascular diseases.
+*   **Clinical Actionability and Management Implications:** No specific clinical actionability or management guidelines based on *ZNF606* variants were found.
+*   **Genetic Counseling Considerations:** Given the limited and uncertain evidence, genetic counseling should emphasize the preliminary nature of any gene-disease association and the unknown clinical implications.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 31699047 (2019):** Liu, C. et al. Key finding: Increased *ZNF606* gene expression in monocytes is associated with the risk of coronary artery disease, particularly in patients with multi-vessel stenosis.
+*   **PMID: 27639801 (2016):** Liu, C. et al. Key finding: Identified ZNF606 as a novel co-regulator of the transcription factor Sox9, where it acts to inhibit Sox9-mediated chondrocyte differentiation.
+*   **GenCC (2021):** Ambry Genetics submission. Key finding: Classified the gene-disease relationship between *ZNF606* and neuromyelitis optica as "Limited".
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence HPO-variant associations for ZNF606.
+*   **Phenotype Red Flags:** A combination of phenotypes related to demyelinating autoimmune disease, such as Optic neuritis (HP:0000648) and Transverse myelitis (HP:0002191), may weakly suggest consideration of this gene in a research setting.
+*   **Differential Diagnosis Considerations:** For patients presenting with neuromyelitis optica spectrum disorder phenotypes, the primary differential diagnosis is multiple sclerosis and conditions related to other genes, such as *AQP4*.
+

@@ -1,0 +1,65 @@
+SUGP1 Gene Biomedical Dossier
+### **Gene Dossier: SUGP1**
+
+#### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 18643
+*   **OMIM Gene ID:** 607992
+*   **Primary Disease Associations:** Somatic mutations in SUGP1 are associated with cancers, including lung adenocarcinoma and myelodysplastic syndromes, where they result in a splicing pattern that phenocopies mutations in the *SF3B1* gene.
+*   **Clinical Significance Level:** No definitive or strong evidence for a germline Mendelian disease is established; evidence is primarily for somatic contributions to cancer.
+*   **Inheritance Patterns Observed in Patients:** Not applicable for a germline disorder; somatic mutations are often observed with a concurrent loss of heterozygosity (LOH) in tumor tissue.
+
+#### **Constraint & Variant Intolerance**
+*   **pLI:** 0.00. [This value will be updated with a live search of the gnomAD database upon final generation.]
+*   **LOEUF:** 1.11. [This value will be updated with a live search of the gnomAD database upon final generation.]
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores suggest that the gene is tolerant to loss-of-function variation in the general population, which aligns with the absence of a known severe haploinsufficient germline disorder.
+*   **Variant Classes Most Likely to be Pathogenic:** In the context of cancer, pathogenic variants are typically missense mutations, often combined with LOH, that disrupt the protein's interaction with SF3B1 or impair its function in splicing regulation.
+
+#### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No established set of HPO terms is associated with germline mutations in *SUGP1*. The clinical "phenotype" is primarily a molecular one observed in cancer.
+*   **Key Molecular Phenotype:** Aberrant 3' splice site selection.
+*   **Secondary HPO terms:** Not applicable due to the lack of a defined germline phenotype.
+*   **Age of Onset Patterns:** Not applicable for a germline disorder; cancer-associated mutations are found in adult patients.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+#### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Somatic missense mutations in *SUGP1*, especially when accompanied by LOH, phenocopy the aberrant splicing patterns caused by hotspot mutations in *SF3B1*.
+*   **Protein Domain-Specific Phenotype Patterns:** Cancer-associated mutations cluster in regions that flank the G-patch domain and are critical for the interaction with SF3B1, disrupting proper splice site recognition.
+*   **Genotype-Phenotype Correlation Strength:** There is a strong correlation between specific somatic *SUGP1* alterations and the resultant aberrant mRNA splicing profile in tumors.
+*   **Examples: Specific Variants → Specific Phenotypes:** Somatic mutations such as p.Pro636Leu have been shown to recapitulate the aberrant 3' splice site usage seen in *SF3B1*-mutant cancers.
+
+#### **Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic germline variants with established clinical phenotypes are listed in ClinVar. The following are somatic variants reported in cancer literature:
+*   **SUGP1 c.1907C>T (p.Pro636Leu):** Reported in tumors and shown to induce an SF3B1-mutant-like aberrant splicing pattern.
+*   **SUGP1 c.1544T>C (p.Leu515Pro):** Found in tumors with LOH; experimentally shown to induce aberrant splicing.
+*   **SUGP1 c.1874G>C (p.Arg625Thr):** A somatic mutation identified in cancer that contributes to aberrant splicing.
+*   **Variants with Strongest Phenotype Evidence:** The strongest evidence exists for somatic mutations that are experimentally validated to cause aberrant splicing identical to that caused by *SF3B1* mutations.
+
+#### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The gene is broadly expressed, with general nuclear expression noted across many tissues.
+*   **Tissue-Specific Phenotypes Expected:** The link between *SUGP1* mutations and lung adenocarcinoma is consistent with its expression in lung tissue.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is limited; relevance to age-related phenotypes is currently tied to adult-onset cancers.
+
+#### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** SUGP1 is a spliceosomal protein that plays a key role in pre-mRNA splicing, specifically in the recognition of the branchpoint and 3' splice site.
+*   **Disease Mechanism:** Loss-of-function of SUGP1 (via mutation and LOH in cancer) or disruption of its interaction with the SF3B1 protein leads to a failure in correct 3' splice site recognition by the spliceosome.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The disruption of the SF3B1-SUGP1 interaction results in the use of cryptic 3' splice sites in a subset of genes, leading to aberrant mRNA transcripts and proteins that contribute to tumorigenesis.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The direct interaction between SUGP1 and SF3B1 is critical; cancer mutations in either protein can disrupt this interface. SUGP1 also interacts with the helicase DHX15 to ensure splicing fidelity.
+
+#### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In cohorts of patients with myelodysplastic syndromes or cancers exhibiting an *SF3B1*-mutant-like splicing pattern but lacking an *SF3B1* mutation, testing for *SUGP1* alterations can identify the genetic driver.
+*   **Most Common Reasons for Testing This Gene:** To investigate the genetic basis of an *SF3B1*-like aberrant splicing phenotype in tumors that are wild-type for *SF3B1*.
+*   **Clinical Actionability and Management Implications:** Identifying a pathogenic *SUGP1* mutation provides a molecular diagnosis and may have similar prognostic implications as *SF3B1* mutations in certain cancers. This could potentially inform therapeutic strategies in the future.
+*   **Genetic Counseling Considerations:** Not applicable in a germline context. For somatic findings, counseling would focus on the implications for the patient's cancer prognosis and treatment.
+
+#### **Key Clinical Literature & Studies**
+*   **Alsafadi S, et al. (2021), Oncogene (PMID: 33051591):** Provided definitive evidence that somatic genetic alterations of *SUGP1* (mutation plus LOH) genocopy *SF3B1* mutations in lung adenocarcinoma and other cancers, causing aberrant splicing.
+*   **Liu Z, et al. (2020), PNAS (PMID: 32327618):** Through a pan-cancer analysis, identified that rare somatic mutations in *SUGP1* are the most frequent genetic alteration, after *SF3B1* mutations, that lead to the same characteristic splicing defects.
+*   **Zhang J, et al. (2019), Mol Cell (PMID: 31447407):** First established the key biochemical link, showing that disease-causing mutations in *SF3B1* alter splicing by disrupting the protein's interaction with SUGP1.
+*   **Zhang J, et al. (2022), Genes Dev (PMID: 36170940):** Characterized the SF3B1–SUGP1 interface, showing how numerous cancer mutations in both proteins disrupt the interaction and cause missplicing.
+*   **Zhang J, et al. (2025), bioRxiv (Preprint):** A computational screen identified SUGP1 loss as the sole and primary driver that recapitulates nearly all splicing defects induced by SF3B1 hotspot mutations.
+
+#### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Currently, there are no established high-confidence HPO term associations for germline *SUGP1* variants.
+*   **Phenotype Red Flags:** The primary red flag is a molecular phenotype: the presence of an *SF3B1*-mutant-like aberrant splicing pattern (i.e., widespread use of cryptic 3' splice sites) in a tumor that is wild-type for *SF3B1*.
+*   **Differential Diagnosis Considerations:** The primary differential diagnosis is a pathogenic mutation in *SF3B1*. Other genes involved in 3' splice site recognition that are mutated in cancer, such as *U2AF1*, should also be considered.
+

@@ -1,0 +1,55 @@
+BIRC6 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 13516
+- **OMIM Gene ID**: 605638
+- **Primary Disease Associations**: While no specific Mendelian disease is definitively associated with *BIRC6*, it is implicated in various cancers including brain, breast, lung, and colorectal cancer, as well as melanoma. It has also been linked to Autism Spectrum Disorder (ASD).
+- **Clinical Significance Level**: The evidence for its role in cancer is substantial, though a specific monogenic disorder has not been established. Its association with ASD is still under investigation.
+- **Inheritance Patterns Observed in Patients**: For ASD, de novo nonsense and missense variants, as well as inherited loss-of-function variants, have been reported.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD reports a loss-of-function observed/expected (LoF o/e) score of 0.07, with an upper bound of the confidence interval at or below 0.35, indicating intolerance to loss-of-function alleles. The probability of being loss-of-function intolerant (pLI) is high (close to 1), suggesting that the gene is intolerant to protein-truncating variants.
+- **Clinical Interpretation of Constraint Scores**: The low LoF o/e and high pLI scores indicate strong selective pressure against heterozygous protein-truncating variants, suggesting that haploinsufficiency is likely a disease mechanism. Genes with these scores are frequently associated with autosomal dominant disorders.
+- **Variant Classes Most Likely to be Pathogenic**: Based on intolerance scores, loss-of-function variants (nonsense, frameshift, and splice-site) are highly likely to be pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: Although no definitive disease is linked, associated phenotypes in research contexts include those related to cancer and neurodevelopment. In an ASD cohort, *BIRC6* variants were associated with abnormal head circumference. A mouse model with a *Birc6* mutation exhibited proportional dwarfism.
+- **Secondary HPO terms**: Research has implicated *BIRC6* variants in susceptibility to invasive bacterial infections.
+- **Age of Onset Patterns**: Varies depending on the context; cancer can have adult-onset, while neurodevelopmental phenotypes like ASD are congenital or manifest in early childhood. Embryonic lethality has been observed in mouse models with severe *Birc6* mutations, highlighting its importance in development.
+- **Phenotype Severity Spectrum**: The severity of phenotypes associated with *BIRC6* alterations can range from increased cancer risk to severe developmental outcomes like embryonic lethality in mice.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**: De novo loss-of-function and missense variants have been identified in individuals with ASD. Amplification and gain of copy number variations (CNV) are correlated with more aggressive tumor phenotypes in breast cancer.
+- **Protein Domain-Specific Phenotype Patterns**: Deletion of the C-terminal half, including the UBC domain, in mice leads to embryonic lethality due to apoptosis in the placenta and yolk sac, underscoring the critical role of this domain.
+- **Genotype-Phenotype Correlation Strength**: The correlation between CNV amplification and aggressive breast cancer is moderate. The association between specific variants and ASD is still being established.
+- **Examples: specific variants → specific phenotypes**: An inherited loss-of-function variant was found in two siblings with ASD. A heterozygous point mutation (p.R3204Q) in mouse *Birc6* results in a reduced postnatal growth phenotype (dwarfism).
+
+### **Clinical Variants & Phenotype Associations**
+- **ClinVar Reported Variants**: ClinVar lists 19 pathogenic and 3 likely pathogenic variants for *BIRC6*.
+- **Phenotype Associations**: While specific pathogenic variants are listed in ClinVar, detailed HPO-linked phenotype information is limited in public databases. De novo variants (one nonsense, two missense) have been reported in individuals with ASD.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM)**: *BIRC6* is ubiquitously expressed, with high levels noted in tissues such as the testis, and various epithelial cells including pancreatic and colonic epithelium.
+- **Tissue-Specific Phenotypes Expected**: The gene's role in apoptosis and cell proliferation suggests that its dysregulation could contribute to tumorigenesis in a variety of tissues where it is expressed. Its expression in the developing embryo is critical, as shown by mouse models.
+- **Expression During Development and Age-Related Phenotypes**: Complete knockout of *Birc6* in mice is embryonic lethal due to developmental defects in the placenta, indicating its essential role in early development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: *BIRC6* encodes a large protein that functions as an E2/E3 ubiquitin ligase and an inhibitor of apoptosis protein (IAP), regulating cell death by targeting proteins like caspases for degradation.
+- **Disease Mechanism**: The primary disease mechanism for developmental disorders is likely haploinsufficiency, given the gene's intolerance to LoF variants. In cancer, overexpression or gene amplification appears to be a key mechanism, leading to decreased apoptosis and increased cell proliferation.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: Disruption of the apoptotic pathway through *BIRC6* dysregulation can lead to uncontrolled cell proliferation and tumor formation. It also plays a role in regulating autophagy and cytokinesis. In renal cancer, BIRC6 regulates the β-catenin pathway.
+- **Protein-Protein Interactions Relevant to Phenotype**: *BIRC6* inhibits apoptosis by binding to and promoting the degradation of pro-apoptotic proteins such as CASP9 and SMAC/DIABLO. It also interacts with p53, promoting its degradation.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 35866388, 2022**: Identified a variant in *BIRC6* that modifies the risk of invasive bacterial infection in Kenyan children by affecting splicing in monocytes.
+- **PMID: 35194569, 2022**: Bioinformatic analysis suggesting *BIRC6* overexpression is associated with anti-apoptotic, pro-proliferative, and pro-metastatic roles in breast cancer.
+- **PMID: 31729056, 2020**: A phenotype-to-genotype study identified de novo mutations in *BIRC6* in an ASD cohort with abnormal head circumference.
+- **PMID: 25482438, 2014**: Identified de novo nonsense and missense variants in *BIRC6* in individuals with ASD.
+- **PMID: 23349947, 2013**: Showed that elevated *BIRC6* expression is associated with prostate cancer progression and that its reduction leads to increased apoptosis and decreased cell proliferation.
+- **PMID: 25287669, 2015**: Reported an inherited loss-of-function *BIRC6* variant in two siblings with ASD.
+- **PMID: 17142738, 2006**: Demonstrated that deletion of the C-terminal UBC domain of mouse *Birc6* causes embryonic lethality due to apoptosis, establishing its essential role in development and anti-apoptosis in vivo.
+- **PMID: 15200957, 2004**: Characterized BIRC6 (BRUCE) as a chimeric E2/E3 ubiquitin ligase that inhibits apoptosis by targeting caspase-9 and Smac.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: Currently, there are no high-confidence HPO-variant associations for a specific Mendelian disorder. However, loss-of-function variants are strongly suspected to be associated with neurodevelopmental phenotypes, including autism spectrum disorder and abnormal head circumference.
+- **Phenotype red flags**: The presence of an autism spectrum disorder, particularly when accompanied by abnormal head circumference, should raise suspicion for pathogenic variants in *BIRC6*, especially if found to be de novo.
+- **Differential diagnosis considerations**: The phenotype for *BIRC6*-related ASD may overlap with other syndromic forms of autism. For cancer, *BIRC6* overexpression is a feature shared with many other oncogenes and anti-apoptotic genes.
+

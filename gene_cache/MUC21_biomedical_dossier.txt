@@ -1,0 +1,57 @@
+MUC21 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 21661.
+*   **OMIM Gene ID:** 616991.
+*   **Primary Disease Associations:** Currently, no Mendelian diseases are definitively associated with MUC21 in OMIM. Associations have been reported with various cancers, including adenocarcinoma, melanoma, and glioblastoma, primarily related to somatic changes in gene expression. A genome-wide association study has linked loci near MUC21/MUC22 to cervical phenotypes like cervicitis and dysplasia.
+*   **Clinical Significance Level:** No clinical significance for Mendelian disease has been established.
+*   **Inheritance Patterns Observed in Patients:** Not applicable for Mendelian disease.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI score of 0.00, a LOEUF of 1.15, pRec of 0.59, and pNull of 0.41.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score near 0 and LOEUF score > 0.6 indicate that MUC21 is tolerant to loss-of-function variation. The gene is not constrained against protein-truncating variants, suggesting that haploinsufficiency is not a common disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the lack of constraint, loss-of-function variants are unlikely to be pathogenic for a haploinsufficient disorder. Pathogenicity would depend on other mechanisms, such as gain-of-function or dominant-negative effects, which are currently not described for any germline variants.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No HPO terms are currently associated with germline variants in MUC21 in major databases like OMIM or HPO.
+*   **Secondary HPO terms:** None reported.
+*   **Age of Onset Patterns:** Not applicable.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No genotype-phenotype correlations for germline variants have been established.
+*   **Protein Domain-Specific Phenotype Patterns:** The extracellular tandem repeat domain is critical for the protein's anti-adhesive properties; a reduced number of repeats lessens this effect. However, this has not been linked to a specific germline phenotype.
+*   **Genotype-Phenotype Correlation Strength:** Not applicable due to a lack of data.
+*   **Examples: specific variants → specific phenotypes:** None reported.
+
+### **Clinical Variants & Phenotype Associations**
+*   ClinVar lists variants in MUC21, but none are classified as pathogenic or likely pathogenic for a Mendelian disorder. Most are variants of uncertain significance or have conflicting interpretations.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** MUC21 shows the highest expression in the esophageal mucosa, vagina, and ectocervix. It is also expressed in the large intestine, thymus, and testis. This expression pattern aligns with its function in forming protective mucous barriers on epithelial surfaces.
+*   **Tissue-Specific Phenotypes Expected:** Based on expression, phenotypes might be expected in epithelial barrier tissues. Overexpression has been implicated in the progression of cancers in some of these tissues, like lung adenocarcinoma and esophageal carcinomas.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression and age-related phenotypes is not available.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MUC21 encodes a transmembrane mucin that forms a protective, lubricating barrier on epithelial surfaces and modulates cell adhesion, in part by sterically hindering access to cell surface molecules like integrins.
+*   **Disease Mechanism:** No germline disease mechanism has been established. In cancer, altered (typically increased) expression appears to be the primary mechanism, leading to decreased cell adhesion and potential immune evasion.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Overexpression in cancer cells can inhibit natural killer (NK) and T cell-mediated cytotoxicity, promoting immune evasion. It can also promote tumor progression through signaling pathways like STAT3/AKT in glioblastoma and the hedgehog pathway in melanoma.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Its anti-adhesive effects are mediated by masking cell surface proteins, including integrin subunits α5, α6, and β1.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** MUC21 is not typically included in diagnostic gene panels for Mendelian disorders, and thus there is no reported diagnostic yield.
+*   **Most Common Reasons for Testing This Gene:** Testing is currently performed in a research context, primarily for studying its role in cancer progression and as a potential biomarker for cancers like lung adenocarcinoma.
+*   **Clinical Actionability and Management Implications:** None at present for germline variants. In oncology, its expression may have prognostic value or could be a future therapeutic target.
+*   **Genetic Counseling Considerations:** Not applicable for Mendelian disease.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 29990426, 2018:** This study identified MUC21 as a key molecule involved in the incoherent growth patterns of lung adenocarcinoma, correlating its strong membranous expression with cell incohesiveness.
+*   **PMID: 35381861, 2022:** Reported that MUC21 is highly expressed in glioblastoma and promotes tumor progression via activation of the STAT3/AKT pathway, suggesting it as a potential therapeutic target.
+*   **PMID: 37863777, 2023:** A CRISPR screen identified that MUC21 expression on cancer cells protects them from being killed by NK and CD8+ T cells, suggesting a role in immune evasion.
+*   **PMID: 19047466, 2009:** Characterized the anti-adhesive properties of MUC21, showing that the tandem repeat domain is crucial and that its expression reduces cell adherence to each other and to the extracellular matrix.
+*   **PMID: 36712391, 2023:** An evaluation of MUC21 expression in colorectal cancer found no significant change in expression between tumor and healthy tissues overall, though changes were seen in other mucins.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** No high-confidence associations between germline MUC21 variants and HPO terms have been established.
+*   **Phenotype red flags:** There are currently no known "red flag" phenotypes that would strongly suggest pathogenic variants in MUC21 for a Mendelian disorder.
+*   **Differential diagnosis considerations:** Not applicable, as MUC21 is not associated with a known Mendelian phenotype.
+

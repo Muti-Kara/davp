@@ -1,0 +1,58 @@
+CDK11A Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 1730.
+- **OMIM Gene ID:** 116951.
+- **Primary Disease Associations:** While no definitive Mendelian disease is currently linked to *CDK11A*, it is associated with conditions such as Seckel Syndrome and has been implicated in various cancers, including neuroblastoma and breast cancer. It has also been associated with type 2 diabetes.
+- **Clinical Significance Level:** The clinical significance for a Mendelian disorder is not yet definitively established.
+- **Inheritance Patterns:** Given its essential role in the cell cycle, pathogenic variants would likely follow a dominant inheritance pattern through haploinsufficiency, but this is not yet firmly established for a specific syndrome.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 pLI (probability of being Loss-of-function Intolerant) score for *CDK11A* is not explicitly found, however the updated LOEUF (Loss-of-function Observed/Expected Upper bound Fraction) score provides a more continuous measure of intolerance to variation. The specific LOEUF score for CDK11A was not identified in the search results, though its paralog, *CDK11B*, is reported as tolerant of Loss-of-Function alleles with a LOEUF of 0.94.
+- **Clinical Interpretation of Constraint Scores:** A high pLI (≥0.9) or a low LOEUF score (e.g., <0.35 in gnomAD v2) suggests a gene is intolerant to loss-of-function variation and is more likely to be associated with a dominant disease or haploinsufficiency. Genes with these scores are prioritized for analysis in patients with rare diseases.
+- **Variant Classes Most Likely to be Pathogenic:** Loss-of-function variants (e.g., nonsense, frameshift, and canonical splice site variants) are most likely to be pathogenic in genes intolerant to inactivation. Deletions of the gene have also been suggested as potentially causative variants.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As no single Mendelian disorder is defined, a ranked list of HPO terms is not available. However, based on its function and disease associations, relevant phenotypes could include those related to microcephaly (as in Seckel Syndrome), developmental delay, and predisposition to cancer.
+- **Secondary HPO terms:** Associations with type 2 diabetes suggest potential relevance of HPO terms related to abnormal glucose homeostasis.
+- **Age of Onset Patterns:** Given its fundamental role in cell cycle control, pathogenic variants could manifest prenatally or in early childhood.
+- **Phenotype Severity Spectrum:** The severity could range from developmental abnormalities to cancer susceptibility, but a clear spectrum related to germline variants is not yet defined.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Deletions or loss-of-function variants in *CDK11A* would be expected to cause the most severe phenotypes due to haploinsufficiency, though specific correlations are not yet established.
+- **Protein Domain-Specific Phenotype Patterns:** The different isoforms (p110, p58, p46) have distinct roles in processes like pre-mRNA splicing and cell cycle regulation, suggesting that variants affecting specific isoforms could lead to different phenotypic consequences.
+- **Genotype-Phenotype Correlation Strength:** Currently, the genotype-phenotype correlation strength for germline variants is considered weak or not yet established.
+
+### **Clinical Variants & Phenotype Associations**
+- A comprehensive list of well-characterized pathogenic variants with associated HPO terms is not available in ClinVar or the literature reviewed. While ClinVar lists variants, many are of uncertain significance.
+- One missense variant, c.740G>A (p.Arg247Gln), is listed in ClinVar with a "Likely benign" assertion for an unspecified condition.
+- No specific variants with strong phenotype evidence for a Mendelian disorder were identified in the search results.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** *CDK11A* is widely expressed, with high levels noted in the pancreas, lung, and peripheral blood mononuclear cells. It is also highly expressed in various brain regions and immune cells.
+- **Tissue-Specific Phenotypes Expected:** High expression in the pancreas aligns with its association with type 2 diabetes. Its role in immune cells and high expression in tissues like the spleen could be relevant to immune-related phenotypes. Deregulation in specific tissues, like the breast, is linked to cancer.
+- **Expression During Development and Age-Related Phenotypes:** The gene's expression is regulated during murine embryogenesis, highlighting its importance in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *CDK11A* encodes a serine/threonine protein kinase that plays multiple roles in cell cycle control, transcription, pre-mRNA splicing, and apoptosis.
+- **Disease Mechanism:** Haploinsufficiency due to deletions or protein-truncating variants is the most likely disease mechanism for a developmental disorder. Its role in cancer can be more complex, involving altered expression levels.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of CDK11A function can lead to defects in centrosome maturation, bipolar spindle formation, and sister chromatid cohesion, resulting in cell cycle arrest and apoptosis. These disruptions at a cellular level could manifest as developmental abnormalities or cancer.
+- **Protein-Protein Interactions Relevant to Phenotype:** CDK11 interacts with L-type cyclins to regulate transcription and RNA processing. It also phosphorylates proteins involved in splicing (SFRS7) and apoptosis (eIF3f), linking its function directly to these critical cellular processes.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *CDK11A* in clinical cohorts is likely very low to unknown, as it is not yet associated with a well-defined Mendelian disease.
+- **Most Common Reasons for Testing This Gene:** Testing may be considered in patients with complex developmental syndromes, microcephaly, or a strong family history of cancers where other more common genetic causes have been ruled out.
+- **Clinical Actionability and Management Implications:** Currently, there are no specific management guidelines based on a *CDK11A* variant. Management would be based on the patient's specific clinical features.
+- **Genetic Counseling Considerations:** Counseling would be challenging due to the limited evidence for pathogenicity. It would involve discussing the gene's function, the uncertainty of the variant's role, and the potential for a dominant inheritance pattern if the variant is determined to be pathogenic.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 23118947, 2012:** A study using RNA-seq data identified that copy number variations (CNVs), including deletions of *CDK11A*, are associated with changes in gene expression, suggesting that deletions could be a causative variant for disease.
+- **PMID: 35830026, 2022:** A large-scale copy number association study in the UK Biobank identified numerous new genotype-phenotype correlations, highlighting the importance of CNVs in both rare and complex diseases.
+- **PMID: 32906221, 2020:** Landmark gnomAD study quantified the mutational constraint spectrum for human genes, providing the framework (pLI, LOEUF) to identify genes intolerant to loss-of-function variation, which is critical for prioritizing disease gene candidates.
+- **PMID: 29906473, 2018:** A study on epilepsy cohorts found an association between a CNV near *CDK11A* and epilepsy phenotypes, suggesting a potential role in neurological function.
+- **PMID: 35559868, 2022:** A study in breast cancer showed significant deregulation of *CDK11A* expression, implicating it in tumorigenesis and as a potential prognostic marker.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for germline variants in *CDK11A*.
+- **Phenotype red flags:** A combination of microcephaly, significant developmental delay, and a family history of cancers might raise suspicion for a pathogenic variant in *CDK11A*, although this would be speculative.
+- **Differential diagnosis considerations:** The potential phenotypes associated with *CDK11A* would overlap with a wide range of neurodevelopmental disorders and cancer predisposition syndromes. For example, phenotypes associated with mutations in its paralog *CDK13* include syndromic neurodevelopmental disability.
+

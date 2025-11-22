@@ -1,0 +1,96 @@
+=== chr7:869363C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs369315584
+• Chromosome: 7
+• Position: 869363
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: SUN1
+• Databases: rs369315584
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign, likely_benign
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0005803
+• gnomADg Allele Frequency: 0.0005518
+• 1KG Frequency: 0.0008
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0008380: perceived unattractiveness to mosquitos measurement - quantification of an individual's perceived unattractiveness to mosquitos, generally through the use of a standardised questionnaire
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0004736: aspartate aminotransferase measurement - Is a quantification of aspartate aminotransferase, and is commonly used as a marker for liver function.
+GWAS_EFO_0004627: IGF-1 measurement - Is the quantification of Insulin-like growth factor 1 (IGF-1), also called somatomedin C. IGF-1 is a hormone similar in molecular structure to insulin. It plays an important role in childhood growth and continues to have anabolic effects in adults. Levels of IGF-1 are known to increase in some cancers.
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0000275: atrial fibrillation - A disorder characterized by an electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregular ventricular response. (CDISC)|Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation.
+GWAS_EFO_0004462: PR interval - A PR interval is an  electrocardiography measurement which measures from the beginning of the P wave to the beginning of the QRS complex in the heart's electrical cycle
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16132091) -> Associated GWAS: GWAS_EFO_0008380, GWAS_EFO_0004784, GWAS_EFO_0004736, GWAS_EFO_0004627, GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192, GWAS_EFO_0004462, GWAS_EFO_0004340
+Entity: Transcript (ID: 16201951) -> Associated GWAS: GWAS_EFO_0008380, GWAS_EFO_0004784, GWAS_EFO_0004736, GWAS_EFO_0004627, GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: Transcript (ID: 16202028) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: Transcript (ID: 16202119) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: Transcript (ID: 16202123) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: Transcript (ID: 16202153) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: Transcript (ID: 16202159) -> Associated GWAS: GWAS_EFO_0005192
+Entity: Transcript (ID: 16202195) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0004462, GWAS_EFO_0004340
+Entity: Transcript (ID: 16202205) -> Associated GWAS: GWAS_EFO_0005192
+Entity: Transcript (ID: 16202228) -> Associated GWAS: GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: Transcript (ID: 16202226) -> Associated GWAS: GWAS_EFO_0008380, GWAS_EFO_0004784, GWAS_EFO_0004736, GWAS_EFO_0004627, GWAS_EFO_0005192, GWAS_EFO_0000275, GWAS_EFO_0005192, GWAS_EFO_0005192
+Entity: ChromHMM State (ID: 20284447) -> Associated GWAS: GWAS_EFO_0005192
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 10234
+• Pathogenic/Likely Pathogenic: 336
+• Benign/Likely Benign: 5224
+• Uncertain Significance: 4674
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Emery-Dreifuss muscular dystrophy (n=3054)
+• Emery-Dreifuss muscular dystrophy|not specified (n=905)
+• not specified|Emery-Dreifuss muscular dystrophy (n=120)
+• Primary ciliary dyskinesia (n=96)
+• Emery-Dreifuss muscular dystrophy|not specified|SUN1-related disorder (n=67)
+• Emery-Dreifuss muscular dystrophy|not provided (n=59)
+• See cases (n=49)
+• Emery-Dreifuss muscular dystrophy|not specified|not provided (n=14)
+• not provided|Emery-Dreifuss muscular dystrophy (n=14)
+• Emery-Dreifuss muscular dystrophy|not provided|not specified (n=14)
+• Primary ciliary dyskinesia|Primary ciliary dyskinesia 18 (n=6)
+• Primary ciliary dyskinesia|not provided (n=6)
+• not provided|Primary ciliary dyskinesia (n=3)
+• Primary ciliary dyskinesia|DNAAF5-related disorder (n=3)
+• Primary ciliary dyskinesia 18|Primary ciliary dyskinesia|not provided (n=3)
+• Schizophrenia (n=3)
+• DNAAF5-related disorder|Primary ciliary dyskinesia 18 (n=3)
+• GET4 deficiency|Congenital disorder of glycosylation, type IIy (n=2)
+• GET4 deficiency|GET4-related disorder|Congenital disorder of glycosylation, type IIy (n=2)
+
+

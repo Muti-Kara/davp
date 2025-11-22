@@ -1,0 +1,95 @@
+=== chr5:16676138G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs61744227
+• Chromosome: 5
+• Position: 16676138
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: MYO10
+• Databases: rs61744227
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.009824
+• gnomADg Allele Frequency: 0.007364
+• 1KG Frequency: 0.0038
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_GO_0036276: response to antidepressant - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an antidepressant stimulus, a mood-stimulating drug.
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0005110: fatty acid measurement - The determination of the amount of fatty acids present in a sample.
+GWAS_EFO_0009751: facial asymmetry measurement - Quantification of assymetry of the face.
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0004703: age at menarche - The age of onset of (human) menarche, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0010504: inositol measurement - Quantification of inositol levels in a sample.
+GWAS_EFO_0009855: frontal fibrosing alopecia - A lichenoid and scarring inflammatory skin disorder associated with widespread cutaneous inflammation and irreversible hair loss, which occurs predominantly in women of post-menopausal age.
+GWAS_EFO_0000341: chronic obstructive pulmonary disease - A group of disorders affecting the bronchi and the lung parenchyma. It is characterized by chronic and irreversible obstruction of the airflow. It includes chronic bronchitis and pulmonary emphysema.|A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA.|A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema.
+GWAS_EFO_0001071: lung carcinoma - A carcinoma that arises from epithelial cells of the lung
+GWAS_EFO_0005937: longitudinal BMI measurement - quantification of the variation in body mass index over time
+GWAS_HP_0002916: Abnormality of chromosome segregation - An abnormality of chromosome segregation.
+GWAS_EFO_0005118: IGFBP-1 measurement - IGF-binding proteins prolong the half-life of the IGFs and have been shown to either inhibit or stimulate the growth promoting effects of the IGFs on cell culture. They alter the interaction of IGFs with their cell surface receptors. Promotes cell migration.
+GWAS_EFO_0009270: heel bone mineral density - Quantification of the mineral density of the heel bone
+GWAS_EFO_0004531: urate measurement - A urate measurement is the quantification of some urate in body fluid
+GWAS_EFO_0004587: lymphocyte count - A quantification of lymphocytes in blood.
+GWAS_EFO_0005091: monocyte count - quantification of monocytes in the blood
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16140341) -> Associated GWAS: GWAS_GO_0036276, GWAS_EFO_0004747, GWAS_EFO_0005110, GWAS_EFO_0009751, GWAS_EFO_0003761, GWAS_EFO_0004703, GWAS_EFO_0010504, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0009855, GWAS_EFO_0000341, GWAS_EFO_0001071, GWAS_EFO_0005937, GWAS_HP_0002916, GWAS_EFO_0005118, GWAS_EFO_0009270
+Entity: Gene (ID: 16156298) -> Associated GWAS: GWAS_EFO_0004531, GWAS_EFO_0004587, GWAS_EFO_0005091
+Entity: Transcript (ID: 16229958) -> Associated GWAS: GWAS_GO_0036276, GWAS_EFO_0004747, GWAS_EFO_0005110, GWAS_EFO_0009751, GWAS_EFO_0003761, GWAS_EFO_0004703, GWAS_EFO_0010504, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0009855, GWAS_EFO_0000341, GWAS_EFO_0001071, GWAS_EFO_0005937, GWAS_HP_0002916, GWAS_EFO_0005118, GWAS_EFO_0009270
+Entity: Transcript (ID: 16229985) -> Associated GWAS: GWAS_GO_0036276
+Entity: Transcript (ID: 16229999) -> Associated GWAS: GWAS_GO_0036276
+Entity: Transcript (ID: 16230153) -> Associated GWAS: GWAS_GO_0036276, GWAS_EFO_0004747, GWAS_EFO_0005110, GWAS_EFO_0009751, GWAS_EFO_0003761, GWAS_EFO_0004703, GWAS_EFO_0010504, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0005110, GWAS_EFO_0009855, GWAS_EFO_0000341, GWAS_EFO_0001071, GWAS_EFO_0005937, GWAS_HP_0002916, GWAS_EFO_0005118, GWAS_EFO_0009270
+Entity: Transcript (ID: 16288210) -> Associated GWAS: GWAS_EFO_0004531, GWAS_EFO_0004587, GWAS_EFO_0005091
+Entity: Non Coding RNA (ID: 17302110) -> Associated GWAS: GWAS_EFO_0004531, GWAS_EFO_0004587, GWAS_EFO_0005091
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 6249
+• Pathogenic/Likely Pathogenic: 84
+• Benign/Likely Benign: 1266
+• Uncertain Significance: 4899
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|Inborn genetic diseases (n=102)
+• Inborn genetic diseases (n=66)
+• Neuropathy, hereditary sensory and autonomic, type 2B (n=36)
+• See cases (n=25)
+• Neuropathy, hereditary sensory and autonomic, type 2B|not provided|Inborn genetic diseases (n=18)
+• not provided|Inborn genetic diseases|Neuropathy, hereditary sensory and autonomic, type 2B (n=18)
+• Neuropathy, hereditary sensory and autonomic, type 2B|not provided (n=12)
+• Hereditary spastic paraplegia (n=6)
+• Inborn genetic diseases|not provided (n=6)
+• not provided|Neuropathy, hereditary sensory and autonomic, type 2B (n=6)
+• Hereditary sensory and autonomic neuropathy type 2|not provided (n=6)
+• not provided|Neuropathy, hereditary sensory and autonomic, type 2B|Inborn genetic diseases (n=6)
+• Charcot-Marie-Tooth disease|not provided|Neuropathy, hereditary sensory and autonomic, type 2B|Inborn genetic diseases|Hereditary sensory and autonomic neuropathy type 2 (n=6)
+
+

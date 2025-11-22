@@ -1,0 +1,88 @@
+TCAF1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID, OMIM gene ID, primary disease associations**
+    *   HGNC: 22201.
+    *   OMIM Gene ID: 616251.
+    *   No definitive disease association with a Mendelian disorder has been established. The gene's function has been linked to prostate cancer cell migration. One database makes a broad association with Lymph Node Carcinoma and Angelman Syndrome.
+*   **Clinical significance level**
+    *   The level of evidence for causing a Mendelian disease is currently unknown or has not been established.
+*   **Inheritance patterns observed in patients**
+    *   No specific inheritance pattern has been described, as TCAF1 is not yet linked to a monogenic disease.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF (report exact numeric values)**
+    *   pLI: 0.59.
+    *   LOEUF: 0.76.
+*   **Clinical interpretation of constraint scores**
+    *   The pLI score of 0.59 is below the ≥ 0.9 threshold, suggesting the gene is not extremely intolerant to loss-of-function (LoF) variants.
+    *   The LOEUF score of 0.76 is high, indicating that the observed number of LoF variants is close to the expected number, and the gene is not under strong purifying selection against LoF variants.
+*   **Variant classes most likely to be pathogenic**
+    *   Given the lack of constraint against predicted LoF variants, it is unclear which variant classes are most likely to be pathogenic for a potential future disease association.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**
+    *   No data is available linking TCAF1 variants to specific HPO terms.
+*   **Secondary HPO terms**
+    *   No data is available.
+*   **Age of onset patterns**
+    *   Not applicable as no associated disease phenotype has been defined.
+*   **Phenotype severity spectrum**
+    *   Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant classes and their typical phenotypes**
+    *   No correlations between variant classes and clinical phenotypes have been established.
+*   **Protein domain-specific phenotype patterns**
+    *   The C-terminal region of the protein is required for its function in stimulating TRPM8 channel activity.
+    *   Different transcript variants result in distinct protein isoforms (1, 2, and 3), with isoform 1 being the longest and isoform 2 having a shorter C-terminus. However, these have not been correlated with clinical phenotypes.
+*   **Genotype-phenotype correlation strength**
+    *   Currently weak to non-existent due to the lack of an associated Mendelian disease.
+
+### **Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic variants with associated clinical phenotypes are reported in the ClinVar database based on the provided search results.
+*   The DECIPHER database holds 17 patient variants in TCAF1, but these are not publicly accessible.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest expressing tissues (GTEx TPM) and clinical correlation**
+    *   TCAF1 is broadly expressed across many human tissues.
+    *   Relatively higher expression has been noted in cultured fibroblasts and EBV-transformed lymphocytes.
+*   **Tissue-specific phenotypes expected**
+    *   The broad expression pattern does not suggest a narrow, tissue-specific phenotype. Its role in cancer may have tissue-specific implications, such as in the prostate.
+*   **Expression during development and age-related phenotypes**
+    *   No specific information on developmental expression patterns was found.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal gene function in one sentence**
+    *   TCAF1 positively regulates TRP cation channels (TRPM8 and TRPV2) to modulate cellular processes including cell migration and the DNA replication stress response.
+*   **Disease mechanism**
+    *   A disease mechanism for a Mendelian disorder has not been determined.
+    *   Loss of expression has been observed in metastatic prostate cancer specimens, suggesting a loss-of-function mechanism may contribute to cancer progression.
+*   **Cellular/molecular pathways disrupted → phenotype consequences**
+    *   TCAF1 facilitates the recruitment of the TRPM8 channel to the cell surface, and its loss can impair this process.
+    *   TCAF1 is critical for the response to DNA replication stress; it promotes TRPV2-mediated calcium release by facilitating the dissociation of STING from TRPV2, which is essential for protecting replication forks and maintaining chromosomal stability.
+    *   Depletion of TCAF1 leads to increased chromosomal instability, a cellular phenotype that can contribute to disease.
+*   **Protein-protein interactions relevant to phenotype**
+    *   TCAF1 binds to TRPM8, TRPV2, and STING.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic yield in clinical cohorts**
+    *   There is no information on diagnostic yield, as TCAF1 is not currently included in standard diagnostic panels for a specific phenotype.
+*   **Most common reasons for testing this gene**
+    *   Currently, testing is for research purposes only.
+*   **Clinical actionability and management implications**
+    *   None at present.
+*   **Genetic counseling considerations**
+    *   Due to the lack of a defined disease association, there are no specific counseling points. The gene's tolerance to LoF variants suggests that heterozygous LoF variants are unlikely to be pathogenic on their own.
+
+### **Key Clinical Literature & Studies**
+*   **Kong L, et al. *Nat Commun*. 2024 (PMID: 38816434)**: Identified a novel function for TCAF1 in the DNA replication stress response, showing it is required for fork protection and chromosomal stability through the cGAS-STING-TRPV2 pathway. Established a key cellular phenotype of chromosomal instability upon TCAF1 depletion.
+*   **Amzallag et al. *Cell*. 2015**: This is a key foundational paper that first identified and characterized the TCAF family of proteins (TCAF1 and TCAF2), establishing their role as regulators of TRPM8 trafficking and activity.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**
+    *   There are currently no established high-confidence associations between HPO terms and variants in TCAF1.
+*   **Phenotype red flags**
+    *   No clinical phenotype red flags currently exist. A cellular phenotype of chromosomal instability could be a research-level indicator.
+*   **Differential diagnosis considerations**
+    *   Not applicable, as no primary phenotype has been defined for TCAF1.
+

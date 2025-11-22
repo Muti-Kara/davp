@@ -1,0 +1,104 @@
+CDH23 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 13733.
+*   **OMIM Gene ID:** 605516.
+*   **Primary Disease Associations:**
+    *   Usher syndrome type 1D (USH1D) [MIM:601067].
+    *   Deafness, autosomal recessive 12 (DFNB12) [MIM:601386].
+    *   Pituitary Adenoma 5, multiple types (PITA5) [MIM:617540], as a susceptibility factor.
+*   **Clinical Significance Level:** Definitive evidence for both USH1D and DFNB12.
+*   **Inheritance Patterns Observed in Patients:** Autosomal recessive. Some familial pituitary adenomas may follow an autosomal dominant pattern with reduced penetrance.
+
+### **Constraint & Variant Intolerance**
+*   **pLI:** 1.00 (gnomAD v2.1.1).
+*   **LOEUF:** 0.14 (gnomAD v2.1.1).
+*   **pRec:** 0.89.
+*   **pNull:** 1.76e-11.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score close to 1 indicates that *CDH23* is extremely intolerant to loss-of-function (LoF) variants. The low LOEUF score further confirms a strong constraint against LoF variation.
+*   **Variant Classes Most Likely to be Pathogenic:** Protein-truncating variants (nonsense, frameshift, splice-site) are typically associated with the more severe Usher syndrome phenotype. Missense variants are more often linked to the milder, non-syndromic deafness (DFNB12) phenotype.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0000365: Hearing impairment.
+    *   HP:0000407: Sensorineural hearing impairment.
+    *   HP:0000546: Retinitis pigmentosa.
+    *   HP:0001768: Congenital sensorineural hearing impairment.
+    *   HP:0000510: Rod-cone dystrophy.
+    *   HP:0001614: Vestibular areflexia.
+    *   HP:0002153: Nyctalopia.
+    *   HP:0000547: Visual field constriction.
+    *   HP:0001104: Attenuation of retinal blood vessels.
+    *   HP:0000518: Cataract.
+    *   HP:0002066: Delayed gross motor development.
+    *   HP:0007749: Macular edema.
+    *   HP:0001382: Joint hypermobility.
+    *   HP:0001249: Intellectual disability.
+    *   HP:0000823: Delayed puberty.
+*   **Secondary HPO terms:**
+    *   HP:0007687: Asymmetric hearing loss.
+    *   HP:0000589: Macular degeneration.
+    *   HP:0000639: Nystagmus.
+    *   HP:0010599: Progressive sensorineural hearing impairment.
+    *   HP:0000822: Prolactinoma.
+    *   HP:0000849: TSH-secreting pituitary adenoma.
+    *   HP:0003198: Cushing disease.
+*   **Age of Onset Patterns:** Hearing loss is typically congenital and prelingual for both USH1D and DFNB12. Retinitis pigmentosa in USH1D usually manifests in the first or early second decade of life. Some variants are associated with late-onset progressive hearing loss.
+*   **Phenotype Severity Spectrum:** Severity ranges from profound congenital deafness with vestibular dysfunction and progressive vision loss (USH1D) to isolated, severe-to-profound hearing loss that can be progressive (DFNB12). Atypical Usher syndrome with a milder or variable course also occurs.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Biallelic truncating mutations (nonsense, frameshift, canonical splice site) are strongly correlated with USH1D. Biallelic missense mutations, or compound heterozygosity with one missense and one truncating allele, often result in the less severe DFNB12 phenotype.
+*   **Protein Domain-Specific Phenotype Patterns:** Mutations are found throughout the 27 extracellular cadherin (EC) domains. While no definitive domain-specific pattern has been established for all cases, the cumulative effect and residual function of the protein appear to dictate the phenotype.
+*   **Genotype-Phenotype Correlation Strength:** Generally considered strong, though exceptions and atypical cases exist. Some studies report that the correlation is not always clear-cut, with truncating variants found in DFNB12 and missense variants in USH1D, suggesting the influence of other genetic or environmental factors.
+*   **Examples: specific variants → specific phenotypes:** The specific phenotypic outcome is often tied to the combination of two pathogenic alleles rather than a single variant. For example, individuals with two truncating alleles typically present with USH1D, while those with at least one missense allele that retains some function are more likely to have DFNB12.
+
+### **Clinical Variants & Phenotype Associations**
+*   **c.2263C>T (p.His755Tyr) / rs28938719 / Pathogenic / Usher syndrome type 1D; DFNB12 / AF (gnomAD): 0.00002.**
+*   **c.264G>A (p.Trp88Ter) / Not reported / Pathogenic / Autosomal recessive non-syndromic hearing loss / AF (gnomAD): Novel.**
+*   **c.5168G>A (p.Arg1723His) / rs769074066 / Pathogenic/Likely pathogenic / Autosomal recessive non-syndromic hearing loss / AF (gnomAD): 0.00001.**
+*   **c.7145G>A (p.Arg2382Gln) / rs145700209 / Uncertain significance / Non-syndromic hearing loss / AF (gnomAD): 0.00006.**
+*   **c.2752G>A (p.Asp918Asn) / Not reported / Likely pathogenic / Non-syndromic hearing loss / AF (gnomAD): Not reported.**
+*   **c.5009T>A (p.Val1670Asp) / Not reported / Likely pathogenic / Non-syndromic hearing loss / AF (gnomAD): Not reported.**
+*   **c.6562G>T (p.Glu2188Ter) / Not reported / Pathogenic / Atypical Usher syndrome type 1D / AF (gnomAD): Novel.**
+*   **c.2334G>A (p.Trp778*) / Not reported / Pathogenic / Non-syndromic hearing loss / AF (gnomAD): Not reported.**
+*   **p.Pro240Leu / rs111033251 / Pathogenic/Likely pathogenic / DFNB12 / AF (gnomAD): 0.0003.**
+*   **p.Arg1588Trp / rs541785219 / Likely pathogenic / DFNB12 / AF (gnomAD): 0.000004.**
+*   **Variants with Strongest Phenotype Evidence:** Biallelic truncating variants, such as frameshift or nonsense mutations, provide the strongest evidence for a diagnosis of USH1D.
+*   **Novel Variants from Recent Case Reports:** A novel homozygous nonsense variant (c.6562G>T; p.Glu2188Ter) was identified in a family with atypical USH1D. A novel nonsense variant (c.264G>A, p.Trp88Ter) was found in a compound heterozygous state in a family with ARNSHL.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** The *CDH23* gene shows highest expression in the testis, ovary, esophagus, and retina.
+*   **Tissue-Specific Phenotypes Expected:** High expression in the inner ear (cochlea) and retina directly correlates with the deafness and retinitis pigmentosa phenotypes. Expression in the pituitary gland is linked to its role as a susceptibility gene for pituitary adenomas. Upregulation has also been noted in acute myeloid leukemia.
+*   **Expression During Development:** *CDH23* is essential for the proper organization of stereocilia bundles in the inner ear during late embryonic and early postnatal development. Its function in the retina is critical for photoreceptor maintenance.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** Cadherin 23 is a calcium-dependent cell adhesion protein that forms tip-link filaments, along with protocadherin 15, to mechanically gate hair cell transduction channels in the inner ear.
+*   **Disease Mechanism:** The primary mechanism is loss-of-function. Truncating mutations lead to a complete or near-complete loss of protein function, causing USH1D. Missense mutations may result in a partially functional or unstable protein, leading to the milder DFNB12 phenotype.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    *   **Inner Ear:** Disruption of tip links in cochlear hair cells impairs mechano-electrical transduction, leading to congenital deafness. Vestibular hair cell dysfunction causes balance problems.
+    *   **Retina:** The absence of functional CDH23 in the retina leads to photoreceptor cell death (rod-cone dystrophy), causing progressive vision loss (retinitis pigmentosa). This may involve disruption of Ca2+ transport and MAPK signaling pathways.
+    *   **Pituitary:** Heterozygous mutations may predispose individuals to pituitary adenoma development, although the mechanism is less clear.
+*   **Protein-Protein Interactions Relevant to Phenotype:** CDH23 interacts with protocadherin 15 (PCDH15) to form the tip link. Intracellularly, it binds to harmonin (USH1C) to anchor the tip link to the actin cytoskeleton of the stereocilia.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** *CDH23* is a common cause of autosomal recessive hearing loss and the third most frequent gene implicated in Usher syndrome. It is found in 10-15% of Usher syndrome type 1 cases.
+*   **Most Common Reasons for Testing This Gene:** Congenital, severe-to-profound sensorineural hearing loss. A clinical diagnosis of Usher syndrome, particularly with concurrent hearing loss and retinitis pigmentosa.
+*   **Clinical Actionability and Management Implications:** Early diagnosis allows for timely intervention with cochlear implantation for hearing loss, which is most effective in the first two years of life. Management of retinitis pigmentosa involves monitoring and supportive care. Genetic testing provides a definitive diagnosis, clarifies the specific Usher syndrome subtype, and informs prognosis.
+*   **Genetic Counseling Considerations:** Counseling is critical for families regarding the autosomal recessive inheritance pattern and the 25% recurrence risk for future pregnancies. Discussion should cover the phenotypic variability, from isolated deafness to syndromic disease, and the implications of the specific variants found.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 11138227, Bolz H, et al. (2001):** Landmark paper identifying mutations in the newly discovered *CDH23* gene as the cause of Usher syndrome type 1D.
+*   **PMID: 11138226, Bork JM, et al. (2001):** Concurrently identified *CDH23* mutations as the cause of both USH1D and non-syndromic deafness DFNB12, establishing them as allelic disorders.
+*   **PMID: 12075507, Astuto LM, et al. (2002):** Profiled 107 families, detailing the spectrum of *CDH23* mutations and establishing the initial genotype-phenotype correlation where truncating mutations cause USH1D and missense mutations cause DFNB12.
+*   **PMID: 17565345, Kazmierczak P, et al. (2007):** Demonstrated that cadherin 23 and protocadherin 15 form the tip-link filaments in hair cell stereocilia, elucidating the molecular basis of mechanotransduction.
+*   **PMID: 33301934, Ramzan et al. (2020):** Identified novel compound heterozygous *CDH23* variants causing progressive non-syndromic hearing loss, expanding the phenotypic spectrum.
+*   **PMID: 35022807, Usami S, et al. (2022):** A large cohort study demonstrating that *CDH23* variants cause a broad spectrum of hearing loss, from congenital to age-related, and reinforcing the genotype-phenotype correlation related to residual protein function.
+*   **PMID: 36998829, Al-Zaidan et al. (2023):** Reported a novel nonsense mutation leading to atypical USH1D, highlighting that the established genotype-phenotype correlation may have exceptions and is not always predictive.
+*   **PMID: 37494595, Guo et al. (2023):** Investigated the role of *cdh23* in zebrafish, showing it affects hearing through purine metabolism regulation, offering new insights into the pathogenic mechanism.
+*   **PMID: 37248590, Zhang et al. (2023):** Used a zebrafish model to show *cdh23* mutations affect rod photoreceptor phototransduction via dysregulation of Ca2+ transport and MAPK signaling.
+*   **PMID: 38799539, de Guimaraes TAC, et al. (2024):** Characterized the natural history of *CDH23*-associated Usher syndrome, noting that despite an early onset of symptoms, the retinal disease progresses slowly.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Biallelic null variants (nonsense, frameshift, splice-site) are strongly associated with the classic USH1D triad: congenital profound sensorineural hearing impairment (HP:0001768), early-onset retinitis pigmentosa (HP:0000546), and vestibular areflexia (HP:0001614). At least one missense allele is highly correlated with non-syndromic hearing loss (HP:0000407, DFNB12).
+*   **Phenotype red flags:** The combination of congenital profound deafness (failed newborn hearing screen) and delayed motor milestones (due to vestibular dysfunction) are strong indicators for USH1 and should prompt testing of *CDH23*. The later onset of nyctalopia and visual field loss in childhood confirms the syndromic diagnosis.
+*   **Differential diagnosis considerations:** The phenotype overlaps with other Usher syndrome type 1 genes (*MYO7A, USH1C, PCDH15, USH1G*). *MYO7A*-related USH1B often presents with a more severe and rapidly progressing retinal degeneration. Non-syndromic deafness DFNB12 must be differentiated from hearing loss caused by mutations in over 100 other genes, such as *GJB2* and *SLC26A4*, which are common causes.
+

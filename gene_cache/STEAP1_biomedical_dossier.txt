@@ -1,0 +1,63 @@
+STEAP1 Gene Biomedical Dossier
+### **STEAP1 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID**: 11378
+*   **OMIM Gene ID**: 604415
+*   **Primary Disease Associations**: There are no established Mendelian disease-phenotype relationships for STEAP1 in OMIM. Its clinical significance is primarily linked to its overexpression in various cancers, including prostate, lung, colon, and ovarian cancer, as well as Ewing sarcoma.
+*   **Clinical Significance Level**: For Mendelian disease, the evidence is currently absent. For somatic contribution to cancer, the evidence is strong as a prognostic biomarker and therapeutic target.
+*   **Inheritance Patterns Observed in Patients**: No inheritance pattern for a Mendelian disorder has been described.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull**: Specific constraint scores for STEAP1 were not available in the provided search results. However, constraint metrics are used to assess a gene's tolerance to variation. The probability of being Loss-of-Function (LoF) intolerant (pLI) score identifies genes where heterozygous LoF variants are not tolerated; a pLI score ≥ 0.9 suggests a gene is highly likely to be haploinsufficient. The loss-of-function observed/expected upper bound fraction (LOEUF) is a continuous metric of LoF intolerance, with lower scores indicating greater constraint.
+*   **Clinical Interpretation of Constraint Scores**: High pLI or low LOEUF scores in a gene suggest that LoF variants are likely to be pathogenic and may cause disease through haploinsufficiency. The absence of a known Mendelian disease association for STEAP1 suggests it is likely tolerant of heterozygous LoF variants.
+*   **Variant Classes Most Likely to be Pathogenic**: Based on its known role in cancer, pathogenic variants are typically somatic events leading to overexpression rather than germline variants causing Mendelian disease. For germline variants, none are currently established as pathogenic for a specific disorder.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms**: No HPO terms are associated with germline pathogenic variants in STEAP1, as no corresponding Mendelian disorder has been established.
+*   **Secondary HPO terms**: No secondary HPO terms are documented for germline variants in STEAP1.
+*   **Age of Onset Patterns**: Not applicable, as no Mendelian disease is associated with STEAP1.
+*   **Phenotype Severity Spectrum**: Not applicable, as no Mendelian disease is associated with STEAP1.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes**: No genotype-phenotype correlations have been established for germline variants. In oncology, high levels of STEAP1 expression (somatic phenotype) are correlated with poor prognosis and increased metastatic potential in cancers such as prostate, lung, and colorectal cancer.
+*   **Protein Domain-Specific Phenotype Patterns**: Information is not available for germline variants. The transmembrane domain is critical for its reductase-like structure and function.
+*   **Genotype-Phenotype Correlation Strength**: Not applicable for germline variants.
+*   **Examples: Specific Variants → Specific Phenotypes**: There are no known examples of specific germline variants leading to specific Mendelian phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   **Pathogenic Variants**: ClinVar lists numerous variants for STEAP1, the vast majority of which are classified as "Uncertain significance" or "Benign/Likely benign". There are no variants classified as "Pathogenic" or "Likely pathogenic" for a Mendelian disorder.
+*   **Variants with Strongest Phenotype Evidence**: No germline variants have strong evidence for causing a Mendelian phenotype. The strongest evidence relates STEAP1 *overexpression* to cancer progression.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: STEAP1 is most highly expressed in the prostate gland. It is also expressed at lower levels in the bladder, colon, pancreas, ovary, and other tissues. Its high expression in prostate and other cancers makes it a significant biomarker and therapeutic target.
+*   **Tissue-Specific Phenotypes Expected**: Based on its expression pattern, dysregulation would be expected to primarily affect the prostate. However, its overexpression contributes to pathology in a wide range of cancers.
+*   **Expression During Development and Age-Related Phenotypes**: Data on developmental expression and age-related phenotypes are not available from the search results.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function**: STEAP1 is a cell-surface metalloreductase that is believed to play a role in intercellular communication and iron/copper homeostasis.
+*   **Disease Mechanism**: The primary disease mechanism is somatic overexpression in cancer cells, which promotes tumor growth, proliferation, invasion, and metastasis. It is not associated with a known Mendelian disease mechanism like germline haploinsufficiency or dominant-negative effects.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: Overexpression of STEAP1 in cancer can promote epithelial-to-mesenchymal transition (EMT), potentially via the JAK2/STAT3 signaling pathway. It is also associated with managing oxidative stress levels in tumor cells. In some contexts, it can inhibit apoptosis.
+*   **Protein-Protein Interactions Relevant to Phenotype**: STEAP1 lacks an independent NADPH-binding domain required for reductase activity but may form heterotrimers with other STEAP family members (like STEAP2 or STEAP4) to function.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for identifying a causative germline variant in STEAP1 for a Mendelian phenotype is effectively zero, as no such disease association exists.
+*   **Most Common Reasons for Testing This Gene**: Testing for STEAP1 is typically performed at the protein or mRNA expression level on tumor tissue for prognostic purposes in cancers like prostate cancer and Ewing sarcoma.
+*   **Clinical Actionability and Management Implications**: High STEAP1 expression in a tumor may indicate a poorer prognosis. It is a promising target for cancer therapies, including antibody-drug conjugates and CAR-T cell therapies, some of which are in clinical trials.
+*   **Genetic Counseling Considerations**: Counseling would focus on the lack of evidence for STEAP1 as a cause of inherited Mendelian disease. The gene's role is confined to the somatic level in cancer.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 37841392 (2023)**: This review summarizes the oncogenic functions of STEAP1 across various cancers and highlights its role as a poor prognostic marker and a promising therapeutic target.
+*   **PMID: 38171738 (2024)**: This study comparatively evaluates different STEAP1-targeting CAR-T cell constructs, finding superior expansion and survival with a 41BB costimulatory domain, which may be important for clinical efficacy in treating cancers like prostate cancer.
+*   **PMID: 32409586 (2020)**: Reports the cryo-EM structure of human STEAP1, revealing it adopts a reductase-like conformation but lacks a key domain for independent enzymatic activity, suggesting it functions in complex with other proteins.
+*   **PMID: 26979929 (2016)**: Suggests that STEAP1 expression is regulated by post-transcriptional and post-translational mechanisms that may differ between non-neoplastic and neoplastic cells, contributing to its overexpression in cancer.
+*   **PMID: 22238356 (2012)**: A review that details the metalloreductase activity of the STEAP family and identifies STEAP1 as being overexpressed in numerous cancers, stimulating cell proliferation and invasiveness.
+*   **PMID: 27763781 (2017)**: This study in LNCaP prostate cancer cells shows that STEAP1 knockdown reduces cell viability and proliferation while increasing apoptosis, supporting its role as an oncoprotein.
+*   **PMID: 22215844 (2012)**: Established an association between STEAP1 and the invasive behavior and oxidative stress phenotype of Ewing tumors, proposing an oncogenic function.
+*   **PMID: 15305108 (2004)**: Found that monoclonal antibodies against STEAP1 could inhibit tumor growth in xenograft models, establishing it as a viable therapeutic target.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations**: There are currently no known high-confidence associations between germline STEAP1 variants and HPO terms for Mendelian disease.
+*   **Phenotype red flags**: There are no patient HPO terms that would strongly suggest a pathogenic germline variant in STEAP1. The key "red flag" is the somatic finding of STEAP1 overexpression in a tumor biopsy, which has prognostic and therapeutic implications for the cancer itself.
+*   **Differential diagnosis considerations**: Given the lack of a STEAP1-related Mendelian syndrome, it would not typically be included in a differential diagnosis for a germline disorder based on HPO terms.
+

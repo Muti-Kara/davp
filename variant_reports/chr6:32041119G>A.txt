@@ -1,0 +1,204 @@
+=== chr6:32041119G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs6446
+• Chromosome: 6
+• Position: 32041119
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CYP21A2
+• Databases: rs6446, COSV100926760
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.0004261
+• gnomADg Allele Frequency: 0.0007718
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0003776: coronary artery bypass - Surgical therapy of ischemic coronary artery disease achieved by grafting a section of saphenous vein, internal mammary artery, or other substitute between the aorta and the obstructed coronary artery distal to the obstructive lesion.
+GWAS_EFO_0000275: atrial fibrillation - A disorder characterized by an electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregular ventricular response. (CDISC)|Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation.
+GWAS_EFO_0008409: susceptibility to scarlet fever measurement - Quantification of an individual's susceptibility to scarlet fever, a syndrome of rash, sore throat and fever caused by Group A Streptococcal infection
+GWAS_EFO_0004984: complement C4 measurement - Complement C4 measurement is a quantification of the C4 glycoprotein, typically in serum, that is central in both the classical and the alternative pathway of complement activation . Complement activation, which allows for the direct killing of microbes, the disposal of immune complexes, and the regulation of other immune processes.
+GWAS_EFO_0002690: systemic lupus erythematosus - An autoimmune multi-organ disease typically associated with vasculopathy and autoantibody production. Most patients have antinuclear antibodies (ANA). The presence of anti-dsDNA or anti-Smith antibodies are highly-specific.|A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+GWAS_EFO_0010443: triacylglycerol 58:9 measurement - The quantification of triacylglycerol 58:9 levels in some body fluid, used as a biomarker for disease.
+GWAS_EFO_0008410: susceptibility to pneumonia measurement - Quantification of an individual's susceptibility to pneumonia, an infection of the lung tissue, typically by bacteria or viruses
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0008579: risk-taking behaviour - The tendency to take risks. Risk-taking behaviour is a characteristic of several psychiatric disorders such as ADHD and bipolar disorder, as well as problem behaviours such as smoking and drug abuse.
+GWAS_EFO_0004842: eosinophil count - Is a quantification of eosinphils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0005090: basophil count - quantification of basophils in the blood|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0004833: neutrophil count - Is a quantification of neutrophils in blood.|The number of granulocytes (polymorphonuclear leukocytes) in a specified volume of blood, usually 1 cubic millimeter.
+GWAS_EFO_0004980: appendicular lean mass - Appendicular lean mass is a measurement of skeletal strength of lower limbs and is used as a predictive measure of hip fracture.
+GWAS_EFO_0004308: leukocyte count - The number of WHITE BLOOD CELLS per unit volume in venous BLOOD. A differential leukocyte count measures the relative numbers of the different types of white cells.
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+GWAS_EFO_0007869: wellbeing measurement - quantification of some aspect of wellbeing such as life satisfaction or emotional wellbeing, usually self-reported and quantified through the use of a structured questionnaire
+GWAS_EFO_0008402: susceptibility to cold sores measurement - Quantification of an individual's susceptibility to cold sores, vesicular lesions of the lips and mouth caused by another member of the human herpesvirus family, herpes simplex virus type 1 (HSV-1)
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16179836) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443
+Entity: Transcript (ID: 16381616) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443
+Entity: Transcript (ID: 16381609) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443
+Entity: Transcript (ID: 16381620) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443
+Entity: Transcript (ID: 16381635) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984
+Entity: Transcript (ID: 16381766) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443
+Entity: Transcript (ID: 16381774) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443
+Entity: ChromHMM State (ID: 20259655) -> Associated GWAS: GWAS_EFO_0008410, GWAS_EFO_0004337, GWAS_EFO_0002690, GWAS_EFO_0007937, GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0004833, GWAS_EFO_0004980, GWAS_EFO_0004308, GWAS_EFO_0007937, GWAS_EFO_0004875, GWAS_EFO_0007869, GWAS_EFO_0008402
+Entity: ChromHMM State (ID: 22682209) -> Associated GWAS: GWAS_EFO_0008410, GWAS_EFO_0004337, GWAS_EFO_0002690, GWAS_EFO_0007937, GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0004833, GWAS_EFO_0004980, GWAS_EFO_0004308, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 22086309) -> Associated GWAS: GWAS_EFO_0008410, GWAS_EFO_0004337, GWAS_EFO_0002690, GWAS_EFO_0007937, GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0004833, GWAS_EFO_0004980, GWAS_EFO_0004308, GWAS_EFO_0007937, GWAS_EFO_0004875, GWAS_EFO_0007869, GWAS_EFO_0008402
+Entity: ChromHMM State (ID: 21458121) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579
+Entity: ChromHMM State (ID: 20849564) -> Associated GWAS: GWAS_EFO_0008410, GWAS_EFO_0004337, GWAS_EFO_0002690, GWAS_EFO_0007937, GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579
+Entity: ChromHMM State (ID: 19110293) -> Associated GWAS: GWAS_EFO_0003776, GWAS_EFO_0000275, GWAS_EFO_0008409, GWAS_EFO_0004984, GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0004833, GWAS_EFO_0004980, GWAS_EFO_0004308, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 19699796) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579
+Entity: chr_chain (ID: 286368) -> Associated GWAS: GWAS_EFO_0002690, GWAS_EFO_0010443, GWAS_EFO_0008579, GWAS_EFO_0004842, GWAS_EFO_0005090, GWAS_EFO_0004833, GWAS_EFO_0004980, GWAS_EFO_0004308, GWAS_EFO_0007937
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 10218
+• Pathogenic/Likely Pathogenic: 2544
+• Benign/Likely Benign: 3123
+• Uncertain Significance: 4476
+• Other Classifications: 75
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Cardiovascular phenotype (n=1671)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency (n=1172)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency (n=280)
+• not provided|Cardiovascular phenotype (n=248)
+• Vesicoureteral reflux 8 (n=242)
+• Cardiovascular phenotype|not provided (n=212)
+• CYP21A2-related disorder (n=207)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not provided (n=191)
+• Inborn genetic diseases (n=178)
+• not provided|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency (n=128)
+• Congenital adrenal hyperplasia (n=84)
+• not provided|not specified (n=61)
+• not provided|CYP21A2-related disorder (n=60)
+• Ehlers-Danlos syndrome (n=49)
+• not provided|Inborn genetic diseases (n=47)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not specified (n=43)
+• TNXB-related disorder (n=41)
+• TNXB-related disorder|Cardiovascular phenotype (n=38)
+• not provided|Congenital adrenal hyperplasia (n=34)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not provided|CYP21A2-related disorder (n=33)
+• not provided|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not specified (n=32)
+• Ehlers-Danlos syndrome|Cardiovascular phenotype (n=32)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|CYP21A2-related disorder|not provided (n=31)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not provided|not specified (n=29)
+• - (n=27)
+• not provided|not specified|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency (n=25)
+• not specified|not provided (n=25)
+• Cardiovascular phenotype|not provided|not specified (n=23)
+• Cardiovascular phenotype|Vesicoureteral reflux 8 (n=22)
+• Vesicoureteral reflux 8|Cardiovascular phenotype (n=22)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not provided|CYP21A2-related disorder|Congenital lipoid adrenal hyperplasia due to STAR deficency|See cases (n=19)
+• not provided|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Congenital adrenal hyperplasia|CYP21A2-related disorder (n=19)
+• not provided|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not specified|CYP21A2-related disorder (n=19)
+• not provided|Ehlers-Danlos syndrome|Cardiovascular phenotype (n=17)
+• not provided|Ehlers-Danlos syndrome|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=16)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|not specified|not provided (n=16)
+• not provided|TNXB-related disorder|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=16)
+• CYP21A2-related disorder|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency (n=15)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Congenital adrenal hyperplasia|not provided (n=15)
+• Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency (n=15)
+• Cardiovascular phenotype|not specified (n=15)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not specified|not provided (n=14)
+• Adenoma, cortisol-producing|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Carcinoma, adrenocortical, androgen-secreting|Inborn genetic diseases|Congenital adrenal hyperplasia|not provided|CYP21A2-related disorder (n=14)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency (n=14)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not provided|Congenital adrenal hyperplasia|CYP21A2-related disorder (n=14)
+• See cases (n=14)
+• CYP21A2-related disorder|Congenital adrenal hyperplasia (n=13)
+• CYP21A2-related disorder|not provided (n=13)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Inborn genetic diseases|not provided|Congenital adrenal hyperplasia|See cases (n=13)
+• not specified|not provided|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency (n=13)
+• Congenital adrenal hyperplasia|CYP21A2-related disorder|not provided (n=13)
+• Congenital adrenal hyperplasia|not specified|not provided (n=13)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Inborn genetic diseases|not provided|Congenital adrenal hyperplasia (n=13)
+• not provided|Ehlers-Danlos syndrome due to tenascin-X deficiency|Cardiovascular phenotype (n=13)
+• not provided|Congenital adrenal hyperplasia|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency (n=13)
+• not provided|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|Congenital adrenal hyperplasia (n=13)
+• not provided|Cardiovascular phenotype|Ehlers-Danlos syndrome|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=13)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|Cardiovascular phenotype|not provided (n=13)
+• Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency|not provided|not specified (n=13)
+• Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not specified|Congenital adrenal hyperplasia|not provided (n=12)
+• Vesicoureteral reflux 8|not provided (n=11)
+• not provided|Ehlers-Danlos syndrome (n=11)
+• Vesicoureteral reflux 8|Cardiovascular phenotype|not provided (n=9)
+• not provided|Cardiovascular phenotype|not specified (n=9)
+• not provided|Ehlers-Danlos syndrome|Cardiovascular phenotype|not specified (n=9)
+• Ehlers-Danlos syndrome|Cardiovascular phenotype|not provided (n=8)
+• Cardiovascular phenotype|not provided|TNXB-related disorder (n=8)
+• not provided|Vesicoureteral reflux 8|Cardiovascular phenotype (n=8)
+• Vesicoureteral reflux 8|not provided|TNXB-related disorder (n=8)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|not provided|Ehlers-Danlos syndrome (n=8)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|not provided|Vesicoureteral reflux 8 (n=8)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|TNXB-related disorder (n=8)
+• Ehlers-Danlos syndrome|not provided (n=8)
+• not provided|not specified|Vesicoureteral reflux 8 (n=8)
+• not provided|Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency|not specified (n=7)
+• TNXB-related disorder|Cardiovascular phenotype|not provided (n=7)
+• not provided|TNXB-related disorder (n=6)
+• not provided|Cardiovascular phenotype|Vesicoureteral reflux 8 (n=6)
+• not provided|Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=6)
+• not provided|Cardiovascular phenotype|not specified|Vesicoureteral reflux 8 (n=5)
+• not provided|Cardiovascular phenotype|Ehlers-Danlos syndrome|Ehlers-Danlos syndrome due to tenascin-X deficiency|not specified (n=5)
+• 7 conditions|Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency|not provided (n=5)
+• Congenital adrenal hyperplasia|Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency|not provided (n=5)
+• Ehlers-Danlos syndrome|not provided|not specified (n=5)
+• See cases|not provided (n=5)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|Ehlers-Danlos syndrome|not specified (n=5)
+• Vesicoureteral reflux 8|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=4)
+• Ehlers-Danlos syndrome, type 3|not provided|Ehlers-Danlos syndrome|Cardiovascular phenotype|not specified|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=4)
+• Ehlers-Danlos syndrome|Cardiovascular phenotype|TNXB-related disorder (n=4)
+• not provided|Cardiovascular phenotype|TNXB-related disorder (n=4)
+• not provided|Ehlers-Danlos syndrome|Ehlers-Danlos syndrome due to tenascin-X deficiency|Cardiovascular phenotype|TNXB-related disorder|not specified (n=4)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|Cardiovascular phenotype|not specified|not provided (n=4)
+• not provided|Cardiovascular phenotype|Ehlers-Danlos syndrome|TNXB-related disorder|not specified (n=3)
+• Ehlers-Danlos syndrome|Cardiovascular phenotype|not specified|not provided (n=3)
+• 7 conditions|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=3)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|not provided (n=3)
+• not provided|Ehlers-Danlos syndrome|Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=3)
+• Vesicoureteral reflux 8|TNXB-related disorder (n=3)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|Vesicoureteral reflux 8|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=3)
+• Vesicoureteral reflux 8|not specified|Cardiovascular phenotype|TNXB-related disorder (n=3)
+• Cardiovascular phenotype|Vesicoureteral reflux 8|TNXB-related disorder (n=3)
+• Ehlers-Danlos syndrome|not provided|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=3)
+• Cardiovascular phenotype|not provided|Vesicoureteral reflux 8 (n=3)
+• See cases|Cardiovascular phenotype (n=3)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|Cardiovascular phenotype (n=2)
+• not specified|Cardiovascular phenotype (n=2)
+• not provided|Ehlers-Danlos syndrome|Cardiovascular phenotype|Vesicoureteral reflux 8 (n=2)
+• not provided|Ehlers-Danlos syndrome|Vesicoureteral reflux 8|Cardiovascular phenotype|not specified|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=2)
+• not provided|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=2)
+• TNXB-related disorder|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=2)
+• not provided|not specified|Cardiovascular phenotype (n=2)
+• not provided|Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency|TNXB-related disorder|Ehlers-Danlos syndrome|not specified (n=2)
+• Ehlers-Danlos syndrome due to tenascin-X deficiency|TNXB-related disorder|Cardiovascular phenotype (n=2)
+• Cardiovascular phenotype|Ehlers-Danlos syndrome due to tenascin-X deficiency (n=2)
+
+

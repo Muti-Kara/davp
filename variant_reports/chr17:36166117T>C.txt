@@ -1,0 +1,75 @@
+=== chr17:36166117T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs761083722
+• Chromosome: 17
+• Position: 36166117
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 0/1
+• Quality Score: 1296.64001465
+• Gene Names: TBC1D3B
+• Databases: rs761083722
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1212
+• gnomADg Allele Frequency: 0.13470000000000001
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 248
+• Allelic Depth (AD): [165, 72]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007966: clopidogrel metabolite measurement - quantification of the activate metabolite of the platelet aggregation inhibitor clopidogrel in a sample
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0008051: C-C motif chemokine 3 measurement - quantification of the amount of C-C motif chemokine 3 in a sample
+GWAS_EFO_0009700: visual perception measurement - Quantification of some aspect of visual perception.
+GWAS_EFO_0004751: CCL4 measurement - Is the quantification of Chemokine (C-C motif) ligand 4, involved in response to infection and inflammation,  chemoattractant for natural killer cells, monocytes and a variety of other immune cells.
+GWAS_EFO_0004847: age at onset - The age at which some process, or disease started in a human individual.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_HP_0000545: Myopia - An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.
+GWAS_EFO_0007814: refractive error measurement - quantification of some aspect of refractive errors, which occur when the shape of the eye prevents light from focusing directly on the retina. The length of the eyeball (longer or shorter), changes in the shape of the cornea, or aging of the lens can cause refractive errors. Quantification of an individual's refractive error allows the establishemnt of a number of corrective parameters such as spherical equivalent, lens decentration and transposition
+GWAS_EFO_0008219: macrophage inflammatory protein 1b measurement - quantification of the amount of macrophage inflammatory protein 1b in a sample
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16141779) -> Associated GWAS: GWAS_EFO_0007966, GWAS_EFO_0004747, GWAS_EFO_0008051, GWAS_EFO_0009700, GWAS_EFO_0004747, GWAS_EFO_0004751, GWAS_EFO_0004847, GWAS_EFO_0007937, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0008219, GWAS_EFO_0008219
+Entity: Transcript (ID: 16234273) -> Associated GWAS: GWAS_EFO_0007966, GWAS_EFO_0004747, GWAS_EFO_0008051, GWAS_EFO_0009700, GWAS_EFO_0004747, GWAS_EFO_0004751, GWAS_EFO_0004847, GWAS_EFO_0007937, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0008219, GWAS_EFO_0008219
+Entity: Enhancer (ID: 24731672) -> Associated GWAS: GWAS_EFO_0008219
+Entity: Enhancer (ID: 23464002) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007966, GWAS_EFO_0004747, GWAS_EFO_0008051, GWAS_EFO_0009700, GWAS_EFO_0004747, GWAS_EFO_0004751, GWAS_EFO_0004847, GWAS_EFO_0007937, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0008219, GWAS_EFO_0008219
+Entity: Non Coding RNA (ID: 17166721) -> Associated GWAS: GWAS_EFO_0007966, GWAS_EFO_0004747, GWAS_EFO_0008051, GWAS_EFO_0009700, GWAS_EFO_0004747, GWAS_EFO_0004751, GWAS_EFO_0004847, GWAS_EFO_0007937, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0008219, GWAS_EFO_0008219
+Entity: Non Coding RNA (ID: 17166722) -> Associated GWAS: GWAS_EFO_0007966, GWAS_EFO_0004747, GWAS_EFO_0008051, GWAS_EFO_0009700, GWAS_EFO_0004747, GWAS_EFO_0004751, GWAS_EFO_0004847, GWAS_EFO_0007937, GWAS_HP_0000545, GWAS_EFO_0007814, GWAS_EFO_0008219, GWAS_EFO_0008219
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 150
+• Pathogenic/Likely Pathogenic: 10
+• Benign/Likely Benign: 57
+• Uncertain Significance: 83
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Anomalous pulmonary venous return (n=5)
+• Autism (n=5)
+
+

@@ -1,0 +1,66 @@
+PELP1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 30134.
+- **OMIM Gene ID:** 609455.
+- **Primary Disease Associations:** While primarily studied in the context of various cancers for its role as a proto-oncogene, its germline pathogenic variants have not been definitively linked to a Mendelian disease. It has been associated with breast cancer progression and therapy resistance.
+- **Clinical Significance Level:** The clinical significance for germline pathogenic variants is not yet fully established.
+- **Inheritance Patterns Observed in Patients:** Not applicable for a Mendelian disorder; however, its expression levels are prognostically significant in cancer.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull (gnomAD v2.1.1):**
+    - **pLI:** 0.00
+    - **LOEUF:** 1.25
+    - **pRec:** 0.77
+    - **pNull:** 0.23
+- **Clinical Interpretation of Constraint Scores:** The very low pLI and high LOEUF scores indicate that *PELP1* is highly tolerant to loss-of-function variation. This suggests that haploinsufficiency is not a common disease mechanism.
+- **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist for a Mendelian disorder, are more likely to be gain-of-function or have a dominant-negative effect.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As *PELP1* is not yet linked to a specific Mendelian syndrome, a definitive list of HPO terms is not available. Research has focused on its role in oncology.
+- **Secondary HPO terms:** Not applicable.
+- **Age of Onset Patterns:** Not applicable.
+- **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** Somatic overexpression of *PELP1* is associated with the progression and poor prognosis of several cancers, including breast, ovarian, and lung cancer. Cytoplasmic localization of the PELP1 protein is linked to resistance to tamoxifen treatment in breast cancer.
+- **Protein Domain-Specific Phenotype Patterns:** The various domains of PELP1 mediate interactions with numerous proteins, including nuclear receptors and kinases, influencing its role in cancer progression.
+- **Genotype-Phenotype Correlation Strength:** Strong correlation exists for somatic expression levels and cancer prognosis. Germline genotype-phenotype correlations are not established.
+
+### **Clinical Variants & Phenotype Associations**
+- No pathogenic or likely pathogenic germline variants with clear phenotype associations are listed in ClinVar as of the latest search. The database primarily contains variants of uncertain significance.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx):** According to GTEx data, *PELP1* is widely expressed, with the highest levels in the testes, ovaries, uterus, and brain.
+- **Tissue-Specific Phenotypes Expected:** The high expression in hormone-responsive tissues aligns with its role as a coactivator of estrogen receptors and its significance in hormone-dependent cancers like breast and ovarian cancer. Its expression in the brain is essential for estrogen-mediated neuroprotection.
+- **Expression During Development and Age-Related Phenotypes:** *PELP1* expression is developmentally regulated in mammary glands.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** *PELP1* encodes a scaffolding protein that acts as a coregulator for nuclear receptors and other transcription factors, playing key roles in hormonal signaling, cell cycle progression, and ribosome biogenesis.
+- **Disease Mechanism:** In cancer, the primary mechanism is overexpression (a form of gain-of-function), which promotes cell proliferation, metastasis, and therapy resistance.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:**
+    - **Estrogen Receptor (ER) Signaling:** As a coactivator, PELP1 enhances ER-mediated transcription, driving growth in ER-positive cancers.
+    - **PI3K/AKT/mTOR & Src Kinase Pathways:** Cytoplasmic PELP1 can non-genomically activate these pro-survival and proliferative pathways, contributing to therapy resistance.
+    - **Wnt/β-catenin Signaling:** In the brain, PELP1 mediates estrogen's regulation of this pathway, which is crucial for neuroprotection.
+- **Protein-Protein Interactions Relevant to Phenotype:** PELP1 interacts with ESR1, SRC, PI3K, RB1, and various epigenetic modifiers like HDAC2 and KDM1 to modulate gene expression and signaling pathways, influencing cancer phenotypes.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** Germline testing for *PELP1* is not standard practice for Mendelian disorders. In oncology, measuring its expression level in tumors has prognostic value.
+- **Most Common Reasons for Testing This Gene:** Testing is currently performed in a research context, particularly in studies of breast and other hormone-related cancers to understand prognosis and potential therapeutic responses.
+- **Clinical Actionability and Management Implications:** High PELP1 expression, especially cytoplasmic localization, in breast tumors may predict a poor response to tamoxifen and suggest that targeting pathways like Src kinase or mTOR could be beneficial.
+- **Genetic Counseling Considerations:** Not applicable for germline disorders at this time.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 26997260, 2016:** A comprehensive review detailing PELP1's structure, function, and roles in hormonal signaling, cell cycle, and DNA damage response, highlighting its upregulation in various cancers and its prognostic significance.
+- **PMID: 30138902, 2019:** Study comparing PELP1 expression across multiple cancer types, finding it to be a sensitive marker for breast cancer, particularly non-luminal types, and an independent adverse prognostic factor.
+- **PMID: 30425121, 2019:** Review summarizing the role of PELP1 in the brain, establishing it as a key mediator of estrogen's neuroprotective effects through pathways like ERK, Akt, and Wnt signaling.
+- **PMID: 28008101, 2017:** Research demonstrating that PELP1 is an inflammatory responsive gene and that its expression promotes tumorigenesis by activating paracrine signaling in the tumor microenvironment.
+- **PMID: 23624021, 2013:** A review on PELP1 interactions and signaling, describing its dual nuclear and cytoplasmic functions as a coregulator and a scaffold protein in cancer biology.
+- **Vadlamudi et al., 2005 (PMID: 15980404):** A key study demonstrating that altered cytoplasmic localization of PELP1 contributes to tamoxifen resistance in breast cancer through excessive activation of the Akt pathway.
+- **Rajhans et al., 2007 (PMID: 17470624):** Found that invasive and metastatic breast cancers have increased PELP1 expression compared to node-negative tumors, linking PELP1 to metastasis.
+- **New Genotype-Phenotype Correlations Discovered:** The primary correlation is the consistent link between somatic *PELP1* overexpression and aggressive features in a variety of cancers, rather than a germline genotype-phenotype correlation for a Mendelian disease.
+
+### **HPO-Variant Matching Summary**
+- **High-Confidence HPO-Variant Associations:** Not applicable for germline variants. Somatic overexpression is strongly associated with cancer-related phenotypes.
+- **Phenotype Red Flags:** For somatic analysis, high expression of *PELP1* in tumor tissue, especially in hormone-dependent cancers, is a red flag for poor prognosis and potential therapy resistance.
+- **Differential Diagnosis Considerations:** In oncology, the expression of *PELP1* can be high in breast, lung, and ovarian cancers, which may limit its utility for differential diagnosis between these tumor types in certain clinical scenarios.
+

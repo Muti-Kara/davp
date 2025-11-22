@@ -1,0 +1,66 @@
+CNNM3 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 104
+*   **OMIM Gene ID:** 607804
+*   **Primary Disease Associations:** While OMIM does not list a direct disease association, *CNNM3* has been associated with Jalili Syndrome and Fanconi Anemia, Complementation Group C in other databases. Its paralog, *CNNM2*, is linked to hypomagnesemia, seizures, and intellectual disability.
+*   **Clinical Significance Level:** The clinical significance is not definitively established for a specific Mendelian disease, though it is implicated in magnesium homeostasis and may play a role in complex disorders.
+*   **Inheritance Patterns Observed in Patients:** Given the associations of its paralogs, both autosomal dominant and recessive inheritance patterns could be considered depending on the phenotype.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint metrics for *CNNM3* (Ensembl: ENSG00000168763) are: pLI = 0.00, LOEUF = 1.09, pRec = 0.89, and pNull = 0.11.
+*   **Clinical Interpretation of Constraint Scores:** The pLI score of 0.00 indicates that the gene is tolerant to loss-of-function (LoF) variants, suggesting haploinsufficiency is an unlikely disease mechanism. The high LOEUF score further supports that the gene is not highly constrained against LoF variation. The high pRec score suggests it is more likely to be tolerant of homozygous LoF variants than recessive.
+*   **Variant Classes Most Likely to be Pathogenic:** While LoF variants are not expected to be pathogenic, specific missense variants or gain-of-function variants could be disease-causing, potentially through altered protein function or interactions.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As *CNNM3* itself is not definitively linked to a Mendelian disorder, a direct list of HPO terms is unavailable. However, based on its paralog *CNNM2* and its function, relevant HPO terms would likely relate to magnesium metabolism and neurological function.
+    *   Hypomagnesemia (HP:0002917)
+    *   Seizures (HP:0001250)
+    *   Intellectual disability (HP:0001249)
+    *   Developmental delay
+    *   Obesity (HP:0001513)
+*   **Secondary HPO terms:**
+    *   Speech delay
+    *   Abnormality of the nervous system
+    *   Abnormality of brain morphology
+*   **Age of Onset Patterns:** Based on related disorders, onset could range from infantile to childhood.
+*   **Phenotype Severity Spectrum:** Severity would likely range from mild (e.g., simple hypomagnesemia) to severe (e.g., refractory seizures and significant developmental delay), potentially influenced by the mode of inheritance and specific variant effect.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No established correlations exist for *CNNM3*. For its paralog *CNNM2*, heterozygous missense or LoF mutations can cause dominant hypomagnesemia, sometimes with seizures and intellectual disability, while biallelic mutations can lead to a more severe recessive phenotype.
+*   **Protein Domain-Specific Phenotype Patterns:** The C-terminal region contains a cystathionine β-synthase (CBS) pair domain, which is crucial for binding to PRL proteins and regulating magnesium transport. Mutations in this domain in *CNNM2* are known to cause dominant hypomagnesemia. Similar mutations in *CNNM3* could potentially lead to related phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Currently weak to nonexistent for *CNNM3* itself. Correlations for the *CNNM* gene family are emerging.
+
+### **Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants are listed for *CNNM3* in ClinVar as of the latest search. Research has focused more on its paralogs, particularly *CNNM2* and *CNNM4*, in relation to human disease.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *CNNM3* shows ubiquitous expression, with notable levels in the brain, kidney, liver, and heart. This broad expression pattern is consistent with a fundamental role in cellular processes like ion transport.
+*   **Tissue-Specific Phenotypes Expected:** Given its expression profile, pathogenic variants in *CNNM3* could potentially manifest with neurological, renal, or cardiac phenotypes. Its role in magnesium homeostasis is critical across multiple organ systems.
+*   **Expression During Development and Age-Related Phenotypes:** Expression in the fetal brain and other developing tissues suggests a potential role in developmental processes. Dysregulation could lead to developmental abnormalities.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *CNNM3* is a probable metal transporter, likely involved in magnesium homeostasis by mediating magnesium influx or efflux depending on cellular conditions.
+*   **Disease Mechanism:** The specific disease mechanism for *CNNM3* variants is unknown. Based on studies of other CNNM family members, both loss-of-function and gain-of-function are plausible mechanisms, potentially disrupting cellular magnesium balance.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** *CNNM3* interacts with PRL phosphatases, and this complex is implicated in regulating magnesium influx. Disruption of this interaction could alter intracellular magnesium levels, impacting ATP-dependent enzymes, ion channel function, and signaling pathways like the TORC2 pathway, potentially leading to growth and developmental defects.
+*   **Protein-Protein Interactions Relevant to Phenotype:** The interaction with PRL-2 has been studied in the context of breast cancer, where the PRL-2•CNNM3 complex appears to confer a proliferative advantage, particularly in magnesium-deprived conditions.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Currently, the diagnostic yield for *CNNM3* is likely very low to zero, as it is not yet established as a definitive disease-causing gene for a specific Mendelian disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing for *CNNM3* would likely be considered in patients with unexplained hypomagnesemia or complex neurological phenotypes, especially after genes with stronger evidence (like *CNNM2*) have been excluded.
+*   **Clinical Actionability and Management Implications:** A pathogenic finding in *CNNM3* would be of uncertain significance. Management would be guided by the patient's phenotype, potentially including magnesium supplementation, though its effectiveness is variable in related disorders.
+*   **Genetic Counseling Considerations:** Counseling would be challenging due to the limited evidence. The possibility of dominant or recessive inheritance would need to be considered based on family history and the specific variant identified.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38373693, 2024:** In *C. elegans*, mutations in *cnnm-1* and *cnnm-3* lead to excessive intestinal Mg2+ accumulation and reduced body size by suppressing the TORC2 signaling pathway.
+*   **PMID: 25686016, 2015:** Showed that the PRL-2•CNNM3 complex promotes breast cancer progression by regulating magnesium influx, and disrupting this complex reduces tumor growth.
+*   **PMID: 33543594, 2021:** A comprehensive study on *CNNM2* established hypomagnesemia, seizures, intellectual disability, and obesity as hallmark features, providing a clinical diagnostic framework for related disorders.
+*   **PMID: 34589255, 2021:** Analysis of 23 cases with *CNNM2*-related disorders classified phenotypes into three types based on the mode of inheritance (autosomal dominant vs. recessive) and severity.
+*   **Funato et al., 2020 (PLOS Genetics):** In *C. elegans*, *cnnm-1* and *cnnm-3* are required for postembryonic gonad development, a process dependent on proper magnesium homeostasis and AMPK signaling.
+*   **Chen et al., 2018:** Provided structural insights into the CNBH domain of CNNM proteins, showing it is required for the Mg2+ efflux activity of CNNM4.
+*   **Wang et al., 2003 (Genomics):** First cloned the novel ACDP gene family, including *ACDP3* (now *CNNM3*), noting its conserved domains and ubiquitous expression.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence HPO-variant associations for *CNNM3*.
+*   **Phenotype Red Flags:** Based on paralog data, the combination of **Hypomagnesemia (HP:0002917)** with **Seizures (HP:0001250)** and/or **Intellectual Disability (HP:0001249)** would be a strong indicator to investigate the *CNNM* gene family, including *CNNM3*.
+*   **Differential Diagnosis Considerations:** The primary differential diagnosis would be disorders caused by mutations in other *CNNM* genes, particularly *CNNM2* (Hypomagnesemia, Seizures, and Intellectual Disability Syndrome) and *CNNM4* (Jalili Syndrome: cone-rod dystrophy and amelogenesis imperfecta). Other genetic causes of hypomagnesemia should also be considered.
+

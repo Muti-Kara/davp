@@ -1,0 +1,308 @@
+=== chr16:5033678C>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1956149077
+• Chromosome: 16
+• Position: 5033678
+• Reference Allele (REF): C
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: NAGPA
+• Databases: rs1956149077
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: N/A
+• gnomADg Allele Frequency: 6.5999999999999995e-06
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005423: adolescent idiopathic scoliosis - A scoliosis with no known cause arising in adolescent.
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0008393: reaction time measurement - In psychology, the quantification of the interval of time between the presentation of a stimulus to a subject and the beginning of the subject's response to that stimulus. Several categories of reaction time, such as simple reaction time and choice reaction time, have been established and studied in experimental psychology to assess general alertness and motor speed.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16156632) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Gene (ID: 16179088) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Transcript (ID: 16289105) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Transcript (ID: 16289125) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Transcript (ID: 16289189) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Transcript (ID: 16289192) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Transcript (ID: 16289197) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Transcript (ID: 16289235) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Transcript (ID: 16289237) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Transcript (ID: 16378143) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: Non Coding RNA (ID: 17149096) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Non Coding RNA (ID: 17149092) -> Associated GWAS: GWAS_EFO_0005423, GWAS_EFO_0007937, GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 311360282) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 310749715) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 308920375) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 308258283) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 307996500) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 301394290) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 290242763) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 290203952) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 289843998) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 285749874) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 285708633) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 285701068) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 284413947) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 282962204) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 282760430) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 279815618) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 277092164) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 263741632) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 263736146) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 259701726) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 256554640) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 253690420) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 252367489) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 251708692) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 250784737) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 248622872) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 245321857) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 245268417) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 241250639) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 240661418) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 240006764) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 236890364) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 233594229) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 233481871) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 232862649) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 230776055) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 227508922) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 226221144) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 224652077) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 223674166) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 222778501) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 216484012) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 216483457) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 212647456) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 211790256) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 209804664) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 209593910) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 209537662) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 208511908) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 202537092) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 201218528) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 196844919) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 195591555) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 194625893) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 194607721) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 193919650) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 193876998) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 193418016) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 182003685) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 182003306) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 180796667) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 176680609) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 175755296) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 174779945) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 171125769) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 170476270) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 170428258) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 163493144) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 162593075) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 159814856) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 158072671) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 157420101) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 156515051) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 152336817) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 145335936) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 143871024) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 141737981) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 140753947) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 140553464) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 137966034) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 135882762) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 135391014) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 132241364) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 132240468) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 122258526) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 117356220) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 115343376) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 106939581) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 103148810) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 99970378) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 99666108) -> Associated GWAS: GWAS_EFO_0008393
+Entity: TF Binding Site (ID: 99661788) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 93832953) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 93487032) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 93159742) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 92765091) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 92691628) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 92454696) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 91576928) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 91108952) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 90991023) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 90622442) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 90469166) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 88575257) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 87588517) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 87469355) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 87376099) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 87315130) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 87057660) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 86962095) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 86726643) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 86648767) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 85967722) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 85791277) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 84766348) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 84487531) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 83232259) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 83178340) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 83073312) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 82884633) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 82760001) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 82454170) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 82326300) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 82298514) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 81738493) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 81586963) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 80890904) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 79905512) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 79420164) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 79312128) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 79273173) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 79108248) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 78792675) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 78596595) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 78445373) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 78196895) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 77744539) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 77293984) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 77270673) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 76905780) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 76645421) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 76593994) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 76327218) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 76256746) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 75922463) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 75812168) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 75700116) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 75667045) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 75637058) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 74435135) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 73605123) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 73107749) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 72286657) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 72185927) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 72116461) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 71565808) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 71501310) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 71085681) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 70982363) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 70829468) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 70316555) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 70176748) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 69830345) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 68716437) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 68129076) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 67945523) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 67768669) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 67554520) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 67392389) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 67345342) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 67286973) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 66505277) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 66368611) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 65878274) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 65460252) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 65387205) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 64935503) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 63423593) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 63163597) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 63082417) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 62793083) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 62558016) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 62068239) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 61872322) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 61677425) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 61488327) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 60959715) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 60297763) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 60256273) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 60176686) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 59945463) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 59273285) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 59047250) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 58564483) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 57985945) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 57252976) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 57006466) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 56894725) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 56826032) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 56571674) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 56546020) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 55893146) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 55785786) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 55683788) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 55509665) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 54791855) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 54162598) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 53716578) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 53649114) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 53235377) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 52614102) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 52048138) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 51532851) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 51341077) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50923636) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50812338) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50353954) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50330007) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50255307) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50204650) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 50084377) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 49643814) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 49597981) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 49005576) -> Associated GWAS: GWAS_EFO_0008393
+Entity: Histone Modification Site (ID: 48940162) -> Associated GWAS: GWAS_EFO_0008393
+Entity: DNase Hypersensitivity Site (ID: 43209736) -> Associated GWAS: GWAS_EFO_0008393
+Entity: DNase Hypersensitivity Site (ID: 29707220) -> Associated GWAS: GWAS_EFO_0008393
+Entity: ChromHMM State (ID: 22353301) -> Associated GWAS: GWAS_EFO_0008393
+Entity: ChromHMM State (ID: 19924045) -> Associated GWAS: GWAS_EFO_0008393
+Entity: ChromHMM State (ID: 20502155) -> Associated GWAS: GWAS_EFO_0008393
+Entity: chr_chain (ID: 548820) -> Associated GWAS: GWAS_EFO_0008393
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 14913
+• Pathogenic/Likely Pathogenic: 9
+• Benign/Likely Benign: 3762
+• Uncertain Significance: 11142
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Stuttering, familial persistent, 2 (n=323)
+• not specified|not provided (n=314)
+• Variant of unknown significance (n=9)
+• Stuttering, familial persistent, 2|not provided (n=9)
+• See cases (n=9)
+
+

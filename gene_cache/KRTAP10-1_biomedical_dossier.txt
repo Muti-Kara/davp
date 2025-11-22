@@ -1,0 +1,50 @@
+KRTAP10-1 Gene Biomedical Dossier
+### Gene Identity & Clinical Context
+- **HGNC ID**: KRTAP10-1 has the HGNC ID 22966.
+- **OMIM Gene ID**: There is no OMIM gene ID currently associated with KRTAP10-1.
+- **Primary Disease Associations**: No definitive disease associations have been established for KRTAP10-1 in major databases like OMIM or ClinGen. Some sources provide text-mined associations with conditions such as Li-Fraumeni Syndrome, but these are not curated and should be interpreted with caution.
+- **Clinical Significance Level**: The clinical significance of KRTAP10-1 is currently uncertain, with no established definitive, strong, or moderate evidence for a role in any specific disease.
+- **Inheritance Patterns**: No specific inheritance patterns have been documented in relation to KRTAP10-1 and a clinical phenotype.
+
+### Constraint & Variant Intolerance
+- **pLI, LOEUF, pRec, pNull**: According to DECIPHER, which aggregates data from sources like gnomAD, KRTAP10-1 has a pLI score of 0.06 and a LOEUF score of 1.92. The pLI score suggests a low intolerance to loss-of-function variants. The LOEUF score is a continuous metric, and higher values indicate more observed than expected loss-of-function variants, suggesting the gene is tolerant to such changes.
+- **Clinical Interpretation of Constraint Scores**: The low pLI and high LOEUF scores for KRTAP10-1 suggest that loss-of-function variants in this gene are not under strong negative selection in the general population and are unlikely to be a common cause of severe, early-onset Mendelian disease.
+- **Variant Classes Most Likely to be Pathogenic**: Based on its function as a keratin-associated protein, missense variants that disrupt disulfide bonding or protein-protein interactions with keratins could potentially be pathogenic. However, given the lack of disease association and constraint data, the pathogenicity of any variant class is currently speculative.
+
+### Phenotype Spectrum & HPO Terms
+- **Primary HPO terms**: No primary HPO terms are definitively associated with KRTAP10-1 due to the lack of confirmed disease associations.
+- **Secondary HPO terms**: No secondary HPO terms are definitively associated with KRTAP10-1.
+- **Age of Onset Patterns**: Information on the age of onset is not applicable as no associated disease has been identified.
+- **Phenotype Severity Spectrum**: Information on phenotype severity is not applicable.
+
+### Genotype-Phenotype Correlations
+- Currently, there are no established genotype-phenotype correlations for KRTAP10-1.
+
+### Clinical Variants & Phenotype Associations
+- There are no well-characterized pathogenic variants for KRTAP10-1 reported in ClinVar or other major databases. A search of ClinVar for the related gene KRTAP10-4 shows a variant of uncertain significance, but this does not provide information for KRTAP10-1.
+
+### Tissue Expression & Clinical Relevance
+- **Highest Expressing Tissues (GTEx TPM)**: KRTAP10-1 shows high expression in skin that is not sun-exposed (suprapubic) and to a lesser extent in sun-exposed skin (lower leg). This is consistent with its role as a keratin-associated protein.
+- **Tissue-Specific Phenotypes Expected**: Based on its expression pattern, any potential phenotype would most likely be related to hair and skin abnormalities.
+- **Expression During Development and Age-Related Phenotypes**: Specific data on the expression of KRTAP10-1 during development is not readily available.
+
+### Molecular Mechanism & Phenotype Pathways
+- **Normal Gene Function**: KRTAP10-1 is a keratin-associated protein that is part of the interfilamentous matrix in the hair cortex, essential for the formation of a rigid hair shaft through disulfide bond cross-linking with hair keratins.
+- **Disease Mechanism**: A disease mechanism has not been defined for KRTAP10-1.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: As part of the keratinization pathway, pathogenic variants could theoretically disrupt hair shaft structure.
+- **Protein-Protein Interactions Relevant to Phenotype**: KRTAP10-1 interacts with hair keratins.
+
+### Diagnostic Yield & Clinical Utility
+- **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield for KRTAP10-1 is expected to be extremely low to none, as it is not currently associated with any known disease.
+- **Most Common Reasons for Testing This Gene**: This gene is not routinely tested for clinical diagnostic purposes.
+- **Clinical Actionability and Management Implications**: There are no known clinical actionability or management implications related to this gene.
+- **Genetic Counseling Considerations**: Genetic counseling would focus on the lack of evidence for a disease association and the uncertainty of any findings.
+
+### Key Clinical Literature & Studies
+- There is a lack of key clinical literature and studies directly linking KRTAP10-1 to specific phenotypes or diseases. The available literature focuses on its biochemical function and expression.
+
+### HPO-Variant Matching Summary
+- **High-Confidence HPO-Variant Associations**: There are no high-confidence HPO-variant associations for KRTAP10-1 at this time.
+- **Phenotype Red Flags**: There are no established phenotype red flags that would strongly suggest pathogenic variants in KRTAP10-1.
+- **Differential Diagnosis Considerations**: Given its function, if a phenotype were ever associated, the differential diagnosis would likely include other genes involved in hair and skin disorders, particularly other keratin and keratin-associated protein genes.
+

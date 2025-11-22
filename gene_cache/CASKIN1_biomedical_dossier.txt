@@ -1,0 +1,78 @@
+CASKIN1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 20879.
+- **OMIM Gene ID**: 612184.
+- **Primary Disease Associations**: While not definitively linked to a Mendelian disease in OMIM, *CASKIN1* is a candidate gene for psychosis, including schizophrenia and bipolar disorder. It is also implicated as a strong candidate gene for Autism Spectrum Disorder (ASD). It is associated with the interactor *CASK*, which causes a spectrum of neurodevelopmental disorders.
+- **Clinical Significance Level**: Evidence for *CASKIN1*'s role in disease is emerging; it is considered a strong candidate for ASD and psychosis.
+- **Inheritance Patterns Observed in Patients**: An autosomal dominant inheritance pattern with high penetrance has been observed for psychosis in a large three-generation family.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD reports a pLI score of 1.00, suggesting extreme intolerance to loss-of-function (LoF) variants. The missense Z-score is 1.79, indicating intolerance to missense variation as well. The probability of being tolerant of both heterozygous and homozygous LoF variants (pNull) is very low.
+- **Clinical Interpretation of Constraint Scores**: The high pLI score (≥0.9 is considered extremely intolerant) and positive missense Z-score strongly suggest that *CASKIN1* is intolerant to functional variation. Genes with high pLI scores are often associated with haploinsufficiency and dominant genetic diseases.
+- **Variant Classes Most Likely to be Pathogenic**: Loss-of-function variants (such as nonsense and frameshift) and damaging missense variants are most likely to be pathogenic, given the gene's intolerance scores.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: Based on mouse model data and associations with psychiatric and neurodevelopmental disorders, key phenotypes include:
+    - Anxiety-like behavior.
+    - Abnormal gait.
+    - Impaired memory/memory retention.
+    - Abnormal fear/threat response (strong freezing).
+    - Psychosis (HP:0000709).
+    - Schizophrenia (HP:0100753).
+    - Bipolar affective disorder (HP:0007302).
+    - Autism spectrum disorder (HP:0000729).
+    - Global developmental delay (related to interactor *CASK*).
+    - Intellectual disability (related to interactor *CASK*).
+- **Secondary HPO terms**:
+    - Enhanced nociception (pain perception).
+    - Abnormal motor activity.
+    - Depression (related to psychosis).
+- **Age of Onset Patterns**: Age of onset for psychosis in a studied family was variable, consistent with complex psychiatric disorders. Neurodevelopmental phenotypes like ASD would manifest in early childhood.
+- **Phenotype Severity Spectrum**: In a large family with a *CASKIN1* variant, psychosis showed high but incomplete penetrance, suggesting variable severity or expression.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**: A missense variant (D1204N) in the proline-rich region was found to segregate with psychosis (schizophrenia and bipolar disorder). De novo loss-of-function and damaging missense variants are associated with Autism Spectrum Disorder.
+- **Protein Domain-Specific Phenotype Patterns**: The D1204N variant associated with psychosis resides in the proline-rich region, which is known to be biochemically functional and binds to the protein Abi2, involved in cell growth and differentiation.
+- **Genotype-Phenotype Correlation Strength**: The correlation between the D1204N variant and psychosis is considered strong within the studied family. The gene is rated as a strong candidate (SFARI Gene Score 2) for Autism Spectrum Disorder based on multiple lines of evidence.
+- **Examples: specific variants → specific phenotypes**: The missense variant D1204N in the proline-rich region is linked to psychosis with high penetrance in a specific family. Two inherited frameshift variants were transmitted to ASD probands in two independent families.
+
+### **Clinical Variants & Phenotype Associations**
+- **Up to 15 well-characterized pathogenic variants**: Specific pathogenic variants are not extensively cataloged in ClinVar for *CASKIN1* itself, as its disease association is still being established. However, key variants from literature include:
+    - **HGVS**: *CASKIN1* p.Asp1204Asn (D1204N) / **ClinVar Significance**: Not in ClinVar, but reported as segregating with disease / **Reported Phenotypes**: Psychosis, Schizophrenia, Bipolar disorder / **AF**: Absent from all databases reviewed in the study.
+    - **Variant Type**: De novo loss-of-function variant / **ClinVar Significance**: N/A / **Reported Phenotypes**: Autism Spectrum Disorder / **AF**: De novo.
+    - **Variant Type**: Damaging de novo missense variants (REVEL > 0.5) / **ClinVar Significance**: N/A / **Reported Phenotypes**: Autism Spectrum Disorder / **AF**: De novo.
+    - **Variant Type**: Two ultra-rare inherited frameshift variants / **ClinVar Significance**: N/A / **Reported Phenotypes**: Autism Spectrum Disorder / **AF**: Ultra-rare.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation**: *CASKIN1* is highly expressed in the brain, particularly in the Cortex, Frontal Cortex (BA9), and other brain regions. This aligns with its proposed role in psychosis, ASD, and other neurodevelopmental and behavioral phenotypes. It is also broadly distributed throughout the spinal cord.
+- **Tissue-Specific Phenotypes Expected**: Given its high expression in the central nervous system, variants are expected to primarily cause neurologic, psychiatric, and developmental phenotypes.
+- **Expression During Development and Age-Related Phenotypes**: *CASKIN1* is important for axon growth, guidance, and neuronal development, indicating a critical role during brain development. This is consistent with phenotypes like ASD and developmental aspects of psychosis.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: *CASKIN1* encodes a scaffolding protein that interacts with CASK and other neuronal proteins at the synapse to regulate synaptic function and signaling.
+- **Disease Mechanism**: Based on its high pLI score, haploinsufficiency is a likely disease mechanism for loss-of-function variants. The D1204N missense variant associated with psychosis may alter protein function or interactions, leading to changes in neuronal differentiation and activity.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: *CASKIN1* is part of the presynaptic neurexin signaling pathway, competing with Mint1 for binding to CASK. Disruption of this pathway, which is involved in synapse formation and neurotransmission, can lead to psychiatric and neurodevelopmental phenotypes like psychosis and ASD. The CASK-neurexin interaction is critical for preventing microcephaly and cerebellar hypoplasia.
+- **Protein-Protein Interactions Relevant to Phenotype**: Key interactions include CASK, neurexin-1, and Abi2. The interaction with CASK is central, as *CASK* mutations cause severe neurodevelopmental disorders like MICPCH and X-linked intellectual disability. The interaction with neurexin-1 (*NRXN1*) is significant as *NRXN1* is a known schizophrenia-associated gene.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: The diagnostic yield is not yet established as it is not routinely tested for a specific Mendelian disorder. However, whole-exome sequencing of a large family with psychosis identified *CASKIN1* as the only plausible candidate gene. It has also been identified as a candidate in large ASD cohorts.
+- **Most Common Reasons for Testing This Gene**: Testing would be considered in individuals with a strong family history of psychosis (especially with an apparent dominant inheritance pattern) or in cases of Autism Spectrum Disorder where other causes have been excluded.
+- **Clinical Actionability and Management Implications**: There is currently no specific clinical actionability based on a *CASKIN1* variant. Management would be based on the patient's phenotype (e.g., standard treatments for psychosis or supportive therapies for ASD).
+- **Genetic Counseling Considerations**: For families with a segregating variant like D1204N, counseling would involve discussing the high but incomplete penetrance of psychosis. The autosomal dominant inheritance pattern would mean a 50% risk to offspring. For de novo variants associated with ASD, recurrence risk would be low.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 36620541, 2023**: Identified a missense variant (D1204N) in *CASKIN1* segregating with psychosis in a large family, suggesting it is a high-penetrance risk gene.
+- **Zhou et al., 2022 (cited in SFARI)**: Identified *CASKIN1* as an ASD candidate gene through analysis of de novo variants in over 16,000 ASD trios.
+- **Fu et al., 2022 (cited in SFARI)**: Identified *CASKIN1* as an ASD candidate gene with a false discovery rate < 0.001 in a cohort of over 63,000 individuals.
+- **Wilfert et al., 2021 (cited in SFARI)**: Found two ultra-rare inherited frameshift variants in *CASKIN1* in ASD probands from two separate families.
+- **PMID: 30361005, 2018**: Characterized *Caskin1*-knockout mice, revealing a wide spectrum of behavioral phenotypes including abnormal gait, enhanced nociception, anxiety-like behavior, and impaired memory.
+- **PMID: 21949318, 2011**: Detailed the molecular interaction between Caskin1, Mint1, and CASK, showing that a short peptide motif in Caskin1 is sufficient for binding to the CaMK domain of CASK.
+- **PMID: 12040031, 2002**: First identified Caskin1 (as KIAA1306) and reported its interaction with CASK, suggesting it competes with Mint1 and is involved in forming presynaptic tripartite complexes with neurexin.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**:
+    - **Psychosis (HP:0000709), Schizophrenia (HP:0100753), Bipolar affective disorder (HP:0007302)**: Strongly associated with the missense variant p.Asp1204Asn (D1204N).
+    - **Autism spectrum disorder (HP:0000729)**: Associated with de novo and inherited loss-of-function and damaging missense variants.
+- **Phenotype red flags**: A strong family history of psychosis following an autosomal dominant pattern should raise suspicion for a pathogenic variant in *CASKIN1*. The presence of ASD in conjunction with certain behavioral phenotypes seen in knockout mice (anxiety, abnormal gait, memory issues) may also point to this gene.
+- **Differential diagnosis considerations**: The phenotypes associated with *CASKIN1* overlap with its binding partner, *CASK*. *CASK* mutations cause a more severe spectrum of X-linked disorders including microcephaly with pontine and cerebellar hypoplasia (MICPCH) and intellectual disability. The psychiatric phenotypes overlap with other known schizophrenia risk genes, such as its interaction partner *NRXN1*.
+

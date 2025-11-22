@@ -1,0 +1,59 @@
+PCDHGB1 Gene Biomedical Dossier
+### **PCDHGB1: Clinical Genetics Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 8708.
+*   **OMIM Gene ID:** 606299.
+*   **Primary Disease Associations:** While not definitively linked to a single Mendelian disorder, variations in *PCDHGB1* have been associated with neurodevelopmental disorders and adult-onset dystonia.
+*   **Clinical Significance Level:** The evidence for a direct causal role in a specific disease is currently limited or evolving.
+*   **Inheritance Patterns:** Associations have been suggested in the context of both autosomal recessive and potentially more complex inheritance patterns.
+
+**Constraint & Variant Intolerance**
+*   **pLI:** 0.00.
+*   **LOEUF:** 1.05.
+*   **pRec:** Not available.
+*   **pNull:** 0.81.
+*   **Clinical Interpretation of Constraint Scores:** The pLI (probability of being loss-of-function intolerant) score near 0 and a LOEUF (loss-of-function observed/expected upper-bound fraction) score greater than 1 suggest that the gene is tolerant to loss-of-function variation. This implies that haploinsufficiency is not a likely disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, are more likely to be missense or gain-of-function variants, though evidence is limited.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As *PCDHGB1* is not yet linked to a well-defined syndrome, a ranked list of HPO terms is not established. The Human Phenotype Ontology (HPO) provides a standardized vocabulary for clinical abnormalities.
+*   **Secondary HPO terms:** Based on associated conditions, relevant HPO terms could include those related to neurodevelopmental and movement disorders.
+*   **Age of Onset Patterns:** Associations have been noted with adult-onset conditions like dystonia.
+*   **Phenotype Severity Spectrum:** The spectrum of severity is not well-defined due to the limited number of reported cases with potential *PCDHGB1* involvement.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific correlations are not yet well-established. Genotype-phenotype correlation studies are crucial for linking genetic variants to clinical outcomes.
+*   **Protein Domain-Specific Phenotype Patterns:** Insufficient data exists to correlate variants in specific protein domains with distinct phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** The correlation strength is currently considered weak due to a lack of extensive, replicated studies.
+*   **Examples:** Rare variants in *PCDHGB1* were identified in patients with adult-onset dystonia, but a causal link has not been definitively proven.
+
+**Clinical Variants & Phenotype Associations**
+*   No variants in *PCDHGB1* are currently classified as pathogenic or likely pathogenic with a high level of evidence in ClinVar. Further research is needed to identify and characterize clinically relevant variants.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** *PCDHGB1* shows the highest expression in the brain, particularly the cerebellum, and also in the testis and pituitary gland.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in the brain is consistent with its potential role in neurological functions and disorders.
+*   **Expression During Development:** As a protocadherin, it is likely involved in neural development, establishing cell-cell connections in the brain.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** *PCDHGB1* encodes a protocadherin gamma protein, which is a calcium-dependent cell-adhesion molecule likely involved in establishing and maintaining specific neuronal connections.
+*   **Disease Mechanism:** The disease mechanism is not well understood. Given the gene's tolerance to loss-of-function, a dominant-negative or gain-of-function mechanism might be more plausible if the gene is disease-associated.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** As part of the protocadherin gamma cluster, it plays a role in homophilic cell adhesion. Disruption of this process could interfere with neuronal circuit formation and maintenance.
+*   **Protein-Protein Interactions Relevant to Phenotype:** Protocadherins are known to interact with each other and are involved in various signaling pathways, including those related to cell proliferation and apoptosis.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for *PCDHGB1* is currently very low to none, as it is not routinely tested as a single-gene cause of disease.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene would typically occur in a research setting or as part of a large gene panel or exome sequencing for neurodevelopmental or movement disorders where a genetic cause is suspected.
+*   **Clinical Actionability and Management Implications:** There are currently no specific clinical management guidelines based on *PCDHGB1* variants.
+*   **Genetic Counseling Considerations:** Counseling would focus on the uncertainty of the gene-disease relationship and the limited available information.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 35229923, 2022:** Identified rare variants in *PCDHGB1* in patients with adult-onset dystonia through whole-exome sequencing, suggesting a potential association.
+*   **General Protocadherin Studies:** Research on the protocadherin family highlights their crucial role in neuronal diversity, synapse formation, and as potential factors in neurodevelopmental disorders and cancer.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no established high-confidence associations between specific HPO terms and variants in *PCDHGB1*.
+*   **Phenotype red flags:** While no single HPO term is a red flag, a combination of neurodevelopmental and/or movement disorder phenotypes might warrant investigation of this gene in a research context.
+*   **Differential diagnosis considerations:** The phenotypic overlap would be broad, including other genes associated with dystonia and neurodevelopmental disorders. Genes within the same protocadherin gamma subfamily, such as *PCDHGB7*, are also associated with neurodevelopmental disorders.
+

@@ -1,0 +1,64 @@
+LILRA6 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 15495
+*   **OMIM Gene ID:** Not available in OMIM.
+*   **Primary Disease Associations:**
+    *   Susceptibility to atopic dermatitis has been linked to copy number variation in LILRA6.
+    *   Genome-wide association studies suggest a potential link to Takayasu Arteritis and Crohn's disease.
+*   **Clinical Significance Level:** The evidence for disease association is still emerging, and LILRA6 is not yet definitively linked to a Mendelian disorder.
+*   **Inheritance Patterns:** Inheritance patterns for specific phenotypes are not well-established, though copy number variations are inherited.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD constraint metrics (pLI, LOEUF, pRec, pNull) for LILRA6 are not available. This is common for genes with high homology and copy number variation, which complicate the analysis.
+*   **Clinical Interpretation of Constraint Scores:** The lack of constraint scores suggests that loss-of-function variants may not be under strong negative selection, or that the gene's complex structure prevents accurate calculation.
+*   **Variant Classes Most Likely to be Pathogenic:** Copy number variations (CNV), specifically the number of LILRA6 copies, have been associated with altered susceptibility to atopic dermatitis. Missense and other structural variants may also have functional consequences due to the gene's role as a receptor.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Direct HPO term associations for LILRA6 are not well-documented in major databases like the Human Phenotype Ontology.
+    *   Based on associated conditions, relevant HPO terms would include those related to atopic dermatitis such as: *Atopic dermatitis* (HP:0000964), *Eczema* (HP:0000964), *Pruritus* (HP:0000989), and *Allergic rhinitis* (HP:0003192).
+*   **Secondary HPO terms:**
+    *   Given the gene's function in the immune system, secondary HPO terms could involve broader immunological phenotypes like *Recurrent infections* (HP:0002719) or *Autoimmunity* (HP:0002960).
+*   **Age of Onset Patterns:** Atopic dermatitis, the primary associated phenotype, typically has a childhood onset.
+*   **Phenotype Severity Spectrum:** The severity of atopic dermatitis can range from mild to severe.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:**
+    *   Copy number variation (CNV) is the most studied variant class for LILRA6. An increased copy number of LILRA6 has been associated with susceptibility to atopic dermatitis.
+    *   Haplotypes lacking the LILRA6 gene may be protective against atopic dermatitis.
+*   **Protein Domain-Specific Phenotype Patterns:** The extracellular domains of LILRA6 are highly polymorphic, and specific alleles may have different ligand-binding affinities, potentially influencing immune cell activation.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between LILRA6 copy number and atopic dermatitis is described as modest. The clinical significance of other variant types is still under investigation.
+
+### **Clinical Variants & Phenotype Associations**
+*   Specific pathogenic variants (rsID, HGVS) with definitive clinical significance classifications (pathogenic/likely pathogenic) are not currently listed in ClinVar for LILRA6. This is likely due to the gene's complex genetics and the current focus on copy number variation rather than single nucleotide variants.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** LILRA6 shows the highest expression in whole blood and immune cells, particularly monocytes. It is also expressed in the spleen.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in immune cells aligns with its role in immune regulation and the association with inflammatory conditions like atopic dermatitis.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is limited, but the association with atopic dermatitis suggests a role in immune responses that are active in childhood.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** LILRA6 is a receptor protein, likely for MHC class I antigens, that participates in regulating immune responses.
+*   **Disease Mechanism:** The proposed disease mechanism is related to a shift in the balance of activating and inhibitory immune signals. An increased copy number of the activating receptor LILRA6 may lead to a pro-inflammatory state.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** LILRA6 is an activating receptor that, upon ligand binding, can trigger downstream signaling pathways (such as PI3K/Akt, NF-κB, and MAPK), leading to immune cell activation, differentiation, and proliferation. Dysregulation of this activation is thought to contribute to the inflammatory phenotype of atopic dermatitis.
+*   **Protein-Protein Interactions Relevant to Phenotype:** LILRA6 and the highly homologous inhibitory receptor LILRB3 may bind to the same ligands. The balance between the activating signals from LILRA6 and the inhibitory signals from LILRB3 is likely crucial for maintaining immune homeostasis. LILRA6 is known to bind cytokeratin 8, which is exposed on necrotic glandular epithelial cells.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** LILRA6 is not typically included in standard diagnostic gene panels for Mendelian diseases, and its diagnostic yield for specific phenotypes is not established.
+*   **Most Common Reasons for Testing This Gene:** Testing for LILRA6 is currently primarily in a research context, particularly for studying susceptibility to complex inflammatory diseases like atopic dermatitis.
+*   **Clinical Actionability and Management Implications:** At present, there are no direct clinical actions based on LILRA6 genotype.
+*   **Genetic Counseling Considerations:** Genetic counseling would focus on the complex and multifactorial nature of the associated diseases, explaining that LILRA6 copy number is a susceptibility factor, not a sole cause.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 38817758, 2024:** Discusses the challenges in distinguishing the functions of LILRB3 and LILRA6 due to their high homology and how an increased LILRA6 copy number could lead to a pro-inflammatory phenotype.
+*   **PMID: 38746376, 2024:** Identified a large deletion in the LILRA6 genomic region, highlighting the structural complexity of this locus.
+*   **PMID: 38586073, 2025:** Describes a method for imputing LILRA6 copy number variations from SNP genotyping array data, which may facilitate larger-scale association studies.
+*   **PMID: 33737402, 2021:** Characterized allelic variants of LILRB3 and LILRA6 in the Japanese population, finding evidence of gene conversion-like events that have diversified these genes.
+*   **PMID: 27287754, 2016:** A family-based association study that found over-transmission of LILRA6 copies to patients with atopic dermatitis, suggesting it as a risk factor.
+*   **PMID: 26760572, 2016:** Identified cytokeratin 8 on necrotic glandular epithelial cells as a ligand for specific allelic variants of LILRB3 and LILRA6, suggesting a role in the tumor microenvironment.
+
+### **HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no high-confidence HPO-variant associations for LILRA6 in the way there are for monogenic disorders. The primary association is between copy number gain and an increased risk for phenotypes related to *Atopic dermatitis* (HP:0000964).
+*   **Phenotype red flags:** A personal or family history of atopic dermatitis, particularly in the context of other allergic or inflammatory conditions, might suggest that investigating LILRA6 copy number could be relevant from a research perspective.
+*   **Differential diagnosis considerations:** The phenotype of atopic dermatitis has a broad differential diagnosis and is influenced by numerous genetic and environmental factors. Genes involved in skin barrier function (e.g., *FLG*) and other immune regulatory pathways would be key considerations.
+

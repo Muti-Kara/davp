@@ -1,0 +1,69 @@
+DUOX1 Gene Biomedical Dossier
+### **DUOX1 Clinical Genetics Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 3062.
+*   **OMIM Gene ID:** 606758.
+*   **Primary Disease Associations:** While DUOX2 is the primary gene associated with thyroid dyshormonogenesis, DUOX1 variants have been implicated in congenital hypothyroidism (CH), often in cases of digenic inheritance with DUOX2 mutations. The role of DUOX1 as a standalone cause of CH is still being established.
+*   **Clinical Significance Level:** The evidence for DUOX1's role in disease is still emerging; however, its involvement in severe CH phenotypes as a digenic partner with DUOX2 suggests it is clinically significant.
+*   **Inheritance Patterns:** An autosomal recessive pattern is suggested, particularly in cases of digenic inheritance where mutations in both DUOX1 and DUOX2 are required to manifest a severe phenotype. Heterozygous mutations have been identified in individuals with CH, though the penetrance appears complex.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI of 0.00 and a LOEUF of 1.15. The pLI score suggests that the gene is not intolerant to loss-of-function (LoF) variation. The LOEUF score is not indicative of strong constraint.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI and high LOEUF scores indicate that heterozygous loss-of-function variants in DUOX1 are generally tolerated in the general population. This aligns with the proposed digenic/recessive inheritance model, where a single LoF variant may not be sufficient to cause disease.
+*   **Variant Classes Most Likely to Be Pathogenic:** Based on reported cases, pathogenic variants include nonsense, frameshift, and splice site mutations that lead to a truncated or non-functional protein. Missense variants with a significant functional impact have also been reported.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Congenital hypothyroidism (HP:0000851)
+    *   Goiter (HP:0000853)
+    *   Elevated circulating thyrotropin concentration (HP:0000867)
+    *   Thyroid dyshormonogenesis (HP:0000848)
+    *   Decreased circulating free T4 concentration (HP:0008269)
+*   **Secondary HPO terms:**
+    *   Transient congenital hypothyroidism (related to DUOX system defects) (HP:0000856)
+    *   Ectopic thyroid (HP:0000863) (noted in broader CH cohorts with DUOX variants)
+*   **Age of Onset Patterns:** The primary phenotype, congenital hypothyroidism, is present from birth (neonatal onset).
+*   **Phenotype Severity Spectrum:** The severity can range from mild or transient CH to severe, permanent CH, particularly when DUOX1 mutations occur alongside DUOX2 mutations (digenic inheritance).
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Homozygous or compound heterozygous loss-of-function mutations in DUOX1, especially when co-occurring with DUOX2 mutations, are associated with severe congenital hypothyroidism.
+*   **Protein Domain-Specific Phenotype Patterns:** The DUOX1 protein contains a peroxidase-like domain and a gp91phox domain responsible for H2O2 generation. Mutations affecting these critical domains are likely to impair or abolish function, leading to dyshormonogenesis.
+*   **Genotype-Phenotype Correlation Strength:** The correlation is strongest in cases of digenic inheritance with DUOX2, leading to severe CH. The phenotype for heterozygous or isolated DUOX1 variants is less clear and appears to be weak or incompletely penetrant.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   A homozygous splice site mutation in DUOX1 (c.1823-1G>C), leading to a truncated protein (p.Val607Aspfs*43), in conjunction with a homozygous nonsense DUOX2 mutation (p.R434*), resulted in an unusually severe CH phenotype.
+    *   A heterozygous missense mutation in DUOX1 (c.3920G>A; p.R1307Q) was identified in a patient with congenital hypothyroidism and goiter; functional studies showed this variant impaired H2O2 generation.
+
+**Clinical Variants & Phenotype Associations**
+*   **c.1823-1G>C / p.Val607Aspfs*43 / Pathogenic / Severe congenital hypothyroidism (in digenic state with DUOX2 mutation) / Not reported in gnomAD.**
+*   **c.3920G>A / p.R1307Q / Likely Pathogenic / Congenital hypothyroidism, Goiter / Not reported in gnomAD.**
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** DUOX1 shows high expression in the thyroid gland, lung, esophagus mucosa, and skin.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in the thyroid is directly linked to its role in thyroid hormone synthesis and the CH phenotype. Its expression in the lung airway epithelium is relevant to innate mucosal host defense and inflammatory airway diseases.
+*   **Expression During Development and Age-Related Phenotypes:** DUOX1 expression in the lung has been observed to decrease with age, which may contribute to an impaired innate airway injury response in older individuals.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** DUOX1 is an NADPH oxidase that generates hydrogen peroxide (H2O2) at the apical membrane of thyrocytes, which is an essential substrate for thyroid peroxidase (TPO) to iodinate thyroglobulin and synthesize thyroid hormones.
+*   **Disease Mechanism:** The primary disease mechanism is loss-of-function, leading to insufficient H2O2 production for thyroid hormone synthesis. In cases of digenic inheritance, the inability of a mutated DUOX1 to compensate for a deficient DUOX2 leads to a severe phenotype.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the thyroid hormone synthesis pathway due to lack of H2O2 leads directly to congenital hypothyroidism. The gene product is also involved in redox signaling pathways in other tissues, such as sustaining TGF-β1 signaling in lung fibroblasts, which can promote fibrosis.
+*   **Protein-Protein Interactions Relevant to Phenotype:** DUOX1 must form a heterodimer with its maturation factor, DUOXA1, to become functional and translocate from the endoplasmic reticulum to the plasma membrane.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for DUOX1 mutations as a monogenic cause of CH is low. Its primary relevance is in cases of suspected digenic inheritance in patients with CH, particularly those with a severe phenotype and existing DUOX2 variants.
+*   **Most Common Reasons for Testing This Gene:** Testing is typically considered in patients with congenital hypothyroidism, especially those with dyshormonogenesis, goiter, and a severe phenotype that is not fully explained by mutations in other primary CH genes like DUOX2 or TPO.
+*   **Clinical Actionability and Management Implications:** Identification of pathogenic DUOX1 variants confirms a genetic etiology for CH, guiding lifelong hormone replacement therapy and informing genetic counseling.
+*   **Genetic Counseling Considerations:** Counseling should address the likely autosomal recessive or digenic inheritance pattern. Family members may be carriers. Given the phenotypic variability, predicting the severity in future offspring can be challenging.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 28575971, 2017:** First report of digenic mutations in DUOX1 and DUOX2 causing severe congenital hypothyroidism, establishing the role of DUOX1 as a crucial modifier.
+*   **PMID: 31392070, 2019:** Identified a heterozygous missense DUOX1 mutation (p.R1307Q) in a patient with CH and demonstrated its functional impact, suggesting it can contribute to the disease.
+*   **PMID: 35195576, 2022:** Comprehensive study on a large cohort of CH patients highlighting the low frequency of DUOX1 variants compared to DUOX2 and reinforcing the complex genotype-phenotype correlation in DUOX-related CH.
+*   **PMID: 29215970, 2018:** Showed that DUOX1-derived H2O2 sustains TGF-β1 signaling and promotes lung fibrosis, highlighting a role outside of the thyroid.
+*   **PMID: 24706622, 2014:** Demonstrated that DUOX1-dependent H2O2 production contributes to long-term DNA damage after radiation exposure, linking it to genomic instability.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** The combination of biallelic loss-of-function variants in both DUOX1 (e.g., c.1823-1G>C) and DUOX2 strongly associates with severe Congenital hypothyroidism (HP:0000851), Elevated circulating thyrotropin concentration (HP:0000867), and Decreased circulating free T4 concentration (HP:0008269).
+*   **Phenotype red flags:** The presence of unusually severe and persistent congenital hypothyroidism in a patient with a known DUOX2 mutation should strongly prompt investigation of DUOX1 for a second pathogenic variant.
+*   **Differential diagnosis considerations:** The phenotype of congenital hypothyroidism overlaps with defects in numerous other genes involved in thyroid hormone synthesis, including DUOX2, DUOXA2, TPO, TG, SLC5A5 (NIS), and SLC26A4.
+

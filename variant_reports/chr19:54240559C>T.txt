@@ -1,0 +1,88 @@
+=== chr19:54240559C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs199737866
+• Chromosome: 19
+• Position: 54240559
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: LILRA6
+• Databases: rs199737866, COSV99557443
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.002947
+• gnomADg Allele Frequency: 0.001932
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_1001857: Takayasu arteritis - A chronic inflammatory process that affects the AORTA and its primary branches, such as the brachiocephalic artery (BRACHIOCEPHALIC TRUNK) and CAROTID ARTERIES. It results in progressive arterial stenosis, occlusion, and aneurysm formation. The pulse in the arm is hard to detect. Patients with aortitis syndrome often exhibit retinopathy.|Takayasu arteritis (TAK) is a rare inflammatory large-vessel vasculitis primarily affecting the aorta and its major branches, but also other large vessels, causing stenosis, occlusion, or aneurysm.
+GWAS_EFO_0004344: birth weight - The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms.
+GWAS_EFO_0010591: matrix metalloproteinase 7 measurement - quantification of the amount of matrix metalloproteinase 7 in a sample
+GWAS_GO_0036273: response to statin - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a statin stimulus, a compound that inhibits HMG-CoA reductases.
+GWAS_EFO_0004534: creatine kinase measurement - A creatine kinase measurement is a quantification of creatine kinase in blood. Creatine kinase is a marker for tissue damage and  is assayed in blood tests as a marker of myocardial infarction (heart attack), rhabdomyolysis (severe muscle breakdown), muscular dystrophy, the autoimmune myositides and in acute renal failure.
+GWAS_EFO_0004744: matrix metalloproteinase measurement - Is a quantification of matrix metalloproteinases, Collectively, they are capable of degrading all kinds of extracellular matrix proteins, but also can process a number of bioactive molecules. They are known to be involved in the cleavage of cell surface receptors, the release of apoptotic ligands (such as the FAS ligand), and chemokine/cytokine in/activation.[3] MMPs are also thought to play a major role on cell behaviors such as cell proliferation, migration (adhesion/dispersion), differentiation, angiogenesis, apoptosis, and host defense.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0004535: serum albumin measurement - An albumin measurement is a quantification of albumin in blood. Serum albumin, the main protein of plasma, has a good binding capacity for water, Ca2+, Na+, K+, fatty acids, hormones, bilirubin and drugs. Its main function is the regulation of the colloidal osmotic pressure of blood. Major zinc transporter in plasma, typically binds about 80% of all plasma zinc. Low levels of albumin in the blood may indicate liver disease.
+GWAS_EFO_0010934: aspartate aminotransferase to alanine aminotransferase ratio - The ratio between the levels of aspartate aminotransferase (AST) and alanine aminotransferase (ALT).
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16181466) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_1001857, GWAS_EFO_1001857, GWAS_EFO_0004344, GWAS_EFO_0004344, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Gene (ID: 16181493) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16388138) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_1001857, GWAS_EFO_1001857, GWAS_EFO_0004344, GWAS_EFO_0004344, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16388226) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16388312) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: Transcript (ID: 16388310) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 220781377) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 211532174) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 203973640) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 201146819) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 177934012) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 171261254) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 169767935) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 167608782) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 163186436) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 122770936) -> Associated GWAS: GWAS_EFO_0007937
+Entity: TF Binding Site (ID: 102607346) -> Associated GWAS: GWAS_EFO_0007937
+Entity: Histone Modification Site (ID: 81802840) -> Associated GWAS: GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 22988574) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 21800998) -> Associated GWAS: GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 20576373) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 20004709) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 19457559) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0010591, GWAS_GO_0036273, GWAS_EFO_0004534, GWAS_EFO_0007937, GWAS_EFO_0004744, GWAS_EFO_0004534, GWAS_EFO_0007937, GWAS_EFO_0004339, GWAS_EFO_0004535, GWAS_EFO_0010934
+Entity: chr_chain (ID: 609457) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0007937, GWAS_EFO_0007937
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 611
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 151
+• Uncertain Significance: 460
+• Other Classifications: 0
+

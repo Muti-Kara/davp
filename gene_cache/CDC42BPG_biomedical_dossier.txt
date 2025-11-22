@@ -1,0 +1,54 @@
+CDC42BPG Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 29829.
+*   **OMIM Gene ID:** 613991.
+*   **Primary Disease Associations:** While associations with Myotonic Dystrophy and Epidermolysis Bullosa Simplex have been suggested, a primary Mendelian disease association is not definitively established. A study has identified it as a novel susceptibility locus for hyperuricemia in a Japanese population.
+*   **Clinical Significance Level:** The evidence for a direct role in a Mendelian disorder is still emerging; however, its association with hyperuricemia has been documented.
+*   **Inheritance Patterns:** For hyperuricemia susceptibility, an association was found following a dominant model.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v4.0 constraint score for predicted loss-of-function (pLoF) variants shows an observed/expected (o/e) ratio, with lower values indicating intolerance. Specific numeric values for CDC42BPG require direct database lookup. The probability of being loss-of-function intolerant (pLI) score is a metric where values closer to 1 indicate greater intolerance to protein-truncating variants.
+*   **Clinical Interpretation of Constraint Scores:** A high pLI score (e.g., ≥ 0.9) or a low LOEUF score (e.g., < 0.35 in gnomAD v2) suggests a gene is intolerant to loss-of-function variation and may be associated with a dominant disease. The interpretation depends on the specific values from the gnomAD database.
+*   **Variant Classes Most Likely to be Pathogenic:** A nonsynonymous variant (rs55975541) has been significantly associated with serum uric acid concentration and was predicted to be "probably damaging". Loss-of-function variants in related kinase genes have been linked to neurodevelopmental phenotypes, suggesting this class could be relevant for CDC42BPG.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   Hyperuricemia (HP:0002149).
+*   **Secondary HPO terms:**
+    *   Terms related to chronic kidney disease may be relevant given the association with renal function-related traits like serum creatinine and eGFR.
+    *   Constitutional symptoms (HP:0025142) could be considered in a broader context.
+*   **Age of Onset Patterns:** The hyperuricemia association was identified in a cohort of adult individuals.
+*   **Phenotype Severity Spectrum:** The severity of hyperuricemia can range from asymptomatic to causing conditions like gout.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** A nonsynonymous variant, rs55975541, is correlated with an increased serum concentration of uric acid.
+*   **Protein Domain-Specific Phenotype Patterns:** The rs55975541 variant causes a nonsynonymous substitution, which is predicted to affect protein function, suggesting the alteration in the protein kinase domain or a regulatory domain could be critical.
+*   **Genotype-Phenotype Correlation Strength:** There is a statistically significant (p < 4.90 × 10−4) correlation between the rs55975541 variant and hyperuricemia.
+
+### **Clinical Variants & Phenotype Associations**
+*   **rs55975541 / p.Arg244Cys / Significance Unknown / Reported Phenotypes:** Hyperuricemia (HP:0002149) / AF not specified in the study, but studied in a Japanese population.
+*   **Variants with Strongest Phenotype Evidence:** The strongest evidence exists for rs55975541 and its association with hyperuricemia, which was identified in a longitudinal genome-wide association study and replicated.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** The gene is expressed in the thyroid gland. It shows broad expression across many tissues, including the brain (hippocampus, cerebellum, cortex), heart, muscle, and kidney.
+*   **Tissue-Specific Phenotypes Expected:** The identified association with hyperuricemia suggests a role in renal function or metabolic processes. Broad expression in the brain could imply a potential for neurological phenotypes if pathogenic variants are identified, similar to its paralog CDC42BPB.
+*   **Expression During Development and Age-Related Phenotypes:** Information on developmental expression is not detailed in the search results.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** CDC42BPG is a serine/threonine-protein kinase that may act as a downstream effector of CDC42, playing a role in cytoskeletal reorganization and actomyosin contractility.
+*   **Disease Mechanism:** The association of a nonsynonymous variant with hyperuricemia suggests a potential alteration of protein function, but the exact mechanism (e.g., gain-of-function, altered substrate specificity) is not fully elucidated. For related genes, haploinsufficiency due to loss-of-function variants is a known mechanism.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** The gene is part of the AGC Ser/Thr protein kinase family and binds to CDC42. Disruption could affect signal transduction pathways that regulate the cytoskeleton. Its link to hyperuricemia may involve renal solute transport pathways, as other genes in these pathways (e.g., SLC22A11, SLC22A12) are known to be involved.
+*   **Protein-Protein Interactions Relevant to Phenotype:** It interacts with GTP-bound CDC42. The UniProt entry lists one known protein interaction.
+
+### **Key Clinical Literature & Studies**
+*   **Yasukochi, Y. et al. (2018), PMID: 29468383:** Identified CDC42BPG as a novel susceptibility locus for hyperuricemia in a Japanese population through a longitudinal genome-wide association study, highlighting the variant rs55975541.
+*   **Lek, M. et al. (2016), PMID: 27535533:** The ExAC paper that introduced the pLI score, a fundamental metric for interpreting gene constraint and disease association, though specific data for CDC42BPG is not in the abstract.
+*   **Collins, R.L. et al. (2020), bioRxiv:** The flagship paper for gnomAD, which introduced the LOEUF score, an enhanced metric for evaluating a gene's tolerance to truncating mutations.
+*   **Firth, H.V. et al. (2009), PMID: 19935702:** The original DECIPHER paper, a key database for clinical interpretations of variants, though not directly mentioning CDC42BPG in the abstract.
+*   **Robinson, P.N. et al. (2008), PMID: 18447333:** The initial publication describing the Human Phenotype Ontology (HPO), which is now essential for standardizing phenotype reporting.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** The nonsynonymous variant rs55975541 is strongly associated with Hyperuricemia (HP:0002149).
+*   **Phenotype Red Flags:** The presence of hyperuricemia, particularly in individuals of Japanese descent, should prompt consideration of variants in CDC42BPG.
+*   **Differential Diagnosis Considerations:** For hyperuricemia, the differential includes genes for Mendelian forms of gout and other renal transport disorders, such as SLC2A9, ABCG2, SLC22A11, and SLC22A12.
+

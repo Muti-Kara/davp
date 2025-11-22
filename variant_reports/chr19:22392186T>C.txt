@@ -1,0 +1,88 @@
+=== chr19:22392186T>C Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs200887709
+• Chromosome: 19
+• Position: 22392186
+• Reference Allele (REF): T
+• Alternative Allele (ALT): C
+• Genotype: 0/1
+• Quality Score: 520.64001465
+• Gene Names: ZNF98
+• Databases: rs200887709, COSV63334717
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: uncertain_significance
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.01306
+• gnomADg Allele Frequency: 0.044430000000000004
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 98
+• Allelic Depth (AD): [79, 19]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0006335: systolic blood pressure - The blood pressure during the contraction of the left ventricle of the heart.
+GWAS_EFO_0006527: smoking status measurement - self-reported binary measure, used to denote whether an individual is currently or has ever been a smoker
+GWAS_EFO_0003819: dental caries - The decay of a tooth, in which it becomes softened, discolored, and/or porous.|Localized destruction of the tooth surface initiated by decalcification of the enamel followed by enzymatic lysis of organic structures and leading to cavity formation. If left unchecked, the cavity may penetrate the enamel and dentin and reach the pulp. The three most prominent theories used to explain the etiology of the disease are that acids produced by bacteria lead to decalcification; that micro-organisms destroy the enamel protein; or that keratolytic micro-organisms produce chelates that lead to decalcification.
+GWAS_GO_0036273: response to statin - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a statin stimulus, a compound that inhibits HMG-CoA reductases.
+GWAS_EFO_0007804: LDL cholesterol change measurement - quantification of the change in LDL cholesterol levels in an individual over time, eg over the course of several hours after a high-fat meal or following treatment with a cholesterol-lowering drug
+GWAS_EFO_0008111: diet measurement - quantification of some aspect of diet, including diet patterns, balance of nutrient consumption and glycemic load
+GWAS_EFO_0000195: metabolic syndrome - A cluster of metabolic risk factors for CARDIOVASCULAR DISEASES and TYPE 2 DIABETES MELLITUS. The major components of metabolic syndrome X include excess ABDOMINAL FAT; atherogenic DYSLIPIDEMIA; HYPERTENSION; HYPERGLYCEMIA; INSULIN RESISTANCE; a proinflammatory state; and a prothrombotic (THROMBOSIS) state. (from AHA/NHLBI/ADA Conference Proceedings, Circulation 2004; 109:551-556)|A combination of medical conditions that, when present, increase the risk of heart attack, stroke, and diabetes mellitus. It includes the following medical conditions: increased blood pressure, central obesity, abnormal cholesterol levels, and elevated fasting glucose.|Reason: duplicate. This will be merged with MONDO:0000816
+GWAS_EFO_0004570: bilirubin measurement - A bilirubin measurement is a quantification of bilirubin typically measured in serum.
+GWAS_Orphanet_156071: Keratoconus - A corneal disease involving changes of the cornea to a cone shape and resulting in progressive thinning of the cornea. This may result in blurry vision, double vision, nearsightedness, astigmatism, and light sensitivity. In more severe cases a scarring or a circle may be seen within the cornea.
+GWAS_EFO_0005842: colorectal cancer - A primary or metastatic malignant neoplasm that affects the colon or rectum. Representative examples include carcinoma, lymphoma, and sarcoma.|Editor note: some sources make distinct classes for colorectal vs large intestine. We follow NCIT and make these equivalent
+GWAS_EFO_0004289: lymphoid leukemia - A malignant lymphocytic neoplasm of B-cell or T-cell lineage involving primarily the bone marrow and the peripheral blood. This category includes precursor or acute lymphoblastic leukemias and chronic leukemias.
+GWAS_EFO_0004704: age at menopause - The age of onset of (human) menopause, the beginning of the first menstrual cycle in an individual
+GWAS_EFO_0004505: telomere length - A measurement of telomere length measures the number of TTAGGG repeats at the end of the chromosome. As cell division proceeds telomeres shorten, telomere length is measure of cellular aging.
+GWAS_EFO_0004145: myopathy - A disease of the muscle in which the muscle fibers do not function properly. This results in muscular weakness.|A muscular disease in which the muscle fibers do not function resulting in muscular weakness.|Editor note: TODO check this, relationship to myotonic disorder/syndrome, also check HP definition
+GWAS_EFO_0010124: response to atorvastatin - Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an atorvastatin stimulus. Atorvastatin is a statin used as a cholesterol-lowering and anti-cardiovascular disease drug.
+GWAS_EFO_0004530: triglyceride measurement - A triglyceride  measurement is a quantification of triglycerides in some body fluid, used as a biomarker for cardiovascular disease.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16143922) -> Associated GWAS: GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570
+Entity: Transcript (ID: 16242098) -> Associated GWAS: GWAS_EFO_0006335, GWAS_EFO_0006527
+Entity: Non Coding RNA (ID: 17190529) -> Associated GWAS: GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570, GWAS_Orphanet_156071, GWAS_EFO_0008111, GWAS_EFO_0005842, GWAS_EFO_0004289
+Entity: Non Coding RNA (ID: 17190528) -> Associated GWAS: GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570, GWAS_Orphanet_156071, GWAS_EFO_0008111, GWAS_EFO_0005842, GWAS_EFO_0004289
+Entity: ChromHMM State (ID: 22980119) -> Associated GWAS: GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527
+Entity: ChromHMM State (ID: 22420561) -> Associated GWAS: GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527
+Entity: ChromHMM State (ID: 21788654) -> Associated GWAS: GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527
+Entity: ChromHMM State (ID: 21172926) -> Associated GWAS: GWAS_EFO_0004505, GWAS_EFO_0004145, GWAS_EFO_0010124, GWAS_EFO_0006527, GWAS_EFO_0004530, GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570
+Entity: ChromHMM State (ID: 20567192) -> Associated GWAS: GWAS_EFO_0006527, GWAS_EFO_0004530, GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570
+Entity: ChromHMM State (ID: 19995138) -> Associated GWAS: GWAS_EFO_0004505, GWAS_EFO_0004145, GWAS_EFO_0010124, GWAS_EFO_0006527, GWAS_EFO_0004530, GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570
+Entity: ChromHMM State (ID: 19446752) -> Associated GWAS: GWAS_EFO_0004704, GWAS_EFO_0004505, GWAS_EFO_0003819, GWAS_EFO_0006335, GWAS_EFO_0006527, GWAS_EFO_0003819, GWAS_GO_0036273, GWAS_EFO_0003819, GWAS_EFO_0007804, GWAS_EFO_0008111, GWAS_EFO_0000195, GWAS_EFO_0004570
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 4692
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 401
+• Uncertain Significance: 4287
+• Other Classifications: 4
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=20)
+• not specified|not provided (n=14)
+• CIC-rearranged sarcoma (n=2)
+• Thalidomide response (n=2)
+
+

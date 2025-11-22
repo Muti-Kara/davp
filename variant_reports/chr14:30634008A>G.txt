@@ -1,0 +1,125 @@
+=== chr14:30634008A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs186360146
+• Chromosome: 14
+• Position: 30634008
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: SCFD1
+• Databases: rs186360146
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 1.3150000000000001e-05
+• gnomADg Allele Frequency: 3.939e-05
+• 1KG Frequency: 0.0006000000000000001
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007937: blood protein measurement - quantification of the levels of some protein in a blood sample
+GWAS_EFO_0000253: obsolete_amyotrophic lateral sclerosis - A degenerative disorder affecting upper MOTOR NEURONS in the brain and lower motor neurons in the brain stem and SPINAL CORD. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, FASCICULATION, hyperreflexia, DYSARTHRIA, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous ASTROCYTES and atrophy of anterior SPINAL NERVE ROOTS and corticospinal tracts (MeSH).|An autosomal dominant inherited form of amyloidosis.|A degenerative disorder affecting upper MOTOR NEURONS in the brain and lower motor neurons in the brain stem and SPINAL CORD. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, FASCICULATION, hyperreflexia, DYSARTHRIA, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous ASTROCYTES and atrophy of anterior SPINAL NERVE ROOTS and corticospinal tracts. (From Adams et al., Principles of Neurology, 6th ed, pp1089-94)
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16164844) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318612) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318665) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318660) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318656) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318642) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318635) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318632) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318629) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318624) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318623) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318620) -> Associated GWAS: GWAS_EFO_0007937
+Entity: Transcript (ID: 16318615) -> Associated GWAS: GWAS_EFO_0007937
+Entity: Transcript (ID: 16318338) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318342) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318344) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253
+Entity: Transcript (ID: 16318345) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253
+Entity: Transcript (ID: 16318347) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253
+Entity: Transcript (ID: 16318350) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318357) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318362) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318367) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318372) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318375) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318382) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318387) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318391) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318396) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318394) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318400) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318404) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318410) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318418) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253
+Entity: Transcript (ID: 16318421) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318431) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318435) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318439) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318450) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318462) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318474) -> Associated GWAS: GWAS_EFO_0007937
+Entity: Transcript (ID: 16318479) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253
+Entity: Transcript (ID: 16318487) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318511) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318515) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318520) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318526) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318528) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318531) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318538) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318540) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318543) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318546) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318545) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318548) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318571) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318580) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318597) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318601) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Transcript (ID: 16318608) -> Associated GWAS: GWAS_EFO_0007937, GWAS_EFO_0000253, GWAS_EFO_0004526
+Entity: Non Coding RNA (ID: 17123752) -> Associated GWAS: GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 19886088) -> Associated GWAS: GWAS_EFO_0007937
+Entity: ChromHMM State (ID: 19336056) -> Associated GWAS: GWAS_EFO_0007937
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 3208
+• Pathogenic/Likely Pathogenic: 112
+• Benign/Likely Benign: 60
+• Uncertain Significance: 3036
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Amyotrophic lateral sclerosis|SCFD1-related disorder|not provided (n=64)
+• See cases (n=56)
+• Amyotrophic lateral sclerosis|not provided (n=56)
+
+

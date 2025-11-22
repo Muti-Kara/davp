@@ -1,0 +1,67 @@
+MTRF1L Gene Biomedical Dossier
+### **Gene Dossier: MTRF1L**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 21051.
+*   **OMIM Gene ID:** 613542.
+*   **Primary Disease Associations:** Currently, no specific Mendelian disease has been definitively associated with pathogenic variants in MTRF1L in OMIM. However, MTRF1L is located within the 6q25 chromosomal region, and deletions of this region are associated with developmental and speech delay, intellectual disability, and dysmorphic features.
+*   **Clinical Significance Level:** The level of evidence for MTRF1L's association with a specific disease is limited or not yet established.
+*   **Inheritance Patterns:** For deletions involving MTRF1L, the pattern is typically autosomal dominant (haploinsufficiency). The inheritance pattern for single-gene MTRF1L variants is not yet defined.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The Loss-of-Function Observed/Expected Upper-bound Fraction (LOEUF) score for MTRF1L is 0.96.
+*   **Clinical Interpretation of Constraint Scores:** A LOEUF score of 0.96 indicates that the gene is tolerant of Loss-of-Function (LoF) alleles. This suggests that haploinsufficiency of MTRF1L alone is unlikely to be a common cause of severe Mendelian disease.
+*   **Variant Classes Most Likely to be Pathogenic:** While the gene is generally tolerant to LoF variants, large deletions encompassing MTRF1L and adjacent genes are pathogenic. The pathogenicity of missense or other variant classes has not been established.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As MTRF1L is not yet linked to a monogenic disorder, a definitive list of HPO terms is not available. Phenotypes are associated with the 6q25 microdeletion syndrome which includes the MTRF1L gene.
+    *   Intellectual disability (HP:0001249).
+    *   Global developmental delay (HP:0001263).
+    *   Delayed speech and language development (HP:0000750).
+    *   Microcephaly (HP:0000252).
+    *   Growth retardation (HP:0001510).
+    *   Corpus callosum, agenesis of (HP:0001274).
+    *   Dysmorphic facial features (HP:0001999).
+*   **Secondary HPO terms:**
+    *   Seizures (HP:0001250).
+    *   Hypotonia (HP:0001252).
+    *   Hand malformations (HP:0001155).
+    *   Congenital heart defects (HP:0001627).
+*   **Age of Onset Patterns:** The associated phenotypes from the 6q25 microdeletion are typically congenital or detected in early childhood.
+*   **Phenotype Severity Spectrum:** The severity of 6q25 microdeletion syndrome is variable, ranging from mild to moderate intellectual disability and physical anomalies.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Large deletions including MTRF1L and other genes, such as ARID1B, on chromosome 6q25 are associated with a syndrome characterized by intellectual disability and developmental delay. Haploinsufficiency of ARID1B is considered a major driver of the neurodevelopmental phenotype in these cases.
+*   **Protein Domain-specific Phenotype Patterns:** No specific domain-phenotype correlations are known for MTRF1L.
+*   **Genotype-Phenotype Correlation Strength:** For MTRF1L itself, the correlation is weak or unestablished. For the 6q25 microdeletion, the correlation with developmental delay is strong, though phenotype is variable.
+
+**Clinical Variants & Phenotype Associations**
+*   No specific single-gene pathogenic variants in MTRF1L are listed in ClinVar or OMIM with a clear disease association.
+*   ClinVar lists copy number variations (deletions) spanning the 6q25.1-q25.2 region, which includes MTRF1L, as pathogenic or likely pathogenic. These are associated with the broader 6q25 microdeletion syndrome phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx, HPA):** MTRF1L shows broad expression, with the highest levels in tissues with high metabolic activity. Strong positivity has been noted in skeletal myocytes, gastric glands, and ciliated cells. Other highly expressing tissues include heart muscle, pancreas, and muscle.
+*   **Tissue-Specific Phenotypes Expected:** The high expression in metabolically active tissues like muscle and brain could suggest that pathogenic variants, if they exist, might manifest with myopathic or neurologic features, consistent with other mitochondrial translation disorders.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MTRF1L is a nuclear-encoded mitochondrial protein that functions as a peptide chain release factor, directing the termination of translation at UAA and UAG stop codons.
+*   **Disease Mechanism:** The primary mechanism associated with the MTRF1L locus is haploinsufficiency resulting from large chromosomal deletions. There is currently no evidence for dominant-negative or gain-of-function mechanisms for MTRF1L variants.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** MTRF1L is essential for mitochondrial translation termination. Its disruption could impair the synthesis of the 13 proteins encoded by mitochondrial DNA, leading to defective oxidative phosphorylation (OXPHOS).
+*   **Protein-Protein Interactions Relevant to Phenotype:** MTRF1L functions within the mitoribosome. Its paralog, MTRF1, is also involved in mitochondrial translation. The proper release of nascent peptides is critical for recycling ribosomes and maintaining OXPHOS capacity.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for MTRF1L specifically is not common. It is typically analyzed as part of a larger gene panel for mitochondrial disorders or through chromosomal microarray, which detects the 6q25 deletion.
+*   **Most Common Reasons for Testing this Gene:** The gene would be assessed in cases of unexplained developmental delay, intellectual disability, and/or features suggestive of a mitochondrial disorder or the 6q25 microdeletion syndrome.
+*   **Clinical Actionability and Management Implications:** Management is currently supportive and symptom-based for individuals with a 6q25 microdeletion. There are no specific treatments for MTRF1L dysfunction.
+*   **Genetic Counseling Considerations:** For 6q25 deletions, counseling would involve discussion of the variability of the phenotype, the dominant mode of inheritance (if inherited), and the high likelihood of a *de novo* event.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 17803939 (2007):** This study first identified MTRF1L (as mtRF1a) as a human mitochondrial translation release factor that decodes the UAA and UAG stop codons.
+*   **PMID: 18429816 (2008):** Confirmed the function of MTRF1L (as HMRF1L) in decoding UAA and UAG termination codons within the mitochondria.
+*   **Luo et al., Front. Pediatr. (2021) [PMID: 34552865]:** This case report describes a patient with a 6q25.1-q25.3 microdeletion that includes MTRF1L, presenting with intellectual disability, speech impairment, and corpus callosum abnormalities, highlighting that haploinsufficiency of ARID1B is likely a major contributor to the phenotype.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no high-confidence associations for single nucleotide variants in MTRF1L. Pathogenic large deletions of chromosome 6q25 that include MTRF1L are confidently associated with global developmental delay (HP:0001263) and intellectual disability (HP:0001249).
+*   **Phenotype red flags:** A combination of intellectual disability, speech delay, and corpus callosum abnormalities should prompt consideration of a 6q25 microdeletion, which would include MTRF1L.
+*   **Differential Diagnosis Considerations:** The phenotype of 6q25 microdeletion overlaps with numerous other syndromes causing intellectual disability and developmental delay. It also falls within the broad differential of mitochondrial disorders due to the role of MTRF1L in mitochondrial protein synthesis, although no such disease has been proven.
+

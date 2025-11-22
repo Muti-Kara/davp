@@ -1,0 +1,45 @@
+PRB2 Gene Biomedical Dossier
+### **Gene Dossier: PRB2 (proline rich protein BstNI subfamily 2)**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 9338.
+*   **OMIM Gene ID:** 168810.
+*   **Primary Disease Associations:** Currently, there are no definitive disease associations for PRB2 listed in OMIM or through the Gene Curation Coalition (GenCC). GeneCards lists potential associations with "Actinobacillosis" and "Acute Vascular Insufficiency Of Intestine," though the evidence for these is not specified.
+*   **Clinical Significance Level:** The clinical significance of PRB2 variants is largely undetermined, with no definitive, strong, or moderate evidence linking it to a specific Mendelian disease.
+*   **Inheritance Patterns:** As no specific disease is linked, inheritance patterns are not established.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** A search in the gnomAD database for constraint metrics for PRB2 did not yield specific values for pLI, LOEUF, pRec, or pNull. This often indicates that the gene does not meet the criteria for a high probability of being loss-of-function intolerant.
+*   **Clinical Interpretation of Constraint Scores:** The absence of high constraint scores (e.g., a pLI score close to 1 or a low LOEUF score) suggests that the gene is more tolerant of loss-of-function variants, making it less likely that haploinsufficiency is a common disease mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Without established disease associations, it is difficult to predict which variant classes are most likely to be pathogenic.
+
+**Phenotype Spectrum & HPO Terms**
+*   A systematic search for Human Phenotype Ontology (HPO) terms directly associated with PRB2 variants in clinical cases did not yield any specific results. The primary function of PRB2 is related to the composition of saliva, and variations may affect this, but this is not typically cataloged with HPO terms in the context of Mendelian disease.
+
+**Genotype-Phenotype Correlations**
+*   No established genotype-phenotype correlations for PRB2 in the context of Mendelian disease have been documented in the searched literature.
+*   A fusion gene, PRB2/1, resulting from an unequal crossing-over event between PRB1 and PRB2, has been identified. Homozygotes for this fusion gene are missing certain polymorphic proline-rich proteins (Pe, PmF, PmS, and Ps) from their saliva.
+
+**Clinical Variants & Phenotype Associations**
+*   No pathogenic or likely pathogenic variants for PRB2 are listed in ClinVar with associated clinical phenotypes.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to the Genotype-Tissue Expression (GTEx) portal, PRB2 is expected to have high expression in salivary glands, consistent with its function in producing salivary proteins. Staining has also been observed in the vagina.
+*   **Tissue-Specific Phenotypes Expected:** Given its primary expression in salivary glands, any potential phenotypes would most likely relate to salivary composition or function.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** PRB2 encodes a member of the basic, proline-rich glycoprotein family found in human saliva, which is secreted from the parotid glands.
+*   **Disease Mechanism:** No specific disease mechanism has been defined. The existence of a PRB2/1 fusion gene that leads to the absence of certain salivary proteins suggests that loss-of-function could be a potential mechanism.
+*   **Cellular/Molecular Pathways Disrupted:** The protein is involved in the salivary secretion pathway.
+
+**Diagnostic Yield & Clinical Utility**
+*   This section is not applicable as PRB2 is not currently included in diagnostic genetic testing for any specific Mendelian disorder.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 2194406, 1990, Azen E.A., et al.:** This landmark study describes the PRB2/1 fusion gene, a result of unequal crossing-over between PRB1 and PRB2, and notes its relatively high frequency in several populations. It established that individuals homozygous for this fusion gene lack certain proline-rich proteins in their saliva.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no known high-confidence associations between HPO terms and variants in PRB2.
+*   **Phenotype Red Flags:** No specific HPO terms are considered red flags for pathogenic variants in this gene.
+*   **Differential Diagnosis Considerations:** Not applicable due to the lack of a defined disease phenotype.
+

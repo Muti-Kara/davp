@@ -1,0 +1,73 @@
+C1QTNF9 Gene Biomedical Dossier
+### **Gene Dossier: C1QTNF9**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 28732.
+*   **OMIM Gene ID:** 614285.
+*   **Primary Disease Associations:** While not linked to a Mendelian disease, C1QTNF9 levels and genetic variants are associated with complex conditions including metabolic syndrome, type 2 diabetes, obesity, and cardiovascular disease. Associations with Late-Onset Retinal Degeneration and Breast Carcinoma In Situ have also been reported.
+*   **Clinical Significance Level:** The evidence for causing a monogenic disease is preliminary or absent; its role is more defined in the context of complex, multifactorial diseases.
+*   **Inheritance Patterns:** No clear Mendelian inheritance pattern has been established for a specific disease.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint score for C1QTNF9 is a pLI of 2.98e-10 (close to 0), and the loss-of-function observed/expected upper-bound fraction (LOEUF) is 1.13, indicating a tolerance to loss-of-function variation.
+*   **Clinical Interpretation of Constraint Scores:** The low pLI score and LOEUF greater than 0.35 suggest that C1QTNF9 is not highly constrained and is tolerant of loss-of-function variants. Genes with these scores are less likely to cause disease through a haploinsufficiency mechanism.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or dominant-negative, though no such variants have been definitively characterized for a monogenic disease.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific Human Phenotype Ontology (HPO) terms are currently associated with pathogenic variants in C1QTNF9 in databases like OMIM or ClinVar.
+*   **Secondary HPO terms:** Based on associated complex diseases, relevant phenotypic features could include:
+    *   Insulin resistance (HP:0000855).
+    *   Obesity (HP:0001513).
+    *   Type II diabetes mellitus (HP:0005978).
+    *   Hepatic steatosis (HP:0001397).
+    *   Hypertriglyceridemia (HP:0002155).
+    *   Hypertension (HP:0000822).
+    *   Atherosclerosis (HP:0002621).
+*   **Age of Onset Patterns:** Associations are typically with adult-onset conditions like type 2 diabetes and cardiovascular disease.
+*   **Phenotype Severity Spectrum:** In mouse models, knockout of C1QTNF9 leads to phenotypes like obesity, insulin resistance, and hepatic steatosis. In humans, levels of CTRP9 are correlated with the severity of metabolic and cardiovascular diseases.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Specific genotype-phenotype correlations for monogenic disease are not well established. Mouse models lacking C1QTNF9 (loss-of-function) develop obesity, insulin resistance, and fatty liver, suggesting loss-of-function in humans may contribute to metabolic disease risk.
+*   **Protein Domain-specific Phenotype Patterns:** The globular C1q domain is the active form of the protein; variants in this domain would be most likely to have a functional impact.
+*   **Genotype-Phenotype Correlation Strength:** Currently weak for any specific monogenic disease; moderate for associations with risk and severity of complex metabolic and cardiovascular diseases.
+*   **Examples: specific variants → specific phenotypes:** Certain single nucleotide polymorphisms (SNPs) have been associated with an increased risk of coronary artery disease, but these are risk alleles, not causative mutations for a monogenic disorder.
+
+**Clinical Variants & Phenotype Associations**
+*   **Well-characterized Pathogenic Variants:** There are no variants in ClinVar classified as pathogenic or likely pathogenic for a monogenic disorder associated with C1QTNF9.
+*   **Variants with Phenotype Associations:**
+    *   **rs3751357:** This missense variant (p.Ala219Ala) has been studied in relation to metabolic traits, though its functional impact is not fully clear.
+    *   **rs1974332:** A natural variant listed in dbSNP, but with limited clinical phenotype data.
+    *   **rs9553238:** A CC genotype in this SNP, in conjunction with low serum selenium, was associated with a significantly increased risk of coronary artery disease.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** C1QTNF9 is widely expressed, with the highest levels in adipose tissue, prostate, heart, and skin.
+*   **Tissue-specific Phenotypes Expected:** High expression in adipose tissue is consistent with its role as an adipokine involved in metabolic regulation. Expression in the heart and vasculature aligns with its protective roles in cardiovascular health.
+*   **Expression During Development and Age-Related Phenotypes:** CTRP9 has been shown to have anti-senescence effects in mesenchymal stem cells, suggesting a role in aging. Its association with adult-onset diseases like T2D and cardiovascular disease points to its importance throughout the lifespan.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** C1QTNF9 is a secreted adipokine, a paralog of adiponectin, that plays a key role in regulating energy metabolism, inflammation, and cellular health.
+*   **Disease Mechanism:** Based on knockout mouse models, a loss-of-function or haploinsufficiency mechanism could contribute to metabolic disease risk. The gnomAD constraint scores, however, do not support haploinsufficiency as a common disease mechanism for this gene.
+*   **Cellular/Molecular Pathways Disrupted:** CTRP9 activates the AMPK, AKT, and p44/42 MAPK signaling pathways. Disruption of these pathways can lead to insulin resistance, increased inflammation, endothelial dysfunction, and impaired lipid metabolism.
+*   **Protein-Protein Interactions Relevant to Phenotype:** CTRP9 interacts with adiponectin receptor 1 (AdipoR1) to exert its effects on target cells, including cardiomyocytes and endothelial cells. It can also form heterotrimeric complexes with adiponectin.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for C1QTNF9 in sequencing studies of patients with presumed monogenic diseases is expected to be very low to none, as it has not been robustly linked to a Mendelian disorder.
+*   **Most Common Reasons for Testing This Gene:** Testing is currently performed in a research context to investigate risk for complex diseases like type 2 diabetes, metabolic syndrome, and coronary artery disease.
+*   **Clinical Actionability and Management Implications:** No specific clinical actions are currently based on C1QTNF9 genotype. However, it is being explored as a potential biomarker and therapeutic target for metabolic and cardiovascular diseases.
+*   **Genetic Counseling Considerations:** Counseling should emphasize that variants in this gene are currently considered risk factors for complex diseases, not direct causes of monogenic disorders. The distinction between a risk allele and a pathogenic mutation should be made clear.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 22895377 (2012):** This landmark study used a knockout mouse model to provide the first genetic evidence for the physiological role of CTRP9 in controlling energy balance, demonstrating that its absence leads to increased food intake, obesity, insulin resistance, and hepatic steatosis.
+*   **PMID: 35185966 (2022):** A comprehensive review summarizing the function of CTRP9 as an adipokine, its signaling pathways (AdipoR1, AMPK), and its therapeutic potential in metabolic disorders, cardiovascular disease, and inflammation.
+*   **PMID: 31274351 (2019):** A study showing autoantibodies in some patients can suppress CTRP9 expression in the heart, leading to exaggerated adverse ventricular remodeling, suggesting CTRP9 as a therapeutic target.
+*   **PMID: 33177692 (2020):** A study showing that the CC genotype of SNP rs9553238 in CTRP9 increases the risk of coronary artery disease, especially in the context of low selenium levels.
+*   **PMID: 29774577 (2018):** Research indicating that CTRP9 has anti-senescence effects in aged mesenchymal stem cells, highlighting a potential role in aging and regenerative medicine.
+*   **PMID: 31737397 (2020):** Study showing that CTRP9 can reduce airway remodeling in mouse models of asthma, pointing to its anti-inflammatory effects beyond metabolism.
+*   **PMID: 30121111 (2018):** Report linking elevated CTRP9 levels to systemic sclerosis-associated interstitial lung disease, suggesting a complex, potentially protective role in lung injury.
+*   **PMID: 32675662 (2020):** A study in Nature that aggregated exome data, providing the framework and data (gnomAD) to calculate constraint metrics like pLI and LOEUF that are used to interpret gene function.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** Currently, there are no established high-confidence associations between specific pathogenic variants in C1QTNF9 and specific HPO terms for a monogenic disease.
+*   **Phenotype red flags:** While not indicative of a monogenic disorder, a constellation of phenotypes including adult-onset obesity (HP:0001513), insulin resistance (HP:0000855), type II diabetes mellitus (HP:0005978), and premature coronary artery disease (HP:0004420) may warrant investigation of C1QTNF9 in a research context.
+*   **Differential diagnosis considerations:** The metabolic phenotypes associated with C1QTNF9 dysregulation overlap significantly with those seen in metabolic syndrome and lipodystrophy syndromes. Genes involved in insulin signaling (e.g., *INS*, *INSR*), adipokine function (e.g., *ADIPOQ*, *LEP*), and lipid metabolism should be considered in a differential diagnosis for patients with these features.
+

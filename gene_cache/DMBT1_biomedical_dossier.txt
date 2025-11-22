@@ -1,0 +1,57 @@
+DMBT1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID**: 2926.
+- **OMIM Gene ID**: 601969.
+- **Primary Disease Associations**: Primarily associated with various cancers, including medulloblastoma and glioblastoma, where it is often deleted. It is considered a candidate tumor suppressor gene for brain, lung, esophageal, gastric, and colorectal cancers.
+- **Clinical Significance Level**: The evidence for its role as a tumor suppressor is still developing; homozygous deletions are a primary mechanism of inactivation in carcinogenesis.
+- **Inheritance Patterns**: Disease associations are primarily somatic (related to cancer development) rather than inherited Mendelian disorders.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull**: gnomAD v2.1.1 reports a pLI of 0.00, pRec of 0.77, and pNull of 0.23, with a loss-of-function (LoF) observed/expected upper bound fraction (LOEUF) of 1.15.
+- **Clinical Interpretation of Constraint Scores**: The low pLI score (closer to 0) and LOEUF greater than 0.35 suggest that the gene is tolerant to loss-of-function variation. This aligns with its role as a potential tumor suppressor, where inactivation often requires a "two-hit" mechanism.
+- **Variant Classes Most Likely to Be Pathogenic**: Homozygous deletions are the predominant mechanism of inactivation in cancer. Point mutations have been reported but appear to be less frequent.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms**: As DMBT1 is primarily associated with somatic cancers, there are no established germline disease phenotypes with corresponding HPO terms in major databases like OMIM and ClinVar. Mouse models exhibit phenotypes such as mortality/aging, embryo phenotype, and immune system phenotype.
+- **Secondary HPO terms**: No secondary HPO terms are currently associated with germline variations in DMBT1.
+- **Age of Onset Patterns**: Not applicable for germline disease. In cancer, deletions are associated with tumor development, which can occur at various ages.
+- **Phenotype Severity Spectrum**: Not applicable for germline disease. In cancer, homozygous deletion in diffuse astrocytomas is associated with a more unfavorable clinical outcome.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes**: Homozygous deletions are linked to the development and progression of various cancers, particularly glioblastomas and medulloblastomas.
+- **Protein Domain-Specific Phenotype Patterns**: The protein contains multiple scavenger receptor cysteine-rich (SRCR) domains, and the number of these domains can be polymorphic, which may influence interactions with pathogens. A short SRCR domain allele shows a loss of pattern recognition for certain cariogenic *S. mutans* phenotypes.
+- **Genotype-Phenotype Correlation Strength**: Strong correlation exists between homozygous deletions and an increased risk or progression of certain cancers. The link between single nucleotide variants and specific phenotypes is less established.
+- **Examples: Specific Variants → Specific Phenotypes**: Copy number variation (a different number of SRCR repeats) in DMBT1 has been associated with susceptibility to Crohn's disease in some studies, though this has not been consistently replicated.
+
+### **Clinical Variants & Phenotype Associations**
+- No well-characterized pathogenic germline variants with associated phenotypes are consistently reported in ClinVar for DMBT1. Most documented variants are somatic or polymorphisms with uncertain significance. Five somatic mutations were identified in a study of 79 astrocytic gliomas, but their functional impact remains largely uncharacterized.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM)**: High expression is observed in the minor salivary gland, small intestine (terminal ileum), colon (transverse), and lung. It is also highly expressed in saliva and pancreatic juice.
+- **Tissue-Specific Phenotypes Expected**: Given its high expression in mucosal tissues, altered function could impact mucosal defense, leading to increased susceptibility to infections or inflammation in the gastrointestinal and respiratory tracts. Its role in saliva is linked to protection against dental caries.
+- **Expression During Development and Age-Related Phenotypes**: The gene is expressed in fetal lung. In mouse models, knockout has been associated with embryonic lethality in one study, though not in another, suggesting a potential role in development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function**: DMBT1 is a secreted glycoprotein that functions in innate immunity as a pattern recognition receptor, binding to a wide range of pathogens and playing a role in mucosal defense and epithelial differentiation.
+- **Disease Mechanism**: In cancer, the primary mechanism is loss-of-function, consistent with a tumor suppressor role, often through homozygous deletion (haploinsufficiency is less likely given the constraint scores).
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences**: Disruption of DMBT1 can impair innate immune responses at mucosal surfaces and may affect epithelial cell differentiation and tissue integrity, contributing to tumorigenesis. It interacts with molecules like surfactant proteins SP-A and SP-D, MUC5B, and galectin-3.
+- **Protein-Protein Interactions Relevant to Phenotype**: It binds to various bacterial and viral proteins, which is central to its role in innate immunity. It also interacts with trefoil factor 3 (TFF3), which is involved in epithelial restitution.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts**: Testing for DMBT1 alterations is not standard for germline genetic diagnosis but is used in cancer research to understand tumor genetics. The frequency of homozygous deletion varies by cancer type, reaching up to 38% in some glioblastoma studies.
+- **Most Common Reasons for Testing This Gene**: Testing is primarily done in a research context to investigate the genetic basis of cancers like glioblastoma, medulloblastoma, and lung cancer.
+- **Clinical Actionability and Management Implications**: Currently, there are no direct clinical actions or therapies targeted at DMBT1 status. Its deletion in tumors may have prognostic value, for instance, being associated with poorer outcomes in diffuse astrocytomas.
+- **Genetic Counseling Considerations**: Not typically applicable, as the primary associations are with somatic mutations in cancer rather than heritable diseases.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 12185598, 2002**: First major study performing mutational analysis of the entire coding region in astrocytic gliomas, finding that small mutations are infrequent.
+- **PMID: 17094982, 2007**: Provided evidence for DMBT1's role as a link between infection, inflammation, and cancer, summarizing its functions in innate defense and as a potential tumor suppressor.
+- **PMID: 25825732, 2015**: Showed that copy number variation in the SRCR domain region of DMBT1 varies among human populations and is related to subsistence strategies, potentially driven by interaction with oral pathogens like *S. mutans*.
+- **PMID: 29944805, 2018**: Study on diffuse astrocytomas showing that homozygous deletion of DMBT1 is associated with an unfavorable clinical outcome, suggesting prognostic significance.
+- **PMID: 35593175, 2022**: Demonstrated that balancing selection at the DMBT1 locus is likely driven by the interaction between different SRCR repeat alleles and microbial pathogens, specifically showing a short allele loses binding capacity to a cariogenic *S. mutans* strain.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: Currently, there are no established high-confidence associations between germline DMBT1 variants and specific HPO terms. The primary role is in somatic oncology.
+- **Phenotype red flags**: There are no "red flag" HPO terms for germline DMBT1 mutations. However, in a somatic context, the presence of glioblastoma (HP:0002882) or medulloblastoma (HP:0002881) would warrant investigation of the 10q26.13 locus, including the DMBT1 gene.
+- **Differential diagnosis considerations**: Given the lack of a defined germline phenotype, this is not applicable. In oncology, other tumor suppressors on chromosome 10, such as PTEN, are key considerations in the context of gliomas.
+

@@ -1,0 +1,66 @@
+ARAP1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID:** 16925
+- **OMIM Gene ID:** 606646
+- **Primary Disease Associations:** While not definitively linked to a Mendelian disease, ARAP1 has been associated with Wolfram Syndrome 2 and Maturity-Onset Diabetes of the Young (MODY). Mouse models lacking Arap1 develop a phenotype resembling human retinitis pigmentosa.
+- **Clinical Significance Level:** Evidence for a direct role in a Mendelian disorder is currently limited. Associations are primarily from GWAS studies and model organisms.
+- **Inheritance Patterns Observed in Patients:** Not clearly defined for a specific Mendelian disease.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI of 0.00, a LOEUF of 1.13. pRec and pNull values are not prominently reported in standard constraint databases.
+- **Clinical Interpretation of Constraint Scores:** The low pLI (<<0.9) and high LOEUF (>0.35) suggest that ARAP1 is tolerant to loss-of-function variation. This means that haploinsufficiency is not a likely disease mechanism.
+- **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function variants, pathogenic variants, if they exist, might be gain-of-function or have a dominant-negative effect. However, no such variants are currently well-established.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms:** As there is no confirmed ARAP1-related Mendelian disease, a definitive list of HPO terms is not available. However, based on mouse models and associated conditions, relevant phenotypes could include:
+    - Retinitis pigmentosa (HP:0000510)
+    - Optic nerve pallor (HP:0000543)
+    - Vascular attenuation (not a standard HPO term, but a clinical finding)
+    - Outer retinal thinning (not a standard HPO term, but a clinical finding)
+    - Reduced electroretinogram amplitude (HP:0000512)
+    - Type 2 diabetes mellitus (HP:0005978)
+- **Secondary HPO terms:**
+    - Abnormal proinsulin level (related to fasting proinsulin levels)
+- **Age of Onset Patterns:** In the Arap1 knockout mouse model of retinitis pigmentosa, photoreceptor degeneration begins at 4 weeks of postnatal age.
+- **Phenotype Severity Spectrum:** The severity of a potential human phenotype is unknown.
+
+### **Genotype-Phenotype Correlations**
+- **Variant Classes and Their Typical Phenotypes:** A common regulatory variant (rs11603334) is associated with increased ARAP1 expression and increased risk for Type 2 Diabetes. Loss-of-function in mouse models leads to retinal degeneration.
+- **Protein Domain-Specific Phenotype Patterns:** The protein has ARF-GAP, Rho-GAP, ankyrin repeat, and PH domains. Specific phenotype correlations to these domains in humans are not yet established.
+- **Genotype-Phenotype Correlation Strength:** Currently weak, as it is based on GWAS data and animal models rather than confirmed pathogenic variants in human patients.
+
+### **Clinical Variants & Phenotype Associations**
+- No variants in ARAP1 are currently classified as pathogenic or likely pathogenic in ClinVar for a Mendelian disorder.
+- A common variant, rs11603334, is associated with increased ARAP1 expression and susceptibility to Type 2 Diabetes.
+- A study on Southern Europeans identified novel rare variants in ARAP1 associated with better insulin secretion adjusted for insulin resistance.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, ARAP1 is highly expressed in whole blood. The Human Protein Atlas also shows staining in the vagina.
+- **Tissue-Specific Phenotypes Expected:** Mouse studies strongly suggest a role in the retinal pigment epithelium (RPE), where its loss leads to photoreceptor degeneration. Its expression in pancreatic islets is relevant to its association with Type 2 Diabetes.
+- **Expression During Development and Age-Related Phenotypes:** Mouse models show normal retinal development, with degeneration beginning postnatally, suggesting a role in photoreceptor maintenance rather than development.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal Gene Function:** ARAP1 is a GTPase-activating protein that modulates the actin cytoskeleton by regulating ARF and RHO family GTPases, playing a role in membrane traffic and signaling.
+- **Disease Mechanism:** Increased ARAP1 expression is proposed as a risk factor for Type 2 Diabetes. Loss of function in the retinal pigment epithelium of mice leads to defective phagocytosis and subsequent photoreceptor death, indicating haploinsufficiency is not the mechanism in this context, but rather a loss-of-function in specific cells.
+- **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** In the retina, loss of ARAP1 disrupts RPE phagocytosis of photoreceptor outer segments, leading to retinal degeneration. In the pancreas, altered expression affects proinsulin processing and insulin secretion, contributing to diabetes risk.
+- **Protein-Protein Interactions Relevant to Phenotype:** ARAP1 interacts with members of the Arf and Rho small GTPase families. It is phosphorylated by PTK6, which enhances EGFR signaling.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for ARAP1 is essentially zero for Mendelian disorders, as it is not currently a recognized disease-causing gene.
+- **Most Common Reasons for Testing This Gene:** Testing for this gene is not standard clinical practice. It may be analyzed in research settings for retinal dystrophies or diabetes.
+- **Clinical Actionability and Management Implications:** None at present.
+- **Genetic Counseling Considerations:** Given the lack of a clear disease association, genetic counseling would focus on the uncertainty of findings and the distinction between common risk alleles and rare pathogenic variants.
+
+### **Key Clinical Literature & Studies**
+- **PMID: 34377778, 2021:** Showed that ARAP1 loss in retinal pigment epithelium (RPE) cells causes phagocytic dysfunction and photoreceptor death in mice.
+- **PMID: 28243455, 2017:** First described photoreceptor degeneration in Arap1 knockout mice, resembling retinitis pigmentosa.
+- **PMID: 24507772, 2014:** Identified a common regulatory variant near ARAP1 that increases its expression in pancreatic beta cells and is associated with Type 2 Diabetes risk.
+- **PMID: 35081191, 2022:** A study in Southern Europeans found that rare nonsense variants in ARAP1 were associated with improved insulin secretion.
+- **PMID: 38008850, 2023:** Showed ARAP1 is downregulated in lung adenocarcinoma and its overexpression inhibits metastasis by controlling Rho signaling.
+- **PMID: 18764928, 2008:** Early functional study showing ARAP1's role in regulating the endocytic trafficking of EGFR.
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations:** Currently, there are no established high-confidence HPO-variant associations for pathogenic variants in ARAP1.
+- **Phenotype red flags:** Based on animal models, a combination of late-onset retinitis pigmentosa (HP:0000510) without a mutation in a known RP gene could be a weak indicator for further research into ARAP1.
+- **Differential diagnosis considerations:** The retinal phenotype observed in mouse models overlaps with many known genes causing retinitis pigmentosa. The association with diabetes overlaps with numerous genes implicated in both monogenic and polygenic forms of diabetes.
+

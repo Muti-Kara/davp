@@ -1,0 +1,87 @@
+LMAN1 Gene Biomedical Dossier
+### **Clinical Genetics Dossier: LMAN1**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 6631.
+*   **OMIM Gene ID:** 601567.
+*   **Primary Disease Associations:** Combined deficiency of factor V and factor VIII 1 (F5F8D1), an autosomal recessive bleeding disorder. Mutations in *LMAN1* account for approximately 70% of cases.
+*   **Clinical Significance Level:** Definitive evidence for association with Combined deficiency of factor V and factor VIII.
+*   **Inheritance Patterns Observed in Patients:** Autosomal recessive.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** The gnomAD v2.1.1 constraint scores for *LMAN1* are pLI = 1.00, suggesting extreme intolerance to loss-of-function (LoF) variants, and a LOEUF score that is very low, indicating fewer observed LoF variants than expected. The pRec score is high, consistent with its known recessive inheritance pattern.
+*   **Clinical Interpretation of Constraint Scores:** The high pLI and low LOEUF scores indicate that LoF variants in *LMAN1* are under strong negative selection in the general population, which is consistent with their role in causing a Mendelian disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Null mutations, such as nonsense, frameshift, and splice site variants, are the most common pathogenic variant types reported. Missense mutations that disrupt protein structure or function have also been identified.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:**
+    *   HP:0003124 - Combined deficiency of factor V and factor VIII
+    *   HP:0001928 - Abnormality of blood coagulation
+    *   HP:0000978 - Bruising susceptibility
+    *   HP:0003237 - Decreased factor V activity
+    *   HP:0003239 - Decreased factor VIII activity
+    *   HP:0008151 - Prolonged prothrombin time.
+    *   HP:0003256 - Prolonged activated partial thromboplastin time
+    *   HP:0002240 - Umbilical bleeding
+    *   HP:0000275 - Epistaxis
+    *   HP:0000132 - Menorrhagia
+    *   HP:0001892 - Abnormal bleeding
+*   **Secondary HPO terms:**
+    *   HP:0002817 - Hemarthrosis
+    *   HP:0002615 - Hematoma
+    *   HP:0001874 - Gingival bleeding
+    *   HP:0000421 - Epicanthus
+    *   HP:0000098 - Tall stature
+*   **Age of Onset Patterns:** Onset is typically in early childhood, often presenting with bleeding episodes.
+*   **Phenotype Severity Spectrum:** The bleeding phenotype is generally mild to moderate. Plasma levels of factors V and VIII typically range from 5% to 30% of normal.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Null mutations (frameshift, nonsense, splice site) are the most common and consistently lead to combined deficiency of factor V and factor VIII.
+*   **Protein Domain-Specific Phenotype Patterns:** Mutations within the carbohydrate recognition domain (CRD) can disrupt binding to cargo proteins like FV and FVIII without affecting the interaction with its partner protein, MCFD2.
+*   **Genotype-Phenotype Correlation Strength:** Strong. There is a clear correlation where biallelic loss-of-function mutations in *LMAN1* result in combined deficiency of factor V and factor VIII.
+*   **Examples: Specific Variants → Specific Phenotypes:**
+    *   c.1149+2T>C (also described as IVS383DS, T-C, +2): A splice site mutation leading to F5F8D1.
+    *   c.86_87insG (also described as 1-BP INS, 86G): A frameshift mutation causing F5F8D1.
+    *   c.795delC: A frameshift mutation resulting in a premature stop codon and F5F8D1.
+    *   c.1356delC: A frameshift mutation leading to a premature stop codon and F5F8D1.
+
+**Clinical Variants & Phenotype Associations**
+*   Up to 15 well-characterized pathogenic variants:
+    *   c.1A>G (p.Met1?) / Pathogenic / Combined factor V and factor VIII deficiency 1 / Low frequency
+    *   c.1149+2T>G / Pathogenic / Combined factor V and factor VIII deficiency 1 / Low frequency
+    *   c.89_90insG / Pathogenic / Combined factor V and factor VIII deficiency 1 / Low frequency
+    *   c.795delC / Pathogenic / Combined factor V and factor VIII deficiency 1 / Low frequency
+    *   c.1356delC / Pathogenic / Combined factor V and factor VIII deficiency 1 / Low frequency
+    *   c.149+5G>A / Pathogenic / Combined factor V and factor VIII deficiency 1 / Low frequency
+*   **Variants with Strongest Phenotype Evidence:** Null variants (nonsense, frameshift, canonical splice site) have the strongest evidence for causing F5F8D1 due to the clear loss-of-function mechanism.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM) and Clinical Correlation:** *LMAN1* is highly expressed in the liver. This is clinically relevant as the liver is a primary site of synthesis for coagulation factor V. It is also expressed in endothelial cells, the primary site of factor VIII synthesis.
+*   **Tissue-Specific Phenotypes Expected:** The primary phenotype is a bleeding diathesis due to the impaired secretion of coagulation factors V and VIII from their sites of synthesis in the liver and endothelium.
+*   **Expression During Development and Age-Related Phenotypes:** While detailed developmental expression data is limited, the early onset of bleeding symptoms suggests *LMAN1* is crucial during early life.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** LMAN1 is a mannose-specific lectin that functions as a cargo receptor in the early secretory pathway, facilitating the transport of specific glycoproteins from the endoplasmic reticulum to the Golgi apparatus.
+*   **Disease Mechanism:** The disease mechanism is loss-of-function. Biallelic inactivating mutations in *LMAN1* disrupt the LMAN1-MCFD2 cargo receptor complex, leading to impaired secretion of factors V and VIII.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Disruption of the LMAN1/MCFD2-mediated transport from the endoplasmic reticulum leads to retention of factors V and VIII in the ER, resulting in their reduced plasma concentrations and a mild-to-moderate bleeding phenotype.
+*   **Protein-Protein Interactions Relevant to Phenotype:** LMAN1 forms a crucial complex with MCFD2 to transport factor V and factor VIII. Mutations in either *LMAN1* or *MCFD2* can cause F5F8D1. Interestingly, patients with *MCFD2* mutations tend to have lower mean levels of plasma FV and FVIII compared to those with *LMAN1* mutations.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** In patients with clinically suspected combined deficiency of factor V and factor VIII, sequencing of *LMAN1* identifies pathogenic variants in approximately 70% of families.
+*   **Most Common Reasons for Testing This Gene:** Testing for *LMAN1* mutations is indicated in individuals presenting with a mild-to-moderate bleeding diathesis and concomitant deficiencies of both factor V and factor VIII activity and antigen.
+*   **Clinical Actionability and Management Implications:** Diagnosis allows for appropriate management of bleeding episodes with fresh frozen plasma or a combination of factor V and factor VIII concentrates. Genetic counseling can be provided to affected individuals and their families regarding the autosomal recessive inheritance pattern.
+*   **Genetic Counseling Considerations:** For couples who are both carriers of a pathogenic *LMAN1* variant, there is a 25% risk in each pregnancy of having a child with combined factor V and factor VIII deficiency. Carrier testing for at-risk relatives and prenatal diagnosis are possible if the pathogenic variants in the family are known.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 18391077, 2008:** This study provided a detailed genotype-phenotype analysis comparing patients with *LMAN1* and *MCFD2* mutations, noting that *MCFD2* mutations are associated with lower factor levels. It also reported several novel mutations in *LMAN1*.
+*   **PMID: 33232296, 2020:** A study in mice demonstrated a dose-dependent effect of residual LMAN1 protein on the secretion of its cargo, suggesting that even small amounts of functional protein can ameliorate the phenotype.
+*   **PMID: 29535974, 2018:** Research that elucidated the molecular basis of LMAN1's function, showing that its carbohydrate recognition domain has distinct binding sites for MCFD2 and its cargo proteins (FV/FVIII).
+*   **PMID: 12717434, 2003:** This paper established that the LMAN1-MCFD2 complex is a cargo receptor for the transport of factor V and factor VIII.
+*   **PMID: 35909, Orphanet:** Provides a summary of the disease association and lists *LMAN1* as a cause of combined deficiency of factor V and factor VIII.
+*   **PMID: 38240213, 2024:** Identified thrombopoietin (TPO) as a likely cargo for LMAN1, which may explain some of the hematological findings in patients.
+
+**HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** Biallelic null variants (nonsense, frameshift, splice site) in *LMAN1* are strongly associated with the HPO terms HP:0003124 (Combined deficiency of factor V and factor VIII), HP:0003237 (Decreased factor V activity), and HP:0003239 (Decreased factor VIII activity).
+*   **Phenotype Red Flags:** The simultaneous presentation of prolonged prothrombin time (HP:0008151) and prolonged activated partial thromboplastin time (HP:0003256) in a patient with a mild bleeding history is a strong indicator for potential pathogenic variants in *LMAN1*.
+*   **Differential Diagnosis Considerations:** The primary differential diagnosis is a mutation in *MCFD2*, which causes an indistinguishable clinical phenotype, although on average with more severe reductions in factor levels. Coincidental inheritance of separate factor V and factor VIII deficiencies (parahemophilia and hemophilia A) should also be considered.
+

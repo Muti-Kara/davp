@@ -1,0 +1,104 @@
+NUS1 Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+- **HGNC ID, OMIM gene ID, primary disease associations**: The HGNC ID for *NUS1* is 21042, and the OMIM gene ID is 610463. Primary disease associations include autosomal dominant Intellectual Developmental Disorder-55 with seizures (MRD55; OMIM #617831) and autosomal recessive Congenital Disorder of Glycosylation, Type Iaa (CDG1AA; OMIM #617082). It has also been linked to Developmental and Epileptic Encephalopathy (DEE) and is considered a candidate gene for Parkinson's disease (PD).
+- **Clinical significance level**: The clinical significance of *NUS1* variants is categorized from definitive to limited, depending on the disease and inheritance pattern. For autosomal dominant intellectual disability with seizures (MRD55), the evidence is considered definitive to strong. For autosomal recessive congenital disorder of glycosylation (CDG1AA), the evidence is classified as limited.
+- **Inheritance patterns observed in patients**: Both autosomal dominant and autosomal recessive inheritance patterns have been observed. Autosomal dominant de novo variants are frequently associated with developmental and epileptic encephalopathies. Autosomal recessive variants are linked to congenital disorders of glycosylation.
+
+### **Constraint & Variant Intolerance**
+- **pLI, LOEUF, pRec, pNull (report exact numeric values)**: The gnomAD v2.1.1 constraint scores for *NUS1* show a pLI (probability of being loss-of-function intolerant) of 1.00, a LOEUF (loss-of-function observed/expected upper-bound fraction) of 0.16. The pRec score is 0.00 and pNull is 1.29e-11.
+- **Clinical interpretation of constraint scores**: A pLI score ≥ 0.9 indicates that the gene is extremely intolerant to loss-of-function (LoF) variants. The low LOEUF score further supports that *NUS1* is under strong selective constraint against LoF variation. These scores suggest that LoF variants in *NUS1* are likely to be pathogenic.
+- **Variant classes most likely to be pathogenic**: Loss-of-function variants, including frameshift, nonsense, and splice site variants, are likely to be pathogenic due to the high pLI and low LOEUF scores. Missense variants have also been reported as pathogenic.
+
+### **Phenotype Spectrum & HPO Terms**
+- **Primary HPO terms** (≤ 20, ranked by frequency in literature):
+    - Seizures (HP:0001250).
+    - Intellectual disability (HP:0001249).
+    - Myoclonus (HP:0001336).
+    - Ataxia (HP:0001251).
+    - Developmental regression (HP:0002376).
+    - Dystonia (HP:0001332).
+    - Global developmental delay (HP:0001263).
+    - Hypotonia (HP:0001252).
+    - Tremor (HP:0001337).
+    - Parkinsonism (HP:0001300).
+    - Facial myoclonus (HP:0007260).
+    - Generalized tonic-clonic seizures (HP:0002069).
+    - Delayed speech and language development (HP:0000750).
+    - Spasticity (HP:0001257).
+    - Intention tremor (HP:0002080).
+    - Dysarthria (HP:0001260).
+    - Impaired tandem gait (HP:0002414).
+    - Anxiety (HP:0000739).
+    - Stereotypy (HP:0000733).
+    - Dysmorphic features (HP:0001999).
+- **Secondary HPO terms** (≤ 15, less common but documented):
+    - Scoliosis (HP:0002650).
+    - Retinitis pigmentosa (HP:0000510).
+    - Cerebellar hypoplasia (HP:0001321).
+    - Psychosis (HP:0000709).
+    - Autism spectrum disorder (HP:0000729).
+    - Chorea (HP:0002072).
+    - Absence seizures (HP:0002121).
+    - Atonic seizures (HP:0010819).
+    - Gestational diabetes mellitus (HP:0009800).
+    - Depression (HP:0000716).
+    - Emotional impairment.
+- **Age of onset patterns**: Onset is typically in early life, ranging from a few months to early childhood. However, some individuals may present later, and associations with later-onset conditions like Parkinson's disease are also reported.
+- **Phenotype severity spectrum**: The severity is variable, ranging from mild intellectual disability to severe developmental and epileptic encephalopathies. The clinical course can be stable for decades in some individuals.
+
+### **Genotype-Phenotype Correlations**
+- **Variant classes and their typical phenotypes**: Heterozygous loss-of-function variants (frameshift, nonsense, splice site) and microdeletions are often associated with developmental and epileptic encephalopathies (DEE) and a complex movement disorder. Homozygous missense variants are associated with Congenital Disorder of Glycosylation (CDG). Heterozygous missense variants are linked to a spectrum of phenotypes including myoclonus-ataxia syndrome and intellectual disability.
+- **Protein domain-specific phenotype patterns**: Currently, no clear genotype-phenotype correlation has been observed with missense mutations clustering in specific protein domains.
+- **Genotype-phenotype correlation strength**: The correlation is considered moderate. While broad categories of variants (e.g., LoF vs. missense) are associated with different inheritance patterns and general disease categories (DEE vs. CDG), significant phenotypic variability exists within these groups, and a clear correlation between specific variants and specific phenotypes is not yet established.
+- **Examples: specific variants → specific phenotypes**: The homozygous p.Arg290His (c.869G>A) missense variant is associated with Congenital Disorder of Glycosylation, Type Iaa (CDG1AA). The de novo heterozygous p.Arg290Cys (c.868C>T) missense variant is associated with myoclonus epilepsy, mild cerebellar ataxia, and intellectual disability.
+
+### **Clinical Variants & Phenotype Associations**
+- **Up to 15 well-characterized pathogenic variants**:
+    - **c.869G>A (p.Arg290His)** / rs886037858 / Pathogenic (in homozygosity) / Congenital disorder of glycosylation, type Iaa (HP:0001249, HP:0001321) / gnomAD AF: 0.00003.
+    - **c.868C>T (p.Arg290Cys)** / rs2114696019 / Likely Pathogenic / Myoclonus epilepsy, mild cerebellar ataxia, intellectual disability (HP:0002133, HP:0001251, HP:0001249) / Not in gnomAD.
+    - **c.99dupG (p.Asn34Glufs*100)** / Not available / Pathogenic / Developmental and epileptic encephalopathy, ataxia, tremor, myoclonus (HP:0001250, HP:0001251, HP:0001337) / Not in gnomAD.
+    - **c.743delA (p.Asp248Alafs)** / rs1554202698 / Pathogenic / Intellectual developmental disorder, autosomal dominant 55, with seizures (HP:0001249, HP:0001250) / Not in gnomAD.
+    - **c.279del (p.Leu94Trpfs*11)** / Not available / Pathogenic / Developmental delay, intellectual disability, autism spectrum disorder (HP:0001263, HP:0001249, HP:0000729) / Not in gnomAD.
+    - **c.415+1G>A** / rs1772975334 / Pathogenic / Intellectual developmental disorder, autosomal dominant 55, with seizures (HP:0001249, HP:0001250) / Not in gnomAD.
+    - **c.791+6T>G** / Not available / Pathogenic / Language and motor retardation, epilepsy (HP:0000750, HP:0002376, HP:0001250) / Not in gnomAD.
+    - **c.691+1C>A** / Not available / Pathogenic / Results in a 91-bp deletion in exon 3 / Not in gnomAD.
+    - **c.302T>A (p.Met101Lys)** / Not available / Pathogenic / Progressive myoclonus epilepsy (HP:0002133) / Not in gnomAD.
+    - **c.542-1G>T** / rs2482015846 / Likely Pathogenic / Congenital disorder of glycosylation, type Iaa / Not in gnomAD.
+    - **c.692-2A>G** / rs2114693876 / Likely Pathogenic / Congenital disorder of glycosylation, type Iaa / Not in gnomAD.
+    - **6q22.1 microdeletion** / Not available / Pathogenic / Epilepsy, tremor, intellectual disability (HP:0001250, HP:0001337, HP:0001249) / Not applicable.
+- **Variants with strongest phenotype evidence**: The homozygous p.Arg290His variant has strong evidence for causing CDG1AA. Numerous de novo LoF variants and missense variants provide strong evidence for the role of *NUS1* in a spectrum of neurodevelopmental disorders, including DEE and myoclonus-ataxia syndromes.
+- **Novel variants from recent case reports**: A novel heterozygous variant c.279del (p.Leu94Trpfs*11) was identified in a boy with developmental delay, intellectual disability, and ASD. A novel de novo missense variant c.302T>A (p.Met101Lys) was reported in a patient with progressive myoclonus epilepsy. A novel splice variant, c.791+6T>G, which causes skipping of exon 4, was found in a child with epilepsy and developmental retardation.
+
+### **Tissue Expression & Clinical Relevance**
+- **Highest expressing tissues (GTEx TPM) and clinical correlation**: *NUS1* is broadly expressed across many tissues, with the highest expression in the adrenal gland, thyroid, and pituitary. It is also significantly expressed in various brain regions, including the cerebellum, cortex, and basal ganglia.
+- **Tissue-specific phenotypes expected**: The high expression in the central nervous system, particularly the cerebellum and basal ganglia, correlates well with the observed neurological phenotypes such as ataxia, myoclonus, seizures, and parkinsonism.
+- **Expression during development and age-related phenotypes**: The gene is essential for early development, as evidenced by embryonic lethality in knockout mice. This aligns with the presentation of severe neurodevelopmental disorders in infancy and childhood. Its role in age-related neurodegeneration, such as Parkinson's disease, suggests its continued importance throughout life.
+
+### **Molecular Mechanism & Phenotype Pathways**
+- **Normal gene function in one sentence**: The *NUS1* gene encodes the Nogo-B receptor (NgBR), a subunit of the cis-prenyltransferase complex essential for dolichol synthesis, a key step in protein N-glycosylation.
+- **Disease mechanism**: For dominant disorders like DEE and MRD55, the primary mechanism is likely haploinsufficiency, where having only one functional copy of the gene is insufficient for normal function. For the recessive CDG, the mechanism is loss-of-function due to biallelic pathogenic variants.
+- **Cellular/molecular pathways disrupted → phenotype consequences**: Disruption of *NUS1* impairs the function of the cis-prenyltransferase enzyme, leading to deficient dolichol biosynthesis. This affects N-linked glycosylation of numerous proteins, which can cause a wide range of cellular dysfunctions, including unfolded protein response activation and lysosomal defects, manifesting as the diverse neurological phenotypes observed. The pathway also involves cholesterol trafficking, potentially linking it to neurodegenerative processes seen in Parkinson's disease.
+- **Protein-protein interactions relevant to phenotype**: *NUS1* forms a complex with DHDDS (dehydrodolichyl diphosphate synthase) to perform its enzymatic function. Pathogenic variants in *DHDDS* result in a remarkably similar and overlapping clinical phenotype, confirming the importance of this interaction and the shared pathway in disease pathogenesis. *NUS1* also interacts with NPC2, a protein involved in cholesterol transport.
+
+### **Diagnostic Yield & Clinical Utility**
+- **Diagnostic yield in clinical cohorts**: While specific diagnostic yield percentages for *NUS1* testing are not widely reported, it is increasingly included in genetic screening panels for undiagnosed forms of myoclonus, myoclonus-ataxia, and progressive myoclonus epilepsies, suggesting it is a recognized cause in these cohorts. Reanalysis of exome data has proven effective in identifying pathogenic variants in genes like *NUS1* in previously undiagnosed individuals.
+- **Most common reasons for testing this gene**: The most common reasons for testing include developmental and epileptic encephalopathy, unexplained myoclonus and/or ataxia, intellectual disability with seizures, and clinical presentations suggestive of a congenital disorder of glycosylation.
+- **Clinical actionability and management implications**: Identifying a pathogenic *NUS1* variant can provide a definitive diagnosis, ending the diagnostic odyssey. While there is no specific cure, a diagnosis can help predict a progressive clinical trajectory and differentiate disease progression from medication side effects. Management is largely symptomatic, including anti-seizure medications.
+- **Genetic counseling considerations**: Autosomal dominant inheritance with de novo variants is common for the DEE/MRD55 phenotype, indicating a low recurrence risk for parents. Autosomal recessive inheritance for CDG1AA implies a 25% recurrence risk for future pregnancies. The phenotypic variability and potential for later-onset features like parkinsonism are important counseling points.
+
+### **Key Clinical Literature & Studies**
+- **Riboldi et al., 2025 (Annals of Neurology)**: Reported the largest case series to date of 41 individuals with heterozygous *NUS1* variants, detailing a complex neurological disorder characterized by developmental delay, intellectual disability, epilepsy (68.3%), and prominent movement disorders (87.8%) including myoclonus, dystonia, ataxia, and parkinsonism. Found no clear genotype-phenotype correlation.
+- **Williams et al., 2022 (Movement Disorders Clinical Practice)**: Described the convergent phenotype between patients with *DHDDS* and *NUS1* variants, highlighting a similar presentation of developmental delay, multifocal myoclonus, ataxia, and dystonia, underscoring their shared role in the dolichol synthesis pathway.
+- **Riboldi et al., 2022 (Tremor and Other Hyperkinetic Movements)**: Reported a case of myoclonus epilepsy, mild cerebellar ataxia, and ID due to a new de novo *NUS1* missense variant (p.R290C) and reviewed the literature, suggesting *NUS1* is an under-recognized cause of myoclonus-ataxia syndromes.
+- **Hu et al., 2023 (Frontiers in Genetics)**: Identified a novel, pathogenic splice variant (c.791+6T>G) in a patient with language and motor retardation and epilepsy, expanding the mutational spectrum.
+- **Xiao et al., 2022 (Neurobiology of Aging)**: Found that rare coding variants in *NUS1* contribute to the susceptibility and phenotype of Parkinson's disease, with carriers showing earlier onset and more severe non-motor symptoms.
+- **Prakash et al., 2019 (Neurology)**: Reported a novel heterozygous loss-of-function mutation (c.99dupG) in a patient with DEE, expanding the spectrum of associated movement disorders to include prominent action myoclonus and facial myoclonus.
+- **Guo et al., 2018 (PNAS)**: Identified *NUS1* as a candidate gene for Parkinson's disease through a multi-stage sequencing strategy in Han Chinese populations, showing that rare nonsynonymous variants were more frequent in PD patients.
+- **Landais et al., 2025 (Seizure)**: Described an adult phenotype of progressive myoclonic epilepsy (PME) in a patient with a large 6q22.1q22.31 deletion involving *NUS1*, and highlighted features of psychosis and spasticity, expanding the known phenotype.
+- **Park et al., 2014 (American Journal of Human Genetics)**: First described recessive mutations in *NUS1* (then called *Nogo-B receptor*) as a cause of a congenital disorder of glycosylation (CDG1AA).
+
+### **HPO-Variant Matching Summary**
+- **High-confidence HPO-variant associations**: Heterozygous loss-of-function variants and missense variants are strongly associated with a phenotype combining **Seizures (HP:0001250)**, **Myoclonus (HP:0001336)**, **Ataxia (HP:0001251)**, and **Intellectual disability (HP:0001249)**. Homozygous missense variants, particularly p.Arg290His, are associated with the core features of **Congenital disorder of glycosylation (HP:0001377)**.
+- **Phenotype red flags**: The combination of early-onset myoclonus, ataxia, and seizures, particularly when accompanied by intellectual disability or developmental regression, should strongly suggest pathogenic variants in *NUS1*. The presence of facial myoclonus is also a notable feature.
+- **Differential diagnosis considerations**: The clinical presentation of *NUS1*-related disorders overlaps significantly with disorders caused by variants in the *DHDDS* gene, due to their direct interaction in the same enzymatic complex. The phenotype of progressive myoclonic epilepsy (PME) requires differentiation from other PME-associated genes (e.g., *EPM2A*, *NHLRC1*, *KCTD7*). The broader neurodevelopmental phenotype can overlap with numerous other genetic causes of developmental and epileptic encephalopathies.
+

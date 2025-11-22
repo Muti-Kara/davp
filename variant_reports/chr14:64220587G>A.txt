@@ -1,0 +1,201 @@
+=== chr14:64220587G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs34820571
+• Chromosome: 14
+• Position: 64220587
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: SYNE2
+• Databases: rs34820571
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: benign, likely_benign, benign/likely_benign
+• ACMG Classification: Benign
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.004248
+• gnomADg Allele Frequency: 0.0032500000000000003
+• 1KG Frequency: 0.0014
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0005653: serum metabolite measurement - quantification of some metabolite in serum
+GWAS_EFO_0003884: chronic kidney disease - Conditions in which the KIDNEYS perform below the normal level for more than three months. Chronic kidney insufficiency is classified by five stages according to the decline in GLOMERULAR FILTRATION RATE and the degree of kidney damage (as measured by the level of PROTEINURIA). The most severe form is the end-stage renal disease (CHRONIC KIDNEY FAILURE). (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002)|The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION.|Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+GWAS_EFO_0010118: sphingomyelin measurement - A quantification of sphingomyeline in a sample.
+GWAS_EFO_0004622: sphingolipid measurement - Is a quantification of sphingolipids - molecules playing a role in signal transmission.
+GWAS_EFO_0005192: red blood cell distribution width - measure of the variation of red blood cell (RBC) volume
+GWAS_EFO_0004611: low density lipoprotein cholesterol measurement - The measurement of LDL cholesterol in blood used as a risk indicator for heart disease.
+GWAS_EFO_0010700: reticulocyte measurement - A quantification of some aspect of reticulocyte function, quantity, or composition.
+GWAS_EFO_0005664: blood metabolite measurement - quantification of some metabolite in blood
+GWAS_EFO_0007630: glycerophospholipid measurement - Is a quantification, typically in blood, of glycerophospholipids, a group of glycerol-based phospholipids
+GWAS_EFO_0004530: triglyceride measurement - A triglyceride  measurement is a quantification of triglycerides in some body fluid, used as a biomarker for cardiovascular disease.
+GWAS_EFO_0010390: sphingomyelin 14:0 measurement - The quantification of sphingomyelin 14:0 levels in a sample.
+GWAS_EFO_0004574: total cholesterol measurement - A total cholesterol measurement is the quantification of cholesterol in blood, total cholesterol is defined as the sum of HDL, LDL, and VLDL.
+GWAS_EFO_0010222: ceramide measurement - A quantification of ceramides.
+GWAS_EFO_0004615: apolipoprotein B measurement - The measurement of ApoB in blood. Apolipoprotein B is a major protein constituent of chylomicrons (apo B-48), LDL (apo B-100) and VLDL (apo B-100). Apo B-100 functions as a recognition signal for the cellular binding and internalization of LDL particles by the apoB/E receptor, and is upregulated in response to enterovirus 71.
+GWAS_EFO_0004584: mean platelet volume - A measurement of mean platelet volume is a machine-calculated measurement of the average size of platelets found in blood
+GWAS_EFO_0004309: platelet count - The number of PLATELETS per unit volume in a sample of venous BLOOD.
+GWAS_EFO_0007986: reticulocyte count - The number of reticulocytes per unit volume of blood. Reticulocytes are immature red blood cells and typically compose aoubt 1% of red blood cells in the human body.
+GWAS_EFO_0004713: FEV/FEC ratio - None
+GWAS_EFO_0004632: nevus count - A nevus count is the quantification of nevi on the skin.
+GWAS_EFO_0000389: cutaneous melanoma - A primary melanoma arising from atypical melanocytes in the skin. Precursor lesions include acquired and congenital melanocytic nevi, and dysplastic nevi. Several histologic variants have been recognized, including superficial spreading melanoma, acral lentiginous melanoma, nodular melanoma, and lentigo maligna melanoma.
+GWAS_EFO_0003924: hair color - Color of hair or fur.
+GWAS_EFO_0007822: hair colour measurement - quantification of some aspect of hair colour, such as whether greying occurs, how advanced greying is or qualification to what colour family hair belongs
+GWAS_EFO_0008006: skin aging measurement - quantification of some aspect of skin aging such as wrinkling or photoaging. Skin aging can be assessed using teh 6-point Beagley and Gibson (BG6) microtopography scoring system of skin patterning regularity and complexity
+GWAS_EFO_0004462: PR interval - A PR interval is an  electrocardiography measurement which measures from the beginning of the P wave to the beginning of the QRS complex in the heart's electrical cycle
+GWAS_EFO_0000676: psoriasis - An autoimmune condition characterized by red, well-delineated plaques with silvery scales that are usually on the extensor surfaces and scalp. They can occasionally present with these manifestations: pustules; erythema and scaling in intertriginous areas, and erythroderma, that are often distributed on extensor surfaces and scalp.|A common genetically determined, chronic, inflammatory skin disease characterized by rounded erythematous, dry, scaling patches. The lesions have a predilection for nails, scalp, genitalia, extensor surfaces, and the lumbosacral region. Accelerated epidermopoiesis is considered to be the fundamental pathologic feature in psoriasis.
+GWAS_EFO_0004527: mean corpuscular hemoglobin - The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+GWAS_EFO_0007805: HDL cholesterol change measurement - quantification of the change in HDL cholesterol levels in an individual over time, eg over the course of several hours after a high-fat meal or following treatment with a cholesterol-lowering drug
+GWAS_EFO_0004908: testosterone measurement - is a quantification of testosterone, typically in serum. Testosterone is a steroid hormone.Testosterone measurement is used in the diagnosis ofprecocious or delayed puberty, infertility (in men and women), ovarian tumours, adrenal tumours and pituitary disorders.
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0004627: IGF-1 measurement - Is the quantification of Insulin-like growth factor 1 (IGF-1), also called somatomedin C. IGF-1 is a hormone similar in molecular structure to insulin. It plays an important role in childhood growth and continues to have anabolic effects in adults. Levels of IGF-1 are known to increase in some cancers.
+GWAS_EFO_0000275: atrial fibrillation - A disorder characterized by an electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregular ventricular response. (CDISC)|Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation.
+GWAS_EFO_0000692: obsolete_schizophrenia - A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.|A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior.
+GWAS_EFO_0000289: bipolar disorder - A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence.|A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence (MeSH).|A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.
+GWAS_EFO_0003888: attention deficit hyperactivity disorder - A mental disorder characterized by inattention, easy distraction, careless mistakes and avoidance of tasks that require sustained mental focus. These behaviors can lead to maladaptive consequences in the affected individual's life.|A behavior disorder originating in childhood in which the essential features are signs of developmentally inappropriate inattention, impulsivity, and hyperactivity. Although most individuals have symptoms of both inattention and hyperactivity-impulsivity, one or the other pattern may be predominant. The disorder is more frequent in males than females. Onset is in childhood. Symptoms often attenuate during late adolescence although a minority experience the full complement of symptoms into mid-adulthood. (From DSM-IV)
+GWAS_EFO_0004242: obsessive-compulsive disorder - An anxiety disorder characterized by recurrent, persistent obsessions or compulsions. Obsessions are the intrusive ideas, thoughts, or images that are experienced as senseless or repugnant. Compulsions are repetitive and seemingly purposeful behavior which the individual generally recognizes as senseless and from which the individual does not derive pleasure although it may provide a release from tension.|A disorder characterized by the presence of persistent and recurrent irrational thoughts (obsessions), resulting in marked anxiety and repetitive excessive behaviors (compulsions) as a way to try to decrease that anxiety.
+GWAS_EFO_0003761: unipolar depression - A mood disorder having a clinical course involving one or more episodes of serious psychological depression that last two or more weeks each, do not have intervening episodes of mania or hypomania, and are characterized by a loss of interest or pleasure in almost all activities and by some or all of disturbances of appetite, sleep, or psychomotor functioning, a decrease in energy, difficulties in thinking or making decisions, loss of self-esteem or feelings of guilt, and suicidal thoughts or attempts.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+GWAS_EFO_0004895: Tourette syndrome - A neuropsychological disorder related to alterations in DOPAMINE metabolism and neurotransmission involving frontal-subcortical neuronal circuits. Both multiple motor and one or more vocal tics need to be present with TICS occurring many times a day, nearly daily, over a period of more than one year. The onset is before age 18 and the disturbance is not due to direct physiological effects of a substance or a general medical condition. The disturbance causes marked distress or significant impairment in social, occupational, or other important areas of functioning. (From DSM-IV, 1994; Neurol Clin 1997 May;15(2):357-79)|A neurologic disorder caused by defective metabolism of the neurotransmitters in the brain. It is characterized by repeated involuntary movements (motor tics) and uncontrollable vocal sounds (vocal tics). The symptoms are usually manifested before the age of eighteen.
+GWAS_EFO_0004215: anorexia nervosa - An eating disorder that is characterized by the lack or loss of APPETITE, known as ANOREXIA. Other features include excess fear of becoming OVERWEIGHT; BODY IMAGE disturbance; significant WEIGHT LOSS; refusal to maintain minimal normal weight; and AMENORRHEA. This disorder occurs most frequently in adolescent females. (APA, Thesaurus of Psychological Index Terms, 1994).|A disorder most often seen in adolescent females characterized by a refusal to maintain a minimally normal body weight, an intense fear of gaining weight, a disturbance in body image, and, in postmenarcheal females, the development of amenorrhea.
+GWAS_EFO_0003756: autism spectrum disorder - A spectrum of developmental disorders that includes autism, and Asperger syndrome. Signs and symptoms include poor communication skills, defective social interactions, and repetitive behaviors.|A pervasive developmental disease that is a spectrum of psychological conditions characterized by widespread abnormalities of social interactions and communication, as well as severely restricted interests and highly repetitive behavior.|Severe distortions in the development of many basic psychological functions that are not normal for any stage in development. These distortions are manifested in sustained social impairment, speech abnormalities, and peculiar motor movements.|Wide continuum of associated cognitive and neurobehavioral disorders, including, but not limited to, three core-defining features: impairments in socialization, impairments in verbal and nonverbal communication, and restricted and repetitive patterns of behaviors. (DSM, 1994)
+GWAS_EFO_0001663: prostate carcinoma - A carcinoma that arises from epithelial cells of the prostate gland.
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0004348: hematocrit - The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0007978: red blood cell density measurement - quantification of the density of a red blood cell (DRBC). DRBC is affected by the hydration level of the cell, with dehydrated cells being dense and deformed. Increased DRBC may be an indicator of disease severity in sickle cell anemia
+GWAS_EFO_0004509: hemoglobin measurement - hemoglobin levels|Hemoglobin measurement is a measure of the quantity of the metallo protein hemoglobin in blood often used in the diagnosis of anaemia.
+GWAS_EFO_0007789: BMI-adjusted waist circumference - waist circumference measurement that has been adjusted by subjects’ body mass index
+GWAS_EFO_0004337: intelligence - The ability to learn and to deal with new situations and to deal effectively with tasks involving abstractions.
+GWAS_EFO_0008328: chronotype measurement - quantification of some aspect of chronotype such as ease of getting up in the morning
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16155957) -> Associated GWAS: GWAS_EFO_0005653, GWAS_EFO_0003884, GWAS_EFO_0010118, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0005192, GWAS_EFO_0004611, GWAS_EFO_0010118, GWAS_EFO_0005653, GWAS_EFO_0003884, GWAS_EFO_0010700, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0005664, GWAS_EFO_0010118, GWAS_EFO_0005664, GWAS_EFO_0004622, GWAS_EFO_0007630, GWAS_EFO_0004530, GWAS_EFO_0010390, GWAS_EFO_0004574, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0010222, GWAS_EFO_0010222, GWAS_EFO_0010118, GWAS_EFO_0004530, GWAS_EFO_0010222, GWAS_EFO_0004615, GWAS_EFO_0005192, GWAS_EFO_0004584, GWAS_EFO_0004309, GWAS_EFO_0004584, GWAS_EFO_0007986, GWAS_EFO_0010700, GWAS_EFO_0005192, GWAS_EFO_0005653, GWAS_EFO_0004309, GWAS_EFO_0003884, GWAS_EFO_0010222, GWAS_EFO_0005192, GWAS_EFO_0004622, GWAS_EFO_0004713, GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0010390, GWAS_EFO_0010222, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0003924, GWAS_EFO_0007822, GWAS_EFO_0008006, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0004462, GWAS_EFO_0010390, GWAS_EFO_0010118, GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Gene (ID: 16170976) -> Associated GWAS: GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663, GWAS_EFO_0004339, GWAS_EFO_0001663, GWAS_EFO_0003761, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007978, GWAS_EFO_0004509, GWAS_EFO_0007789, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0004784, GWAS_EFO_0008328
+Entity: Transcript (ID: 16288707) -> Associated GWAS: GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0010390, GWAS_EFO_0010222, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0003924, GWAS_EFO_0007822, GWAS_EFO_0008006, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0004462, GWAS_EFO_0010390, GWAS_EFO_0010118, GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289157) -> Associated GWAS: GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0010390, GWAS_EFO_0010222, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0003924, GWAS_EFO_0007822, GWAS_EFO_0008006, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0004462, GWAS_EFO_0010390, GWAS_EFO_0010118, GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289219) -> Associated GWAS: GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0010390, GWAS_EFO_0010222, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0003924, GWAS_EFO_0007822, GWAS_EFO_0008006, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0004462, GWAS_EFO_0010390, GWAS_EFO_0010118, GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289240) -> Associated GWAS: GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0004622, GWAS_EFO_0010118, GWAS_EFO_0010390, GWAS_EFO_0010222, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0003924, GWAS_EFO_0007822, GWAS_EFO_0008006, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0004462, GWAS_EFO_0010390, GWAS_EFO_0010118, GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289268) -> Associated GWAS: GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0003924, GWAS_EFO_0007822, GWAS_EFO_0008006, GWAS_EFO_0004632, GWAS_EFO_0000389, GWAS_EFO_0004462, GWAS_EFO_0010390, GWAS_EFO_0010118, GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289562) -> Associated GWAS: GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289589) -> Associated GWAS: GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289596) -> Associated GWAS: GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289613) -> Associated GWAS: GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289608) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289634) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289651) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16289654) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Transcript (ID: 16341848) -> Associated GWAS: GWAS_EFO_0000676, GWAS_EFO_0010118, GWAS_EFO_0004527, GWAS_EFO_0007805, GWAS_EFO_0004908, GWAS_EFO_0004908, GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663, GWAS_EFO_0004339, GWAS_EFO_0001663, GWAS_EFO_0003761, GWAS_EFO_0004348, GWAS_EFO_0004305, GWAS_EFO_0007978, GWAS_EFO_0004509, GWAS_EFO_0007789, GWAS_EFO_0000692, GWAS_EFO_0004784, GWAS_EFO_0004337, GWAS_EFO_0004784
+Entity: Histone Modification Site (ID: 88649309) -> Associated GWAS: GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 88578108) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 84676527) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 81991181) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 75894002) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756
+Entity: Histone Modification Site (ID: 74487012) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756
+Entity: Histone Modification Site (ID: 69003643) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 66505784) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 62584652) -> Associated GWAS: GWAS_EFO_0004784, GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 62154753) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 61949052) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 61695371) -> Associated GWAS: GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 60986178) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 58842786) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 58566785) -> Associated GWAS: GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 57510749) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 49071753) -> Associated GWAS: GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 50732173) -> Associated GWAS: GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 53387455) -> Associated GWAS: GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: Histone Modification Site (ID: 53930845) -> Associated GWAS: GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 19341715) -> Associated GWAS: GWAS_EFO_0004627, GWAS_EFO_0000275, GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663, GWAS_EFO_0004339, GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 19893416) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756
+Entity: ChromHMM State (ID: 20468507) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756
+Entity: ChromHMM State (ID: 21076136) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 21682768) -> Associated GWAS: GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 22317923) -> Associated GWAS: GWAS_EFO_0000275, GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663
+Entity: ChromHMM State (ID: 22890979) -> Associated GWAS: GWAS_EFO_0000692, GWAS_EFO_0000289, GWAS_EFO_0003888, GWAS_EFO_0004242, GWAS_EFO_0003761, GWAS_EFO_0007006, GWAS_EFO_0004895, GWAS_EFO_0004215, GWAS_EFO_0003756, GWAS_EFO_0001663, GWAS_EFO_0004339, GWAS_EFO_0001663, GWAS_EFO_0003761
+Entity: chr_chain (ID: 518850) -> Associated GWAS: GWAS_EFO_0001663
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 47016
+• Pathogenic/Likely Pathogenic: 3179
+• Benign/Likely Benign: 18584
+• Uncertain Significance: 25244
+• Other Classifications: 9
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=17140)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified (n=3071)
+• not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=736)
+• not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified (n=429)
+• not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=414)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided (n=407)
+• SYNE2-related disorder (n=258)
+• not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder (n=207)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided|not specified (n=187)
+• not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder|not specified (n=128)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified|not provided (n=79)
+• SYNE2-related disorder|not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=74)
+• not provided|not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=64)
+• not provided|not specified (n=60)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder|not specified (n=55)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder (n=43)
+• not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided|SYNE2-related disorder (n=40)
+• not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided (n=38)
+• not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified|SYNE2-related disorder (n=32)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder|not provided (n=30)
+• Emery-Dreifuss muscular dystrophy|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified (n=27)
+• not specified|not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=25)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided|SYNE2-related disorder|not specified (n=19)
+• Restrictive cardiomyopathy (n=19)
+• Long QT syndrome|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=19)
+• not provided|SYNE2-related disorder (n=16)
+• Primary dilated cardiomyopathy (n=15)
+• not specified|not provided (n=15)
+• not provided|SYNE2-related disorder|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=15)
+• See cases (n=12)
+• Emery-Dreifuss muscular dystrophy (n=12)
+• SYNE2-related disorder|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=12)
+• Cerebral palsy (n=11)
+• Emery-Dreifuss muscular dystrophy|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided (n=11)
+• Emery-Dreifuss muscular dystrophy|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=11)
+• not provided|Emery-Dreifuss muscular dystrophy|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified (n=11)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|Spastic ataxia (n=10)
+• SYNE2-related disorder|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided (n=10)
+• Emery-Dreifuss muscular dystrophy|not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant (n=9)
+• Emery-Dreifuss muscular dystrophy|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not provided|not specified (n=9)
+• not provided|SYNE2-related disorder|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified (n=9)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|See cases (n=6)
+• Emery-Dreifuss muscular dystrophy 2, autosomal dominant (n=6)
+• SYNE2-related disorder|not specified (n=6)
+• not specified|not provided|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder (n=6)
+• Emery-Dreifuss muscular dystrophy 5, autosomal dominant|not specified|SYNE2-related disorder (n=6)
+• not specified|Emery-Dreifuss muscular dystrophy 5, autosomal dominant|SYNE2-related disorder (n=6)
+• Ovarian dysgenesis 8 (n=4)
+• ESR2-related disorder (n=2)
+• Familial medullary thyroid carcinoma (n=2)
+• Ovarian dysgenesis 8|not specified (n=2)
+
+

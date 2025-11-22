@@ -1,0 +1,80 @@
+=== chr9:65738312C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1294440970
+• Chromosome: 9
+• Position: 65738312
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0/1
+• Quality Score: 276.64001465
+• Gene Names: FOXD4L4
+• Databases: rs1294440970
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.03352
+• gnomADg Allele Frequency: 0.024120000000000003
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 21
+• Allelic Depth (AD): [10, 11]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0009700: visual perception measurement - Quantification of some aspect of visual perception.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 22768924) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 22768885) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 22181015) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 22181014) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 22180993) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 22180991) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 22180984) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 21554844) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 20943287) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 20943286) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 20943257) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 20943250) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 20344842) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 19778187) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 19778173) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 19778169) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 19205564) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 19205578) -> Associated GWAS: GWAS_EFO_0009700
+Entity: ChromHMM State (ID: 19205579) -> Associated GWAS: GWAS_EFO_0009700
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 243788
+• Pathogenic/Likely Pathogenic: 812
+• Benign/Likely Benign: 38766
+• Uncertain Significance: 204210
+• Other Classifications: 0
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• not provided|not specified (n=591)
+• not specified|not provided (n=448)
+• See cases (n=85)
+
+

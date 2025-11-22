@@ -1,0 +1,58 @@
+TBC1D3B Gene Biomedical Dossier
+### **Gene Identity & Clinical Context**
+*   **HGNC ID:** 27011
+*   **OMIM Gene ID:** 610144
+*   **Primary Disease Associations:** Currently, TBC1D3B is not definitively associated with a Mendelian disease. GeneCards lists a possible association with Ceroid Lipofuscinosis, Neuronal, 7, and the 17q12 copy number variation syndrome pathway, but this is not strongly supported by other sources. The TBC1D3 gene family has been implicated in cancer, particularly prostate cancer, due to its role in cell proliferation.
+*   **Clinical Significance Level:** The clinical significance for a specific Mendelian phenotype is uncertain. Evidence primarily points towards a role in somatic overgrowth (oncogenesis) and evolutionary development, particularly of the frontal cortex.
+*   **Inheritance Patterns:** No clear Mendelian inheritance pattern has been established. The gene family is characterized by extensive copy number variation (CNV) in the human population, with individuals differing by as many as 20 copies.
+
+### **Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** Specific constraint metrics for TBC1D3B from gnomAD are not available. This is likely due to the gene's location in a region of high-identity segmental duplications and extreme copy number variation, which makes it difficult to accurately call and interpret variants.
+*   **Clinical Interpretation of Constraint Scores:** The absence of constraint scores suggests that standard variant interpretation pipelines may be unreliable for this gene. The high population-level variability in copy number implies that loss of a single copy may not be pathogenic.
+*   **Variant Classes Most Likely to be Pathogenic:** Due to the lack of a clear disease association, it is unknown which variant classes are most likely to be pathogenic. The gene's function appears to be dosage-sensitive and related to proliferation.
+
+### **Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** No specific HPO terms are consistently and directly linked to germline variants in TBC1D3B.
+*   **Secondary HPO terms:** No secondary HPO terms are documented in relation to a specific Mendelian syndrome.
+*   **Age of Onset Patterns:** Not applicable due to the lack of a defined associated disease.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+### **Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** Amplification of the 17q12 locus, which includes the TBC1D3 gene family, is observed in approximately 15% of primary prostate tumors, suggesting a role for increased copy number in oncogenesis.
+*   **Protein Domain-Specific Phenotype Patterns:** The protein contains a TBC (Tre-2, Bub2p, and Cdc16p) domain involved in regulating RAB GTPase signaling. Alterations in this domain could theoretically impact vesicle trafficking and cell signaling pathways.
+*   **Genotype-Phenotype Correlation Strength:** The correlation between germline genotypes and specific clinical phenotypes is currently weak to nonexistent. The primary association is with somatic changes (amplifications) in cancer.
+*   **Examples:** Specific germline variants in TBC1D3B have not been reproducibly linked to specific phenotypes. The heterogeneous clinical phenotypes seen in 17q12 deletion syndrome may be related to the haploinsufficiency of TBC1D3 and its paralogs, though this is speculative.
+
+### **Clinical Variants & Phenotype Associations**
+*   No well-characterized pathogenic or likely pathogenic germline variants in TBC1D3B associated with a specific Mendelian disorder are present in ClinVar. The gene's high variability makes interpretation difficult.
+
+### **Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** According to GTEx data, TBC1D3 shows modest expression globally, with the highest levels in the testis and brain.
+*   **Tissue-Specific Phenotypes Expected:** The expression in the developing brain supports a potential role in neuronal progenitor proliferation and cortical expansion, a function observed in mouse models. Expression in prostate tissue is consistent with its implication in prostate cancer.
+*   **Expression During Development:** Expression of TBC1D3 in the developing mouse brain leads to an expansion and folding of the cortex, suggesting a role in human brain evolution.
+
+### **Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** The TBC1D3 protein acts as a GTPase-activating protein (GAP) for RAB5, a key regulator of early endosome trafficking.
+*   **Disease Mechanism:** The primary mechanism appears related to gene dosage. Overexpression or amplification can promote cell proliferation by enhancing signaling through the epidermal growth factor (EGF) and insulin-like growth factor-1 (IGF-1) pathways.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** TBC1D3 can antagonize the ubiquitination and degradation of EGFR, leading to sustained signaling and cell proliferation. It has also been shown to promote neural progenitor proliferation by suppressing the histone methyltransferase G9a. In macrophages, it can regulate the contents of extracellular vesicles, impacting wound healing.
+*   **Protein-Protein Interactions Relevant to Phenotype:** TBC1D3 interacts with RAB5 and components of the EGF and IGF-1 signaling pathways. Its interaction with CUL7-Fbw8 regulates its ubiquitination and degradation.
+
+### **Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** The diagnostic yield for TBC1D3B variants is effectively zero for Mendelian disorders, as it is not currently a recognized disease gene.
+*   **Most Common Reasons for Testing This Gene:** Testing for this gene is not standard clinical practice for inherited diseases. It is primarily studied in a research context for its role in cancer and human evolution.
+*   **Clinical Actionability and Management Implications:** There are no clinical management guidelines based on germline variants in TBC1D3B.
+*   **Genetic Counseling Considerations:** Given the extreme copy number variability in the general population and lack of association with a specific disease, caution is required when interpreting any variants found in this gene. The high degree of structural heterozygosity (∼90%) means most individuals will have variable copy numbers.
+
+### **Key Clinical Literature & Studies**
+*   **PMID: 39107043, 2024:** Detailed the independent expansion and hypervariability of the TBC1D3 gene family in humans, highlighting massive copy number differences between individuals and evidence for positive selection.
+*   **bioRxiv, 2024:** Showed that despite numerous gene copies, TBC1D3 expression is mainly limited to a single paralog group, potentially explaining how high copy number variation can be tolerated.
+*   **PMID: 31215579, 2019:** Demonstrated that TBC1D3 regulates the cargo of extracellular vesicles, which can modulate the inflammatory response and tissue repair.
+*   **PMID: 27725700, 2016:** A study in mice showed that overexpression of TBC1D3 led to increased proliferation of neural progenitors and cortical folding, linking the gene to brain development.
+*   **PMID: 18499692, 2008:** Identified TBC1D3 as a hominoid-specific oncogene that activates Ras and modulates EGF receptor signaling and trafficking.
+*   **PMID: 17027202, 2006:** Described the TBC1D3 gene family as a cluster of eight highly related paralogs on chromosome 17q12, noting altered transcription patterns in prostate tumors.
+
+### **HPO-Variant Matching Summary**
+*   **High-Confidence HPO-Variant Associations:** There are currently no high-confidence HPO-variant associations for germline pathogenic variants in TBC1D3B.
+*   **Phenotype Red Flags:** No specific phenotypes are considered red flags for pathogenic variants in this gene. Its discovery would be incidental to genome-wide CNV analysis.
+*   **Differential Diagnosis Considerations:** The gene is located within the 17q12 genomic region. Deletions or duplications of this entire region are associated with known syndromes that have a broad and variable range of features, including developmental delay, intellectual disability, and congenital abnormalities. Any potential contribution of TBC1D3B dosage to these phenotypes is currently unclear.
+

@@ -1,0 +1,67 @@
+=== chr3:195725999G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs760722486
+• Chromosome: 3
+• Position: 195725999
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: MUC20
+• Databases: rs760722486, COSV57846739
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.004164999999999999
+• gnomADg Allele Frequency: 0.026310000000000004
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004747: protein measurement - This is a general class for any measurement of a protein. Do not annotate to this class, request a more specific child term.|Is a quantification of some protein, typically obtained from an individual with the intention of using the measurement in some diagnostic process.
+GWAS_EFO_0004289: lymphoid leukemia - A malignant lymphocytic neoplasm of B-cell or T-cell lineage involving primarily the bone marrow and the peripheral blood. This category includes precursor or acute lymphoblastic leukemias and chronic leukemias.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16166356) -> Associated GWAS: GWAS_EFO_0004747
+Entity: Non Coding RNA (ID: 17278762) -> Associated GWAS: GWAS_EFO_0004289, GWAS_EFO_0004747
+Entity: Non Coding RNA (ID: 17278761) -> Associated GWAS: GWAS_EFO_0004289, GWAS_EFO_0004747
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 970
+• Pathogenic/Likely Pathogenic: 349
+• Benign/Likely Benign: 368
+• Uncertain Significance: 250
+• Other Classifications: 3
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• See cases (n=272)
+• not provided|not specified (n=6)
+• Chromosome 3q29 microdeletion syndrome (n=3)
+• Delayed speech and language development (n=3)
+• Motor delay (n=3)
+
+

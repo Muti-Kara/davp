@@ -1,0 +1,62 @@
+MUC20 Gene Biomedical Dossier
+### **MUC20 Gene Dossier**
+
+**Gene Identity & Clinical Context**
+*   **HGNC ID:** 23282.
+*   **OMIM Gene ID:** 610360.
+*   **Primary Disease Associations:** While not definitively linked to a Mendelian disease, MUC20 expression is associated with several cancers, including childhood hepatocellular carcinoma, epithelial ovarian cancer, colorectal cancer, and endometrial cancer.
+*   **Clinical Significance Level:** Evidence for a direct role in Mendelian disease is limited; however, its association with cancer progression is moderate.
+*   **Inheritance Patterns:** No clear Mendelian inheritance pattern has been established for a specific disease caused by MUC20 variants.
+
+**Constraint & Variant Intolerance**
+*   **pLI, LOEUF, pRec, pNull:** gnomAD v2.1.1 reports a pLI of 0.00, LOEUF of 1.13, pRec of 0.61, and pNull of 0.39.
+*   **Clinical Interpretation of Constraint Scores:** The high LOEUF and very low pLI scores suggest that MUC20 is tolerant to loss-of-function variation. This means that heterozygous or even homozygous loss-of-function variants are not expected to cause a severe Mendelian disease.
+*   **Variant Classes Most Likely to be Pathogenic:** Given the tolerance to loss-of-function, pathogenic variants, if they exist, might be gain-of-function or have a dominant-negative effect, though no such variants are currently well-documented in ClinVar.
+
+**Phenotype Spectrum & HPO Terms**
+*   **Primary HPO terms:** As MUC20 is not linked to a specific Mendelian syndrome, there are no frequently reported HPO terms. Associations are primarily with cancer-related phenotypes.
+*   **Secondary HPO terms:** No specific secondary HPO terms are consistently associated with MUC20 variants in the context of Mendelian disease.
+*   **Age of Onset Patterns:** Not applicable due to the lack of a defined Mendelian disease association.
+*   **Phenotype Severity Spectrum:** Not applicable.
+
+**Genotype-Phenotype Correlations**
+*   **Variant Classes and Their Typical Phenotypes:** No established correlations exist between specific MUC20 variant classes and distinct clinical phenotypes in a Mendelian context.
+*   **Protein Domain-Specific Phenotype Patterns:** Information is not available to link variants in specific protein domains to particular phenotypes.
+*   **Genotype-Phenotype Correlation Strength:** Weak to non-existent for Mendelian disease.
+*   **Examples:** There are no well-documented examples of specific variants leading to specific, non-cancer-related phenotypes.
+
+**Clinical Variants & Phenotype Associations**
+*   **ClinVar Pathogenic Variants:** There are no variants in MUC20 classified as pathogenic or likely pathogenic for a Mendelian disorder in ClinVar. The database does contain variants of uncertain significance and those related to cancer.
+*   **Variants with Strongest Phenotype Evidence:** No variants have strong evidence for causing a specific Mendelian phenotype.
+*   **Novel Variants from Recent Case Reports:** No recent case reports describe novel pathogenic MUC20 variants associated with a clear Mendelian phenotype.
+
+**Tissue Expression & Clinical Relevance**
+*   **Highest Expressing Tissues (GTEx TPM):** MUC20 shows the highest expression in the kidney cortex, esophagus mucosa, and minor salivary glands. It is also expressed in tissues such as the colon, endometrium, liver, and prostate.
+*   **Tissue-Specific Phenotypes Expected:** Aberrant expression in specific tissues is linked to cancer. For example, overexpression in the endometrium and ovaries is associated with more aggressive tumors. Decreased expression has been noted in clear cell renal cell carcinoma.
+*   **Expression During Development and Age-Related Phenotypes:** MUC20 expression marks the receptive phase of the human endometrium. No specific age-related phenotypes outside of cancer have been described.
+
+**Molecular Mechanism & Phenotype Pathways**
+*   **Normal Gene Function:** MUC20 is a transmembrane mucin that can regulate the MET signaling cascade by suppressing the GRB2-RAS pathway.
+*   **Disease Mechanism:** In cancer, the mechanism appears to be related to altered expression levels (overexpression or underexpression) rather than a classic haploinsufficiency or dominant-negative model for a Mendelian disease.
+*   **Cellular/Molecular Pathways Disrupted → Phenotype Consequences:** Overexpression of MUC20 can activate pathways like the integrin β1 signaling in ovarian cancer and the EGFR-STAT3 pathway in endometrial cancer, leading to enhanced cell migration, invasion, and tumor growth.
+*   **Protein-Protein Interactions Relevant to Phenotype:** MUC20 interacts with the MET proto-oncogene, suppressing some of its signaling pathways.
+
+**Diagnostic Yield & Clinical Utility**
+*   **Diagnostic Yield in Clinical Cohorts:** Testing for MUC20 variants is not standard practice for diagnosing Mendelian disorders due to a lack of association.
+*   **Most Common Reasons for Testing This Gene:** The gene is primarily studied in a research context to understand its role in cancer prognosis and as a potential biomarker.
+*   **Clinical Actionability and Management Implications:** Currently, there are no direct clinical actions or management guidelines based on MUC20 genotype for Mendelian diseases. In oncology, its expression level may serve as a prognostic factor.
+*   **Genetic Counseling Considerations:** Genetic counseling for MUC20 variants would be challenging due to the absence of a defined disease association and would focus on the uncertainty of the findings.
+
+**Key Clinical Literature & Studies**
+*   **PMID: 26616226 (2016):** Found that MUC20 is overexpressed in epithelial ovarian cancer and is associated with poor overall survival. It promotes aggressive cancer cell phenotypes by activating integrin β1 signaling.
+*   **PMID: 24720970 (2014):** Showed that MUC20 overexpression is a predictor of recurrence and poor outcomes in colorectal cancer and enhances cell migration and invasion.
+*   **PMID: 23262208 (2013):** Identified MUC20 as a novel prognostic factor for endometrial cancer, where its overexpression enhances invasive behavior through the EGFR-STAT3 pathway.
+*   **PMID: 15314156 (2004):** First suggested that MUC20 is a novel regulator of the Met signaling cascade and plays a role in suppressing the Grb2-Ras pathway.
+*   **PMID: 29288921 (2018):** Indicated that a signature of high expression of MUC4, MUC16, and MUC20 is associated with poorer overall survival in pancreatic, colon, and stomach cancers.
+*   **PMID: 30485901 (2019):** Reported that silencing MUC20 in pancreatic ductal adenocarcinoma cells suppresses malignant characteristics by inhibiting the HGF/MET pathway.
+
+**HPO-Variant Matching Summary**
+*   **High-confidence HPO-variant associations:** There are currently no known high-confidence associations between specific MUC20 variants and HPO terms for Mendelian disease.
+*   **Phenotype red flags:** Due to the lack of association with a Mendelian phenotype, there are no red flag HPO terms that would strongly suggest a pathogenic variant in MUC20.
+*   **Differential diagnosis considerations:** Not applicable, as MUC20 is not part of the differential diagnosis for any known Mendelian syndrome.
+

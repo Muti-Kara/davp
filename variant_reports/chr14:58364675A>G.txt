@@ -1,0 +1,89 @@
+=== chr14:58364675A>G Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs187901809
+• Chromosome: 14
+• Position: 58364675
+• Reference Allele (REF): A
+• Alternative Allele (ALT): G
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: ARID4A
+• Databases: rs187901809
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 4.7890000000000004e-05
+• gnomADg Allele Frequency: 6.564e-05
+• 1KG Frequency: 0.0004
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004528: mean corpuscular hemoglobin concentration - The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+GWAS_EFO_0004526: mean corpuscular volume - A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+GWAS_EFO_0009458: alcohol use disorder measurement - A quantitative measure of alcohol use disorder, e.g. using the Alcohol Use Disorders Identification Test.
+GWAS_EFO_0004305: erythrocyte count - The number of red blood cells per unit volume in a sample of venous blood.
+GWAS_EFO_0007878: alcohol consumption measurement - quantification of some aspect of alcohol consumption such as frequency or quantity
+GWAS_EFO_0001645: coronary artery disease - Thickening and loss of elasticity of the CORONARY ARTERIES, leading to progressive arterial insufficiency (CORONARY DISEASE).|Narrowing of the coronary arteries due to fatty deposits inside the arterial walls. The diagnostic criteria may include documented history of any of the following: documented coronary artery stenosis greater than or equal to 50% (by cardiac catheterization or other modality of direct imaging of the coronary arteries); previous coronary artery bypass surgery (CABG); previous percutaneous coronary intervention (PCI); previous myocardial infarction. (ACC)|Pathological processes of CORONARY ARTERIES that may derive from a congenital abnormality, atherosclerotic, or non-atherosclerotic cause.|Narrowing of the coronary arteries due to fatty deposits inside the arterial walls.|An imbalance between myocardial functional requirements and the capacity of the CORONARY VESSELS to supply sufficient blood flow. It is a form of MYOCARDIAL ISCHEMIA (insufficient blood supply to the heart muscle) caused by a decreased capacity of the coronary vessels.
+GWAS_EFO_0004784: self reported educational attainment - A measure of educational progress reported using a questionnaire based approach, often used as a proxy for cognitive performance as the two are correlated.
+GWAS_EFO_0001360: obsolete_type II diabetes mellitus - A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.|A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+GWAS_EFO_0004343: waist-hip ratio - The waist circumference measurement divided by the hip circumference measurement. For both men and women, a waist-to-hip ratio (WHR) of 1.0 or higher is considered "at risk" for undesirable health consequences, such as heart disease and ailments associated with OVERWEIGHT. A healthy WHR is 0.90 or less for men, and 0.80 or less for women. (National Center for Chronic Disease Prevention and Health Promotion, 2004)
+GWAS_EFO_0004584: mean platelet volume - A measurement of mean platelet volume is a machine-calculated measurement of the average size of platelets found in blood
+GWAS_EFO_0007788: BMI-adjusted waist-hip ratio - waist-hip ratio that has been adjusted by subjects’ body mass index
+GWAS_EFO_0003821: obsolete_migraine disorder - A class of disabling primary headache disorders, characterized by recurrent unilateral pulsatile headaches. The two major subtypes are common migraine (without aura) and classic migraine (with aura or neurological symptoms). (International Classification of Headache Disorders, 2nd ed. Cephalalgia 2004: suppl 1)
+GWAS_EFO_0006336: diastolic blood pressure - The blood pressure after the contraction of the heart while the chambers of the heart refill with blood.
+GWAS_EFO_0004875: mathematical ability - Is the mental process necessary to acquire knowledge or skill in the measurement, properties, and relationships of quantities and sets, using numbers and symbols (mathematics)
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16160390) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0009458, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0007878, GWAS_EFO_0007878, GWAS_EFO_0001645, GWAS_EFO_0004784, GWAS_EFO_0001360, GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0001645, GWAS_EFO_0007788
+Entity: Transcript (ID: 16302882) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0009458, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0007878, GWAS_EFO_0007878, GWAS_EFO_0001645, GWAS_EFO_0004784, GWAS_EFO_0001360, GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0001645, GWAS_EFO_0007788
+Entity: Transcript (ID: 16302888) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0009458, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0007878, GWAS_EFO_0007878, GWAS_EFO_0001645, GWAS_EFO_0004784, GWAS_EFO_0001360, GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0001645, GWAS_EFO_0007788
+Entity: Transcript (ID: 16302891) -> Associated GWAS: GWAS_EFO_0004528, GWAS_EFO_0004526, GWAS_EFO_0009458, GWAS_EFO_0004526, GWAS_EFO_0004305, GWAS_EFO_0007878, GWAS_EFO_0007878, GWAS_EFO_0001645, GWAS_EFO_0004784, GWAS_EFO_0001360, GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0001645, GWAS_EFO_0007788
+Entity: Transcript (ID: 16302897) -> Associated GWAS: GWAS_EFO_0004305, GWAS_EFO_0007878, GWAS_EFO_0007878, GWAS_EFO_0001645, GWAS_EFO_0004784, GWAS_EFO_0001360, GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0001645, GWAS_EFO_0007788
+Entity: Transcript (ID: 16302900) -> Associated GWAS: GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336
+Entity: Histone Modification Site (ID: 50731907) -> Associated GWAS: GWAS_EFO_0007878
+Entity: Histone Modification Site (ID: 53849489) -> Associated GWAS: GWAS_EFO_0007878
+Entity: Histone Modification Site (ID: 62163061) -> Associated GWAS: GWAS_EFO_0007878
+Entity: Histone Modification Site (ID: 88631470) -> Associated GWAS: GWAS_EFO_0007878
+Entity: Histone Modification Site (ID: 93237694) -> Associated GWAS: GWAS_EFO_0007878
+Entity: ChromHMM State (ID: 19892350) -> Associated GWAS: GWAS_EFO_0004343, GWAS_EFO_0004584, GWAS_EFO_0007788, GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878
+Entity: ChromHMM State (ID: 21074721) -> Associated GWAS: GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878
+Entity: ChromHMM State (ID: 21681979) -> Associated GWAS: GWAS_EFO_0003821, GWAS_EFO_0006336, GWAS_EFO_0007878, GWAS_EFO_0004875, GWAS_EFO_0004784, GWAS_EFO_0001645, GWAS_EFO_0007788
+Entity: ChromHMM State (ID: 22889504) -> Associated GWAS: GWAS_EFO_0007878
+Entity: chr_chain (ID: 517678) -> Associated GWAS: GWAS_EFO_0003821, GWAS_EFO_0006336
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 2388
+• Pathogenic/Likely Pathogenic: 92
+• Benign/Likely Benign: 88
+• Uncertain Significance: 2203
+• Other Classifications: 5
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Multiple myeloma (n=70)
+• Normal pregnancy (n=5)
+
+

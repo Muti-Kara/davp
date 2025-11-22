@@ -1,0 +1,92 @@
+=== chr1:1703112G>A Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1451120055
+• Chromosome: 1
+• Position: 1703112
+• Reference Allele (REF): G
+• Alternative Allele (ALT): A
+• Genotype: 1|0
+• Quality Score: N/A
+• Gene Names: CDK11A
+• Databases: rs1451120055
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Uncertain significance
+• OMIM: True
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.012240000000000001
+• gnomADg Allele Frequency: 0.01013
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0004339: body height - The distance from the sole to the crown of the head with body standing on a flat surface and fully extended.
+GWAS_EFO_0005763: pulse pressure measurement - quantification of the difference between systolic blood pressure and diastolic blood pressure. Higher PP is associated with left ventricle hypertrophy and the increased intimal thickness of the carotid artery, which represent early target organ damage in cardiovascular diseases
+GWAS_EFO_0010151: soluble triggering receptor expressed on myeloid cells 2 measurement - Quantification of the amount of soluble TREM2 (triggering receptor expressed on myeloid cells 2) protein in a sample. Cerebrospinal fluid sTREM2 is used as a biomarker of disease pathogenesis in Alzheimer's disease.
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 21236595) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0004340, GWAS_EFO_0004339, GWAS_EFO_0004340, GWAS_EFO_0005763, GWAS_EFO_0010151
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 5510
+• Pathogenic/Likely Pathogenic: 419
+• Benign/Likely Benign: 1833
+• Uncertain Significance: 3211
+• Other Classifications: 47
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Intellectual disability, autosomal dominant 42 (n=199)
+• Inborn genetic diseases (n=87)
+• not provided|not specified (n=55)
+• Seizure (n=48)
+• Hypotonia (n=41)
+• not provided|Intellectual disability, autosomal dominant 42 (n=31)
+• Intellectual disability, autosomal dominant 42|not provided (n=23)
+• Bilateral tonic-clonic seizure (n=17)
+• Global developmental delay (n=17)
+• Intellectual disability|Intellectual disability, autosomal dominant 42|Neurodevelopmental Disability (n=17)
+• not provided|Inborn genetic diseases (n=17)
+• Acute lymphoid leukemia (n=17)
+• Myelodysplastic syndrome|not provided (n=17)
+• Autosomal dominant non-syndromic intellectual disability|Intellectual disability, autosomal dominant 42 (n=16)
+• Chromosome 1p36 deletion syndrome (n=14)
+• Peroxisome biogenesis disorder, complementation group 7|Idiopathic generalized epilepsy|not provided (n=7)
+• Inborn genetic diseases|Intellectual disability, autosomal dominant 42|not provided (n=7)
+• Atypical behavior (n=7)
+• Dystonic disorder|Intellectual disability, autosomal dominant 42|not provided (n=7)
+• not provided|See cases (n=7)
+• Intellectual disability|not provided|See cases (n=7)
+• 10 conditions|not provided|Intellectual disability, autosomal dominant 42|Neurodevelopmental Disability (n=7)
+• 14 conditions|Neurodevelopmental Disability (n=7)
+• Hypotonia|Microcephaly|Intellectual disability, autosomal dominant 42|not provided|Hypotonia (n=7)
+• Intellectual disability, autosomal dominant 42|not specified (n=7)
+• not provided|Intellectual disability|Intellectual disability, autosomal dominant 42 (n=7)
+• High myopia (n=1)
+• See cases (n=1)
+• Large for gestational age (n=1)
+• Normal pregnancy (n=1)
+
+

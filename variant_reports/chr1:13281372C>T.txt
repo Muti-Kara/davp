@@ -1,0 +1,73 @@
+=== chr1:13281372C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs1245172335
+• Chromosome: 1
+• Position: 13281372
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0/1
+• Quality Score: 54.63999939
+• Gene Names: PRAMEF8
+• Databases: rs1245172335
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Likely benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.3572
+• gnomADg Allele Frequency: 0.2049
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): 10
+• Allelic Depth (AD): [6, 3]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0004340: body mass index - An indicator of body density as determined by the relationship of BODY WEIGHT to BODY HEIGHT. BMI=weight (kg)/height squared (m2). BMI correlates with body fat (ADIPOSE TISSUE). Their relationship varies with age and gender. For adults, BMI falls into these categories: below 18.5 (underweight); 18.5-24.9 (normal); 25.0-29.9 (overweight); 30.0 and above (obese). (National Center for Health Statistics, Centers for Disease Control and Prevention)
+GWAS_EFO_0009700: visual perception measurement - Quantification of some aspect of visual perception.
+GWAS_EFO_0007006: depressive symptom measurement - quantification of the existence and severity of depressive symptoms, usually via a questionnaire such as the Center for Epidemiological Studies Depression Scale (CES-D) 
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: ChromHMM State (ID: 22488840) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0009700, GWAS_EFO_0007006
+Entity: ChromHMM State (ID: 21861952) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0009700, GWAS_EFO_0007006
+Entity: ChromHMM State (ID: 21240651) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0009700, GWAS_EFO_0007006
+Entity: ChromHMM State (ID: 20630846) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0009700, GWAS_EFO_0007006
+Entity: ChromHMM State (ID: 20059944) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0009700, GWAS_EFO_0007006
+Entity: ChromHMM State (ID: 18896013) -> Associated GWAS: GWAS_EFO_0004340, GWAS_EFO_0009700, GWAS_EFO_0007006
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 7528
+• Pathogenic/Likely Pathogenic: 18
+• Benign/Likely Benign: 1310
+• Uncertain Significance: 6194
+• Other Classifications: 6
+ASSOCIATED PHENOTYPES/DISEASES (NON-BENIGN VARIANTS):
+====================================================
+• Mayer-Rokitansky-Kuster-Hauser syndrome (n=12)
+• Bladder exstrophy-epispadias-cloacal extrophy complex (n=12)
+• not provided|not specified (n=12)
+• not specified|not provided (n=12)
+• See cases (n=6)
+• Large for gestational age (n=6)
+• Breast ductal adenocarcinoma (n=6)
+
+

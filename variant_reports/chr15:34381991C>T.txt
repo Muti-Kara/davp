@@ -1,0 +1,58 @@
+=== chr15:34381991C>T Genomic Analysis Report ===
+
+
+#VARIANT INFO:
+
+
+DETAILED VARIANT INFORMATION:
+=============================
+• rsID: rs62017533
+• Chromosome: 15
+• Position: 34381991
+• Reference Allele (REF): C
+• Alternative Allele (ALT): T
+• Genotype: 0|1
+• Quality Score: N/A
+• Gene Names: GOLGA8A
+• Databases: rs62017533, COSV62169084
+
+CLINICAL ANNOTATIONS:
+====================
+• ClinVar Significance: N/A
+• ACMG Classification: Benign
+• OMIM: N/A
+
+POPULATION FREQUENCIES:
+======================
+• gnomAD Allele Frequency: 0.1438
+• gnomADg Allele Frequency: 0.1044
+• 1KG Frequency: N/A
+
+SEQUENCING DATA:
+================
+• Depth (DP): N/A
+• Allelic Depth (AD): [-1, -1]
+
+
+# GWAS INFO
+GWAS ASSOCIATIONS DATABASE:
+GWAS_EFO_0007814: refractive error measurement - quantification of some aspect of refractive errors, which occur when the shape of the eye prevents light from focusing directly on the retina. The length of the eyeball (longer or shorter), changes in the shape of the cornea, or aging of the lens can cause refractive errors. Quantification of an individual's refractive error allows the establishemnt of a number of corrective parameters such as spherical equivalent, lens decentration and transposition
+
+
+#ENTITY MAPPING:
+GENETIC ENTITIES AND THEIR ASSOCIATED GWAS:
+Entity: Gene (ID: 16179317) -> Associated GWAS: GWAS_EFO_0007814
+Entity: Transcript (ID: 16379136) -> Associated GWAS: GWAS_EFO_0007814
+Entity: Transcript (ID: 16379264) -> Associated GWAS: GWAS_EFO_0007814
+
+
+#CLINVAR INFO:
+
+CLINVAR PATHOGENICITY SUMMARY:
+==============================
+• Total ClinVar variants analyzed: 632
+• Pathogenic/Likely Pathogenic: 0
+• Benign/Likely Benign: 87
+• Uncertain Significance: 545
+• Other Classifications: 0
+
