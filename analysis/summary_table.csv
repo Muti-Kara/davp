@@ -1,0 +1,6 @@
+Method,Level,Top-1,Top-3,Top-5,Top-10,Top-20
+DAVP-full,Gene,100.00,100.00,100.00,100.00,100.00
+DAVP-full,Variant,100.00,100.00,100.00,100.00,100.00
+DAVP-noTournament,Gene,50.00,100.00,100.00,100.00,100.00
+DAVP-noTournament,Variant,50.00,100.00,100.00,100.00,100.00
+DAVP-prelimin8Only,Gene,50.00,50.00,50.00,100.00,100.00

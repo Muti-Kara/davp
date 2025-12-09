@@ -124,7 +124,7 @@ Provide your response as a JSON object with exactly eight keys: 'rank_1' through
 Return your response as pure JSON only. Do not wrap it in markdown code blocks or use backticks.
 """
 
-ROUND_ROBIN_PROMPT = """You are a genetic assistant AI. You will be given two genetic variants (mutations) and the patient information which includes phenotypes of patients as HPO terms, the clinical summary and additional comments. Variants are analyzed and annotated by our systems previous steps and a report was created for them which includes important genetic entities such as genes, transcripts, TF-binding sites, enhancers, ChromHMM states, etc that the variant is located in. Also, other variants' GWAS associations and ClinVar annotations that are on the same entity are included.
+TOURNAMENT_PROMPT = """You are a genetic assistant AI. You will be given two genetic variants (mutations) and the patient information which includes phenotypes of patients as HPO terms, the clinical summary and additional comments. Variants are analyzed and annotated by our systems previous steps and a report was created for them which includes important genetic entities such as genes, transcripts, TF-binding sites, enhancers, ChromHMM states, etc that the variant is located in. Also, other variants' GWAS associations and ClinVar annotations that are on the same entity are included.
 
 Additionally, you will be provided with detailed biomedical reports for the genes associated with each variant. These gene reports contain comprehensive information about gene function, disease associations, and clinical significance.
 
@@ -143,7 +143,7 @@ Report: {item_1_info}
 Report: {item_2_info}
 ---
 
-Please compare these two variants and declare a winner. You must always choose a single winner; ties are not allowed. Provide a score from 0-10 indicating how much more significant the winner is, and a brief explanation for your choice.
+Please compare these two variants and declare a winner. You must always choose a single winner; ties are not allowed.
 
-Return your response as pure JSON only. Do not wrap it in markdown code blocks or use backticks.
+Return your response as pure JSON only with a single key "winner_id" containing the identifier of the winning variant. Do not wrap it in markdown code blocks or use backticks.
 """

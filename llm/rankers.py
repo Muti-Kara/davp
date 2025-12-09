@@ -25,12 +25,6 @@ class Elimin8Item(CmpItem):
         self.score = score
 
 
-class RoundRobinItem(CmpItem):
-    def __init__(self, obj_id: str, obj_info: str, rank: int = 0, wins: int = 0, score_diff: int = 0):
-        super().__init__(obj_id, obj_info, rank)
-        self.wins = wins
-        self.score_diff = score_diff
-
 
 class RankingItem(BaseModel):
     id: str
@@ -65,23 +59,13 @@ class Elimin8Comparison(BaseModel):
     rankings: list[str] = Field(description="List of item_ids in the order of ranking (1-8)")
 
 
-class RoundRobinComparison(BaseModel):
-    item_1_id: str
-    item_2_id: str
-    winner_id: str
-    score_difference: int
-
-
-Comparison = Union[Elimin8Comparison, RoundRobinComparison]
-
-
 class RankingSession(BaseModel):
     results: list[RankingResult]
-    comparison_history: list[Comparison] = Field(default_factory=list)
+    comparison_history: list = Field(default_factory=list)
     round_history: list[list[str]] = Field(default_factory=list)
 
     @classmethod
-    def from_tuples(cls, ranked_tuples: list[tuple[str, str]], history: list[Comparison], round_history: list[list[str]] = None) -> "RankingSession":
+    def from_tuples(cls, ranked_tuples: list[tuple[str, str]], history: list, round_history: list[list[str]] = None) -> "RankingSession":
         results = [RankingResult.from_tuple(item, rank=i+1) for i, item in enumerate(ranked_tuples)]
         return cls(results=results, comparison_history=history, round_history=round_history or [])
 
@@ -99,10 +83,6 @@ class Elimin8Response(BaseModel):
     def to_list(self) -> list[str]:
         return [self.rank_1, self.rank_2, self.rank_3, self.rank_4, self.rank_5, self.rank_6, self.rank_7, self.rank_8]
 
-
-class RoundRobinMatchResult(BaseModel):
-    winner_id: str = Field(description="Winner identifier")
-    score_difference: int = Field(description="Score difference between the two items")
 
 
 # Comparators
@@ -171,11 +151,25 @@ class Elimin8Comparator(BaseComparator):
         return results
 
 
-class RoundRobinComparator(BaseComparator):
+
+class TournamentMatchResult(BaseModel):
+    winner_id: str = Field(description="Winner identifier")
+
+
+class TournamentComparison(BaseModel):
+    item_1_id: str
+    item_2_id: str
+    winner_id: str
+
+
+Comparison = Union[Elimin8Comparison, TournamentComparison]
+
+
+class TournamentComparator(BaseComparator):
     def __init__(self, session: Session, template: str):
         super().__init__(session, template, ["target", "item_1_id", "item_1_info", "item_2_id", "item_2_info"])
     
-    def batch_compare(self, pairs: list[tuple], target: str) -> list:
+    def batch_compare(self, pairs: list[tuple], target: str) -> list[CmpItem]:
         prompts = []
         for item1, item2 in pairs:
             prompts.append(self.template.format(
@@ -186,13 +180,13 @@ class RoundRobinComparator(BaseComparator):
                 item_2_info=item2.obj_info
             ))
         
-        responses = self.session.batch_generate(prompts, response_model=RoundRobinMatchResult)
+        responses = self.session.batch_generate(prompts, response_model=TournamentMatchResult)
         
         winners = []
         for (item1, item2), response in zip(pairs, responses.responses):
-            if not response.structured_output:
+            if not response.message.structured_output:
                 raise ValueError(f"Failed to parse structured output for pair: {item1.obj_id} vs {item2.obj_id}. Response: {response.content[:200]}")
-            result = response.structured_output
+            result = response.message.structured_output
             winner_id = result.winner_id
             
             if winner_id not in [item1.obj_id, item2.obj_id]:
@@ -201,15 +195,13 @@ class RoundRobinComparator(BaseComparator):
             winner = item1 if winner_id == item1.obj_id else item2
             loser = item2 if winner == item1 else item1
             
-            winner.wins += 1
-            winner.score_diff += result.score_difference
-            loser.score_diff -= result.score_difference
+            winner.won_against.append(loser)
+            loser.lost_to.append(winner)
             
-            self.comparison_history.append(RoundRobinComparison(
+            self.comparison_history.append(TournamentComparison(
                 item_1_id=item1.obj_id,
                 item_2_id=item2.obj_id,
                 winner_id=winner.obj_id,
-                score_difference=result.score_difference,
             ))
             
             winners.append(winner)
@@ -289,31 +281,59 @@ class Elimin8Sorter:
         return RankingSession.from_tuples(ranked_tuples=ranked_tuples, history=sorter.elimination_history, round_history=sorter.round_history)
 
 
-class RoundRobinSorter:
-    def __init__(self, items: list[RoundRobinItem], comparator: RoundRobinComparator, target: str):
-        self.items = items
-        self.comparator = comparator
-        self.target = target
-    
-    def run(self) -> list[tuple[str, str]]:        
-        pairs = []
-        for i in range(len(self.items)):
-            for j in range(i + 1, len(self.items)):
-                pairs.append((self.items[i], self.items[j]))
+class TournamentSorter:
+    def __init__(self, items: list[CmpItem], comparator: TournamentComparator, target: str):
+        self.items: list[CmpItem] = items
+        self.comparator: TournamentComparator = comparator
+        self.target: str = target
+        self.round_history = []
 
-        self.comparator.batch_compare(pairs, self.target)
+        random.shuffle(self.items)
+
+    def build_tournament_tree(self):
+        self.round_history.append([item.obj_id for item in self.items])
         
-        return sorted(self.items, key=lambda x: (x.wins, x.score_diff), reverse=True)
+        while len(self.items) > 1:
+            next_round_items = []
+            pairs = []
+
+            for i in range(0, len(self.items) - 1, 2):
+                pairs.append((self.items[i], self.items[i+1]))
+
+            winners = self.comparator.batch_compare(pairs, self.target)
+            next_round_items.extend(winners)
+
+            if len(self.items) % 2 == 1:
+                next_round_items.append(self.items[-1])
+
+            self.items = next_round_items
+            self.round_history.append([item.obj_id for item in self.items])
+        return self.items[0]
+
+    def extract_top_k(self, k):
+        if k <= 0 or k > len(self.items):
+            raise ValueError(f"k ({k}) must be between 1 and {len(self.items)}")
+        
+        winner = self.build_tournament_tree()
+        top_k = [winner]
+        for _ in range(1, k):
+            candidates = {loser for top in top_k for loser in top.won_against} - set(top_k)
+
+            selector = TournamentSorter(list(candidates), comparator=self.comparator, target=self.target)
+            winner = selector.build_tournament_tree()
+
+            top_k.append(winner)
+
+        return [(item.obj_id, item.obj_info) for item in top_k]
     
+
     @staticmethod
-    def rank(ranking_input: RankingInput, comparator: RoundRobinComparator, target: str) -> RankingSession:
-        if not ranking_input.items:
-            raise ValueError("Cannot rank empty list")
-        
-        items = [RoundRobinItem(item.id, item.description, rank=i, wins=0, score_diff=0) for i, item in enumerate(ranking_input.items)]
+    def topk(ranking_input: RankingInput, k: int, comparator: TournamentComparator, target: str) -> RankingSession:
+        if k <= 0 or k > len(ranking_input.items):
+            raise ValueError(f"k ({k}) must be between 1 and {len(ranking_input.items)}")
 
-        sorter = RoundRobinSorter(items, comparator, target)
-        ranked_tuples = [(item.obj_id, item.obj_info) for item in sorter.run()]
+        cmp_items = ranking_input.to_cmp_items()
+        sorter = TournamentSorter(cmp_items, comparator=comparator, target=target)
+        ranked_tuples = sorter.extract_top_k(k)
         
-        return RankingSession.from_tuples(ranked_tuples=ranked_tuples, history=comparator.comparison_history)
-
+        return RankingSession.from_tuples(ranked_tuples=ranked_tuples, history=comparator.comparison_history, round_history=sorter.round_history)
