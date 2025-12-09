@@ -6,8 +6,8 @@ Given a rare‑disease case (VCF‑derived table + clinical text / HPO terms), D
 - **Preprocessing**: Input VCF must first be processed with Exomiser and filtered to retain only variants in the top 256 genes.
 - **Prelimin8 (Step 1)**: ranks genes using cached gene summaries plus patient‑specific variant snippets.
 - **Report writing (Step 2)**: generates rich, per‑variant narrative reports.
-- **Elimin8 tournament (Step 3)**: does head‑to‑head LLM comparisons of variant reports to score and rank variants.
-- **Round‑robin refinement (Step 4)**: optionally re‑ranks top variants with a denser pairwise comparison schedule.
+- **Elimin8 (Step 3)**: does head‑to‑head LLM comparisons of variant reports to score and rank variants.
+- **Tournament (Step 4)**: refines top variants with additional pairwise comparisons for final ranking.
 
 All intermediate artifacts and a final JSON summary (answer gene / variant ranks, status) are written under `data/`.
 
@@ -46,16 +46,16 @@ DAVP expects a `data/` directory with the following subdirectories (created auto
 - `data/step1_prelimin8/`: cached outputs from the Prelimin8 gene‑ranking step.
 - `data/step2_reports/`: cached final variant reports and variant tables.
 - `data/step3_elimin8/`: Elimin8 tournament logs and top‑k variant lists.
-- `data/step4_round_robin/`: Round‑robin logs and refined rankings.
+- `data/step4_tournament/`: Tournament logs and refined rankings.
 - `data/summary/`: per‑sample pipeline summaries (`<SAMPLE>.json`).
 
 Additional resources:
 
 - `gene_cache/`: pre‑computed free‑text gene summaries (one `<GENE>.txt` per gene).
 - `variant_reports/`: per‑variant input reports used by Step 2 (if present).
-- `benchmarks/`: JSONL benchmark datasets (ClinVar, UDN, etc.) used for evaluation notebooks / scripts.
+- `benchmarks/`: JSONL benchmark datasets (ClinVar, UDN, etc.) used for evaluation.
 
-The exact input JSONL schema is defined in `utils.py` (e.g. column names like `Gene Name`, `CHROM`, `POS`, `REF`, `ALT`).
+The exact input JSONL schema is defined in `davp.py` (e.g. column names like `Gene Name`, `CHROM`, `POS`, `REF`, `ALT`).
 
 ---
 
@@ -77,28 +77,51 @@ On success you get:
   - `answer_variant`
   - `gene_rank_after_prelimin8`
   - `variant_rank_after_elimin8`
-  - `variant_rank_after_round_robin`
+  - `variant_rank_after_tournament`
 
 Intermediate logs for each step are also written into `data/step*/HG00126.json`.
+
+### Running on all samples
+
+To process all samples in the benchmark:
+
+```bash
+python davp.py --all
+```
+
+This will run the pipeline on every sample listed in `benchmarks/udn.jsonl` (or your selected benchmark).
 
 ---
 
 ## 4. Analysis utilities
 
-### 4.1 CDF plots of ranks
+### 4.1 Ablation analysis
 
-`plot_cdf.py` aggregates ranks across all summaries in `data/summary/` and writes simple empirical CDFs:
+`analyze.py` performs comprehensive ablation analysis by comparing three pipeline variants:
+
+- **DAVP-full**: Complete pipeline (Tournament → Elimin8 → Prelimin8 fallback)
+- **DAVP-noTournament**: Skips tournament step (Elimin8 → Prelimin8 fallback)
+- **DAVP-prelimin8Only**: Gene-level ranking only (Prelimin8)
+
+Run the analysis:
 
 ```bash
-python plot_cdf.py
+python analyze.py
 ```
 
-Outputs (in `plots/`):
+The script will:
+1. Prompt you to select a benchmark file (e.g., `udn.jsonl`)
+2. Aggregate results from all pipeline steps
+3. Calculate Top-K recall metrics (Top-1, Top-3, Top-5, Top-10, Top-20)
+4. Generate outputs in `analysis/`:
+   - `ablation_results.jsonl`: Detailed per-sample rankings
+   - `summary_table.csv`: Top-K recall metrics for all methods
+   - `gene_ranking_recall.png`: Bar plot of gene ranking performance
+   - `variant_ranking_recall.png`: Bar plot of variant ranking performance
 
-- `gene_rank_prelimin8_cdf.png`: CDF of `gene_rank_after_prelimin8`.
-- `variant_rank_round_robin_cdf.png`: CDF of `variant_rank_after_round_robin`.
+The bar plots show grouped bars for each method, making it easy to compare performance across different Top-K thresholds.
 
-These curves are another way to read **top‑k performance** (e.g. the value at rank = 5 is the fraction of samples with the answer in the top‑5).
+---
 
 ## 5. Configuration
 
@@ -106,7 +129,7 @@ The default configuration is defined in `davp.py` as `DEFAULT_CONFIG`, with sect
 
 - `prelimin8`
 - `elimin8`
-- `round_robin`
+- `tournament`
 - `report_writer`
 
 Each section includes:
@@ -128,6 +151,7 @@ Each section includes:
   - Implemented via `llm/session.py` using the Google Generative AI SDK.
   - Batch calls use `ThreadPoolExecutor` for concurrency.
   - Structured outputs are parsed into Pydantic models where appropriate.
+- **Caching**: The pipeline caches step outputs to avoid re-running expensive LLM calls. Delete step output files to force re-computation.
 
 ---
 
