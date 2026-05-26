@@ -5,7 +5,7 @@ Given a rare‑disease case (VCF‑derived table + clinical text / HPO terms), D
 
 - **Preprocessing**: Input VCF must first be processed with Exomiser and filtered to retain only variants in the top 256 genes.
 - **Prelimin8 (Step 1)**: ranks genes using cached gene summaries plus patient‑specific variant snippets.
-- **Report writing (Step 2)**: generates rich, per‑variant narrative reports.
+- **Report writing (Step 2 — `inGeneTopMatch`)**: builds rich, per‑variant evidence reports by traversing a biomedical knowledge graph. The graph stage is provided as a runnable module in [`ingenetopmatch/`](ingenetopmatch/README.md), shipped with a small synthetic stand‑in for the production graph (see the section below).
 - **Elimin8 (Step 3)**: does head‑to‑head LLM comparisons of variant reports to score and rank variants.
 - **Tournament (Step 4)**: refines top variants with additional pairwise comparisons for final ranking.
 
@@ -53,6 +53,7 @@ Additional resources:
 
 - `gene_cache/`: pre‑computed free‑text gene summaries (one `<GENE>.txt` per gene).
 - `variant_reports/`: per‑variant input reports used by Step 2 (if present).
+- `ingenetopmatch/`: the runnable knowledge‑graph report stage (Step 2) plus a synthetic mini GenomicKB graph it traverses. See [`ingenetopmatch/README.md`](ingenetopmatch/README.md).
 - `benchmarks/`: JSONL benchmark datasets (ClinVar, UDN, etc.) used for evaluation.
 
 The exact input JSONL schema is defined in `davp.py` (e.g. column names like `Gene Name`, `CHROM`, `POS`, `REF`, `ALT`).
@@ -90,6 +91,43 @@ python davp.py --all
 ```
 
 This will run the pipeline on every sample listed in `benchmarks/udn.jsonl` (or your selected benchmark).
+
+---
+
+## 3.1 inGeneTopMatch (knowledge‑graph variant reports)
+
+Step 2 of DAVP, **`inGeneTopMatch`**, builds each variant's evidence report by traversing
+**GenomicKB**, a biomedical knowledge graph (~3.5 × 10⁸ nodes) served from a licensed Neo4j
+deployment in production. That database cannot be redistributed, so the main pipeline above
+loads the **precomputed reports** from `variant_reports/`.
+
+To make the stage runnable, the [`ingenetopmatch/`](ingenetopmatch/README.md) package ships
+the **actual algorithm** (ported from the production service, with the storage backend swapped
+from Neo4j to a local file) together with a **small synthetic GenomicKB‑style graph** under
+`ingenetopmatch/mini_graph/`. The synthetic graph is seeded from the shipped reports, so the
+gene symbols, GWAS traits, and ClinVar phenotypes attached to each demo variant are the real
+ones; only the node ids and the evidence volume are synthetic.
+
+```bash
+# build the evidence documents d_i from the synthetic graph
+python -m ingenetopmatch.build_reports --sample HG00126            # or --all
+
+# also issue the report-generation LLM call (d_i -> narrative report); needs GEMINI_API_KEY
+python -m ingenetopmatch.build_reports --sample HG00126 --summarize
+
+# self-check the port against the shipped production reports
+python -m ingenetopmatch.verify
+```
+
+The self‑check passes all structural criteria. The **variant‑annotation block** — which is
+rendered from the input VCF record and does not touch the graph — is byte‑identical to the
+shipped production report for 72 of 97 demo variants (the rest differ only in upstream input
+that drifted in the distributed data). The **graph‑derived sections** (GWAS, entity mapping,
+ClinVar) are *not* identical to production: the mini‑graph is a synthetic, miniature stand‑in
+(e.g. CAPN3's ClinVar count is 18 here vs. 28,200 in production), with real trait/phenotype
+names but synthetic ids and evidence volume. See
+[`ingenetopmatch/README.md`](ingenetopmatch/README.md) for the faithful‑vs‑synthetic
+breakdown and the module‑to‑production mapping.
 
 ---
 
