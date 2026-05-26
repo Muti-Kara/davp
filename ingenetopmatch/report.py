@@ -100,15 +100,14 @@ def format_gwas_and_entities(neighbors: List[ReportedNeighbor]) -> Tuple[str, st
     duplicate GWAS references within an entity are preserved (one per association), and the
     unique-GWAS database lists each phenotype/disease once.
     """
-    filtered = [n for n in neighbors if n.gwas_associations]
+    filtered = [n for n in neighbors if n.gwas_phenotypes]
 
     unique_gwas: Dict[str, Dict[str, str]] = {}
     entity_gwas_mapping: Dict[str, Dict[str, Any]] = {}
 
     for neighbor in filtered:
         entity_gwas_ids: List[str] = []
-        for trio in neighbor.gwas_associations:
-            phenotype = trio.phenotype
+        for phenotype in neighbor.gwas_phenotypes:
             gwas_id = phenotype.id
             if gwas_id not in unique_gwas:
                 unique_gwas[gwas_id] = {

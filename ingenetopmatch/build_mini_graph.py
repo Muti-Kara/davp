@@ -212,23 +212,13 @@ def main() -> None:
         # --- GWAS: phenotype_or_disease nodes + association-bearing variant nodes
         for i, (efo_id, label, definition) in enumerate(parsed["gwas"]):
             if efo_id not in phenotypes:
-                phenotypes[efo_id] = {
-                    "id": efo_id,
-                    "label": label,
-                    "definition": definition,
-                    "type": efo_id.split("_")[0],
-                }
+                phenotypes[efo_id] = {"id": efo_id, "label": label, "definition": definition}
             if i < len(GWAS_OFFSET_LADDER):
                 off = GWAS_OFFSET_LADDER[i]
             else:
                 off = ((i * 7919) % 58_000) - 29_000
             gpos = max(1, pos + (off if off != 0 else 1))
-            rel = next_id()
-            gwas_variants.append({
-                "id": rel, "chr": chrom, "start_loc": gpos, "rel_id": rel,
-                "phenotype_id": efo_id, "risk_allele": variant.get("ALT", "N"),
-                "mlog_pvalue": round(7.0 + (i % 5) * 0.7, 2), "accession": f"GCST{rel:07d}",
-            })
+            gwas_variants.append({"id": next_id(), "chr": chrom, "start_loc": gpos, "phenotype_id": efo_id})
 
         # --- ClinVar: the report's real phenotype strings, at mini scale, inside the host gene
         top_phenos = sorted(parsed["clinvar_phenos"], key=lambda x: x[1], reverse=True)

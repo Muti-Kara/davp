@@ -2,10 +2,10 @@
 
 This class exposes the same query surface that the production ``gagi_service`` reaches for
 over Neo4j (``find_chr_chain_by_position``, ``get_chr_chain_with_neighbours``,
-``get_entities_by_ids``, ``get_gwas_associations_by_rel_ids``) plus the two sorted-interval
-tables production keeps alongside the graph for fast overlap search (ClinVar and GWAS).
-Only the storage backend differs: production answers these with Cypher against ~3.5e8 nodes;
-here they are answered from ``mini_graph/graph.json`` + ``clinvar.csv`` + ``gwas.csv``.
+``get_entities_by_ids``) plus the sorted-interval overlap lookups production runs alongside the
+graph for ClinVar and GWAS. Only the storage backend differs: production answers these with
+Cypher against ~3.5e8 nodes; here they are answered from ``mini_graph/graph.json`` +
+``clinvar.csv``.
 """
 
 from __future__ import annotations
@@ -18,15 +18,7 @@ from typing import Any, Dict, List, Optional
 
 import pandas as pd
 
-from .models import (
-    ChrChain,
-    ChrChainNeighbours,
-    Entity,
-    GwasAssociation,
-    GwasTrio,
-    GwasVariant,
-    Phenotype,
-)
+from .models import ChrChain, ChrChainNeighbours, Entity, Phenotype
 
 MINI_GRAPH_DIR = Path(__file__).parent / "mini_graph"
 
@@ -60,18 +52,15 @@ class MiniGraph:
         chr_chains: List[ChrChain],
         entities: List[Entity],
         phenotypes: Dict[str, Phenotype],
-        gwas_variants: List[GwasVariant],
-        gwas_associations: Dict[int, GwasAssociation],
+        gwas_variants: List[Dict[str, Any]],
         clinvar_data: pd.DataFrame,
     ):
         self._chr_chains = {c.id: c for c in chr_chains}
         self._entities = {e.id: e for e in entities}
         self._phenotypes = phenotypes
-        self._gwas_variants = {v.id: v for v in gwas_variants}
-        self._gwas_associations = gwas_associations
         self.clinvar_data = clinvar_data
 
-        # chr_chain position index: per-chr sorted (start_loc, chr_chain)
+        # chr_chain position index: per-chr sorted by start
         self._chains_by_chr: Dict[str, List[ChrChain]] = defaultdict(list)
         for c in chr_chains:
             self._chains_by_chr[_normalize_chr(c.chr)].append(c)
@@ -90,9 +79,15 @@ class MiniGraph:
             for chrom, start in zip(clinvar_data["Chromosome"], clinvar_data["Start"])
         ]
 
-        # GWAS interval-search table: rows of (chr, start_loc, rel_id) sorted by (chr, start)
+        # GWAS interval-search index: rows of (chr, start_loc, phenotype_id) sorted by (chr, start).
+        # Production keeps GWAS variants in a separate sorted table and resolves them to
+        # (variant)-[GWAS_association]->(phenotype) over Neo4j; here the phenotype is attached
+        # directly because the report only reads the phenotype.
         self._gwas_rows = sorted(
-            ((_normalize_chr(v.chr), v.start_loc, v.rel_id) for v in gwas_variants),
+            (
+                (_normalize_chr(v["chr"]), int(v["start_loc"]), v["phenotype_id"])
+                for v in gwas_variants
+            ),
             key=lambda r: (r[0], r[1]),
         )
 
@@ -112,7 +107,6 @@ class MiniGraph:
                 end_loc=int(c["end_loc"]),
                 resolution=int(c.get("resolution", 200)),
                 gc_percentage=float(c.get("GC_percentage", 0.0)),
-                sequence=c.get("sequence", ""),
                 neighbor_ids=[int(n) for n in c.get("neighbor_ids", [])],
             )
             for c in data["chr_chains"]
@@ -130,37 +124,11 @@ class MiniGraph:
             for e in data["entities"]
         ]
         phenotypes = {
-            p["id"]: Phenotype(
-                id=p["id"],
-                label=p.get("label", ""),
-                definition=p.get("definition", ""),
-                type=p.get("type", ""),
-            )
+            p["id"]: Phenotype(id=p["id"], label=p.get("label", ""), definition=p.get("definition", ""))
             for p in data["phenotypes"]
         }
-        gwas_variants = [
-            GwasVariant(
-                id=v["id"],
-                chr=str(v["chr"]),
-                start_loc=int(v["start_loc"]),
-                rel_id=int(v["rel_id"]),
-                phenotype_id=v["phenotype_id"],
-            )
-            for v in data["gwas_variants"]
-        ]
-        gwas_associations = {
-            int(v["rel_id"]): GwasAssociation(
-                rel_id=int(v["rel_id"]),
-                risk_allele=v.get("risk_allele", ""),
-                mlog_pvalue=float(v.get("mlog_pvalue", 0.0)),
-                pubmed_id=v.get("pubmed_id"),
-                accession=v.get("accession", ""),
-            )
-            for v in data["gwas_variants"]
-        }
-
         clinvar_data = cls._load_clinvar(graph_dir / "clinvar.csv")
-        return cls(chr_chains, entities, phenotypes, gwas_variants, gwas_associations, clinvar_data)
+        return cls(chr_chains, entities, phenotypes, data["gwas_variants"], clinvar_data)
 
     @staticmethod
     def _load_clinvar(path: Path) -> pd.DataFrame:
@@ -168,8 +136,7 @@ class MiniGraph:
         if not path.exists():
             return pd.DataFrame(columns=cols)
         df = pd.read_csv(path, dtype={"Chromosome": "str", "PhenotypeList": "str", "PhenotypeIDS": "str"})
-        # Keep sorted by (chromosome key, Start) so bisect works (builder writes it sorted).
-        return df.reset_index(drop=True)
+        return df.reset_index(drop=True)  # builder already writes it sorted, so bisect works
 
     # ------------------------------------------------------------------ queries
     # The methods below mirror, one-for-one, the Neo4j helpers in
@@ -190,18 +157,10 @@ class MiniGraph:
         chain = self._chr_chains.get(chr_chain_id)
         neighbour_chains: List[ChrChain] = []
         if chain is not None:
-            # Explicit chr_chain edges (e.g. links to coarser region tiles), as in GenomicKB.
             for nid in chain.neighbor_ids:
                 neighbour = self._chr_chains.get(int(nid))
                 if neighbour is not None:
                     neighbour_chains.append(neighbour)
-            # Fall back to positional adjacency if no explicit edges are recorded.
-            if not chain.neighbor_ids:
-                for c in self._chains_by_chr.get(_normalize_chr(chain.chr), []):
-                    if c.id != chain.id and (
-                        c.end_loc + 1 == chain.start_loc or chain.end_loc + 1 == c.start_loc
-                    ):
-                        neighbour_chains.append(c)
         return ChrChainNeighbours(entities=entities, chr_chains=neighbour_chains)
 
     def get_entities_by_ids(self, entity_ids) -> Dict[int, Any]:
@@ -230,32 +189,13 @@ class MiniGraph:
         hi = bisect_right(self._clinvar_keys, (chr_key, int(end_interval)))
         return self.clinvar_data.iloc[lo:hi].copy()
 
-    def get_gwas_rel_ids_in_interval(self, chromosome, start_interval, end_interval) -> List[int]:
-        """Relationship ids of GWAS variants within an interval, via bisect (get_variants_in_interval)."""
+    def get_gwas_phenotypes_in_interval(self, chromosome, start_interval, end_interval) -> List[Phenotype]:
+        """Phenotypes of GWAS variants within a genomic interval, via bisect on the sorted GWAS
+        index (production: get_variants_in_interval -> resolve associations). Duplicates are kept,
+        one per GWAS hit, so the entity->GWAS mapping repeats a term once per association."""
         chrom = _normalize_chr(chromosome)
-        lo = bisect_left(self._gwas_rows, (chrom, int(start_interval), -1))
-        hi = bisect_right(self._gwas_rows, (chrom, int(end_interval), float("inf")))
-        return [rel_id for (_, _, rel_id) in self._gwas_rows[lo:hi]]
-
-    def get_gwas_associations_by_rel_ids(self, rel_ids) -> List[GwasTrio]:
-        """Resolve (variant)-[GWAS_association]->(phenotype) trios by relationship id
-        (GET_GWAS_ASSOCIATIONS_BY_REL_IDS)."""
-        trios: List[GwasTrio] = []
-        # rel_id == GwasVariant.id in this mini-graph (one association per variant node)
-        rel_to_variant = {v.rel_id: v for v in self._gwas_variants.values()}
-        for rel_id in rel_ids:
-            rel_id = int(rel_id)
-            variant = rel_to_variant.get(rel_id)
-            if variant is None:
-                continue
-            phenotype = self._phenotypes.get(variant.phenotype_id)
-            if phenotype is None:
-                continue
-            trios.append(
-                GwasTrio(
-                    variant=variant,
-                    association=self._gwas_associations[rel_id],
-                    phenotype=phenotype,
-                )
-            )
-        return trios
+        # The 3rd tuple element is the phenotype id; "" and the max code point bound it below
+        # and above all real ids, so the bisect ranges purely on (chr, start).
+        lo = bisect_left(self._gwas_rows, (chrom, int(start_interval), ""))
+        hi = bisect_right(self._gwas_rows, (chrom, int(end_interval), "\U0010ffff"))
+        return [self._phenotypes[pid] for (_, _, pid) in self._gwas_rows[lo:hi] if pid in self._phenotypes]

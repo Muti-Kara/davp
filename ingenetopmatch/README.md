@@ -33,7 +33,7 @@ synthetic graph** for it to run on:
   code, ported from the production `gagi_service` (only the storage backend is swapped —
   Neo4j → a local JSON file);
 - [`mini_graph/`](mini_graph): a small, GenomicKB-shaped graph — 2,834 nodes / 2,268 edges
-  plus 1,216 ClinVar records (≈700 KB) covering 97 demo variants — seeded from the shipped
+  plus 1,216 ClinVar records (≈600 KB) covering 97 demo variants — seeded from the shipped
   reports so the genes, GWAS traits and ClinVar phenotypes for the demo variants are the real
   ones (full breakdown in [`mini_graph/README.md`](mini_graph/README.md)); and
 - the report-generation LLM call (`build_reports --summarize`) that turns `d_i` into `R_i`,
