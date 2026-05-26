@@ -10,3 +10,6 @@ __pycache__/
 **/__pycache__/
 
 .venv
+
+# inGeneTopMatch reports generated from the mini-graph (regenerate with build_reports.py)
+ingenetopmatch/output/
