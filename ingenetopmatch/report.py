@@ -12,7 +12,7 @@ report-assembly path; production runs it as one parallel call per surviving vari
 from __future__ import annotations
 
 import logging
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Tuple
 
 from .clinvar_analysis import analyze_by_clinvar
 from .entity_selector import select_entities_algorithmically
@@ -100,15 +100,14 @@ def format_gwas_and_entities(neighbors: List[ReportedNeighbor]) -> Tuple[str, st
     duplicate GWAS references within an entity are preserved (one per association), and the
     unique-GWAS database lists each phenotype/disease once.
     """
-    filtered = [n for n in neighbors if n.gwas_associations]
+    filtered = [n for n in neighbors if n.gwas_phenotypes]
 
     unique_gwas: Dict[str, Dict[str, str]] = {}
     entity_gwas_mapping: Dict[str, Dict[str, Any]] = {}
 
     for neighbor in filtered:
         entity_gwas_ids: List[str] = []
-        for trio in neighbor.gwas_associations:
-            phenotype = trio.phenotype
+        for phenotype in neighbor.gwas_phenotypes:
             gwas_id = phenotype.id
             if gwas_id not in unique_gwas:
                 unique_gwas[gwas_id] = {
@@ -275,12 +274,8 @@ def process_variant(graph: MiniGraph, variant: Dict[str, Any]) -> str:
     return build_variant_report(variant, selected)
 
 
-def run_ingenetopmatch(
-    graph: MiniGraph,
-    variants: List[Dict[str, Any]],
-    only_variant_ids: Optional[set] = None,
-) -> Dict[str, str]:
-    """Build Detailed Variant Reports for a list of variants.
+def run_ingenetopmatch(graph: MiniGraph, variants: List[Dict[str, Any]]) -> Dict[str, str]:
+    """Build evidence documents (d_i) for a list of variants, keyed by variant id.
 
     Production issues these as one parallel report-generation call per surviving variant;
     the traversal is deterministic and side-effect-free, so here it runs sequentially.
@@ -291,8 +286,6 @@ def run_ingenetopmatch(
         vid = format_variant_id(
             variant.get("CHROM"), variant.get("POS"), variant.get("REF"), variant.get("ALT")
         )
-        if only_variant_ids is not None and vid not in only_variant_ids:
-            continue
         try:
             reports[vid] = process_variant(graph, variant)
         except RuntimeError as exc:

@@ -1,17 +1,22 @@
 """Data models for the mini GenomicKB graph and inGeneTopMatch evidence.
 
 These mirror the production ``gagi_service`` models (genes, transcripts, regulatory
-elements, ``chr_chain`` tiles, phenotype/disease ontology nodes, GWAS associations) but
-are flattened for a JSON-backed graph. Production wraps every GenomicKB node type in its
-own typed dataclass (``Gene``, ``Transcript``, ``TFBindingSite``, ...); here a single
-``Entity`` carries the node ``type`` label so the selection logic stays identical while
-the model layer stays small.
+elements, ``chr_chain`` tiles, phenotype/disease ontology nodes) but are flattened for a
+JSON-backed graph. Production wraps every GenomicKB node type in its own typed dataclass
+(``Gene``, ``Transcript``, ``TFBindingSite``, ...); here a single ``Entity`` carries the node
+``type`` label so the selection logic stays identical while the model layer stays small.
+
+The model is trimmed to exactly what the Detailed Variant Report uses. In particular, GWAS
+evidence is represented by the ``phenotype_or_disease`` nodes reached from a variant — the
+production ``GwassTrio`` additionally materialises the GWAS variant node and the relationship
+properties, but the report only ever reads the phenotype, so this port collects phenotypes
+directly.
 """
 
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List
 
 import pandas as pd
 
@@ -30,7 +35,6 @@ class ChrChain:
     end_loc: int
     resolution: int = 200
     gc_percentage: float = 0.0
-    sequence: str = ""
     neighbor_ids: List[int] = field(default_factory=list)
 
 
@@ -59,54 +63,22 @@ class Phenotype:
     id: str
     label: str
     definition: str = ""
-    type: str = ""
-
-
-@dataclass
-class GwasAssociation:
-    """Properties carried on a GWAS_association relationship."""
-
-    rel_id: int
-    risk_allele: str = ""
-    mlog_pvalue: float = 0.0
-    pubmed_id: Optional[int] = None
-    accession: str = ""
-
-
-@dataclass
-class GwasVariant:
-    """A variant node that carries a GWAS association (one of the *other* variants
-    mapped to the same genomic entity as the query variant)."""
-
-    id: int
-    chr: str
-    start_loc: int
-    rel_id: int
-    phenotype_id: str
-
-
-@dataclass
-class GwasTrio:
-    """A (variant)-[GWAS_association]->(phenotype_or_disease) triple, as resolved from
-    the graph by relationship id. Mirrors production ``GwassTrio``."""
-
-    variant: GwasVariant
-    association: GwasAssociation
-    phenotype: Phenotype
 
 
 @dataclass
 class ReportedNeighbor:
-    """A genomic entity selected as overlapping the query variant, enriched with the
-    GWAS and ClinVar evidence collected from other variants mapped to it.
+    """A genomic entity selected as overlapping the query variant, enriched with the GWAS and
+    ClinVar evidence collected from other variants mapped to it.
 
-    Mirrors production ``ReportedNeighbor``: ``clinvar_associations`` is a pandas
-    DataFrame so the report-assembly code is identical to production.
+    ``gwas_phenotypes`` is the list of phenotype/disease terms reached via GWAS associations of
+    other variants in this entity's interval (duplicates kept — the entity->GWAS mapping repeats
+    a term once per association). ``clinvar_associations`` is a pandas DataFrame so the
+    report-assembly code matches production.
     """
 
     type: str
     id: int
-    gwas_associations: List[GwasTrio] = field(default_factory=list)
+    gwas_phenotypes: List[Phenotype] = field(default_factory=list)
     clinvar_associations: pd.DataFrame = field(default_factory=pd.DataFrame)
 
 

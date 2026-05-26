@@ -39,16 +39,13 @@ backend differs: a JSON file + a CSV instead of Neo4j + a sorted GWAS/ClinVar in
 
   // phenotype_or_disease ontology nodes (EFO / HP / GO / MONDO ... terms).
   "phenotypes": [
-    { "id": "EFO_0004509", "label": "hemoglobin measurement",
-      "definition": "...", "type": "EFO" }
+    { "id": "EFO_0004509", "label": "hemoglobin measurement", "definition": "..." }
   ],
 
-  // Variant nodes that carry a GWAS_association edge to a phenotype_or_disease node.
-  // `rel_id` is the association id; interval-overlap search uses (chr, start_loc).
+  // Variant nodes carrying a GWAS_association edge to a phenotype_or_disease node.
+  // Interval-overlap search uses (chr, start_loc); phenotype_id names the linked term.
   "gwas_variants": [
-    { "id": 1745, "chr": "15", "start_loc": 42360099, "rel_id": 1745,
-      "phenotype_id": "EFO_0004509", "risk_allele": "A", "mlog_pvalue": 7.0,
-      "accession": "GCST0001745" }
+    { "id": 1745, "chr": "15", "start_loc": 42360099, "phenotype_id": "EFO_0004509" }
   ]
 }
 ```
@@ -91,7 +88,7 @@ The shipped graph covers the **97** Prelimin8-surviving variants of the two demo
 | `chr_chain` → `chr_chain` (incl. 200 bp ↔ region links) | 97 |
 | variant —[`GWAS_association`]→ `phenotype_or_disease` | 1,489 |
 
-On disk: `graph.json` ≈ 690 KB, `clinvar.csv` ≈ 87 KB.
+On disk: `graph.json` ≈ 524 KB, `clinvar.csv` ≈ 88 KB.
 
 For scale, production GenomicKB holds ~3.5 × 10⁸ nodes and ~1.4 × 10⁹ edges, so this stand-in
 is roughly **5 orders of magnitude smaller in nodes and 6 in edges** — small enough to ship and

@@ -1,11 +1,12 @@
 """GWAS evidence aggregation — port of
 ``gagi_service/src/data_retrieval/gwass_analysis.py`` (``analyze_by_gwass``).
 
-For each selected entity, collect the GWAS associations (``GWAS(e)`` in the paper) of
-*other* variants mapped to the same genomic interval. Production bisects a sorted GWAS
-table to find candidate variants, then resolves their relationship ids to
-(variant)-[GWAS_association]->(phenotype) trios over Neo4j; here both steps run against the
-MiniGraph, preserving the 1 Mb chunking and 10 Mb interval cap from production.
+For each selected entity, collect the GWAS evidence (``GWAS(e)`` in the paper) of *other*
+variants mapped to the same genomic interval. Production bisects a sorted GWAS table to find
+candidate variants, then resolves their relationship ids to
+(variant)-[GWAS_association]->(phenotype) records over Neo4j; since the report only uses the
+phenotype, the MiniGraph returns those phenotype/disease terms directly. The 1 Mb chunking and
+10 Mb interval cap from production are preserved.
 """
 
 from __future__ import annotations
@@ -50,7 +51,8 @@ def analyze_by_gwas(graph: MiniGraph, neighbors: List[ReportedNeighbor]) -> List
             continue
 
         for chunk_start, chunk_end in _iterate_chunks(start_interval, end_interval):
-            rel_ids = graph.get_gwas_rel_ids_in_interval(entity.chr, chunk_start, chunk_end)
-            neighbor.gwas_associations.extend(graph.get_gwas_associations_by_rel_ids(rel_ids))
+            neighbor.gwas_phenotypes.extend(
+                graph.get_gwas_phenotypes_in_interval(entity.chr, chunk_start, chunk_end)
+            )
 
     return neighbors
